@@ -1,0 +1,261 @@
+<div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
+ <p> "Vết thương trên tay ngươi từ đâu mà có?"</p>
+ <p>"Sư phụ."</p>
+ <p>"Vết thương của ngươi từ đâu mà có?"</p>
+ <p>Trọng Tử vừa khóc vừa nói: "Sư phụ..." Chuyện này ngay cả chính bản thân nàng cũng không xác định rõ được, bảo nàng giải thích thì phải giải thích như thế nào đây? Quả thật là cho dù có mang chân tướng sự việc kia ra mà nói thật đi nữa, thì việc này vốn xảy ra trong mộng, ai sẽ tin nàng đây?</p>
+ <p>Hiểu lầm hàm ý trong lời cầu xin của Trọng Tử, Lạc Âm Phàm cảm thấy cơn giận bốc lên tận đỉnh đầu, lừa dối hắn nhiều năm như vậy, cho tới bây giờ vẫn còn muốn trông cậy vào hắn, muốn hắn che chở cho nữa sao!</p>
+ <p>"Là ngươi?"</p>
+ <p>"Có lẽ... là con... Đối với việc này bản thân con cũng không biết..."</p>
+ <p>Trọng Tử vừa bị kích động lại vừa sợ hãi, tất cả mọi chuyện loạn hết cả lên, nói năng lại lộn xộn, đứt quãng chẳng thành câu. Một người khi có thói quen ỷ lại thì trong bất giác sẽ tự nhiên trở nên yếu đuối hơn, làm bạn bên cạnh sư phụ mấy năm nay, mọi chuyện xảy ra xung quanh nàng đều trôi qua trong bình yên và thỏa mãn. Bây giờ bất chợt gặp phải biến cố lớn như vậy, cảm giác này giống hệt như năm đó khi chứng kiến cảnh cha mẹ bị chết thảm, nàng gọi mãi gọi mãi mà người không thể nào nghe thấy được.</p>
+ <p>Mộ Ngọc thấy tình thế không ổn, liền bước lên phía trước nói: "Xin Tôn giả bớt giận, Trọng Tử ở Nam Hoa đã mấy năm nay, là người như thế nào, Tôn giả hẳn là người biết rõ nhất, có lẽ cô bé còn có điều gì đó khó nói chăng?"</p>
+ <p>Ở bên cạnh Văn Linh Chi khẽ hừ một tiếng, một nữ đệ tử khác hiểu ý, lập tức nói chen vào: "Mộ sư huynh đã quên, nhân gian có câu là tri nhân tri diện bất tri tâm sao (*)."</p>
+ <p><i>* Tri nhân, tri diện, bất tri tâm: Biết người, biết mặt mà không thể nào biết được lòng người. </i></p>
+ <p>Lạc Âm Phàm nhíu mày.</p>
+ <p>Ngu Độ vội lên tiếng trách mắng: "Làm càn! Tôn giả đang nói chuyện, ai cho phép các ngươi xen miệng vào, mau lui ra!"</p>
+ <p>Nữ đệ tử kia liền im bặt không dám lên tiếng nữa.</p>
+ <p>Nhìn Trọng Tử ở trước mặt, Lạc Âm Phàm chậm rãi nói: "Sư phụ hỏi lại một lần nữa, phải hay là không phải?"</p>
+ <p>Đúng là hắn vẫn còn hy vọng nên hắn muốn cho tiểu đồ đệ này một cơ hội cuối cùng, chỉ mong sao con bé có thể nói ra hai chữ "Không phải". Nếu quả thực con bé là vô tội, hắn nhất định sẽ truy xét điều tra đến cùng, nhưng nếu trong lòng con bé thật sự tồn tại tà niệm, vốn đã là trời sinh sát khí, một khi đã nhập ma, hậu quả thật khó mà lường trước được. Khó mà bảo đảm được là sẽ không trở thành một tên Nghịch Luân thứ hai, Lạc Âm Phàm hắn tuyệt đối sẽ không bao che cho đồ đệ, gây hại đến chúng sinh.</p>
+ <p>Phát hiện ra trong đôi mắt kia chợt có một chút lay động, Trọng Tử bỗng nhiên lấy lại được dũng khí, nhanh chóng tỉnh táo lại, rưng rưng đem giấc mộng kỳ quái đêm qua nói một lần nữa: "Con cũng không biết đó là mộng hay là thực, mãi cho đến sáng sớm hôm nay sư phụ hỏi con bị thương lúc nào, con mới cảm thấy kỳ quái. Nhưng mà Thiên Ma Lệnh kia mỗi lần gặp nó trở về con đều gặp phải ác mộng, cho nên con vẫn luôn thầm nghĩ trong lòng cần phải tránh xa nó ra, làm sao con có thể chủ động đi tìm nó được."</p>
+ <p>Lạc Âm Phàm không nói gì.</p>
+ <p>Mẫn Vân Trung hừ lạnh quát lên: "Ngươi đặt chuyện kiếm cớ!"</p>
+ <p>Trọng Tử vừa khóc vừa nói: "Trọng Tử tuyệt đối không dám lừa gạt sư phụ, xin Đốc giáo tra xét rõ ràng."</p>
+ <p>Sự việc càng ngày lại càng phiền toái hơn rồi, Ngu Độ thở dài trong lòng, ngăn Mẫn Vân Trung lại: "Những lời ngươi mới nói vừa rồi, nếu như là những lời nói dối, đó chính là tội dối gạt bề trên, một khi đã thẩm tra rõ ràng nếu như không đúng sẽ bị phạt nặng cả hai tội, ngươi có hiểu không?"</p>
+ <p>Trọng Tử dập đầu xuống một cái: "Con không dám có nửa lời giả dối."</p>
+ <p>Ngu Độ gật đầu: "Bổn tọa tạm thời tin ngươi, ngươi đã không thể xác định được là mộng hay là thật thì hãy để Thiên Cơ Tôn giả tiên đoán mọi việc, để tránh oan khuất cho ngươi." </p>
+ <p>Trọng Tử lại dập đầu một lần nữa.</p>
+ <p>Hành Huyền bất đắc dĩ, vẻ mặt đau khổ lấy sách Thiên Cơ ra.</p>
+ <p>Bình thường thì không coi Thiên Cơ y ra gì, thế mà vào thời điểm mấu chốt này lại phải đến phiên y ra sức, năm đó chỉ vì nhất thời động lòng mà tiên đoán vận mệnh cho con bé đã khiến cho y bị phản phệ một phen, phải nghỉ ngơi suốt cả nửa năm trời. Phàm là những chuyện gì liên quan đến đứa bé này thì đó chính là phiền toái lớn a. Lần này không biết lại hao phí bao nhiêu linh lực của y nữa đây ...</p>
+ <p>…………</p>
+ <p>Ánh sáng màu vàng nhạt chiếu rọi không gian, quyển sách Thiên Cơ hiện lên ở giữa không trung, mở ra, dần dần trở nên to lớn hơn, giống như một bức họa trống trơn được cuộn tròn quanh một cái trục thật lớn đang dần mở rộng ra.</p>
+ <p>Tất cả mọi người ở đây đều không chớp mắt nhìn vào trang sách trống trơn kia. Trọng Tử lại càng khẩn trương hơn, cũng có rất nhiều đệ tử cảm thương và yêu mến Trọng Tử, cho nên bọn họ ở bên dưới cũng đều cảm thấy khẩn trương và toát hết cả mồ hôi thay nàng.</p>
+ <p>Thời gian khoảng một tuần trà trôi qua, trên sách Thiên Cơ vẫn chưa thấy xuất hiện bất cứ thứ gì dị thường.</p>
+ <p>Chỉ nhìn thấy Hành Huyền bắt đầu nhíu mày, sau đó lại bấm đốt ngón tay, cuối cùng là niệm chú ra thành tiếng. Mọi người cảm thấy kinh ngạc vô cùng, bởi vì theo lý thuyết, việc Thiên Cơ Tôn giả tiên đoán hẳn là rất dễ dàng, căn bản là không cần phải niệm chú, ngoại trừ năm đó tiên đoán thất bại việc ma kiếm bị đánh cắp, còn lại thì chưa bao giờ thấy y phải cố hết sức đến vậy.</p>
+ <p>Đang lúc mọi người cảm thấy nghi hoặc thì giữa không trung trên trang sách Thiên Cơ dần dần hiện ra những hình ảnh.</p>
+ <p>Cảnh vật trong trang sách Thiên cơ quen thuộc vô cùng, trong đại điện âm u trống trải, trên đỉnh đại điện một viên dạ minh châu phát ra ánh sáng mỏng manh. Bỗng nhiên, cửa điện cao cao bị đẩy ra từ bên ngoài, ánh trăng liền theo đó chiếu rọi vào bên trong, một bóng người nhỏ bé, gầy guộc từ ngoài cửa đi vào bên trong.</p>
+ <p>Nàng chậm rãi đi tới trước án, ngự trượng bay lên.</p>
+ <p>Những giọt máu đỏ tươi nhỏ lên trên lệnh bài cũng mang một màu đỏ sậm sáng bóng kia.</p>
+ <p>Đôi môi khẽ nhúc nhích, giống như đang niệm chú...</p>
+ <p>Tất cả mọi người mở to hai mắt, vô cùng khiếp sợ cho Trọng Tử, không chờ đến khi hình ảnh biến mất, nàng liền thất thanh nói: "Không phải! Không phải là như thế này! Là tự nó bay tới trước mặt con, con không có ngự trượng! Cũng không hề niệm chú!"</p>
+ <p>Mẫn Vân trung lạnh lùng nói: "Chẳng lẽ là Thiên Cơ Tôn giả lại tiên đoán sai khiến ngươi bị oan uổng?"</p>
+ <p>Trọng Tử không nói gì, ngơ ngơ ngác ngác cũng không biết là mình đang quỳ ở nơi nào.</p>
+ <p>Tình hình trước mặt này, quả thực đúng là hết đường chối cãi, chỉ có chính nàng mới hiểu được, sự thật căn bản không giống như Hành Huyền đã tiên đoán! Nàng căn bản là không hề niệm huyết chú gì cả!</p>
+ <p>Lạc Âm Phàm cũng kinh hoảng và nghi hoặc, Hành Huyền đương nhiên sẽ không để cho chuyện này xảy ra điều gì sai sót. Nhưng biểu hiện của tiểu đồ đệ cũng không phải là không đúng, sáng sớm nay ở trên đại điện trong lúc vô ý hỏi, thần sắc kinh ngạc kia của con bé cũng không phải là giả vờ, con bé không hề nói dối, việc này thực sự chỉ có thể là do con bé tiến hành và thực hiện trong trạng thái vô thức mà thôi.</p>
+ <p>Cảm nhận được ánh mắt nhìn chăm chú của sư phụ, Trọng Tử rốt cục cũng thu hồi lại được một chút sự tự tin.</p>
+ <p>Người khác có thể không tin lời của nàng, nhưng làm sao sư phụ lại không tin nàng được chứ? Cho dù nàng có đi lừa gạt hết tất cả mọi người trong thiên hạ, cũng sẽ không lừa gạt sư phụ .</p>
+ <p>"Không có, sư phụ, con thật sự không hề nói dối! Là tự nó bay tới trước mặt con, con cho tới bây giờ cũng chưa từng học qua huyết chú gì đó cả..."</p>
+ <p>Mẫn Vân Trung đột nhiên cất giọng chặn ngang lời Trọng Tử: "Thiên Ma lệnh là do Chưởng giáo tự mình làm phép đặt ở điện Tổ Sư, ngoại trừ ta với Hộ giáo, còn có Thiên Cơ Tôn giả, ai có thể điểu khiển được nó, hay là Nam Hoa còn ẩn giấu cao nhân nào khác ở đây? Huống chi nó đã sớm bị cấm thuật của ma cung phong ấn, làm sao mà có thể tự mình bay tới tìm ngươi? Rõ ràng là ngươi đang nói dối!"</p>
+ <p>Mọi người đều gật đầu đồng tình, bởi vì dù có tin tưởng nàng, cũng không biết nên nói cái gì cho phải.</p>
+ <p>Trọng Tử gấp rút đến độ lập tức mở miệng biện bạch lại ngay: "Con biết rõ là không thể lừa gạt được Thiên Cơ Tôn giả, con chỉ dựa vào tình hình thực tế mà nói thôi ạ, nếu không con chỉ cần nói là nằm mơ không biết gì hết thì mọi việc đều tốt cả rồi, cần gì phải cố ý lập lờ làm người ta nghi ngờ đâu ạ, cầu xin Chưởng giáo và Tiên tôn tra xét rõ ràng!" Nói xong nàng lại dập đầu xuống.</p>
+ <p>Mọi người nghe nàng nói xong những lời này, nghĩ lại cũng thấy có lý, ai nấy đều thấp giọng bàn luận.</p>
+ <p>Yến Thực Châu rốt cục nhịn không được nữa liền đứng ra: "Lời nói của Trọng Tử sư cô cực kỳ hợp tình hợp lý, nếu như sư cô có ý muốn chối bỏ thì cần gì phải nói dối lừa gạt mọi người như vậy, cầu xin chưởng giáo minh giám."</p>
+ <p>Văn Linh Chi vừa nghe thấy liền nói xen vào: "Thế thì cũng chưa chắc đâu, ta đã từng nghe Thiên Cơ tôn giả nói rằng, Trọng Tử có mệnh số bí ẩn, có lẽ vì vậy mà Trọng Tử mới tự cao tự đại nghĩ rằng Tôn giả khó có thể tiên đoán được, cho nên mới mưu toan lừa gạt để qua mắt mọi người."</p>
+ <p>Từ nhỏ cho tới tận bây giờ lúc nào cũng bị Văn Linh Chi làm khó dễ, Trọng Tử rốt cuộc cũng là tuổi trẻ nóng nảy không thể kiềm được, tức giận mắng to lên: "Văn Linh Chi, ta với ngươi có thù oán gì, vì sao lại vu oan hãm hại ta như vậy!"</p>
+ <p>Văn Linh Chi vừa nghe thấy vậy lập tức đỏ mặt lên, trừng mắt quát Trọng Tử: "Ngươi đừng ngậm máu phun người, ta chỉ nói những việc có khả năng xảy ra mà thôi. Nam Hoa không chấp nhận được đồ đệ lòng dạ bất chính, ta thân là đệ tử của Đốc giáo, làm sao có thể làm việc không phân biệt nặng nhẹ, giấu diếm thay ngươi kia chứ."</p>
+ <p>Trọng Tử giận đến mức không thể át đi được: "Ngươi..."</p>
+ <p>Không đợi cho nàng nhiều lời, Lạc Âm Phàm đã quát nàng: "Câm miệng."</p>
+ <p>Mẫn Vân Trung cười lạnh: "Giấu diếm, coi thường bề trên, không để tôn trưởng vào mắt, Nam Hoa quả là đã thu được đệ tử tốt."</p>
+ <p>Nóng giận đến mức không kìm chế được dẫn đến quên cả bối phận, Trọng Tử không dám nhiều lời nữa.</p>
+ <p>Ngu Độ nhíu mày: "Sự thật ở ngay trước mắt mà ngươi vẫn không chịu thừa nhận, cũng chẳng trách được người khác không phục ngươi. Thiên Cơ Tôn giả tuyệt đối sẽ không oan uổng ngươi bao giờ."</p>
+ <p>Yến Thực Châu giống như nhớ tới điều gì đó: "Đệ tử cả gan nhiều lời, đệ tử nhớ rõ lúc trước Nghịch Luân ma cung có Mộng Ma, giỏi về thuật khống chế người khác trong mộng. Nay Mộng Ma mặc dù đã mai danh ẩn tích, nhưng Cửu U ma cung cũng đã có một Mộng Cơ, Trọng Tử sư cô có thể là đã trúng mộng yểm thuật (*) hay không?"</p>
+ <p><i>* Mộng yểm thuật : là loại bùa chú hoặc pháp thuật điều khiển con người trong mơ.</i></p>
+ <p>Mẫn Vân Trung lại chặn đầu hỏi: "Chẳng lẽ ngươi muốn nói rằng Mộng Cơ trà trộn vào Nam Hoa chúng ta?"</p>
+ <p>Yến Thực Châu không nói gì, sau một lúc lâu lại mở miệng nói: "Có thể là..."</p>
+ <p>"Ăn nói xằng bậy!" Mẫn Vân Trung lớn tiếng trách mắng, "Nam Hoa thu nhận đệ tử đều được chọn lựa kỹ càng, thân thế và lai lịch nếu như không rõ ràng thì đã có linh thú trấn thủ núi giữ lại, nếu có thể trà trộn vào được tận đây mà không bị phát hiện, thì một kẻ như Mộng Cơ làm sao có được năng lực lớn như vậy! Ngươi nói những điều này rõ ràng chính là đang thiên vị và bênh vực cho đồ đệ phản nghịch của bổn môn, đáng bị xử đồng tội, nếu còn nhiều lời nói năng xằng bậy thì sẽ cùng bị phạt!"</p>
+ <p>Yến Thực Châu bị trách mắng cũng không dám nhiều lời hơn nữa.</p>
+ <p>Ngu Độ ý bảo Hành Huyền: "Trúng mộng yểm thuật hay không, chỉ cần tra xét là biết ngay cũng tránh cho có người không phục."</p>
+ <p>Hành Huyền tiến lên, đặt tay phải lên trên trán của Trọng Tử, một lát sau thì thu cánh tay lại, khẽ lắc đầu.</p>
+ <p>Bên cạnh Mộ Ngọc bỗng nhiên mở miệng nói: "Nếu như có người pháp lực còn cao hơn Thiên Cơ Tôn giả, mà lại có ý muốn che dấu chân tướng, thì Thiên Cơ Tôn giả cũng không thể tiên đoán ra được chân tướng của sự việc, cũng giống như việc năm đó ma kiếm bị đánh cắp."</p>
+ <p>Trên dưới Nam Hoa, pháp lực cao hơn so với Hành Huyền chỉ có ba người, Lạc Âm Phàm tuyệt đối sẽ không làm hại đồ đệ của mình.</p>
+ <p>Mẫn Vân Trung giận dữ hét lên: "Hỗn láo! Ngươi nói như vậy chẳng khác gì nói sư phụ và chưởng giáo hãm hại đệ tử của bổn môn hay sao?"</p>
+ <p>"Xin sư phụ bớt giận, đệ tử tuyệt đối không có ý này" Mộ Ngọc mỉm cười, không hề có một chút hoang mang nói tiếp: "Chỉ là đệ tử có nghe nói khi ở thành Lâm Hòa, Trọng Tử đã từng đụng mặt với ma tôn Vạn Kiếp..."</p>
+ <p>Mẫn Vân Trung phất ống tay áo lên chặn lời Mộ Ngọc lại: "Thật đáng chê cười! Đồ đệ phản nghịch này ở tại Nam Hoa nằm mơ, trong khi Vạn Kiếp ở bên ngoài cách xa đến cả ngàn dặm như thế làm cách nào để mà âm thầm giúp nó giấu diếm kia chứ. Ở Nam Hoa có mấy ngàn đệ tử vậy mà chỉ mỗi mình nó trúng mộng yểm thuật, rõ ràng chính là lời dối trá hòng lừa gạt mọi người, lấy cớ nằm mơ để mưu toan lừa bịp cho qua chuyện này, nếu không thì việc niệm huyết chú giải thích như thế nào?" Y lại hừ một tiếng: "Ngay cả khi lời nói này là sự thật, cũng nhất định là do ở trong lòng có tà niệm, mong muốn có được Thiên Ma Lệnh, cho nên mới nằm mộng như vậy."</p>
+ <p>Trọng Tử vội nói: "Cho tới bây giờ con cũng chưa bao giờ có ý định muốn Thiên Ma Lệnh!"</p>
+ <p>"Trời sinh sát khí, sớm hay muộn gì cũng sẽ gia nhập ma đạo!"</p>
+ <p>"Con cũng chưa bao giờ làm hại đến người khác."</p>
+ <p>"Cái nết đánh chết cũng không chừa!"</p>
+ <p>Trọng Tử nghe vậy ngước mắt lên, nhìn thẳng vào mặt Mẫn Vân Trung.</p>
+ <p>Nàng vẫn biết rằng từ xưa tới giờ vị Tiên tôn này luôn có thành kiến với mình, cho nên mấy năm nay nàng luôn hành xử thật cẩn thận, chỉ vì mong muốn có được thiện cảm của y, ai ngờ kết quả vẫn chỉ là một câu "Cái nết đánh chết không chừa" !</p>
+ <p>Nàng chậm rãi nói: "Tiên tôn nói không sai, con vốn là trời sinh sát khí, nhưng mà đó vốn đã là sự thật con biết phải làm sao, con cũng không hề mong muốn sinh ra đã như vậy. Mấy năm con chưa bao giờ làm chuyện xấu, càng không hề có tâm muốn làm hại ai. Tiên tôn thân là Đốc giáo của tiên môn, thưởng phạt công minh, vì sao đối với con trước sau vẫn luôn luôn cố chấp có thành kiến như vậy, việc này so với trông mặt mà bắt hình dong thì có gì là khác nhau, con không phục!"</p>
+ <p>Vạn vạn lần, không một ai có thể tưởng tượng được nàng dám nói ra những lời phản bác và chống đối như vậy, khắp nơi một mảnh yên lặng, Mẫn Vân Trung tức giận đến trợn ngược mắt lên.</p>
+ <p>"Hỗn láo!"</p>
+ <p>"Sư phụ."</p>
+ <p>"Sư phụ thu nhận ngươi làm đồ đệ, là để cho ngươi vô lễ, bất kính với trưởng bối hay sao? Làm kẻ dưới không biết bối phận mà phạm thượng, ngươi đây là muốn để mọi người biết miệng lưỡi của ngươi lợi hại ra sao phải không?"</p>
+ <p>Trọng Tử cúi đầu xuống giọng đầy ấm ức: "Đệ tử đã biết sai rồi."</p>
+ <p>Lạc Âm Phàm nói: "Còn không mau nhận tội với Tiên tôn."</p>
+ <p>Trọng Tử nhẫn nhịn nỗi oan ức trong lòng, quả nhiên là vẫn hướng về Mẫn Vân Trung dập đầu: "Trọng Tử không biết trên dưới, trong tình thế cấp bách đã lỗ mãng ăn nói lỡ lời, xin Tiên tôn trách phạt."</p>
+ <p>Biết rõ là Lạc Âm Phàm đang bao che lỗi lầm cho đồ đệ của hắn, nhưng Mẫn Vân Trung vốn là thân phận tiền bối, một khi vãn bối đã nhận sai cũng không thể tiếp tục so đo chấp nhất được nữa. Sau một lúc lâu y mới nói giọng đầy giễu cợt: "Đồ đệ của Hộ giáo ngày thường mồm miệng đã lợi hại như vậy, lần này nếu quả thật để ta xử lý việc này thì chắc chắn đồ đệ của ngươi nhất định sẽ không phục. Nếu như đã như thế thì môn hạ của Hộ giáo và sự thật nằm ở đâu tốt nhất vẫn là để cho Hộ giáo tự mình xử lý đi."</p>
+ <p>Lạc Âm Phàm trầm mặc một lát, đang muốn tiếp tục hỏi chuyện thì bên tai bỗng nhiên truyền đến giọng nói của Ngu Độ.</p>
+ <p>"Sư đệ khoan đã, việc này thật sự là không hề đơn giản chút nào."Ngu Độ triệu Thiên Ma Lệnh tới trước mặt rồi xoay sang đưa mắt nhìn một đại đệ tử, đệ tử kia lập tức đi lên phía trước, nâng cổ tay phải lên, hai ngón tay rạch một đường ở giữa cổ tay, một dòng máu tươi đỏ sẫm lập tức chảy ra, sau đó rơi xuống và đọng lại trên bề mặt của Thiên Ma Lệnh.</p>
+ <p>Ngu Độ liền bảo đại đồ đệ kia lui ra: "Sư đệ, nếu dùng tu vi của đệ, muốn tẩy sạch đi vết máu kia nhất định là không khó."</p>
+ <p>Lạc Âm Phàm không nói gì, đưa tay lên phất một cái qua tấm lệnh bài kia.</p>
+ <p>Trong lòng hắn biết rõ việc này có điều khác thường, cho nên đã cố ý sử dụng Tịnh Thủy Chú ở tầng cao nhất, chỉ trong nháy mắt, vết máu mới vừa rồi của đại đệ tử kia dính trên tấm lệnh bài quả nhiên biến mất không còn thấy bóng dáng, tăm hơi.</p>
+ <p>Ngu Độ nhìn hắn.</p>
+ <p>Lạc Âm Phàm nhìn chằm chằm vào Thiên Ma Lệnh, từ dưới đáy lòng có thứ gì đó như cuồn cuộn dâng lên, tràn đầy một nỗi khiếp sợ, giống như không thể tin được chuyện đang phát sinh ngay trước mắt mình.</p>
+ <p>Trên bề mặt tấm lệnh bài kia, vết máu mới dính lên đã bị tẩy sạch không còn một chút dấu vết, nhưng vết máu trước đó của Trọng Tử vẫn dính chặt trên bề mặt kia như muốn khắc sâu vào nó, chẳng những không hề biến mất, mà ngược lại dường như càng thêm tiên diễm, giống như đã hòa hợp với màu đỏ sẫm của tấm lệnh bài thành một thể thống nhất. </p>
+ <p>Tịnh Thủy Chú ở tầng cao nhất, có thể thanh tẩy đi tất cả mọi thứ ô uế, không thể nào lại như vậy được!</p>
+ <p>Ngu Độ đã sớm dự đoán được phản ứng của hắn, khẽ thở dài: "Ta cùng với sư thúc đã dùng hết tất cả mọi biện pháp, cũng không thể nào tẩy sạch được vết máu của Trọng Tử dính ở mặt trên của tấm lệnh bài, có thể thấy được sự việc này không hề đơn giản như những sự việc bình thường khác. Ta vốn tưởng rằng trời sinh sát khí chỉ là trùng hợp, ai ngờ rằng dường như đồ đệ của đệ cùng với tấm lệnh bài này có mối liên hệ rất sâu xa."</p>
+ <p>"Trọng Tử không có quan hệ huyết thống với Nghịch luân, phong ấn vẫn còn đây, chưa được phá giải."</p>
+ <p>"Bất luận là như thế nào nhưng sự việc này là vô cùng quan trọng, sư đệ..."</p>
+ <p>Lạc Âm Phàm khẽ nâng tay lên ý nói Ngu Độ không cần nhiều lời, rồi liền đảo mắt nhìn về phía Trọng Tử.</p>
+ <p>Mới vừa rồi hai người này nói chuyện là dùng Linh Tê Thuật để truyền giọng nói đi, người bên ngoài cũng không ai nghe được bất cứ điều gì, mọi người đều đang cảm thấy kỳ quái, chỉ có một mình Trọng Tử là sắc mặt trắng bệch như tờ giấy.</p>
+ <p>Vẫn là vẻ mặt thản nhiên vạn năm không hề thay đổi đó, nhưng nàng lại cảm giác được rằng người đó càng ngày càng cách xa nàng.</p>
+ <p>Trọng Tử vẫn không nhúc nhích quỳ gối trước mặt Lạc Âm Phàm, lẩm bẩm nói: "Sư phụ, con không hề nói dối, thật sự là không có."</p>
+ <p>Chỉ cần sư phụ vẫn tin tưởng nàng, chỉ cần người không nổi giận với nàng thì mặc kệ người khác suy nghĩ như thế nào, nàng phải chịu oan uổng như thế nào hay là bị trách phạt nặng tới mức nào cũng đều không quan trọng, bất luận là nàng phải chịu nhiều hình phạt nặng nề đến đâu, thậm chí là hồn phi phách tán, nàng cũng không sợ .</p>
+ <p>Áp lực đè nén xuống bầu không khí khiến cho con người ta hít thở không thông, tất cả mọi ánh mắt đều tập trung về phía này, tất cả mọi người đang chờ đợi phán quyết của Lạc Âm Phàm.</p>
+ <p>Trầm mặc khoảng chừng một tuần trà, hắn rốt cục cũng chịu mở miệng.</p>
+ <p>"Sự thật ở ngay trước mắt, ngươi còn có gì muốn nói?"</p>
+ <p>Trọng Tử run run ngước mắt nhìn sư phụ của nàng: "Trọng nhi không hề nói dối, cho dù sư phụ có đánh chết con, con cũng sẽ không nhận..." Lời nói còn chưa dứt, chợt nghe một âm thanh chậm rãi vang lên, cả người nàng bay thẳng tắp lên rồi ngã lăn xuống bậc thềm bằng đá ở phía dưới.</p>
+ <p>Tất cả các đệ tử có mặt ở đây không ai kịp phản ứng lại, cả đám chỉ ngơ ngẩn, ngây hết cả người ra. Trọng Tử bỗng ngừng tư thế ngã nhào trên bậc thềm, cả người chợt bay vào trong không trung rồi chậm rãi rơi xuống trên mặt đất.</p>
+ <p>Mẫn Vân Trung thu Phù Đồ Chương lại, cười lạnh nói: "Sự thật đã ở ngay trước mắt mà còn muốn chống chế, loại nghiệt đồ ngông cuồng đến mức này, Hộ giáo chẳng lẽ còn muốn che chở nữa sao?"</p>
+ <p>Lạc Âm Phàm thản nhiên nói: "Đã là nghịch đồ của Trọng Hoa cung, ta đương nhiên sẽ xử trí."</p>
+ <p>Trên mặt, trên trán dần dần hiện lên vết tích của những vết thương, Trọng Tử bất chấp đau đớn, đi bằng đầu gối đến trước mặt Lạc Âm Phàm, kéo ống tay áo của hắn: "Sư phụ! Sư phụ! Máu là của con, nhưng mà thật sự là con không hề biết huyết chú gì đó cả, con không lừa gạt người!"</p>
+ <p>"Việc đã đến nước này mà cho tới bây giờ vẫn không có ý hối cải sao."</p>
+ <p>Giọng nói rõ ràng lại thản nhiên đập tan hết mọi hy vọng và niềm tin còn sót lại của Trọng Tử, thì ra đã nhiều năm trôi qua như vậy rồi mà sư phụ vẫn không hề tin tưởng nàng, thì ra người cũng giống như Mẫn Tiên Tôn bọn họ, lúc nào cũng cho rằng nàng sớm hay muộn gì cũng sẽ nhập vào ma đạo.</p>
+ <p>Nàng ngẩng mặt nhìn Lạc Âm Phàm, liên tục lắc đầu tuyệt vọng kêu lên: "Sư phụ."</p>
+ <p>Hắn ngước mặt đưa mắt nhìn lên bầu trời, nói từng chữ từng chữ một: "Nhốt vào băng lao ở núi Côn Luân, một trăm năm."</p>
+ <p>"Không được..." Nếu như phải rời khỏi sư phụ, rời khỏi Nam Hoa, nàng thà rằng chết đi còn hơn.</p>
+ <p>"Hình phạt băng khóa, một trăm năm." Giọng nói đó lại lặp lại một lần nữa.</p>
+ <p>……….</p>
+ <p>Hình phạt băng khóa, bình thường được tiên môn dùng để xử trí những đệ tử phạm trọng tội và những kẻ thuộc ma tộc, ai cũng không thể tưởng được một hình phạt nặng nề như vậy mà nay lại được dùng trên người một cô gái đang tuổi thanh xuân như thế này. Thật sự là việc này cũng nằm ngoài ý muốn, dù đã nhìn thấy rõ hết sự tình ở bên trong, và lần này Trọng Tử phạm tội cũng không nhỏ. Nhưng điểm mấu chốt ở đây là, mọi người từ trên xuống dưới ai cũng đều biết phẩm hạnh và tính tình của nàng. Nên dù nhìn như thế nào cũng không thể thấy nàng giống với những đồ đệ tội ác tày trời trước kia, điều này tự nhiên làm người ta không khỏi thổn thức và xót thương.</p>
+ <p>Bị nhốt trong băng đá tồn tại đã vạn năm, khắp nơi chỉ một màu tối tăm, cho dù đầu óc lúc nào cũng tỉnh táo nhưng cả cơ thể lại không thể động đậy dù chỉ một chút, không có ánh sáng mặt trời, không có sinh khí, tất cả những thứ có được chỉ là bóng đêm tối mịt mùng đến vô tận, lạnh lẽo đến thấu xương, một trăm năm cô đơn một mình ở nơi đó.</p>
+ <p>Bên dưới chợt ồn ào hẳn lên, cả đám người Mộ Ngọc ngây hết cả người ra, duy chỉ có Ngu Độ là cười khổ, mới vừa rồi y đã ám chỉ rất rõ ràng, đó thật sự là một cơ hội khó mà có được để diệt trừ mối hiểm họa này nhằm ngăn chặn trước tai họa sẽ ập xuống trên đầu của chúng sinh, ai ngờ sư đệ này của y vẫn cố chấp trước sau như một đến vậy.</p>
+ <p>Mẫn Vân Trung cười lạnh: "Chỉ là nhốt lại một trăm năm thôi sao?"</p>
+ <p>Lạc Âm Phàm nói: "Sư thúc để cho ta xử trí, ta đã xử trí xong rồi, có gì không ổn sao."</p>
+ <p>Sắc mặt Mẫn Vân Trung chợt kém xuống tới cực điểm, nếu như những gì hiện ra trên sách Thiên Cơ chính là sự thật, chiếu theo môn quy những đệ tử tiên môn nào mà có ý niệm này ở trong đầu thì cho dù là đánh tan hồn phách cũng không đủ để đền tội. Chỉ là mới vừa rồi y tâm cao khí ngạo đã đồng ý để cho hắn xử trí mọi chuyện, chính miệng mình đã thốt ra những lời đó ngay trước mặt tất cả chúng đệ tử, bây giờ làm sao có thể đổi ý được, cho nên lúc này chỉ hừ một tiếng nghiến răng mà nói: "Có phải hình phạt như vậy là quá nhẹ hay không? Làm như thế, chỉ sợ khó lòng mà làm cho kẻ dưới tâm phục."</p>
+ <p>Lạc Âm Phàm không nói gì, chỉ là ánh mắt lạnh lùng lại nhìn xuống, quét khắp lượt chúng đệ tử một lần nữa, khiến cho những kẻ ở dưới bao gồm cả Linh Chi đang đứng ở bên trong, không một người nào dám lên tiếng trả lời.</p>
+ <p>Mẫn Vân Trung cả giận nói: "Ngươi làm như vậy là có ý gì!"</p>
+ <p>Thấy tình hình có vẻ căng thẳng, Ngu Độ vội vàng ngăn lại: "Trọng Tử tuổi vẫn còn nhỏ, niệm tình con bé vi phạm lần đầu, ta thấy sư đệ xử trí như vậy là tốt lắm rồi." Dù sao việc này cũng rất kỳ quái, Lạc Âm Phàm thật sự là đang muốn che chở cho đồ đệ của mình, lấy cớ để đưa ra hình phạt tuy có chút nhẹ, nhưng mà cũng không ai có thể làm gì được, có thể thấy được là hắn cũng không vì một đồ đệ bé nhỏ mà quên đi đại cục.</p>
+ <p>Chưởng giáo đã nói như vậy, ai nấy đều lường trước được kết quả này thật khó mà có thể thay đổi được. Chúng đệ tử nhìn Trọng Tử, đa số mọi người đều mơ hồ cảm nhận được trong việc này có điểm rất kỳ quái nên không khỏi càng thêm thương cảm cho nàng.</p>
+ <p>Yến Thực Châu gấp gáp đến độ tự mình quỳ xuống, lớn tiếng nói: "Tôn giả, Tiểu Trùng là người như thế nào, mấy năm nay ở bên nhau chúng đệ tử đều hiểu sư cô rất rõ. Chẳng lẽ Tôn giả còn không biết rõ sư cô hay sao, sư cô tuyệt đối không thể nào là người có tâm tư như vậy được!"</p>
+ <p>Lời này vừa nói ra, không ít đệ tử cũng quỳ xuống cầu xin cho Trọng Tử: "Xin Tôn giả khai ân."</p>
+ <p>Mộ Ngọc cũng vội vàng lên tiếng để cầu xin cho nàng: "Trọng Tử vẫn chưa từng học qua thuật pháp, làm sao có thể hiểu được huyết chú là gì. Việc này nhất định là còn có chỗ khó mà giải thích được, hình phạt băng khóa thật sự là quá nặng đối với con bé, cầu xin Tôn giả hãy khai ân một lần."</p>
+ <p>Một tiểu nha đầu trời sinh sát khí, nhưng lại được nhiều người vì nó mà cầu xin như vậy, ngay cả đồ đệ đắc ý nhất, được mình coi trọng nhất cũng bị mê hoặc, Mẫn Vân Trung cảm thấy giận dữ vô cùng: "Những gì trên sách Thiên Cơ ngươi cũng đã nhìn thấy rất rõ, chẳng lẽ Chưởng giáo lại vu hãm khiến nó bị hàm oan sao! Miễn cho nó tội chết đã là khai ân lắm rồi, ngươi thân là thủ tọa đệ tử, đã không làm gương cho chúng đệ tử thì chớ mà ngược lại còn muốn bảo vệ cho tội đồ của Nam Hoa, còn không mau cút về điện Tổ Sư tự mình sám hối cho ta!"</p>
+ <p>Mộ Ngọc nói: "Đệ tử cho dù có bị phạt cũng không oán trách, nhưng việc này thực sự..."</p>
+ <p>Y cũng không tiếp tục nói hết những lời còn lại vì Lạc Âm Phàm đã bước lên đám mây ngũ sắc.</p>
+ <p>Trọng Tử hai đỏ bừng mắt, cắn chặt môi mình, hai tay vẫn cố gắng chống đỡ cơ thể nhưng cơ thể vẫn không cách nào có thể vững vàng mà vẫn run rẩy.</p>
+ <p>Bỗng nhiên nàng nhìn vào giữa không trung lớn tiếng nói: "Trọng nhi không cầu xin tha thứ, chỉ cầu xin sư phụ dừng lại một lát, nghe con nói mấy câu."</p>
+ <p>Lạc Âm Phàm dừng đám mây lại, nhưng không quay mặt nhìn nàng.</p>
+ <p>Mẫn Vân Trung quát : "Còn muốn dây dưa!"</p>
+ <p>Trọng Tử không hề giải thích cũng không hề đáp trả lại nữa, chỉ nhanh chóng lau khô nước mắt, hướng mặt về phía bên dưới chắp tay bái chúng đệ tử một cái: "Đa tạ Mộ sư thúc và Thực Châu tỷ tỷ, cũng đa tạ các vị sư huynh, sư tỷ, sư điệt rất nhiều. Trọng Tử nhận tội, mọi người không cần cầu xin cho ta nữa."</p>
+ <p>Mọi người im lặng không ai nói một tiếng nào.</p>
+ <p>Nàng xoay người sang lau nước mắt dập đầu trước Ngu Độ một cái: "Đa tạ chưởng giáo khai ân, sự thật đã ở ngay trước mặt, Trọng Tử cũng không còn lời nào để nói, đệ tử xin cam nguyện chịu phạt."</p>
+ <p>Không thể nghĩ được là nàng lại làm như vậy, đây là việc hoàn toàn ngoài ý muốn của Ngu Độ, việc này khiến vẻ mặt y cũng có chút sượng sùng, sau đó chỉ thở dài nói: "Ngươi hãy tạm thời đi trước, việc này bổn tọa sẽ cho điều tra lại, nếu quả thực đã hàm oan ngươi thì ta nhất định sẽ sai người đón ngươi quay trở về."</p>
+ <p>Trọng Tử cảm ơn, cuối cùng hướng về bóng dáng quen thuộc đang đứng trên mây kia bái lạy.</p>
+ <p>Khi nàng ngước mặt lên, trong đôi mắt to tròn kia đã tràn đầy nước mắt.</p>
+ <p>"Trọng nhi bất hạnh, vừa sinh ra đời đã trời sinh sát khí, đội ơn sư phụ đã không xem thường mà thu nhận đệ tử, mấy năm nay lúc nào cũng được sư phụ dạy dỗ, che chở, cho dù Trọng nhi có chết cũng không báo đáp hết ân nghĩa to lớn này. Trong lòng sư phụ luôn mang chúng sinh, Trọng nhi làm sao dám có tâm muốn nhập ma? Cũng chưa bao giờ dám nghĩ tới việc muốn Thiên Ma Lệnh."</p>
+ <p>Nàng trịnh trọng nâng Tinh Xán lên, nhìn bóng người đang đứng cao cao trên đám mây kia, rưng rưng nói: "Đoản trượng này có tên là Tinh Xán, là pháp khí mà lúc trước sư phụ đã tự tay ban tặng cho con. Trọng nhi không dám quên lời sư phụ dạy bảo, cũng tuyệt đối không dám lừa gạt sư phụ, nay con nhận tội, chỉ vì việc này đúng thật là do chính tay con làm, nhưng từ đầu tới đuôi, con vẫn không hề nói dối nửa lời, lại càng không biết huyết chú là cái gì."</p>
+ <p>"Từ trước đến giờ Trọng nhi chỉ thầm nghĩ ngày ngày có thể lẳng lặng, bình yên mà trôi qua, ở lại Tử Trúc Phong phụng dưỡng sư phụ là đã đủ lắm rồi, lần này con cam tâm tình nguyện đi Côn Luân, chỉ hy vọng sư phụ có thể tin tưởng con, sau một trăm năm nữa lại cho con trở về Tử Trúc Phong, tiếp tục phụng dưỡng người."</p>
+ <p>Trong lúc nàng nói những lời đó, Tinh Xán đang nắm trong tay bỗng nhiên phát sáng rực rỡ.</p>
+ <p>Tất cả mọi người đang đứng nhìn bỗng ngây ngốc hết cả người ra, ngay cả Mẫn Vân Trung cũng cảm thấy sửng sốt vô cùng.</p>
+ <p>Nước mắt rốt cục lại tràn mi, Trọng Tử quỳ phục xuống, nức nở nói: "Chỉ cầu xin sư phụ... Cầu xin sư phụ một ngày nào đó đi ngang qua Côn Luân, có thể nhớ đến đồ đệ này mà ghé thăm con."</p>
+ <p>Nói xong những điều này nàng chẳng còn cảm thấy có điều gì là đáng sợ nữa liền đưa mắt nhìn một cái, vốn cũng biết là sẽ không còn gì để hy vọng nữa nhưng nàng vẫn muốn nhìn thấy dù chỉ một lần. </p>
+ <p>Áo trắng ở trong gió bay phấp phới, trong tay Trục Ba kiếm giống như khẽ rung lên.</p>
+ <p>"Trục xuất khỏi sư môn, đưa đến Côn Luân, lên đường ngay lập tức." Hắn thản nhiên nói xong liền đáp mây bay lên và rời đi.</p>
+ <p>Một lúc lâu sau, Hành Huyền khẽ thở dài một tiếng đánh tan sự yên lặng, quay sang nhìn Trọng Tử, rồi lại nhìn Ngu Độ, trên gương mặt già nua của y hiện lên một chút thần sắc bất an, Tinh Xán lúc nãy bỗng nhiên đã bừng lên một luồng chính khí, hay là Hành Huyền y đã thật sự tiên đoán sai khiến con bé bị oan uổng rồi?</p>
+ <p>Mẫn Vân Trung nhìn Hành Huyền thì biết ngay y đang suy nghĩ cái gì lập tức nói ngay: "Pháp khí đã nhận chủ, chắc chắn là đã bị sát khí của nghịch đồ này đồng hóa rồi."</p>
+ <p>Ngu Độ cũng không nhiều lời chỉ xoay người phân phó: "Linh Chi nghe lệnh, ngươi mau chóng mang theo năm mươi danh đệ tử của bổn môn đưa Trọng Tử đi đến Côn Luân, lên đường ngay lập tức, không thể để xảy ra bất cứ sai sót gì."</p>
+ <p>Văn Linh Chi liền cúi đầu nhận lệnh.</p>
+ <p>Mẫn Vân Trung mặc dù đối với cách giải quyết này cảm thấy không hài lòng lắm, nhưng suy đi nghĩ lại thì việc đem nghịch đồ này giam giữ một trăm năm ở băng lao cũng không hẳn là một biện pháp không tốt. Việc này trước đây Ngu Độ đã từng đề nghị từ rất lâu rồi nhưng đáng tiếc lúc ấy đã bị Lạc Âm Phàm phản đối kịch liệt, bây giờ đem giam giữ ở dưới chân núi Côn Luân trong băng đá vạn năm cũng không muộn. Một khi đã giam giữ ở đó thì cho dù nó có bản lĩnh to hơn cả trời cũng khó mà tác oai tác quái được, huống chi chỉ cần nó rời khỏi Nam Hoa, cũng đã có thể làm người ta an tâm rồi.</p>
+ <p>Đột nhiên phát sinh ra sự việc như thế này quả thực khiến cho chúng đệ tử vẫn còn mơ mơ hồ hồ như đang trong một giấc mộng vậy, ai nấy đều yên lặng giải tán đi.</p>
+ <p>……….</p>
+ <p>Trong tầng mây dày đặc, hai bóng người đang đứng đối diện nhau.</p>
+ <p>"Chẳng lẽ chúng ta thật sự đã đoán sai rồi sao?" Giọng nói cất lên mang theo một sự lo âu.</p>
+ <p>"Không có khả năng đó được."</p>
+ <p>"Nhưng nếu như đúng thì tại sao phong ấn của Thiên Ma Lệnh vẫn chưa được giải trừ?"</p>
+ <p>"Ta nghĩ nguyên nhân có lẽ do sát khí của con bé vẫn chưa đủ mạnh." Giọng nói này mang theo chút trầm ngâm.</p>
+ <p>"Bây giờ nên làm sao đây, chúng ta thực sự để con bé bị giam giữ trong băng lao một trăm năm sao?" Giọng nói lại hừ lạnh một tiếng.</p>
+ <p>"Ngươi quay trở lại đi, ta tự có cách của mình."</p>
+ <p>…………</p>
+ <p>Văn Linh Chi phụng mệnh Ngu Độ lúc này dẫn theo năm mươi danh đệ tử của Nam Hoa trục xuất Trọng Tử xuống núi, vội vàng chạy tới Côn Luân, ngay cả thời gian để Trọng Tử nói lời từ biệt với đám người Mộ Ngọc và Yến Thực Châu cũng không có. Trên đường, đám nữ đệ tử nghe theo lời sai khiến của Văn Linh Chi hùa nhau đối xử với Trọng Tử rất hà khắc, tìm đủ mọi cách để hạ nhục nàng. Bọn chúng chỉ cần làm một việc đơn giản là thay đổi cách thức đùa cợt mỗi ngày để khiến cho nàng cảm thấy nhục nhã hơn mà thôi. Trọng Tử lúc này thân đang mang tội nên cũng không dám gây chuyện đáp trả lại bọn chúng, bởi nàng sợ rằng nếu như nàng lại gây ra chuyện mà Lạc Âm Phàm biết được lại càng tức giận hơn nữa, bởi vậy nàng chỉ yên lặng cố gắng nhẫn nhịn mà thôi. Trong đầu nàng lúc nào cũng nghĩ về biến cố vừa xảy ra, trong lòng lại mang nhiều nỗi oan ức khiến cho nàng mất ngủ liên tục mấy ngày liền, trong khi đó ban ngày lại bị đám người Văn Linh Chi ép buộc gấp rút lên đường, cho nên mặt mày thì hốc hác thân hình thì tiều tụy.</p>
+ <p>Đối với giấc mộng cổ quái kia, cho đến tận bây giờ Trọng Tử cũng không thể nào hiểu hết được, dù nàng chỉ nhớ một cách mơ màng thì rõ ràng là trong giấc mộng đó nàng không hề niệm huyết chú, nhưng vì sao kết quả mà Thiên Cơ Tôn giả tiên đoán ra lại không giống với những gì nàng thấy trong mộng như vậy?</p>
+ <p>Câu trả lời thật ra cũng không còn quan trọng nữa rồi, nàng không phải là một người ngu ngốc, Ngu Độ nói rằng sẽ tiếp tục cho điều tra truy xét để tìm ra sự thật, nếu như nàng không có tội thì sẽ cho đón nàng trở về chẳng qua chỉ là nói cho có lệ mà thôi. Ngu Độ cùng với Mẫn Vân Trung là người luôn có thành kiến nặng nề với chuyện trời sinh sát khí của nàng, chỉ sợ từ rất sớm đã muốn tìm cách xử trí nàng rồi, huống chi hiện tại nàng đối với Thiên Ma Lệnh lại có một loại cảm ứng rất đặc thù như vậy, nên việc này càng làm cho bọn họ thêm cảnh giác với nàng.</p>
+ <p>Cho dù bị oan uổng Trọng Tử cũng không sợ, nàng chỉ rất đau lòng vì sư phụ mà thôi.</p>
+ <p>Dù phải chịu hình phạt băng khóa một trăm năm nàng cũng không lo lắng. Nhưng vì sao, vì sao mà sư phụ của nàng thà rằng thất vọng, thà rằng tức giận, cũng không chịu tin tưởng nàng? Nàng một lòng một dạ trở thành một đồ đệ biết nghe lời nhất của sư phụ, tôn kính người, yêu thương người, làm sao nàng có thể lừa gạt sư phụ được kia chứ?</p>
+ <p>Sáu năm trời sớm chiều bên nhau, cùng làm bạn với nhau, có biết bao nhiêu là dịu dàng và ngọt ngào, thế mà chỉ một câu nói nhẹ nhàng đã gạt bỏ hết toàn bộ, thậm chí người còn không hề quay đầu lại để nhìn nàng một cái.</p>
+ <p>Côn Luân còn xa lắm không? Trọng Tử đưa đôi mắt mờ mịt nhìn con đường xa xăm ở phía trước, đôi mắt to tròn, sáng trong năm nào nay dường như đã mất đi tiêu cự.</p>
+ <p>"Đang suy nghĩ gì mà ngẩn cả người ra thế kia, chạy bừa vậy." Đột nhiên có người đưa tay ra kéo nàng một cái.</p>
+ <p>Bị mất ngủ liên tiếp mấy ngày liền nên tinh thần không thể tập trung được, nàng đi được tới giờ hoàn toàn là dựa vào sự tương thông tâm linh với Tinh Xán, chính nó đã mang theo nàng một cách vững vàng trên đường đi, giờ phút này đột nhiên lại có một lực kéo mạnh như thế, làm cho Trọng Tử không thể nào tiếp tục chống đỡ được nữa, cả người lảo đảo nghiêng qua một bên ngã xuống dưới.</p>
+ <p>Chung quanh vang lên những tiếng hô kinh hoàng.</p>
+ <p>Nhưng tên đầu sỏ gây nên chuyện kia lại không chút kinh hoảng, chỉ nhẹ nhàng đáp xuống như loài chim diều hâu đang bay lượn, vừa nhanh lại vừa chuẩn bắt lấy nàng ôm vào trong lòng.</p>
+ <p>Trọng Tử còn chưa kịp hoàn hồn lại.</p>
+ <p>Y đã cúi đầu xuống nhìn nàng, cười như có như không khẽ gọi nàng: "Tiểu... Sư muội."</p>
+ <p>Thì ra Trác Hạo dẫn theo vài đệ tử của Thanh Hoa cung đi ra ngoài làm việc gì đó, hiện giờ đã lo xong xuôi hết mọi chuyện đang trên đường trở về Thanh Hoa cung phục mệnh. Hai phái xưa nay vẫn có giao tình tốt đẹp cho nên lúc này bất ngờ gặp gỡ trên đường đi đương nhiên là sẽ dừng lại để chào hỏi nhau. Trác Hạo nhìn thấy người dẫn đầu đám người này là Linh Chi, là người mà lúc trước nói năng hàm hồ chọc giận Âm Thủy Tiên, suýt chút nữa hại Trọng Tử bị liên lụy. Y đối với nàng ta vẫn không có chút thiện cảm gì, tính chỉ nói khách sáo mấy câu rồi tiếp tục lên đường, nhưng ngờ đâu trước mắt y lại đột nhiên lao ra một bóng dáng quen thuộc.</p>
+ <p>Trọng Tử căn bản cũng không còn tâm trí đâu mà để ý đến chuyện phát sinh ở xung quanh, đầu óc ngẩn ngơ giống như kẻ đầu gỗ theo Tinh Xán hướng về phía trước. Vài nữ đệ tử phụ trách ở xung quanh trông coi nàng cũng không cản lại, ý của bọn họ cũng không có gì ngoài việc muốn cho nàng thêm xấu mặt trước đồng môn mà thôi.</p>
+ <p>Nhìn thấy ánh mắt nàng như dại ra, thân hình tiều tụy, khuôn mặt hốc hác, Trác Hạo nhíu mày, đưa mắt nhìn về phía Linh Chi đang đứng cách đó không xa vẫn đang nghe ngóng, liếc mắt một cái rồi hỏi nàng: "Sắc mặt của muội sao lại kém như vậy, có phải có người bắt nạt muội hay không?"</p>
+ <p>Trọng Tử cuối cùng cũng hoàn hồn lại, khẽ lắc đầu.</p>
+ <p>"Thật đúng lúc, ta có vài lời quan trọng muốn nói với muội" Trác Hạo cúi mặt xuống, dán vào sát bên tai nàng thấp giọng hỏi, "Muội đã nhận được thư của ta chưa, sao lại không trả lời lại"</p>
+ <p>Chuyện cầu thân của Trác Hạo với nàng vẫn chưa được công khai, Trọng Tử vội đưa mắt nhìn về bốn phía, trong lòng có chút gấp rút và quẫn bách, nàng muốn rời khỏi vòng tay của y ngay lập tức, nhưng mà cánh tay kia ngược lại càng ôm chặt hơn nữa.</p>
+ <p>Tinh Xán ở bên cạnh khẽ chuyển động, giống như nó cũng đang bất mãn thay cho nàng.</p>
+ <p>"Trác sư huynh, trước tiên hãy buông muội ra đã..."</p>
+ <p>"Sư huynh?" Trác Hạo nhướng mày, "Những băn khoăn trong lòng Tôn giả ta đã biết hết cả rồi, trời sinh sát khí thì đã làm sao, nó có là gì đâu kia chứ, muội đừng sợ, ta sẽ xin phụ thân, nhất định sẽ xin người nói với Tôn giả gả muội cho ta, muội ở Nam Hoa hay ở Thanh Hoa cũng giống nhau thôi mà."</p>
+ <p>Y không e ngại sao? Trọng Tử sửng sốt một lát rồi đưa ánh mắt nhìn sang chỗ khác: "Đa tạ tâm ý của Trác sư huynh, chỉ là... muội chỉ sợ là muội đi không được."</p>
+ <p>Trác Hạo lập tức thu hồi vẻ mặt trêu chọc, hạ thấp giọng xuống vô cùng dịu dàng nói với nàng: "Muội có phải đang lo lắng chuyện các muội muội kia không, muội sợ rằng ta lừa dối muội? Những chuyện trước kia chẳng qua chỉ là vui đùa khi còn trẻ mà thôi, ta với các nàng ấy thật sự là không có gì, muội yên tâm đi, Trác Hạo ca ca nhất định sẽ đối xử với muội thật tốt."</p>
+ <p>Trọng Tử đành miễn cưỡng nở nụ cười, thúc giục y: "Muội biết rồi, huynh về trước đi."</p>
+ <p>Trác Hạo mừng thầm trong lòng, liền trêu nàng: "Khó khăn lắm mới được gặp mặt, tiểu nương tử nàng cũng không chịu nói thêm với phu quân ta vài câu được sao?"</p>
+ <p>Trọng Tử cảm thấy hơi xấu hổ liền quay mặt đi chỗ khác: "Ở đây có nhiều người như vậy, để sau này hãy nói, huynh mau buông tay ra đi."</p>
+ <p>"Nhưng ta muốn nghe ngay bây giờ."</p>
+ <p>"Huynh về trước đi, muội sẽ viết thư cho huynh."</p>
+ <p>"Muội nói thật sao?"</p>
+ <p>"Đương nhiên rồi."</p>
+ <p>Trác Hạo nhìn nàng một lúc lâu sau đó nói: "Đã xảy ra chuyện gì?" Bên cạnh y vốn luôn có cả đống muội muội cho nên đối với phản ứng của con gái y nắm rõ như lòng bàn tay. Lúc này thấy nàng bất ngờ lại đồng ý với mình một cách dễ dàng và thoải mái như vậy, không hề giống phản ứng thường ngày chút nào, thái độ như vậy làm sao có thể khiến lòng y không trỗi dậy nỗi nghi ngờ kia chứ.</p>
+ <p>Trọng Tử thầm kêu trong lòng không ổn rồi, nhưng chưa kịp nói gì thêm thì đã thấy Văn Linh Chi ngự kiếm bay lại, hướng về phía Trác Hạo thi lễ: "Chúng ta còn phải gấp rút lên đường, Trác thiếu cung chủ, xin đừng làm quá như vậy, Trọng Tử, đi mau."</p>
+ <p>Trọng Tử khẽ "Ừm" lên một tiếng, vội vàng bảo Trác Hạo buông tay ra.</p>
+ <p>Thấy nàng ta đối xử với Trọng Tử không hề có một chút khách khí, Trác Hạo suýt nổi điên lên, nhưng lại sợ trên đường đi nàng ta gây khó dễ cho Trọng Tử, nên khuôn mặt liền giãn ra cười nói với nàng ta: "Văn sư tỷ làm gì mà phải gấp gáp như vậy?"</p>
+ <p>Đối phương là Thanh Hoa thiếu cung chủ, cho nên phải đặt mối quan hệ giao hảo của hai bên lên trên hết, Văn Linh Chi đã định được chủ ý, thản nhiên cười: "Việc này là do Chưởng giáo tự mình phân phó, sự tình rất quan trọng, không thể chậm trễ được. Lúc trước có gặp qua sư huynh nhưng lại vội vàng chưa kịp chào hỏi, Linh Chi cũng hiểu được mình đã đắc tội với sư huynh. Sau này nếu có rảnh, mong Trác sư huynh sẽ đến Nam Hoa nhiều một chút để Linh Chi có thể thỉnh tội và lãnh giáo cùng sư huynh."</p>
+ <p>Trác Hạo nói: "Không dám, chỉ là ta có chút chuyện muốn nói với tiểu sư muội, làm phiền sư tỷ dẫn mọi người đi trước một bước. Sau khi nói xong ta sẽ đưa muội ấy tới chỗ của mọi người, chắc chắn sẽ không làm chậm trễ chuyện của mọi người, có được hay không?"</p>
+ <p>Tính tình Văn Linh Chi xưa nay vốn thích làm tâm điểm chú ý của mọi người, dung mạo xinh đẹp, ở Nam Hoa ngoại trừ Tần Kha ra thì phần lớn các đệ tử đều muốn lấy lòng nàng ta, nếu nhắc đến thì phải sắp cả một hàng dài. Thế mà nay gặp phải một người chỉ một lòng một dạ đặt hết mọi tâm tư lên người của Trọng Tử, không thèm để ý đến mình dù chỉ một chút thôi, cho nên lại càng cảm thấy không thoải mái, vẻ mặt làm ra bộ dạng khó xử nói: "Chuyện này... Nếu như Trác sư huynh có chuyện, chi bằng nói ngay ở đây luôn đi."</p>
+ <p>Đồng môn gặp lại, đứng nói chuyện với nhau vài câu cũng không có gì đáng ngạc nhiên cho lắm, Trác Hạo bực bội vì nàng ta thật không biết điều chút nào, nhưng không nói gì chỉ đơn giản là ôm Trọng Tử chặt hơn ngước mắt giương mi lên nói với giọng thật là ái muội thân mật: "Chuyện của hai người chúng ta, Văn sư tỷ thật sự muốn nghe sao?"</p>
+ <p>Văn Linh Chi vừa nghe thấy thế liền đỏ mặt lên, cất giọng châm chọc Trác Hạo: "Trác sư huynh ở Thanh Hoa, quả nhiên là không hề thua kém so với lời đồn đại một chút nào."</p>
+ <p>Trác Hạo mặt không đổi sắc thản nhiên nói: "Không dám, tính ra ta với Tần sư huynh là cùng một thế hệ, làm sao có thể ở trước mặt người tự xưng là sư huynh được, mới vừa rồi là ta nhất thời hồ đồ nên đã quên đi bối phận, Văn sư cô, xin hãy thứ lỗi cho ta."</p>
+ <p>Trọng Tử không nói gì, thì ra y cũng đã thực sự nổi giận rồi. </p>
+ <p>Quả nhiên là không ngoài dự liệu của Trác Hạo, vừa nghe được những lời này Văn Linh Chi giống như bị đâm vào chỗ đau, khuôn mặt đang tươi cười bỗng nhiên lúc trắng lúc hồng, nàng ta chỉ khẽ cười lạnh nói: "Cũng được, Trác thiếu cung chủ với Trọng Tử muốn nói gì thì mau nói đi, chỉ sợ rằng sau này có muốn nói cũng không thể nói được."</p>
+ <p>Trác Hạo chợt nghe ra trong lời nói của Văn Linh Chi dường như có điều gì đó không đúng, sắc mặt liền trầm xuống: "Sư cô nói lời này là có ý gì."</p>
+ <p>Văn Linh Chi không trả lời câu hỏi của Trác Hạo mà chỉ nói: "Ta không có ý gì, Trác thiếu cung chủ tự hỏi Trọng Tử đi, hỏi nàng ta thử vì sao lại bị trục xuất khỏi sư môn và bị đưa đến Côn Luân."</p>
+ <p>Trác Hạo ngây người một lúc lâu sau đó nhìn Trọng Tử nói: "Trục xuất khỏi sư môn, bị đưa đến Côn Luân, muội..."</p>
+ <p>Trọng Tử chớp mắt cúi xuống không đáp lời y.</p>
+ <p>Văn Linh Chi liền sốt sắng trả lời thay cho nàng: "Mưu toan đánh cắp Thiên Ma Lệnh, nghiệp chướng nặng nề, Tôn giả từ bi tha cho nàng ta một mạng, chỉ bắt phải chịu hình phạt băng khóa một trăm năm, tội đồ của bổn môn, đương nhiên là ta phải có nhiệm vụ trông coi cẩn thận, lỡ như có điều gì sơ xuất xảy ra thì không ai gánh nổi trách nhiệm này, Trác thiếu cung chủ còn có gì không rõ nữa hay không?"</p>
+ <p>Hình phạt băng khóa! Trác Hạo kinh ngạc đến không mức nói nên lời.</p>
+ <p>Muốn thất vọng hãy cứ thất vọng đi, nàng là nghịch đồ của Nam Hoa, tội ác tày trời, trời sinh sát khí đã vậy lại còn có ý đồ mưu toan đánh cắp Thiên Ma Lệnh, Trọng Tử chậm rãi hất tay y ra: "Sư cô, đi thôi."</p>
+ <p>"Muội không làm chuyện đó, đúng hay không?" Trác Hạo kéo tay nàng lại.</p>
+ <p>Sống mũi chợt thấy cay cay, nước mắt không thể kìm được nữa tuôn rơi xuống trên khuôn mặt nàng, những nỗi oan khuất và ấm ức tích tụ trong mấy ngày nay đều muốn bung hết ra ngoài, rốt cục Trọng Tử cũng không nhịn được nữa nằm ở trong lòng y khóc nức nở không thôi.</p>
+ <p>"Tôn giả chắc chắn là đã nghĩ sai rồi!" Trác Hạo bỗng nhiên kéo nàng, ngự kiếm quay ngược trở lại, "Ta mang muội trở về gặp người!"</p>
+ <p>Văn Linh Chi thấy thế liền ngăn hai người lại: "Trác thiếu cung chủ xin đừng làm những việc quá phận."</p>
+ <p>"Tránh ra."</p>
+ <p>"Sự thật ở ngay trước mắt, ta khuyên Trác thiếu cung chủ không nên nhúng tay vào chuyện của bổn môn một cách không thỏa đáng như thế."</p>
+ <p>Trác Hạo giận dữ nói: "Chuyện gì mà là sự thật chứ! Ta thấy trong đó chắc chắn là có nội tình, không thể vô duyên vô cớ để Trọng Tử phải chịu oan khuất được!"</p>
+ <p>Văn Linh Chi cũng đáp lại không kém: "Là Chưởng giáo và Tôn giả tự mình hạ lệnh, làm sao có thể nói là oan khuất được chứ, mời Trác thiếu cung chủ tránh ra nhường đường, Linh Chi còn phải đi sớm về sớm, bẩm báo kết quả công việc.”</p>
+ <p>Trác Hạo nói: "Vậy giờ ta lập tức mang muội ấy trở về nói chuyện phải trái!"</p>
+ <p>Trọng Tử sợ tới mức bám chặt lấy cánh tay của y, tuy rằng việc này là nàng phải chịu oan khuất, nhưng nếu như nàng thật sự trở về cùng y chỉ sợ sư phụ biết được lại càng tức giận. Hơn nữa sau đó y trở về Thanh Hoa cung chắc chắn sẽ bị phạt nặng, Trọng Tử hoảng sợ nói với Trác Hạo: "Trác sư huynh không cần phải lo lắng, là muội làm chuyện sai trái, muội cam nguyện chịu phạt !"</p>
+ <p>Trác Hạo sắc mặt xanh mét quát nàng: "Ta nói không phải là muội thì chắc chắn là không phải, cái gì mà là do muội làm ra kia chứ, hình phạt băng khóa đâu phải là một trò đùa, muội có biết băng lao là nơi như thế nào hay không!"</p>
+ <p>"Chỉ có một trăm năm thôi mà, muội có thể ở bên trong tu luyện, có thể tu thành tiên cốt sớm hơn một chút."</p>
+ <p>"Đừng làm loạn, hôm nay ta nhất định phải mang muội trở về!"</p>
+ <p>Văn Linh Chi lạnh lùng nói: "Trác thiếu cung chủ nếu như cố ý ngăn trở thì đừng trách bọn ta đắc tội với Thiếu cung chủ."</p>
+ <p>Trác Hạo cười lạnh: "Cùng tiến lên hết đi, ta cũng không tin là có người nào có thể ngăn cản được ta!"</p>
+ <p>Văn Linh Chi giận dữ hét lên: "Còn đứng đó làm gì!"</p>
+ <p>Văn Linh Chi vốn là thét lên để ra lệnh cho chúng đệ tử Nam Hoa cùng xông lên để ngăn Trác Hạo lại. Nhưng nào biết đâu lời này vừa nói ra, phía sau nàng ta vẫn im lặng không một chút động tĩnh, lập tức ba người đang tranh chấp với nhau đều cảm thấy kinh sợ. Cả ba vội vàng giương mắt lên nhìn khắp xung quanh, không biết là từ khi nào, các đệ tử ở xung quanh đã biến mất không một tiếng động, giống như đã tan biến vào trong không khí, một bóng người cũng không thấy.</p>
+ <p>"Con bé sẽ đi theo ta." Một giọng nói mệt mỏi chợt vang lên bên cạnh mọi người.</p>
+ <p>………..</p>
+ <p>Toàn bộ Trọng Hoa cung giống như biến thành một cung điện u buồn, nặng nề, lặng lẽ không một tiếng động. Căn phòng vẫn chỉnh tề, sạch sẽ như cũ, vẫn giống như khi Trọnh Tử còn ở đây, so với trước đây giống như không có gì thay đổi. </p>
+ <p>Lạc Âm Phàm lẳng lặng đứng trước giường, nhìn vào trầm ảnh kính đang cầm trong tay.</p>
+ <p>Bên trong kính, một người mặc y phục màu trắng tinh khôi, chậm rãi bước xuống bậc thềm, ra khỏi Trọng Hoa cung, đi xuống Tử Trúc Phong rồi ngự kiếm biến mất trong mây.</p>
+ <p>Hình ảnh đó rất quen thuộc, bóng người trong đó lại càng quen thuộc hơn, đó là một ngày trước cái ngày con bé gặp chuyện không may, là ngày hắn phải đi ra ngoài làm việc, lúc ấy hắn chỉ biết là con bé theo ở phía sau để tiễn hắn đi, nhưng lại không biết rằng tiểu đồ đệ nhỏ bé, tinh nghịch này của hắn đã len lén thu lại bóng dáng của hắn vào trong trầm ảnh kính, đặt bên gối ở đầu giường.</p>
+ <p>Không phải là hắn không rõ sự ỷ lại của con bé đối với hắn, lại càng không phải là hắn không tin con bé.</p>
+ <p>Nhưng mà cho dù hắn có tin thì cũng không thay đổi được sự thật.</p>
+ <p>Với những lời nói linh tinh như “Nhất định đó là mục tiêu để nhắm vào”, hắn lúc nào cũng không để nó ở trong lòng, nhưng hôm nay tận mắt nhìn thấy tất cả mọi việc phát sinh như vậy, hắn rốt cục đã hiểu được cái gì là bất lực, nằm mơ, huyết chú... Chẳng lẽ thực sự đúng như lời của sư huynh và sư thúc đã nói, bởi vì trời sinh sát khí cho nên dù con bé có cố gắng đến thế nào đi chăng nữa thì đến cuối cùng nhất định vẫn sẽ bước trên con đường kia?</p>
+ <p>Hắn đã từng nói rằng hắn nhất định sẽ bảo vệ và che chở cho con bé, thế mà đến khi sự việc thật sự xảy ra ngay trước mặt, hắn lại không có bất cứ một lý do nào để có thể che chở cho con bé cả.</p>
+ <p>"Tần Kha cầu kiến Tôn giả." Bên tai truyền đến giọng nói thật rõ ràng.</p>
+ <p>Hình ảnh trong trầm ảnh kính dần dần tan biến đi, Lạc Âm Phàm sắc mặt không chút thay đổi đem chiếc gương để lại bên cạnh gối rồi xoay người bước ra khỏi cửa.</p>
+ <p>Trên dòng suối nhỏ một làn sương mỏng manh bốc lên, trên mặt nước hiện lên rất rõ ràng, rành mạch tình hình bên dưới Tử Trúc Phong, ngoại trừ Tần Kha và Yến Thực Châu, bên cạnh còn có vài đệ tử, bọn họ đã quỳ ở đây vài ngày rồi.</p>
+ <p>Lạc Âm Phàm không nhìn hết tất cả nhưng thấy thế nỗi tức giận trong lòng lại càng tăng lên.</p>
+ <p>Sáu năm trời hao tổn hết bao nhiêu tâm tư, đến cuối cùng vẫn là để cho đồ đệ của mình gây ra mối họa lớn như vậy. Hắn phạt đồ đệ của hắn thế mà lại khiến cho những người này quỳ xuống cầu xin cho đồ đệ, chuyện này chẳng phải là khiến hắn trở thành một sư phụ độc ác hay sao.</p>
+ <p>"Các ngươi đây là muốn gây sức ép cho ta?"</p>
+ <p>"Việc này sư muội cũng không cố ý vướng vào, cầu xin Tôn giả khai ân, sư muội làm sao có thể chịu đựng được hình phạt băng khóa kia chứ."</p>
+ <p>"Cố ý hay vô tình thì tất cả đều đã trở thành sự thật" Lạc Âm Phàm thản nhiên nói, "Việc liên quan đến Thiên Ma Lệnh không phải là việc nhỏ, có can hệ tới sự an nguy của lục giới, tuyệt đối không thể dung túng cho tội đồ của bổn môn được. Ngươi thân là đệ tử của Chưởng giáo lại không biết nặng nhẹ, không tuân thủ giáo quy, ta nể mặt chưởng giáo chỉ phạt ngươi hai mươi roi. Yến Thực Châu một mình đi báo tin cho ngươi, xúi giục sinh sự, phạt đánh năm mươi trượng, tự tước bỏ năm năm tu vi, còn lại những người khác dám hùa theo gây náo loạn phạt đánh năm mươi trượng."</p>
+ <p>Yến Thực Châu tức giận đến mức không kìm nén được nữa, chẳng còn nhớ đến bất cứ điều gì liền nói ngay: "Nghiêm khắc như Mẫn Tiên tôn cũng luôn luôn che chở cho đồ đệ của mình, Tiểu Trùng phẩm hạnh như thế nào, Tôn giả so với chúng con còn hiểu rõ ràng hơn bất cứ ai. Nhưng sao người lại có thể nhẫn tâm đến thế, chỉ vì thanh danh của mình, không chút thương tiếc hùa với người khác đổ hết mọi oan khuất lên đầu đồ đệ của mình, khiến cho đồ đệ của mình phải chịu trọng hình như thế này. Thực Châu hôm nay mới hiểu được, Tôn giả quả nhiên giống như lời bọn họ đã nói, thật sự là một con người vô tình như vậy!"</p>
+ <p>Lạc Âm Phàm vẫn giữ giọng nói lạnh lùng: "Ý của ngươi là đồ đệ của Trọng Hoa cung ta, nhưng ta lại không thể xử trí?"</p>
+ <p>Chưa bao giờ có một đệ tử nào dám chống đối hắn như vậy, Yến Thực Châu trong lòng thực sự cảm thấy rất khiếp sợ, đang muốn mở miệng ra biện bạch lại một lần nữa thì ở bên cạnh đã có một người đi tới.</p>
+ <p>"Mộ Ngọc tham kiến Tôn giả."</p>
+ <p>"Truyền lệnh của ta, việc này đã định, nếu như còn có ai dám đến cầu xin sẽ đồng loạt bị phạt."</p>
+ <p>Mộ Ngọc khẽ lắc đầu: "Mộ Ngọc đến đây không phải là muốn cầu xin cho Trọng Tử, chẳng qua là mới vừa rồi Mộ Ngọc nhận được tin cấp báo. Đoàn người của Văn sư muội đang đi trên đường đã gặp chuyện không may. Trọng Tử đã bị ma tôn Vạn Kiếp cướp đi, hơn mười đệ tử của bổn môn đã bỏ mình, nghe nói là Văn sư muội và Thanh Hoa Trác thiếu cung chủ đều bị thương nặng. Vạn Kiếp cung ở chỗ nào, cho đến nay cũng không có người nào biết, chưởng giáo lệnh cho Mộ Ngọc đến mời Tôn giả qua bên đó cùng bàn bạc."</p>
+ <p> </p> 
+</div>

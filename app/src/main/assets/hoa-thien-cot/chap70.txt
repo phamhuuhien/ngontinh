@@ -1,0 +1,131 @@
+<div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
+ <p> <br> </p> 
+ <br> 
+ <p> 3. Học viện Trường Lưu </p> 
+ <p> Vừa sáng tinh mơ, Hoa Thiên Cốt đã bị Sênh Tiêu Mặc kéo dậy làm dáng, mặt thoa cả tầng phấn trắng, lại còn bôi son đỏ. Mặc quần áo mới, tóc cài trâm ngọc, cổ đeo dây chuyền vàng, tay đeo lắc ngọc bích, Hoa Thiên Cốt thấy mình rất giống mụ già địa chủ, nhưng mụ địa chủ này ngay cả một chiếc màn thầu làm bữa sáng hằng ngày cũng không kịp ăn. Sênh Tiêu Mặc sợ nàng trốn học giữa đường nên cố ý thuê một cái kiệu, vài anh chàng cao to đưa nàng tới học viện Trường Lưu. </p> 
+ <p> Hoa Thiên Cốt khóc không ra nước mắt, lúc ra khỏi kiệu đã thoi thóp. </p> 
+ <p> Mọi người quanh đó thấy nàng thì lén xôn xao rồi cười rộ lên, không biết tiểu thư nhà giàu nào mà trắng trẻo mập mạp như thế, sắp không đi được luôn rồi. </p> 
+ <p> Hoa Thiên Cốt ngẩng đầu lên nhìn, bốn chữ lớn sơn vàng trên nền đen mới tinh – Học viện Trường Lưu. </p> 
+ <p> Được rồi, học thì học, dù sao trước kia nàng cũng từng đi học mấy ngày rồi. Cha cũng dạy nàng vài chữ, tuy nàng học không giỏi, nhưng cũng không ghét là được. </p> 
+ <p> Đệ tử xung quanh đủ loại từ sáu tuổi tới ba mươi tuổi, nhưng phần lớn là những người tầm tuổi nàng. Nghe nói học viện này trước kia tên là Học viện Bồ Đề, do một lão tú tài họ Tần làm chủ. Sau đó học trò ngày càng ít, sắp phải đóng cửa tới nơi. Cách đây không lâu lại nhận được một nguồn tài trợ kếch xù, mời rất nhiều giáo sinh giỏi và nổi tiếng tới dạy, còn có vô số quan lớn và quý nhân tới khánh thành, quảng bá rộng khắp. Lần này khai giảng rất nhiều thương gia giàu có ở Hàng Châu đưa con tới đây, Hoa Thiên Cốt là một trong số đó. </p> 
+ <p> Nàng không biết vì sao cha lại coi trọng chuyện học ở học viện đến vậy, nàng đoán là cha ghét nàng rồi, muốn nàng mau gặp người tốt ở học viện rồi gả luôn đi. Phần lớn những người đưa con tới đây học đều có suy nghĩ này. </p> 
+ <p> Có khoảng hơn một trăm người mới nhập học, tất cả đều tập trung ở quảng trường để điểm danh, sau đó sẽ bốc thăm chia làm bốn lớp Mai, Lan, Trúc, Cúc. </p> 
+ <p> Tuy học viện đã đổi tên, nhưng viện trưởng vẫn là Tần tú tài. Ông ta hơi lớn tuổi và có vẻ yếu thế so với những giáo sinh được mời hoặc tự đến ngồi ở bên cạnh. </p> 
+ <p> Ông đọc diễn văn chào mừng học sinh mới trước, hi vọng về tương lai tươi sáng của học viện, sau đó bắt đầu giới thiệu các giáo sinh. Ở đây ngoài tứ thư ngũ kinh bắt buộc ra thì đều có thể chọn các môn học khác. </p> 
+ <p> “Vị này chính là Diêm Văn Đạo Diêm lão phu tử, say này sẽ dạy các trò Dịch học. Vị này là Đông Phương Úc Khanh, dạy các trò…” </p> 
+ <p> “Thư pháp.” Đông Phương Úc Khanh nói tiếp, cười nho nhã, dưới đài vang lên tiếng hít sâu. </p> 
+ <p> Hoa Thiên Cốt đói tới hoa mắt chóng mặt, ngay cả sức nâng mắt cũng không có, ánh mặt trời sáng sớm không quá độc, nhưng cũng khiến trán nàng túa đầy mồ hôi. </p> 
+ <p> Sau đó các phu tử đều tự giới thiệu ngắn gọn về mình. </p> 
+ <p> “Ta là Liệt Hỏa, chịu trách nhiệm dạy nấu ăn.” Phía dưới đều kinh ngạc. </p> 
+ <p> “Ta là Lôi Âm, dạy các trò y thuật và châm cứu.” Phía dưới lại kinh ngạc. </p> 
+ <p> “Thanh Lưu, ta dạy môn ủ rượu và uống rượu.” </p> 
+ <p> Lần này ngay cả Tần viện trưởng cũng cau cái mặt già nua lại, nhỏ giọng hỏi: “Uống rượu mà cũng phải dạy hả?” </p> 
+ <p> “Tất nhiên, bàn rượu chính là nơi quan trọng để giao tiếp mà.” </p> 
+ <p> “Ra là vậy…” Tần viện trưởng vuốt chòm râu. </p> 
+ <p> “Ta là Lạc Thập Nhất, chào mừng mọi người tham gia vào hiệp hội chăn nuôi của ta.” </p> 
+ <p> “Lão phu là Lạc Hà Đông, chuyên dạy giết quỷ trừ yêu.” Giọng ông như tiếng sấm, học trò phía dưới đều choáng, học viện này quả nhiên là đặc biệt, cái gì cũng dạy! </p> 
+ <p> “Mặc Băng tiên, dạy hội họa.” Phía dưới thở phào, cuối cùng cũng có cái bình thường. </p> 
+ <p> Lúc này có một người phụ nữ tóc đỏ, hình như là người nước ngoài, nói: “Mọi người có thể gọi thẳng ta là Bắc Hải, tạm thời không biết có thể dạy các trò cái gì, cứ mở một lớp bơi lội vậy.” Mọi người há hốc mồm, không ngờ lại có nữ phu tử, hơn nữa không chỉ một người. Nàng vừa nói xong, người kia cũng lên tiếng. </p> 
+ <p> “Tên ta là Sát Thiên Mạch, những việc như thêu thùa, cắt may, trang điểm dưỡng nhan, cách phối phụ kiện quần áo, chỉ cần là liên quan tới cái đẹp đều có thể tới hỏi ta.” </p> 
+ <p> Bắc Hải đã xem như xinh đẹp diễm lệ, nhưng so với người này thì vẫn còn kém xa. Tất cả mọi người phía dưới đều sục sôi, ngay cả nam sinh cũng quyết tâm nhất định phải chọn môn của người đẹp. </p> 
+ <p> Sát Thiên Mạch đã quan sát đám người mấy lượt mà vẫn không thấy bé con thân thương của hắn đâu. </p> 
+ <p> Hắn muốn tham gia vụ cá cược, nhưng lại không chịu lấy diện mạo như người bình thường. Trong mắt hắn, bình thường chính là xấu, đã xấu lại còn chả có gì đặc biệt! Hắn cò kè với Đông Phương Úc Khanh hơn nửa ngày, cuối cùng cũng thỏa thuận được, hắn có thể xuất hiện với diện mạo hơn người, nhưng ba tháng đầu phải sống dưới thân phận con gái. </p> 
+ <p> Suy nghĩ của Sát Thiên Mạch vốn rất đơn giản, trước đó bé con cũng tưởng hắn là tỉ tỉ, vụ cá cược này hắn cũng không ôm hi vọng quá lớn, chỉ đến chơi và phá Đông Phương Úc Khanh. Nghĩ mà xem, bại trong tay Bạch Tử Họa cũng thôi đi, xem như tâm phục khẩu phục, nhưng nếu bại trong tay một tên thư sinh thối tha thì hắn chịu thế quái nào được. Vậy nên dù có lấy thân phận nữ lên sàn, Sát Thiên Mạch này cũng phải là người đẹp nhất trong tất cả mọi người. </p> 
+ <p> Sau đó ngày càng nhiều người tự giới thiệu bản thân, đúng là môn gì cũng có. Võ thuật, quyền pháp, ám khí, trồng cây, điêu khắc… Đừng nói học trò phía dưới, ngay cả Tần viện trưởng cũng không ngừng lau mồ hôi, rốt cuộc ông đã mời đám người nào tới thế này! </p> 
+ <p> Hoa Thiên Cốt vừa đói lại vừa mệt, lúc ra khỏi nhà Sênh Tiêu Mặc dốc hết sức bình sinh, nhét vào người nàng cái thứ gì đó tên là “Áo giữ eo,” thắt lưng chặt tới nỗi làm nàng sắp nghẹt thở, chỉ thấy đầu óc xoay mòng mòng, nữ sinh bên cạnh tốt bụng đỡ lấy nàng. </p> 
+ <p> “Cậu không sao chứ?” </p> 
+ <p> Hoa Thiên Cốt khoát tay, ngay cả nói cũng không nên lời, mặt sưng thành màu gan heo, lúc này bỗng nghe thấy một giọng nói trong trẻo nhưng lạnh lùng. </p> 
+ <p> “Ta là Bạch Tử Họa, ta sẽ dạy cho các trò, kiên nhẫn là gì.” </p> 
+ <p> Tựa như một dòng nước chảy vào lòng, thoáng đưa tới cảm giác man mát, nhưng nghe giới thiệu trên đó, nàng biết mình sau này thảm rồi. Vốn tưởng rằng tới học viện chỉ để học tranh chữ, học tứ thư ngũ kinh thôi, ai ngờ lại áp lực như thế. </p> 
+ <p> Bên trên có khoảng ba mươi vị giáo sinh, sau khi giới thiệu xong hết rồi, thì bắt đầu bốc thăm phân lớp. </p> 
+ <p> Lúc này người trên bục đều vểnh tai, bởi vì tới bây giờ bọn họ vẫn không có một ai tìm thấy Hoa Thiên Cốt ở nơi nào, à, đương nhiên là ngoài Đông Phương Úc Khanh đang khẽ vẫy quạt. </p> 
+ <p> “Nam Tường.” </p> 
+ <p> “Có.” Học trò bị gọi tên bước lên bốc thăm, đưa cho Lạc Thập Nhất. </p> 
+ <p> “Lớp Mai.” Nghe thấy tên lớp mình, liền đi về hàng lớp. </p> 
+ <p> “Hỏa Tịch, lớp Trúc.” </p> 
+ <p> “Lưu Hỏa, lớp Trúc.” </p> 
+ <p> “Như Sương, lớp Lan.” </p> 
+ <p> … </p> 
+ <p> Mọi việc đúng như kế hoạch, U Nhược, Hỏa Tịch, Vũ Thanh La, Đường Bảo và đệ tử Trường Lưu hoặc các phía khác phần lớn đều vào lớp Trúc với Hoa Thiên Cốt. Khác với những người làm giáo sinh, đa số đều bị xóa trí nhớ. </p> 
+ <p> Cuối cùng, cũng nghe thấy cái tên quen thuộc vang lên: “Hoa Thiên Cốt.” </p> 
+ <p> Người trên bục cũng bất giác ngừng thở, trò chơi đợi suốt mười lăm năm cuối cùng đã bắt đầu rồi. </p> 
+ <p> Gọi hai lần, phía dưới không có động tĩnh, Lạc Thập Nhất tiếp tục gọi. </p> 
+ <p> Hoa Thiên Cốt lảo đảo nửa tỉnh nửa mê, lúc này mới nhận ra tới lượt mình lên bốc thăm. Nàng cố gắng dịch đôi chân to lớn, đi ra khỏi hàng, tới trước mặt Lạc Thập Nhất, Lạc Thập Nhất choáng váng há hốc miệng nhìn nàng. </p> 
+ <p> “Bé con!” Chiếc quạt tròn trong tay Sát Thiên Mạch cũng rơi xuống đất, bật dậy khỏi ghế. Hắn nheo mắt quan sát, tuy béo tới hơi biến dạng, nhưng khuôn mặt nhỏ nhắn kia không phải là Hoa Thiên Cốt thì là ai. </p> 
+ <p> Sát Thiên Mạch lảo đảo suýt ngất, Mặc Băng tiên cuống quít đỡ lấy hắn, cũng kinh ngạc trợn tròn mắt. </p> 
+ <p> Xung quanh yên tĩnh tới kì lạ, Hoa Thiên Cốt hồn nhiên lấy thăm ra xem, lớp Trúc. </p> 
+ <p> Thở phào, chắc sắp xong rồi ấy nhỉ, nàng đói không thể chịu được nữa rồi. Loạng choạng đi về hàng, không hề nhận ra tất cả đôi mắt trên bục đều đang đau đớn tột cùng nhìn nàng. </p> 
+ <p> Thái dương dường như cũng không chịu nổi phải trốn vào mây, một trận gió lạnh thổi tới, mũi ngưa ngứa, Hoa Thiên Cốt ngoác miệng. </p> 
+ <p> “Hắt xì.” </p> 
+ <p> Đúng lúc đó một tiếng vải rách cũng vang lên. Nàng cứng đơ, lưng lạnh toát, hở toạc một lỗ lớn, cái bộ áo giữ eo kia hi sinh quang vinh, thịt của nàng chen lấn nhau chạy ra ngoài. </p> 
+ <p> Lập tức thấy thoải mái cả người, Hoa Thiên Cốt hít sâu một hơi, nhưng cơ thể không chịu nghe lời khuỵu xuống, ngất đi. </p> 
+ <p> Toàn trường im lặng ba giây mới định thần lại, Lạc Thập Nhất và Mặc Băng tiên chạy vọt tới đầu tiên. </p> 
+ <p> Sát Thiên Mạch xắn tay áo mắng to: “Sênh Tiêu Mặc khốn kiếp, ông đây liều mạng với ngươi!” </p> 
+ <p> Khi Hoa Thiên Cốt tỉnh lại thì trời đã tối, nàng đang nằm trong nhà mình. </p> 
+ <p> “Cha! Con đói!” Vừa mở miệng đã hét luôn. </p> 
+ <p> “Đợi đã.” </p> 
+ <p> Chẳng mấy chốc, Sênh Tiêu Mặc bưng một bát cháo từ ngoài vào, Hoa Thiên Cốt sung sướng thấy trong bát có mấy hạt gạo và hai miếng thức ăn, húp sột soạt hết sạch. </p> 
+ <p> “Cha! Con vẫn đói.” </p> 
+ <p> “Đói đói đói, suốt ngày chỉ biết kêu đói! Bảo con ngoan ngoãn học hành, vậy mà vừa khai giảng đã khiến cha xấu hổ như thế!” Sênh Tiêu Mặc không nhịn được đưa tay cốc trán nàng. </p> 
+ <p> Hoa Thiên Cốt buồn rười rượi, ôm lấy ống tay áo hắn tiện lau mồm luôn. Nàng ngẩng đầu lên mới nhận ra gì đó bất thường. “Cha, mặt cha sao thế?” </p> 
+ <p> Một bên mắt gấu trúc to thật đấy! </p> 
+ <p> Sênh Tiêu Mặc tức giận ôm ngực nói: “Bị đụng!” </p> 
+ <p> Không biết ngượng mà còn hỏi, chẳng phải là nàng hại à, Sát Thiên Mạch cõng nàng về, vừa vào cửa đã tương luôn một cú. </p> 
+ <p> Haizz… đúng rồi đấy, ôm không nổi, không phải vấn đề thể trọng, mà là kích cỡ, đành phải cõng về như bao cát, Sát Thiên Mạch tức đến tái mặt. </p> 
+ <p> Nhưng chuyện này sao trách hắn được chứ, ăn là tội không ăn cũng là tội. </p> 
+ <p> Thật không ngờ hắn đường đường là một Nho tôn, phải làm bảo mẫu thì cũng thôi, lại còn lạc vào bước bị người ta đánh mà không có lí do đánh lại, haizzz… </p> 
+ <p> Hôm sau Hoa Thiên Cốt tới học viện, nói mãi, ăn một cái màn thầu mới chịu đi học. </p> 
+ <p> Trong lớp, nàng cứ nhìn chằm chằm cô gái ngồi kế bên đang ăn bánh nướng, liên tục nuốt nước miếng. </p> 
+ <p> “Cậu muốn không?” Đó là nữ sinh hôm qua đỡ nàng, cực kì xinh đẹp. </p> 
+ <p> Hoa Thiên Cốt không hề khách khí cầm lấy bánh nướng gặm lấy gặm để. </p> 
+ <p> “Tớ là U Nhược, hôm qua cậu bị ngất, giờ ổn chưa?” </p> 
+ <p> “Không sao.” Hoa Thiên Cốt lắc đầu, “Tớ chỉ đói thôi, cha tớ muốn tớ giảm béo.” </p> 
+ <p> Nữ sinh xinh xắn lanh lợi mặc áo xanh ngồi bên trên cũng quay đầu lại: “Tớ còn thừa chút bánh hoa đào, cậu ăn không?” </p> 
+ <p> Hoa Thiên Cốt cám ơn luôn mồm, tí thì khóc òa lên, thì ra học viện tuyệt như thế này, nàng còn lo mình tới đây sẽ bị bắt nạt. </p> 
+ <p> “Tớ là Đường Bảo, cậu tên là gì?” </p> 
+ <p> “Hoa Thiên Cốt.” </p> 
+ <p> “Cậu không muốn giảm béo à?” </p> 
+ <p> “Muốn, nhưng tớ còn muốn ăn hơn.” </p> 
+ <p> “Vậy sau này có gì ngon tớ sẽ chừa lại một ít rồi mang tới cho cậu.” </p> 
+ <p> “Tớ cũng thế.” U Nhược cười tủm tỉm, nghiêng người chọc chọc mặt Hoa Thiên Cốt, cứ chọc là có lỗ. </p> 
+ <p> Hoa Thiên Cốt cảm động gật đầu. </p> 
+ <p> Chưa qua mấy ngày, Hoa Thiên Cốt đã làm quen được với mọi người xung quanh, thì ra kết bạn không khó như nàng vẫn nghĩ, tuy cũng có người chế giễu nàng vì nàng béo, sau đó nhận ra cho dù thế nào Hoa Thiên Cốt đều cười ngây thơ không hề giận dữ, cũng biết là chẳng có ích gì. Tinh lực của mọi người, về cơ bản thì đều nhắm vào cái vị giáo sinh. </p> 
+ <p> Phần lớn các môn học đều là tự chọn, Hoa Thiên Cốt tự chọn môn nấu nướng của Liệt Hỏa và hội họa của Mặc Băng tiên, sau đó bị Đường Bảo lôi tới đăng kí môn của Đông Phương Úc Khanh, rồi lại bị U Nhược kéo tới đăng kí môn của Bạch Tử Họa, cuối cùng Sát Thiên Mạch tự tìm đến cửa, ép nàng phải chọn môn của mình, làm Hoa Thiên Cốt chẳng hiểu mô tê gì cả. </p> 
+ <p> Còn các vị thần tiên vốn muốn nhân cơ hội này chen chân vào mối quan hệ giữa nàng và Bạch Tử Họa, thể hiện sức quyến rũ của mình có thể thắng được Trường Lưu thượng tiên nên hăng hái tham gia, sau khi nhìn thấy diện mạo bây giờ của Hoa Thiên Cốt thì một nửa đã bỏ cuộc ngay trong ngày, không theo đuổi nữa, chỉ đứng ngoài hóng chuyện. </p> 
+ <p> Những người còn lại có khả năng thắng cao nhất là Bạch Tử Họa, Đông Phương Úc Khanh, Sát Thiên Mạch, Mặc Băng tiên. Nhưng ngoài Sát Thiên Mạch suốt ngày lượn quanh Hoa Thiên Cốt, chốc thì đưa nàng đi hội, chốc thì mang nàng đi thả diều, chốc thì đưa nàng tới quán ăn, thì những người khác đều không có động tĩnh gì. </p> 
+ <p> Sát Thiên Mạch vì thỏa thuận ít nhất phải sau ba tháng mới được nói với Hoa Thiên Cốt mình là nam, đã mất tiên cơ, cho nên ra sức lấy lòng nàng, định thắng bằng cách lâu ngày sinh tình. </p> 
+ <p> Hoa Thiên Cốt cũng nhận ra hình như đột nhiên có rất nhiều người vây quanh nàng, có chút khó chịu. Nhưng ngoài ăn ra thì những chuyện khác nàng không để ý lắm. Thỉnh thoảng nhận được hoa tươi, quà hoặc thư tình của người khác, nàng cũng chỉ cho rằng đó là trò đùa dai. Những gì ăn được thì để lại, còn đâu ném tất. </p> 
+ <p> Vì thế mọi người nắm được bí quyết, ai có đồ ăn ngon thì Hoa Thiên Cốt sẽ ngoan ngoãn đi với người ấy, ngày nào cũng dùng đồ ăn ngon dụ dỗ. Hoa Thiên Cốt cảm thấy khó hiểu, sao lại có nhiều giáo sinh và bạn học muốn mời nàng ăn cơm thế? </p> 
+ <p> Hôm nay, Hoa Thiên Cốt, Đường Bảo và U Nhược sau khi ăn với nhau xong thì cùng về nhà. </p> 
+ <p> Người bình thường để tránh nghi ngờ, thường mời cả ba nàng luôn, Lạc Thập Nhất cũng thế. </p> 
+ <p> Nhưng U Nhược lại để ý thấy, những người khác đều ra sức gắp cho Hoa Thiên Cốt thì Lạc Thập Nhất lại ra sức gắp cho Đường Bảo. </p> 
+ <p> “Thiên Cốt, giáo sinh trong học viện hình như ai cũng thích cậu.” </p> 
+ <p> Hoa Thiên Cốt gật đầu: “Có thể cha tớ quen với bọn họ, hoặc là đi cửa sau để bọn họ để ý tớ nhiều hơn.” Hoa Thiên Cốt cảm thấy đây là lời giải thích hợp lí nhất. </p> 
+ <p> “À, cha cậu đâu, sao hôm nay không thấy bác ấy?” U Nhược ngượng ngùng hỏi, mỗi lần tới đây, thấy dáng vẻ lười nhác kia của Sênh Tiêu Mặc là tim con bé đập loạn hết cả lên. </p> 
+ <p> “Hừm, chắc đi chọi dế rồi, lát sẽ về thôi.” </p> 
+ <p> “Thiên Cốt, mẹ cậu đâu?” </p> 
+ <p> Hoa Thiên Cốt vò đầu: “Tớ không biết, tớ hỏi cha tớ thì ông ấy lười nói, chỉ bảo là chạy theo trai rồi.” </p> 
+ <p> U Nhược lập tức xót xa nhìn nàng: “Cha cậu một mình nuôi cậu lớn chắc chắn rất vất vả, tớ thấy bác ấy còn trẻ lắm, sao không tìm người khác.” </p> 
+ <p> “Ông ấy suốt ngày chơi bời lêu lổng, có tìm người khác chắc cũng chạy nốt.” Hoa Thiên Cốt ăn no rồi nhưng miệng vẫn liên tục cắn hạt dưa. </p> 
+ <p> U Nhược hò hét trong bụng, không đâu, nếu như là nó thì nhất định sẽ không chạy. </p> 
+ <p> Đường Bảo hỏi: “Thiên Cốt, cậu có ý trung nhân không? Nhà tớ đưa tới học viện là muốn tớ tìm một người tốt.” Người trong lời Đường Bảo đương nhiên cũng là nhân vật phụ các vị tiên đóng. Ngoài Hoa Thiên Cốt và Sênh Tiêu Mặc, những người khác xuống trần còn chưa tới một năm. </p> 
+ <p> “Ý trung nhân?” </p> 
+ <p> “Đúng thế, cậu không thấy Hỏa Tịch và Vũ Thanh La lớp ta đó hả? Nghe nói người nhà cũng rất vừa lòng, có lẽ học xong sẽ thành thân.” </p> 
+ <p> Hoa Thiên Cốt nghiêng đầu ngẫm nghĩ, người nàng có ấn tượng rõ nét nhất chỉ có ba người, một là Đông Phương Úc Khanh, luôn thích cười híp mắt với nàng, lúc nắm tay nàng dạy nàng viết chữ tim nàng đập rất nhanh. Một người là Mặc Băng tiên, kĩ thuật vẽ tranh vượt trội hơn người, đi đâu cũng nom giống một bức tranh thủy mặc. Hoa Thiên Cốt thường xuyên cảm nhận ánh mắt của người đó, thoáng đượm đau thương rơi xuống người mình từ rất xa, khiến nàng có cảm giác tội lỗi. Người còn lại chính là Lưu Hỏa trong lớp, người khác đều mang đồ cho nàng ăn, chỉ có cậu ấy nhớ cho nàng uống. Mỗi lần nàng ăn nhiều bị nghẹn, cậu ấy như thể trở thành đại cứu tinh. Hơn nữa cậu ấy rất tuyệt vời, kết quả học tập cực tốt, bất kể học gì cũng học giỏi nhất, khiến một kẻ ngốc như nàng vô cùng khâm phục. </p> 
+ <p> “Nói tới ý trung nhân, tớ vẫn rất lo lắng.” Hoa Thiên Cốt nhíu mày. </p> 
+ <p> “Lo cái gì?” </p> 
+ <p> “Lo sau này tớ sẽ gả ột tên ngốc.” </p> 
+ <p> “Hả?” Đường Bảo và U Nhược đều phì cười. </p> 
+ <p> “Đúng mà, thật đấy, từ khi sinh ra trên tay tớ đã có một cái bớt kì lạ, là một hàng chữ!” </p> 
+ <p> Hoa Thiên Cốt vén tay áo lên cho hai người xem. </p> 
+ <p> Trên cánh tay quả thật có bốn chữ. </p> 
+ <p> Ta, yêu, kẻ, ngốc. </p> 
+ <p> U Nhược và Đường Bảo lập tức nghẹn họng: “Không phải là cậu tự viết à?” </p> 
+ <p> “Tất nhiên không phải rồi, dù có dùng cách gì cũng không rửa sạch được. Mỗi lần tớ hỏi cha chuyện này là thế nào, cha tớ đều cười nghiêng ngả đập bàn, cứ luôn khen ai đó giỏi, tớ nghe mà chẳng hiểu gì ráo.” </p> 
+ <p> “Quả thật có hơi kì lạ.” </p> 
+ <p> “Đúng vậy, hơn nữa rất kì diệu, chẳng lẽ sau này tớ sẽ thích một tên ngốc thật sao?” </p> 
+ <p> Đường Bảo cười khúc khích: “Chỉ cần thích, có ngốc hay không đều chẳng hề gì!” </p> 
+ <p> “Nói cũng đúng, Đường Bảo, cậu có ý trung nhân rồi à?” </p> 
+ <p> Đường Bảo không hề ngại ngần gật đầu thừa nhận, cười hì hì lớn tiếng tuyên bố: “Tớ thích Lạc phu tử! Không ngờ chàng lại biết tớ không thích ăn thịt mà thích ăn rau, mấy hôm trước còn mua mứt hoa quả cho tớ và dạy tớ cắt giấy nữa.” </p> 
+ <p> U Nhược không thể hiểu nổi, Hoa Thiên Cốt lại cực kì đồng cảm gật đầu: “Tớ cũng chỉ mong tướng công tương lai của tớ không chê tớ béo, có thể đối xử tốt với cha, không cản tớ ăn là được, ngốc một chút cũng không sao.” </p> 
+</div>

@@ -1,0 +1,68 @@
+<div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
+ <p> Những ngày cuối tuần luôn là những ngày đặc biệt với tất cả mọi người. Họ làm lụng vất vả cả tuần để có 2 ngày nghỉ ngơi, vui chơi cùng những người mình yêu mến. Tuy nhiên, có những người đợi đến cuối tuần chỉ vì để bản thân được chìm đắm vào công việc yêu thích. </p> 
+ <p> Không khí buổi sáng thứ bảy ở khu chung cư Đại Khang cũng thật thú vị. Khánh Nguyên cầm một tách cà phê nóng, tựa lưng vào tường cạnh của sổ, cô nhấm nháp từng ngụm vừa nhìn đám trẻ đang chơi đùa ở công viên bên dưới. Những đứa trẻ la hét, chỉ trỏ, chạy thục mạng đuổi theo một trái banh rồi té ngã khiến bố mẹ chúng ngồi cạnh đó không lúc nào được thả lỏng. </p> 
+ <p> Cốc cốc cốc! Tiếng gõ cửa dứt khoát khiến Minh Hải bật cả người dậy từ chiếc ghế sofa dài. Khỉ thật, ai mà lại gọi mình giờ này nhỉ? Anh bực mình càu nhàu, ngồi dậy vò đầu bứt tóc, rồi đi đến cửa trước. </p> 
+ <p> - Ai thế? Minh Hải mở hé cửa nói vọng ra. </p> 
+ <p> - Là tôi đây! </p> 
+ <p> Thấy Khánh Nguyên bên ngoài, Minh Hải vội vàng chạy vào máy giặt tìm một cái quần tử tế nhất để mặc. Sau đó, anh ra mở cửa với vẻ mặt bình thản. </p> 
+ <p> Khánh Nguyên đưa ra trước mặt Minh Hải một từ rơi. </p> 
+ <p> - Cái gì đây? Anh chàng hỏi. </p> 
+ <p> - Anh có nhu cầu đổi gas không? </p> 
+ <p> - Không. Minh Hải dứt khoát, tay chống nạnh tựa vào cửa. </p> 
+ <p> - Theo như tờ rơi này thì đổi 2 bình sẽ được tặng một cái bếp gas mới. </p> 
+ <p> - Tôi nghĩ là của tôi vẫn còn nhiều. </p> 
+ <p> - Để tôi vào xem thử. Nói xong Khánh Nguyên xông thẳng vào nhà. </p> 
+ <p> - Này!!! Minh Hải can ngăn không được, lắc đầu đi theo. </p> 
+ <p> Vào đến bếp, sau khi xem xét bình gas, Khánh Nguyên rút ra kết luận. </p> 
+ <p> - Bình của anh nhiều hơn của tôi một chút. </p> 
+ <p> - Đấy tôi nói mà. </p> 
+ <p> - Dù vậy, tôi có cách này rất hay. </p> 
+ <p> - Cách gì? Minh Hải chép miệng. </p> 
+ <p> - Tôi xài gas nhiều hơn, vậy nên tôi sẽ dùng bình của anh, anh dùng bình của tôi. Như vậy, cả hai sẽ hết gas cùng lúc, đổi gas cùng lúc và chúng ta có cái bếp mới. Khánh Nguyên vừa giải thích khuôn mặt vừa tỏ ra hào hứng. </p> 
+ <p> - Hay lắm! Tôi cảm thấy mình bị thiệt... Minh Hải xoa cằm. </p> 
+ <p> - Đâu có. Anh sẽ có cái bếp gas mới. </p> 
+ <p> - Cô hào phóng quá! Nhưng như thế thì cô lại bị thiệt, tôi không muốn dính vào rắc rối. </p> 
+ <p> - E hèm, bù lại, anh sửa miễn phí cho tôi cái máy tính nhé! Hôm qua máy của tôi bị sao đó rồi. Khánh Nguyên tỏ ra yểu điệu một chút. </p> 
+ <p> - Haizz, cuối cùng thì cô cũng lòi cái đuôi ra rồi! </p> 
+ <p> - Nếu cô nhờ tôi sẽ giúp cần gì mất công vậy. </p> 
+ <p> - Đâu có, tôi luôn thích tận dụng mấy cái khuyến mãi đó. Vừa nói, Khánh Nguyên vừa đi ra cửa. </p> 
+ <p> - Dù sao thì cô cũng không nên đánh thức tôi dậy quá sớm vào cuối tuần. Nó có hại cho sự tập trung của tôi. </p> 
+ <p> - Vậy cho tôi xin lỗi nhé! Tôi coi như a đã chấp nhận lời đề nghị rồi đấy. </p> 
+ <p> - Mà khoan đã, lấy số di động của tôi đi. Lần sau chỉ cần nhắn tin là được. Minh Hải đưa một tấm thẻ có mã QR cho Khánh Nguyên. </p> 
+ <p> - Đồng ý! Ah, mà anh mặc quần ngược kìa. Nói xong Khánh Nguyên lanh lẹ quay người đi thẳng. </p> 
+ <p> --- </p> 
+ <p> Buổi tối thứ bảy, Khánh Nguyên đến dự một buổi tiệc cưới nhỏ của Minh Nguyệt, một người bạn thân thời học đại học. Thật ra đã 3 năm kể từ khi ra trường, Khánh Nguyên không có dịp nào gặp lại cô bạn nhỏ con lanh lợi ngày xưa. Nhớ lại ngày đó, Khánh Nguyên vốn là người ít nói, lầm lỳ và dĩ nhiên cô không có nhiều bạn. Vậy mà người bạn đầu tiên thời sinh viên lại là một người cực kỳ sôi nổi, thậm chí là có tiếng trong trường về những hoạt động thanh niên. Chính Minh Nguyệt là người lôi cô ra khỏi cái mặc cảm, e thẹn, kiêu kỳ của chính bản thân để thả mình mà sống thoải mái hơn. Minh Nguyệt đã tự động đăng ký cho Khánh Nguyên tham gia đủ thứ việc mà cô thậm chí không hề hay biết, nào là mùa hè xanh, sinh viên tình nguyện, đi từ thiện ở các tỉnh xa, văn nghệ, múa hát liên trường... Còn nhớ ngày xuống miền Tây, đi qua cái cầu khỉ chỉ có đúng một cây nhỏ bắc ngang, trông ọp ẹp không thể tả nổi. Khánh Nguyên lại không biết bơi, lại sợ nước nên cô không dám đi qua, mặc cho cả đám cổ vũ hò hét. Lúc đó, Minh Nguyệt cầm tay kéo cô rồi bảo, mày cứ đi đi, té tao kéo mày lên, đảm bảo qua được rồi mày sẽ muốn đi nữa. Mà đúng thiệt, sự tự tin trong Khánh Nguyên đã ngày càng tăng khi cô cảm thấy cuộc sống có những người bạn tốt vây quanh thật đáng quý biết bao. </p> 
+ <p> Khánh Nguyên bước lên thềm của một nhà hàng sang trọng, bên trong mọi thứ trắng xóa. Trang phục của những tiếp viên cũng trắng sáng sạch sẽ trong ánh đèn mờ ảo không đục không trong. Những cây cột to cùng với đường nét trang trí bên ngoài bằng đá cẩm thạch không chê vào đâu được. Hai tiếp viên một nam một nữ cuối người chào hỏi. </p> 
+ <p> - Chị đi một mình ạ?! </p> 
+ <p> Khánh Nguyên gật đầu rồi đưa thiệp mời để được hướng dẫn. Tiệc cưới được tổ chức ở lầu 1. Khánh Nguyên kiêu kỳ trong chiếc váy dạ hội trắng hồng, cô từ từ bước lên chiếc cầu thang xoắn lớn, bằng đá mài nhẵn. Bên trong phòng tiệc chưa tới 200 người. Đây là một tiệc buffet nên mọi người đi lại và nói chuyện khá thoải mái. Phía gần cửa vào có đặt một bức ảnh to của cô dâu và chú rễ. Khánh Nguyên nhìn khuôn mặt hạnh phúc của bạn mình mà trong lòng ấm áp, mặt cô tự lúc nào nở lên một nụ cười tỏa nắng. </p> 
+ <p> - Khánh Nguyên!!! Minh Nguyệt ôm ghì chặt lấy cô bạn rồi hỏi. </p> 
+ <p> - Mày khỏe không? </p> 
+ <p> - Trời ơi! Mày nhìn đẹp quá đi! </p> 
+ <p> - Tao lấy được anh chồng hơi bị đẹp trai đó nha. Đi, lại đây tao giới thiệu ảnh cho! Nói rồi cô kéo Khánh Nguyên đi cũng y như những ngày trước cô đã từng như vậy. </p> 
+ <p> --- </p> 
+ <p> Minh Nguyệt giới thiệu Khánh Nguyên với đầy đủ họ hàng của cô có mặt ở buổi tiệc, gần như không thiếu một ai. Cô nói rằng, cô có một người bạn vừa xinh đẹp vừa giỏi giang như thế nào và nó khiến cô cảm thấy hạnh phúc ra sao khi được cùng với Khánh Nguyên trải qua quãng đời sinh viên. Cô cũng nhớ đến chuyện làm thế nào mà 2 đứa gặp nhau, trong kỳ thi cuối kỳ năm nhất nếu không có Khánh Nguyên thì chắc cô đã bị rớt môn triết học rồi. Nói xong thì cô khoái chí cười to làm cho Khánh Nguyên cũng phải ngượng ngùng. </p> 
+ <p> Khánh Nguyên ở tới cuối buổi và cô uống khá nhiều. Minh Nguyệt hứa là sẽ đưa cô về nếu như quá say. Tuy nhiên, xem ra cô dâu lại là người xỉn trước. Chú rể đành cáo lỗi và đưa cô bạn sôi nổi của Khánh Nguyên về nhà trước. </p> 
+ <p> Đã 23 giờ, Khánh Nguyên bốc điện thoại gọi taxi. </p> 
+ <p> - Alo! Cho tôi một xe 4 chỗ đến địa chỉ... </p> 
+ <p> - Cô đã uống rượu đấy ah? </p> 
+ <p> - Xin lỗi? Cho tôi một xe đến... </p> 
+ <p> - Ah được rồi, tôi sẽ đến ngay. </p> 
+ <p> Một lát sau: </p> 
+ <p> - Cô tự vào xe được không? </p> 
+ <p> - Sao lại là... anh? </p> 
+ <p> - Cô gọi tôi mà, xe 4 chỗ mà, đúng chứ? </p> 
+ <p> - Tôi gọi taxi mà. Nói xong Khánh Nguyên lật đật bật điện thoại lên xem lại. </p> 
+ <p> Khánh Nguyên mở cửa bước vào xe khá từ tốn. Mặc dù cô hơi say nhưng vẫn nhìn thấy đường đi. </p> 
+ <p> - Anh có xe hơi sao? </p> 
+ <p> - Cô ngạc nhiên dữ vậy? Không, xe của bạn. Nó đi nước ngoài, gửi ở chỗ tôi dài hạn. </p> 
+ <p> - Không, tôi ngạc nhiên là anh có thể lái ô tô. Anh đâu có đi ra ngoài mấy đâu, đúng không? </p> 
+ <p> - Cô đeo dây an toàn đi. Tôi lái đây! </p> 
+ <p> Về đến khu chung cư Đại Khang, Minh Hải đỡ Khánh Nguyên vào nhà của cô. </p> 
+ <p> - Cô nên đi ngủ luôn đi. Tắm giờ này nguy hiểm lắm. </p> 
+ <p> - Tôi không tắm tôi không ngủ được. </p> 
+ <p> - Vậy tôi sẽ ngồi đây chờ, chừng nào cô đi ngủ tôi sẽ về. </p> 
+ <p> - Anh tính giở trò gì vậy? </p> 
+ <p> - Cô mà gục luôn trong phòng tắm sao? Tôi ở đây coi chừng thôi. </p> 
+ <p> Khánh Nguyên cười trừ rồi đi tắm. Một lát sau cô đi ra, mặt mày tỉnh táo hơn, nhưng lộ rõ vẻ bướng bỉnh, thách thức nào đó. </p> 
+ <p> - Cô có vẻ khỏe đấy. Tuy nhiên, lần sau đừng bao giờ làm thế. Khi đổ bệnh, sẽ không làm được gì hết mà còn rất mệt nữa. Nói xong, Minh Hải quay đi về nhà mình. Anh mỉm cười khi nghe từ phía sau, một tiếng cảm ơn lí nhí phát ra. </p> 
+</div>

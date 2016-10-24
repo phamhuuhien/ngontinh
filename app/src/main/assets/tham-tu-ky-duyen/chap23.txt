@@ -1,0 +1,128 @@
+<div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
+ <strong> Chương 23 </strong>
+ <p> --- </p> 
+ <p> Đã gần 12 h trưa, </p> 
+ <p> Việc đầu tiên tụi mình cần làm là kiếm một quán ăn. Mình đã cảm thấy đói bụng rồi, nên đánh vào vai Khôi Nguyên, lúc đó ảnh đang lái xe. </p> 
+ <p> - Việc gì nữa đây, đồ phiền toái. </p> 
+ <p> - Tôi đói rồi. </p> 
+ <p> - Trời ạ! Mới một buổi sáng thôi cô đã ăn ba lần rồi đấy. </p> 
+ <p> - Đó là ăn vặt, không thể tính là một bữa được. </p> 
+ <p> - Thôi được rồi, cô muốn ăn gì đây? </p> 
+ <p> - Tùy anh thôi! Anh biết gần đây có quán cơm nào ngon không? </p> 
+ <p> - Không. Tôi làm gì có tâm hồn ăn uống. </p> 
+ <p> - Có quán mì hoành thánh, ở số 6 đường Lê Hồng Phong, anh ăn ở đó bao giờ chưa? </p> 
+ <p> - Chưa ăn. </p> 
+ <p> - Vậy đến đó đi. </p> 
+ <p> - Cô trả tiền đấy nhé! Tôi không mang theo tiền. </p> 
+ <p> - Cái anh này, có khi nào tôi bắt anh trả đâu. </p> 
+ <p> - Vậy thì được. </p> 
+ <p> --- </p> 
+ <p> Tụi mình ghé lại quán mì hoành thánh số 6 Lê Hồng Phong. Mình gọi hai tô mì hoành thánh. Quán số 6 ngày nào cũng như ngày nào, rất đông người. Tiếng xôn xao, rầm rì, mọi thứ âm thanh pha trộn với nhau… vang lên không dứt. </p> 
+ <p> Bên ngoài xe cộ tấp nập qua lại. Tiếng còi xe tải, rúc lên inh ỏi giữa phố chợ hối hả. Đó là, giờ cán bộ công nhân viên chức tan sở, và học sinh, sinh viên tan trường về. </p> 
+ <p> Ông chủ vừa trông thấy mình đã chạy đến tươi cười niềm nở: </p> 
+ <p> - Chào con! Lâu rồi mới thấy con ghé. </p> 
+ <p> Ông chủ đã ngoài 60 tuổi, nhưng nhìn vẫn rất trẻ trung, mái tóc và râu của ông đen bóng không có lấy một sợi bạc. Ông chủ tên Vinh, là người rất lạc quan yêu đời. Lúc nào cũng thấy ông cười rất sảng khoái, tay chân lúc nào cũng hoạt động và thần sắc rất tươi nhuận, tràn trề sinh lực. Ông nói giọng rặc Nam Bộ. </p> 
+ <p> - Dạ! Lâu nay mấy anh chị có ghé tới ăn không chú? </p> 
+ <p> - Họ cũng hay ghé lắm! Đặc biệt là cái cô Ý Nhi đó. Cô ấy thường đến, chú có hỏi về con, nghe nói dạo này con xin nghỉ ở trường để lo việc nhà. </p> 
+ <p> - Vậy hả chú! Ý Nhi thường đi một mình ạ? </p> 
+ <p> - Ý Nhi thường đi với cậu Đình Văn. Có khi đi chung với mấy cô trong trường Sao Mai của con đấy. </p> 
+ <p> - Dạ. </p> 
+ <p> Anh phục vụ phong thái ôn nhu, lịch thiệp bưng lên một khay có hai tô mì hoành thánh. Một tay bưng khay, còn một tay để sau lưng. Đặt khay xuống, anh ta còn hài hước đưa tay mời khách giống như cách tiếp đãi, trong các nhà hàng sang trọng vậy. </p> 
+ <p> - Cám ơn anh Hiếu! – Mình mỉm cười với anh phục vụ. </p> 
+ <p> - Thôi, hai đứa ăn đi, chú không làm phiền nữa. </p> 
+ <p> Nói rồi, chú Vinh bỏ đi quán xuyến công việc buôn bán. </p> 
+ <p> Khi chú Vinh đi rồi, Khôi Nguyên mới hỏi mình: </p> 
+ <p> - Cô hay đến đây ăn lắm à? </p> 
+ <p> - Ừm. Mì hoành thánh ở đây ngon hơn những chỗ khác nhiều. </p> 
+ <p> Mình vừa đáp lời Khôi Nguyên, vừa bỏ gia vị, rồi vắt tí xíu chanh vào tô mì hoành thánh, sau đó đưa sang cho ảnh. </p> 
+ <p> - Anh ăn thử đi. </p> 
+ <p> - Ôi, cô làm cho tôi luôn sao. Cứ làm tôi như em bé vậy. </p> 
+ <p> - Thôi ăn đi mà, đừng lắm chuyện nữa. </p> 
+ <p> - Cám ơn! </p> 
+ <p> Khôi Nguyên lấy muỗng múc thử nước mì xem có ngọt đậm đà không. Cắn thử cục hoành thánh xem có thấm tháp, có dẻo dai, nhân có ngon; có vị đặc biệt không. </p> 
+ <p> - Anh phải bỏ rau sống vào. Giống như tôi vậy này. </p> 
+ <p> - Cô làm ơn nói nhỏ miệng lại một chút. Người ta đang nhìn tôi giống như sinh vật ngoài hành tinh kia kìa. </p> 
+ <p> - Tại vì anh không biết ăn chứ bộ... </p> 
+ <p> - Cô ăn đi, nói nhiều quá! </p> 
+ <p> --- </p> 
+ <p> Chú Vinh cho gọi anh Hiếu lại sai việc: </p> 
+ <p> - Hiếu ơi! Con đi mua thùng bia đem qua nhà anh Khánh giúp chú. </p> 
+ <p> - Dạ. </p> 
+ <p> - À, Hiếu con, khi về ghé qua nhà anh Phương, gọi cho Ngọc, cho Đường chiều ghé lại quán chơi nghe con. Nói là chiều nay chú đãi món gỏi gà. </p> 
+ <p> Anh Hiếu vừa ra khỏi nhà, thì một ông lão ăn xin đi vào. Ông lão tật ở chân, tướng người khọm rọm, áo quần rách rưới tả tơi. Ông lão đến chỗ chú Vinh đang ngồi cầm một xấp tiền với đủ mệnh giá trên tay. 500 ngàn, 100 ngàn, 50 ngàn, 20 ngàn, 10 ngàn, và tiền lẻ các loại. Chú Vinh là một người rất giàu có, chú thường làm từ thiện ở khắp nơi với những bình nước uống và mì chay miễn phí, tên tuổi của chú được đài đưa tin, là một nhà hảo tâm tốt bụng, một tấm gương sáng để xã hội noi theo. </p> 
+ <p> Ông Lão chìa cái nón lá về phía chú Vinh, chú Vinh nhìn ông Lão từ đầu đến chân, không nói gì, chú rút từ cọc tiền dày cộm của mình ra 2 ngàn bạc lẻ cho ông cụ tội nghiệp. Ông cụ cúi đầu tạ ơn, rồi lủi thủi bỏ đi. </p> 
+ <p> Khôi Nguyên trông thấy cảnh đó, ảnh quay sang mình nói: </p> 
+ <p> - Ngọc Diệp, cô cho tôi mượn 100 ngàn được chứ! </p> 
+ <p> - Tất nhiên là được, nhưng anh cần tiền làm gì? </p> 
+ <p> - Cứ đưa cho tôi đi. </p> 
+ <p> Mình mở ví lấy cho ảnh 100 ngàn. </p> 
+ <p> Khôi Nguyên cầm lấy 100 ngàn chạy theo ông lão ăn xin lúc nãy, anh ấy cho ông lão 100 ngàn bạc trước sự chứng kiến của nhiều thực khách và cả chú Vinh nữa. </p> 
+ <p> Ảnh quay lại chỗ ngồi, ăn cho hết tô mì hoành thánh. </p> 
+ <p> Bây giờ mình mới hỏi ảnh: </p> 
+ <p> - Tại sao anh lại làm vậy? </p> 
+ <p> - Cô không thấy sao còn hỏi. Khi người giàu ban phát cho cô những ân huệ, cô cứ tưởng rằng họ tôn trọng và quý mến cô nên mới làm vậy, cô nghĩ họ hào phóng... nhưng không phải, họ chỉ đang lợi dụng cô, những gì họ cho cô không bằng miếng dẻ rách, lau nhà của họ, nên cô đừng lấy đó làm sung sướng, đừng lấy đó mà biết ơn. Chỉ cần cô nhìn sâu vào bản chất, cô sẽ thấy bộ mặt thật của cái gọi “xã hội thượng lưu.” </p> 
+ <p> Khôi Nguyên nói to, cố tình cho mọi người xung quanh, và chú Vinh nghe thấy. </p> 
+ <p> - Khôi Nguyên, tôi ăn xong rồi. Chúng ta đi thôi! </p> 
+ <p> Nghe những lời “chồng mình”... à không, nghe những lời Khôi Nguyên nói xong, từ đó, mình không có thiện cảm với quán ăn đó nữa, có lẽ lập trường của mình không vững vàng, nhưng cảm xúc thì rất thật, mình bỗng mất hết thiện cảm với chú Vinh. </p> 
+ <p> Tụi mình định đứng lên bỏ đi thì... </p> 
+ <p> - Ngọc Diệp! </p> 
+ <p> Có người gọi tên mình, mình quay mặt về nơi tiếng gọi, mình vui sướng reo lên: </p> 
+ <p> - A, anh Đình Văn. </p> 
+ <p> Người đàn ông tướng tá rất phong độ, đẹp trai, lịch lãm bước lại gần. Anh ấy mặc trên người bộ veston chính hãng, bộ đồ gam màu xám với từng đường nét bóng mượt, anh ấy đi giày tây hàng hiệu, trên tay trái đeo chiếc đồng hồ Rolex... </p> 
+ <p> Đình Văn có thân hình vạm vỡ săn chắc, cuồn cuộn cơ bắp, là do anh ấy rất chăm đến phòng tập thể hình. Khuôn mặt của anh ấy đậm chất nam tính, nếu so với Khôi Nguyên thì không đẹp bằng, nhưng so với nhiều người đàn ông khác thì Đình Văn vẫn được xếp vào hàng mỹ nam. Tóc anh ấy được cắt theo kiểu đầu thời thượng giống như anh Sơn Tùng mtp – thần thánh của giới trẻ thời bấy giờ. Đứng gần anh Đình Văn người ta rất dễ bị nghiện bởi mùi hương độc đáo, ma mị ảnh sức trên người. </p> 
+ <p> - Lâu rồi mới gặp lại em đấy Ngọc Diệp. Hình như em đổi số điện thoại rồi phải không? </p> 
+ <p> Anh có xin số chỗ Ý Nhi, nhưng gọi thì số máy không liên lạc được. </p> 
+ <p> - Dạ! Anh Đình Văn cũng đi ăn trưa ở đây sao? </p> 
+ <p> - Ừm, ủa! Mà chú Vinh đâu rồi nhỉ? Nãy giờ không thấy mặt mũi chú. </p> 
+ <p> Anh Đình Văn nhìn quanh nhìn quất để tìm chú Vinh. </p> 
+ <p> Mình không nói cho anh Đình Văn biết chuyện vừa xảy ra. Chú Vinh bị quê quá lánh mặt đi rồi. </p> 
+ <p> - Chú ấy mới đó mà. Chắc đâu sau nhà thôi. </p> 
+ <p> - Ngọc Diệp này! </p> 
+ <p> - Dạ. </p> 
+ <p> - Nghe nói em bị ốm sao? </p> 
+ <p> Anh Đình Văn tỏ ra quan tâm mình. </p> 
+ <p> Mình mỉm cười đáp: </p> 
+ <p> - Dạ. Nhưng khỏi rồi anh. </p> 
+ <p> - Khi nào em tính đi làm lại? </p> 
+ <p> - Chắc cũng gần rồi á! Em bắt đầu thấy nhớ công việc và bọn trẻ rồi. Anh có thường hay đến trường không? </p> 
+ <p> - Tiếc là anh không đến được, công việc chất đống lên. Em cũng biết mà, điều hành mấy cái công ty cũng rắc rối lắm! </p> 
+ <p> - Dạ. </p> 
+ <p> (...) </p> 
+ <p> (...) </p> 
+ <p> (...) </p> 
+ <p> Mình liếc trông thấy bộ dạng của Khôi Nguyên thật “thảm hại”, anh ấy đứng đút tay túi quần, mắt nhìn đi hết chỗ này đến chỗ khác, làm như kiểu không quan tâm gì đến cuộc trò chuyện của mình với anh Đình Văn. </p> 
+ <p> - Ngọc Diệp! </p> 
+ <p> - Dạ. </p> 
+ <p> - Lấy số của anh nha </p> 
+ <p> Ánh mắt anh Đình Văn nhìn mình đầy ý tứ. Anh ấy rút chiếc điện thoại Tag Heuer Meridiist ra đưa cho mình bấm số. </p> 
+ <p> Một số thực khách sành về điện thoại, liếc nhìn tụi mình. Mình nghe cả tiếng họ đang xì xào bàn tán về chiếc điện thoại mình đang cầm trên tay. </p> 
+ <p> “Gần 500 triệu một chiếc đấy” </p> 
+ <p> “Chà, anh ta giàu quá!” </p> 
+ <p> “Cô ấy thật may mắn!” </p> 
+ <p> ... </p> 
+ <p> Mình chẳng hiểu biết gì nhiều về điện thoại. Ảnh đưa cho thì cầm thôi, mình mò mẩn chẳng biết cả cách mở khóa. </p> 
+ <p> - Để anh! </p> 
+ <p> Đình Văn nói. </p> 
+ <p> - Dạ. </p> 
+ <p> Mình đưa lại điện thoại cho Đình Văn. </p> 
+ <p> - Em đọc số đi. </p> 
+ <p> - Dạ, “0” “1” “6”... </p> 
+ <p> Mình đọc số điện thoại mới cho ảnh. </p> 
+ <p> - Anh m... </p> 
+ <p> Đình Văn định nói với mình điều gì đó nữa, thì Khôi Nguyên bất ngờ nắm tay mình kéo đi trước sự ngỡ ngàng của Đình Văn. </p> 
+ <p> Khôi Nguyên cứ nắm riết lấy tay mình dắt ra chỗ đậu xe. </p> 
+ <p> - Anh buông tôi ra! Anh làm cái trò gì vậy hả? </p> 
+ <p> Mình vùng ra khỏi tay Khôi Nguyên. </p> 
+ <p> - Cô thật quá lắm! </p> 
+ <p> - Tôi làm sao hả? Anh bị điên mất rồi, đồ mất phép lịch sự. Có biết người đó là ai không hả? </p> 
+ <p> - Tôi chẳng cần biết gã đó là đứa quái quỷ nào. Tôi chỉ biết cô đang vi phạm hợp đồng đấy! </p> 
+ <p> - Tôi vi phạm hợp đồng gì chứ? Anh không còn lý lẽ nào thỏa đáng hơn nữa sao? </p> 
+ <p> - Cô quên mình đã hứa gì với tôi rồi hả? Cô đang định phủi sạch hết cái trách nhiệm đó sao? </p> 
+ <p> - Ơ, anh... </p> 
+ <p> - Tôi đã nói gì nào? Từ đây cho đến lúc tôi nghĩ ra sẽ muốn cô chịu trách nhiệm gì, cô thuộc về tôi, và không được hẹn hò với ai cả, vậy mà cô dám... </p> 
+ <p> Trời ơi! Tâm Đan ơi! Mình không còn dám tin vào tai, mắt của mình nữa. Anh ấy đang ghen, đang ghen đó Tâm Đan à! </p> 
+ <p> Mình được một phen sướng rơn cả người, đó thấy chưa, mình đã nói rồi, không một gã trai nào có thể vượt qua được sự cám dỗ của mình, và Khôi Nguyên cũng không ngoại lệ. </p> 
+ <p> - Còn chưa chịu lên xe! </p> 
+ <p> Khôi Nguyên hối thúc mình, ảnh làm như mình sắp bị bắt đi không bằng. </p> 
+ <p> Không còn cách nào khác nữa, mình đành phải lên xe đi với anh ấy thôi. Chỉ tội nghiệp cho anh Đình Văn, đang còn chưa hết bàng hoàng ở trong quán chú Vinh. </p> 
+</div>

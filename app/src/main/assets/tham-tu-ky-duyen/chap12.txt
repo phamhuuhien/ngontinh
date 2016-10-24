@@ -1,0 +1,267 @@
+<div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
+ <strong> Chương 12 </strong>
+ <p> Người đã gọi cho Khôi Nguyên là bà Hiền. </p> 
+ <p> Lúc tụi mình đang nói chuyện với mẹ Kiều Oanh thì Bà Hiền đang ở dưới đồi trà. </p> 
+ <p> Bà ấy đã đến tìm tụi mình nhưng ngại lên con dốc cao, vì tuổi già sức yếu, lại mắc bệnh đau lưng. </p> 
+ <p> Tụi mình chào cô Thúy ra về. Trước khi đi, Khôi Nguyên đã lấy số điện thoại của cô Thúy để liên lạc khi cần thiết. </p> 
+ <p> --- </p> 
+ <p> Đưa Bà Hiền lên nhà, để bà ngồi ở ghế sofa, Khôi Nguyên hỏi thăm tình hình sức khỏe của bà, còn mình thì đi rót cho bà ly trà nóng. Kiểu gì thì kiểu, người già và đặc biệt là những người như bà Hiền phải có chút đậm nhạt thì kể chuyện mới ngọt giọng. </p> 
+ <p> - Trà đây ạ, bà uống cho ấm bụng. </p> 
+ <p> Mình bưng ly trà vừa mới rót đưa sang cho bà Hiền. </p> 
+ <p> - Cám ơn cháu, Ngọc Diệp. - Bà Hiển mỉm cười hiền hậu. </p> 
+ <p> - Sức khỏe của bà không tốt, cứ ở nhà tụi cháu sẽ đến thăm; ai lại để bà phải lặn lội đường xa, chịu cực khổ như vậy. </p> 
+ <p> - Bà không thể đợi được Khôi Nguyên à! Đêm qua, bà lại mơ thấy cô Hoàng Lan. Có lẽ cậu đã đúng, cô Hoàng Lan có một nỗi oan nào đó. </p> 
+ <p> - Lần trước bà có nói đến một biến cố, đó là biến cố gì vậy ạ? </p> 
+ <p> Khôi Nguyên đi thẳng vào trọng tâm luôn. </p> 
+ <p> - Đó là biến cố của một người khác, nhưng nó có liên quan đến những chuyện sau này trong gia đình của ông Trịnh Vỹ. </p> 
+ <p> - Của một người khác ư? </p> 
+ <p> - Bà Thủy Tiên - người em kết nghĩa - của ông Trịnh Vỹ, có chồng là một tên vũ phu bệnh hoạn. Bà Thủy Tiên vừa xinh người lại đẹp nết, không hiểu sao lại lấy ông Phước Tuệ làm chồng - một kẻ xem việc đánh vợ là thú vui tiêu khiển. </p> 
+ <p> Hai vợ chồng họ có một người con trai duy nhất tên là Thế Anh. </p> 
+ <p> Ngày nọ, ông Phước Tuệ trở về nhà trong trạng thái bị kích động. Đập phá đồ đạt trong nhà đã là lệ thường. Ông liên tục chửi bới bà Thủy Tiên. Gọi bà là con đĩ. Khi đó, ông ta điên tiết lắm! Theo như lời bà Thủy Tiên kể lại: Ông ta không chỉ dùng tay chân đấm đá vào mặt bà. Mà còn cầm dao dọa sẽ giết bà nữa. </p> 
+ <p> Bà Thủy Tiên đã bị ăn đòn nhiều trận rồi. Nhưng lần đó là nặng nhất. Nếu con trai bà; Thế Anh mà không về kịp thì chắc bà đã bỏ mạng. </p> 
+ <p> Cái ông Phước Tuệ đó đúng là đồ súc vật! Ngay cả con mình mà ông ta cũng không thương xót, xém chút nữa cậu Thế Anh đã bị đâm chết nếu cậu ấy không chạy kịp. </p> 
+ <p> - Chuyện gia đình bà Thủy Tiên có gì liên quan sao thưa bà? </p> 
+ <p> Khôi Nguyên hỏi. </p> 
+ <p> - Sẽ không liên quan nếu bà Thủy Tiên không phải là em kết nghĩa của ông Trịnh Vỹ. Tối hôm đó, căn nhà này đón thêm hai thành viên mới. Bà Thủy Tiên vì không muốn, và cũng không dám về lại nơi địa ngục trần gian đó; bà khóc lóc cầu xin ông Trịnh Vỹ, cho bà và cậu Thế Anh trú tạm ở chỗ ông một thời gian. </p> 
+ <p> - Và ông Trịnh Vỹ đã chấp nhận? </p> 
+ <p> - Ông ấy không chỉ chấp nhận bình thường thôi đâu. Ông còn muốn bà Thủy Tiên ở lại với ông, dù có khó khăn cách mấy đi nữa ông cũng kham được, chứ tuyệt đối không cho phép bà Thủy Tiên quay trở lại với người chồng bất lương đó. </p> 
+ <p> - Tức là, sau khoảng một năm cha con ông Trịnh Vỹ chuyển nhà, thì bà Thủy Tiên đến? </p> 
+ <p> - Đúng vậy đó cậu Khôi Nguyên. Căn nhà này khi đó cả thảy là sáu người. Bà và Thủy Tiên ở một phòng, cậu Thế Anh và Hoài Phong ở một phòng, cô Hoàng Lan và ông Trịnh Vỹ ở hai phòng riêng. </p> 
+ <p> - Tính cách của hai mẹ con đó như thế nào thưa bà? </p> 
+ <p> Khôi Nguyên hỏi. </p> 
+ <p> - Bà Thủy Tiên là một người phụ nữ đẹp, lại nết na thùy mị. Cậu Thế Anh cũng vậy, có lẽ do ảnh hưởng từ người mẹ của mình. Tính cách của cậu cũng ôn nhu, hiền hậu lắm! Cậu ấy trái ngược hoàn toàn với thằng Hoài Phong. Nếu thằng Hoài Phong là đứa bướng bỉnh, lì lợm thì cậu Thế Anh lại ngoan hiền và biết nghe lời. Thế Anh rất sợ làm mếch lòng người khác nên trong mọi cử chỉ, lời nói của mình cậu ấy đều rất để ý. Lại thêm cậu ấy rất siêng năng, cần mẩn. Lần nào bà làm việc nhà cậu ấy cũng đứng ra giúp đỡ. Bà có nói với cậu ấy: </p> 
+ <p> “Việc nhà, cháu hãy để cô, cô làm công ăn lương mà. Cháu hãy dành thời gian mà ôn luyện bài vở cho kỳ thi đại học sắp tới.” </p> 
+ <p> “Cô đừng nói vậy. Giúp được cô thì tốt chứ sao. Hơn nữa, cháu đang ở nhờ nhà bác Vỹ, nếu ăn không mà chẳng làm gì, cháu cũng thấy ngại lắm!” </p> 
+ <p> Những gì cậu Thế Anh nói với bà, thằng Hoài Phong đều nghe thấy. Từ đó nó rất ghét cậu Thế Anh, chỉ trừ ra lúc bắt buộc phải ngủ chung phòng với cậu Thế Anh, không khi nào nó và cậu ấy gần gũi cho được. Tuy cậu Thế Anh không thổ lộ lòng mình ra, nhưng bà biết cậy ấy cũng không có thiện cảm với thằng Hoài Phong. </p> 
+ <p> - Thời gian đó, Thế Anh đang ôn thi đại học ạ? </p> 
+ <p> Khôi Nguyên tiếp tục hỏi bà Hiền. </p> 
+ <p> - Nếu tính đúng tuổi thì cậu ấy đáng ra phải học năm thứ hai đại học rồi. Nhưng vì cậu ấy học trễ một năm, và vì điều kiện gia đình không cho phép, nên cậu ấy phải bỏ thi thêm một năm nữa. Thực ra cậu ấy học rất giỏi. </p> 
+ <p> - Cô Hoàng Lan đối với hai mẹ con họ như thế nào ạ? </p> 
+ <p> - Tính cách của cậu Thế Anh khiến ai gặp cũng mến. Cô Hoàng Lan cũng không ngoại lệ. Ban đầu, cô ấy có vẻ e thẹn ngượng ngùng. Nhưng càng về sau, quan hệ giữa hai người càng trở nên gần gũi thân thiết hơn. Cậu Thế Anh và cô Hoàng Lan ăn cùng nhau, chơi cùng nhau và học cùng nhau. Trông hai cô cậu ấy lúc nào cũng vui nhộn giống như cặp chim sơn ca. </p> 
+ <p> Dầu lại đổ thêm vào lửa.Từ hồi cậu Thế Anh xuất hiện, cô Hoàng Lan cũng ít quan tâm đến thằng Hoài Phong. Thằng nhóc lì lợm đó ghen tỵ với cậu Thế Anh nên thường hay đặt điều nói xấu, ly gián tình cảm giữa cậu Thế Anh và ông Trịnh Vỹ. Nhưng thằng nhóc đó đã không bao giờ đạt được ý đồ của nó, vì ông Trịnh Vỹ thừa biết tâm địa hiểm độc của nó. </p> 
+ <p> - Thế ông Phước Tuệ không tìm đến hả bà? </p> 
+ <p> Mình hỏi. </p> 
+ <p> - Có mấy lần, nhưng đều bị ông Trịnh Vỹ đe dọa. </p> 
+ <p> “Nếu anh không muốn ngồi tù về tội bạo hành gia đình, và cố ý giết người thì hãy câm miệng lại và biến đi trước khi tôi gọi công an.” </p> 
+ <p> - Theo cháu đoán, thì đã có chuyện xảy ra trong gia đình ông Trịnh Vỹ. Vì câu chuyện mà bà đang kể hẳn không đơn giản như vậy thôi đâu. </p> 
+ <p> - Ông Trịnh Vỹ rất mến cậu Thế Anh. Có lần bà nghe được cuộc trò chuyện giữa hai người họ. Ông Trịnh Vỹ nói: </p> 
+ <p> “Cháu phải cố gắng học hành cho thật tốt, thi đậu đại học. Sau này cháu phải thành đạt, để còn lo cho mẹ cháu nữa. Có thiếu thốn hay khó khăn gì bác sẽ giúp cho, cháu cứ yên tâm không phải lo nghĩ. Bác là bác của cháu, nên cháu không phải ngại gì cả.” </p> 
+ <p> “Dạ, cám ơn bác Vỹ đã đùm bọc, cưu mang mẹ con cháu. Cháu sẽ luôn ghi nhớ lời dạy của bác. Cháu nhất định sẽ thành công.” </p> 
+ <p> “Tốt, đàn ông, con trai phải vậy chứ!” </p> 
+ <p> --- </p> 
+ <p> Bà Hiền tiếp tục kể: </p> 
+ <p> - Lòng yêu mến, quý trọng của ông Trịnh Vỹ dành cho cậu Thế Anh lại lớn hơn sau một "tai nạn". </p> 
+ <p> - Tại nạn? </p> 
+ <p> - Cậu Khôi Nguyên không thể tin được đâu. Thế Anh coi có vẻ hiền lành vậy thôi, nhưng cậu ấy rất là dũng cảm đấy. </p> 
+ <p> Buổi trưa hôm đó, do đang dở việc, ông Trịnh Vỹ nhờ cậu Thế Anh qua nhà bà Thùy Dung lấy dùm ông chùm chìa khóa ông bỏ quên trong xe. </p> 
+ <p> Cậu Thế Anh đi ngay! Đi được nửa đường thì gặp cô Hoàng Lan đi học về. Thấy cậu Thế Anh, cô Hoàng Lan cười hỏi: </p> 
+ <p> “Anh đi đâu vậy?” </p> 
+ <p> “À, bác Vỹ nhờ anh đến nhà bà Thùy Dung lấy chùm chìa khóa.” </p> 
+ <p> “Anh đi một mình không được đâu.” </p> 
+ <p> “Sao thế Hoàng Lan?” </p> 
+ <p> “Nói ra dài dòng lắm! Nếu anh muốn đi thì cho cả em đi theo nữa. Như thế em mới an tâm.” </p> 
+ <p> “Ừm. Mình cùng đi với nhau cũng được.” </p> 
+ <p> Hai cô cậu ấy gọi cửa nhà bà Thùy Dung. Vừa trông thấy họ bà ta đã lớn tiếng hỏi: </p> 
+ <p> “Bọn mày đến đây làm gì?” </p> 
+ <p> “Dạ, bác Vỹ nhờ cháu vào lấy hộ bác ấy chùm chìa khóa.” </p> 
+ <p> Cậu Thế Anh trả lời lịch sự. </p> 
+ <p> “Hừ, vào lấy nhanh cho tao, rồi biến.” </p> 
+ <p> Hai cô cậu ấy cứ thế vào nhà; có biết đâu bà Thùy Dung đã có âm mưu từ trước chỉ chờ có cơ hội là thực hiện ngay. </p> 
+ <p> Bà ta đợi cho hai cô, cậu ấy vào nhà mới lén lút chốt cổng lại. Rồi lẻn ra sau nhà mở cửa cho con Rott - con chó dữ tợn nhất từ trước đến giờ bà được biết. </p> 
+ <p> - Hả? Con Rott mà bà Thùy Dung định thả ra cắn anh Nguyên đó sao? </p> 
+ <p> - Con đó là Rott con, cô Ngọc Diệp à! Con hồi đó là Rott cha. </p> 
+ <p> - Đừng nói là... </p> 
+ <p> Khôi Nguyên chau đôi mày, anh ấy đang tưởng tượng cái cảnh rùng rợn đã xảy ra cách đây 20 năm về trước. </p> 
+ <p> - Thật là độc ác. Mụ điên đó đã xịt con chó cắn cô Hoàng Lan. Mụ căm ghét cô Hoàng Lan đến tận xương tủy. </p> 
+ <p> Cũng may cô ấy nhờ có cậu Thế Anh. </p> 
+ <p> Khi thấy con quái vật chồm tới định cắn xé cô Hoàng Lan, cậu ấy đã bất chấp nguy hiểm đẩy cô Hoàng Lan ra, rồi lao vào ôm chặt lấy con Rott vật xuống nền đất, tay cậu ấy đấm túi bụi vào đầu con chó dại. </p> 
+ <p> Con Rott đó là thứ quái vật bẩm sinh, nó cào cấu, cắn xé cậu Thế Anh tơi tả. </p> 
+ <p> Cô Hoàng Lan khóc lóc, la hét. Van xin bà Thùy Dung: </p> 
+ <p> “O hãy nói nó dừng lại đi! Con van o mà...van o mà. Hu hu hu.” </p> 
+ <p> Bà Thùy Dung thích thú cười nói: </p> 
+ <p> “Để nó xé xác xong thằng đó, là đến phiên mày đấy!” </p> 
+ <p> Nhưng bà ấy đã tính sót nước. Con Rott không phải là kẻ bất bại. Trước bản năng sinh tồn dẻo dai và lì lợm, của cậu Thế Anh - một con người bằng xương bằng thịt nặng không quá 60 cân, đã đánh cho con chó hung dữ - công cụ của bà Thùy Dung - bị mù một con mắt. Con Rott ăng ẳng bỏ chạy lấy mạng. </p> 
+ <p> Cậu Thế Anh khi đó đã bầm dập, nhưng vẫn gắng sức đứng thẳng dậy, chỉ tay vào mặt bà Thùy Dung cảnh cáo: </p> 
+ <p> “Lần này là nó, lần sau sẽ là bà, nếu còn dám đụng đến một sợi tóc của Hoàng Lan.” </p> 
+ <p> Con mụ điên sợ xanh máu mặt, từ đó không còn dám lén phén, hay có mưu đồ xấu xa gì với cô Hoàng Lan nữa. </p> 
+ <p> - Phải vậy chứ! </p> 
+ <p> Mình thốt lên. Rất nể phục lòng can đảm phi thường của Thế Anh. Và hả hê khi bà Thùy Dung bị một vố đau. </p> 
+ <p> - Nhưng lần đó cậu Thế Anh cũng bị thương rất nặng. Phải nằm bệnh viện điều trị gần một tháng mới khỏi. </p> 
+ <p> Bà Hiền nhớ lại chuyện cũ, lòng bà cũng se thắt lại vì thấy thương và tội cho Thế Anh. Lại càng căm phẫn trước tâm địa độc ác của bà Thùy Dung. </p> 
+ <p> - Bà có biết lý do nào bà Thùy Dung lại ghét cô Hoàng Lan vậy không? </p> 
+ <p> Khôi Nguyên tiếp tục lần tìm manh mối. </p> 
+ <p> - Bà nghĩ là do cô Hoàng Lan đã dành hết tình thương của ông Trịnh Vỹ trước đây vốn là dành cho bà ta. Kể từ ngày ông Trịnh Vỹ lấy vợ, vợ mất sớm, thêm cảnh gà trống nuôi con, ông ấy rất thương cô Hoàng Lan. Bao nhiêu tình yêu thương dành cho vợ nay chuyển hết sang cô con gái xinh đẹp như hoa. Thực ra, không phải ông Trịnh Vỹ yêu con mà bỏ em. Tất cả đều là do đầu óc bệnh hoạn của bà Thùy Dung mà ra; bà ta ích kỷ một cách rất nhỏ nhen ti tiện, kết hợp với sự độc ác tàn nhẫn của một kẻ mắc bệnh tâm thần. </p> 
+ <p> - Sau sự việc đó, chắc ông Trịnh Vỹ rất biết ơn cậu Thế Anh bà nhỉ! </p> 
+ <p> Mình nói. </p> 
+ <p> - Tất nhiên rồi. Ông ấy từ đầu đã rất yêu mến cậu ấy; nay lại thêm chuyện bảo vệ cô Hoàng Lan mà không ngại nguy hiểm đến tính mạng của mình, lại thấy rõ hơn được nhân phẩm cao quý của cậu Thế Anh. </p> 
+ <p> Nhưng... </p> 
+ <p> Cuộc đời thật quái quỷ, không phải lúc nào cũng xuôi theo chiều gió. Tâm tính của con người cũng chẳng khác gì "quê hương hai mùa mưa nắng". </p> 
+ <p> Đó là lần đầu tiên bà thực sự không hài lòng về cách ứng xử của ông Trịnh Vỹ. </p> 
+ <p> Dù có quan tâm đến con gái mình nhiều lắm đi nữa, thì ông ấy cũng không nên làm vậy. </p> 
+ <p> Bà Hiền lắc đầu, thở ra ngán ngẩm. </p> 
+ <p> - Không lẽ ông Trịnh Vỹ lại mắng cậu Thế Anh vì dắt theo cô Hoàng Lan xuống nhà bà Thùy Dung ạ? - Mình tò mò. </p> 
+ <p> - Không phải vậy đâu cô Ngọc Diệp. Đó là chuyện xảy ra sau hai tháng kể từ ngày cậu Thế Anh vật lộn với con Rott để bảo vệ che chở cho cô Hoàng Lan. </p> 
+ <p> Sẽ chẳng có chuyện gì xảy ra nếu như cô Hoàng Lan không vì hành động quả cảm đó của cậu Thế Anh mà đâm ra có “tình cảm sâu đậm” với cậu ấy. </p> 
+ <p> Hai cô cậu ấy thời gian trước đã rất mến nhau rồi. Nay mối quan hệ tình cảm lại tiến thêm một bước lớn. Họ thường xuyên lén ông Trịnh Vỹ và bà Thủy Tiên để hẹn hò với nhau. Cô cậu ấy thường vào rừng hái nấm; rời khỏi nhà đem theo sách vở lên đồi thông reo học bài; đi câu cá; leo núi, lội suối, xem phim ở rạp, đi nghe nhạc... thôi thì đủ các kiểu hẹn hò lãng mạn. </p> 
+ <p> Có lần, bà vô tình bắt gặp cô cậu ấy ở bên nhau; lần đó bà qua bên kia đồi trà tìm một ít cây cỏ mực về làm thuốc. Đôi trai gái ngồi sát bên nhau tâm sự đủ chuyện trên đời. Cô Hoàng Lan tựa đầu vào vai cậu Thế Anh, còn cậu Thế Anh trên tay cầm một cuộn chỉ; họ đang thả diều. Bà nhìn thấy một con diều bướm màu hồng, bay phần phật giữa nền trời xanh thẳm. </p> 
+ <p> Thế Anh là một người yêu lý tưởng. Cậu ấy rất tinh ý, nắm bắt và hiểu được tâm tư tình cảm của cô Hoàng Lan. Biết cô Hoàng Lan thiếu thốn tình cảm của một người mẹ, cậu ấy đã đóng tốt hai vai trò, vừa làm người yêu vừa làm người mẹ giàu đức hy sinh của cô Hoàng Lan. Tính cách của cậu ấy cũng na ná giống với bà Thanh Mai - người vợ quá cố của ông Trịnh Vỹ. - Có lẽ điều đó là nguyên nhân chính khiến cô Hoàng Lan xem cậu ấy là một nửa yêu thương của mình. </p> 
+ <p> Có lần, cô Hoàng Lan nói với cậu Thế Anh: </p> 
+ <p> “Em ước gì được lạc cõi thần tiên, có một dòng sông hiền hòa thơ mộng, trăng sáng lung linh, mặt nước sóng sánh, chúng ta cùng ngồi trên lưng một con thiên nga trắng muốt, xung quanh mình là những bông sen hồng đang tỏa ánh lung linh…” </p> 
+ <p> Thế Anh ghi nhớ ngay điều ước đó của cô Hoàng Lan. </p> 
+ <p> Sau một tháng làm thêm cật lực - cậu ấy đã đi khuân vác hàng hóa ở chợ rau - kiếm được một số tiền kha khá. </p> 
+ <p> Một hôm, cậu ấy đến hỏi bà: </p> 
+ <p> “Cô có biết chỗ nào bán banh nhựa với số lượng lớn không?” </p> 
+ <p> “Cháu hỏi, mua banh nhựa để làm gì vậy?” </p> 
+ <p> Bà tò mò hỏi lại cậu ấy. </p> 
+ <p> “Cháu có chút việc riêng thôi ạ.” </p> 
+ <p> Thế Anh không cho bà biết lý do cậu ấy mua banh nhựa. </p> 
+ <p> “Cháu đừng có xài tiền hoang phí, hãy kiếm cho mình một bộ đồ thật đẹp, áo quần của cháu đã cũ lắm rồi đấy!” </p> 
+ <p> Bà khuyên nhủ cậu ấy. </p> 
+ <p> Đôi lúc nhìn cậu ấy bà rất thương cảm. Gia đình ly tán phải ăn nhờ ở đậu nhà người khác. Học rất giỏi và rất ham học, nhưng lại phải đắn đo giữa việc: nên nghỉ học để đi làm nuôi mẹ? hay tiếp tục học nhờ vào sự trợ giúp tài chính từ ông Trịnh Vỹ? </p> 
+ <p> Khoác trên cái thân thể gầy guộc đó bao giờ cũng là một chiếc áo sơ mi trắng mỏng tanh, cái quần tây đã sờn màu, với đôi dép xỏ ngón bị đứt phải xâu lại bằng một sợi kẻm. Con nhà nghèo đúng là đứa nào cũng như đứa nào, khố rách áo ôm, bần cùng, mạt hạng. </p> 
+ <p> Đúng vào tối sinh nhật của cô Hoàng Lan. Khi toàn thể gia đình đã ăn mừng xong, tiệc tùng ngã ngũ; hai cô cậu ấy lại hẹn riêng với nhau. </p> 
+ <p> Thế Anh dẫn cô Hoàng Lan xuống dưới hồ nước lớn. </p> 
+ <p> Cảnh hồ nên thơ tĩnh mặc như một bức tranh sơn thủy, </p> 
+ <p> Bao bọc quanh hồ là những bụi trúc vàng kẻ sọc xanh lơ, </p> 
+ <p> Gió thổi nhè nhẹ vào những tán lá xanh xao, cảm giác mát rượi làn da mặt. </p> 
+ <p> Mùi hương đêm thoang thoảng đắm say lòng người. </p> 
+ <p> Đêm đó, trăng rất tròn và sáng, bóng trăng in dưới mặt hồ sóng sánh, khung cảnh huyền mơ. </p> 
+ <p> Một tiên cảnh chỉ có trong giấc mộng hiện ra trước mắt cô Hoàng Lan. </p> 
+ <p> Cậu Thế Anh đã dùng hết số tiền kiếm được từ việc khuân vác ở chợ rau, thuê một con thuyền thiên nga có chân đạp, cậu ấy đã mua lông vịt khâu lại với nhau thành từng chuỗi để trang trí có con thuyền. </p> 
+ <p> Những trái banh nhựa màu hồng được cậu ấy cắt làm đôi, sau đó cắt lại theo hình bông sen, ở giữa quả bóng có xốp và lò xo để gắn những ngọn nến - làm thành đèn hoa đăng, thả trôi bồng bềnh giữa hồ. </p> 
+ <p> Hai cô cậu ấy đã lên thuyền bơi ra giữa hồ. Thế Anh là một người đa tài, cậu ấy thổi sáo rất hay, đặc biệt là thổi bài Lòng Mẹ của Y Vân. Trong cái khung cảnh đẹp lãng mạn ấy vang lên tiếng sáo buồn man mác. </p> 
+ <p> Ở nơi đây - trên đồi trà này - đã từng có hai người yêu nhau, một tình yêu trong sáng lãng mạn thuần khiết lắm cô Ngọc Diệp à! </p> 
+ <p> --- </p> 
+ <p> Mắt bà Hiền rưng rưng, bà đã khóc khi nhớ lại chuyện xưa. </p> 
+ <p> Mình ngồi nín lặng, cả Khôi Nguyên cũng vậy. Tụi mình chờ đợi bà Hiền kể tiếp cậu chuyện tình thật đẹp của đôi bạn trẻ ấy. </p> 
+ <p> - Lần đó, ông Trịnh Vỹ phát hiện được. Mối quan hệ tình cảm của hai người nhanh chóng bị phanh phui, một phần là bởi, thằng Hoài Phong đặt điều thêm mắm thêm muối. Ông Trịnh Vỹ đã rất tức giận cậu Thế Anh. Ông mắng, và cảnh cáo cậu ấy không được có những hành động tương tự như vậy xảy ra nữa. </p> 
+ <p> “Cậu làm ơn để cho nó học hành.” </p> 
+ <p> Ông Trịnh Vỹ hầm hầm. Ông ấy rất ít khi thiếu hiểu chuyện như vậy, thái độ của ông ấy lúc đó làm bà rất ngạc nhiên. </p> 
+ <p> “Cháu xin lỗi bác!” </p> 
+ <p> Cậu Thế Anh cúi đầu xấu hổ. </p> 
+ <p> “Xin lỗi là xong hay sao? Lấy gì đảm bảo lần sau, cậu không có ý đồ với con gái tôi nữa hả?” </p> 
+ <p> “Nhưng cháu yêu Hoàng Lan, đó là tình cảm chân thật, mong bác hiểu cho cháu.” </p> 
+ <p> “Yêu cái gì mà yêu chứ hả? Tôi cấm tuyệt cậu từ nay không được gần gũi với nó, thậm chí nói chuyện cũng không được. Nếu không làm được thì tôi buộc phải để hai mẹ con cậu ra khỏi nhà này thôi.” </p> 
+ <p> Ông Trịnh Vỹ nói, tay chân ông run lẩy bẩy, nét mặt của ông lúc đó trông rất đau khổ dằn vặt. </p> 
+ <p> - Lại là chuyện ngăn cản của cha mẹ, người thân. Phải chăng đó đã là số phận của những cuộc tình đẹp. Sự việc đó cháu thấy có to tát gì đâu mà ông Trịnh Vỹ lại làm quá lên như vậy, còn nói nặng với Thế Anh nữa chứ. Chẳng phải ông ấy cũng rất yêu mến Thế Anh đó sao? Có một người như vậy yêu con gái mình ông phải mừng mới đúng chứ? Hay chăng Hoài Phong đã nói gì đó với ông Trịnh Vỹ ạ? - Mình hỏi lại bà Hiền. </p> 
+ <p> - Không hoàn toàn là ông Trịnh Vỹ bị tác động từ thằng nhóc Hoài Phong đâu. Bà ở với ông ấy rất nhiều năm nên tính cách của ông ấy bà hiểu được ít nhiều. Rõ ràng là ông ấy không muốn chấp nhận một người như Thế Anh làm con rễ tương lai của ông. Bà đã từng mạnh dạng, nói với ông ấy: </p> 
+ <p> “Tại sao anh lại ngăn cấm bọn trẻ?” </p> 
+ <p> “Cô không thấy sao? Con bé đang trong thời gian ôn luyện để thi đại học. Cả thằng Thế Anh cũng vậy. Tụi nó cứ như thế thì còn học với thi cái nổi gì nữa.” </p> 
+ <p> “Nhưng cấm đoán chúng nó như vậy thì có kết quả gì tốt đẹp đâu? Bọn trẻ đâm ra tương tư sầu muộn thì học cũng chẳng vô nổi. Chẳng thà cứ để hai đứa qua lại với nhau rồi dùng những lời lẽ để động viên khích lệ chúng còn tốt hơn nhiều.” </p> 
+ <p> “Cô Hiền à! Đừng có mất bò mới lo làm chuồng. Tôi còn chưa tính sổ với cô việc đã giấu tôi chuyện của chúng nó để ra cơ sự ngày hôm nay đấy!” </p> 
+ <p> Ông Trịnh Vỹ một mực cố chấp. </p> 
+ <p> “Anh không thích cậu Thế Anh sao? Tôi thấy cậu ấy cũng đâu đến nổi gì mà…” </p> 
+ <p> “Thôi đủ rồi cô Hiền, nói tóm lại, nó không thể đến với con Hoàng Lan được. Tôi cấm tuyệt đối! Nếu cô có thấy tụi nói lén lút qua lại với nhau thì phải báo cho tôi biết ngay! Nếu còn tái phạm lần sau tôi sẽ không bỏ qua dễ dàng cho cô như lần này đâu.” </p> 
+ <p> Ông Trịnh Vỹ đe dọa bà. </p> 
+ <p> - Thật khổ sở cho đôi bạn trẻ đó, nhưng cháu nghĩ không gì có thể ngăn cản được họ khi họ đã trót uống phải thang thuốc tình yêu rồi. </p> 
+ <p> - Cậu Khôi Nguyên nói rất chính xác. Dù ngăn cấm cách mấy họ cũng tìm gặp nhau để thỏa nổi khát nhớ cồn cào. </p> 
+ <p> Chính vì có rào cản mà tình yêu của họ ngày càng mãnh liệt, nó đã trở thành một siêu bão với sức mạnh ghê gớm. </p> 
+ <p> Ông Trịnh Vỹ đã không còn tin tưởng bà nữa. Ông ấy giao lại việc giám sát theo dõi hai người kia cho thằng Hoài Phong. </p> 
+ <p> Thằng Hoài Phong nhận được lệnh của ông Trịnh Vỹ thì hí hửng lắm! Nó bỏ cả việc học và ngay cả căn bệnh nghiện game để rình mò, bám đuôi cô Hoàng Lan và cậu Thế Anh. </p> 
+ <p> Thằng đó làm gián điệp rất tốt. </p> 
+ <p> Một hôm, nó dẫn theo ông Trịnh Vỹ đến bắt quả tang hai cô cậu ấy đang hôn nhau trên con dốc đá - đoạn đường đi từ ngã năm tình yêu rẽ sang đường hoa violet. </p> 
+ <p> Sau khi, cô cậu ấy và cả ông Trịnh Vỹ đã về nhà. </p> 
+ <p> Ông Trịnh Vỹ giận sôi máu. Ông đã tát tai cậu Thế Anh, và quất cho cô Hoàng Lan một trận đòn roi khủng khiếp. Đó cũng là lần đầu tiên bà thấy ông Trịnh Vỹ đánh con gái cưng của mình. </p> 
+ <p> Cậu Thế Anh lăn xả vào ôm lấy cô Hoàng Lan để đỡ đòn roi cho cô ấy. Cành dâu liên tục quất vào lưng cậu ấy chang chát, những vết roi bầm da thối thịt ai thấy cũng phát sởn gai óc, cả thằng Hoài Phong cũng vậy, mặt nó xám ngoét đi khi thấy cảnh tượng đó. </p> 
+ <p> Thế Anh nghiến răng chịu đựng không rên rĩ, van xin một câu dù cậu ấy rất đau đớn. </p> 
+ <p> Phần cô Hoàng Lan thì liên tục van xin ông Trịnh Vỹ hãy thôi đánh. </p> 
+ <p> “Ba ơi, ba đừng đánh anh ấy nữa mà…con van ba, con lạy ba đó, con chừa rồi, từ này về sau con không bao giờ dám qua lại với anh ấy nữa đâu… hu hu hu…” </p> 
+ <p> Van xin ba của mình xong, cô Hoàng Lan hét lên: </p> 
+ <p> “Cút đi, anh hãy cút đi, từ rày về sau đừng đến làm phiền em nữa, làm ơn buông em ra… buông em ra đi!” </p> 
+ <p> Cô ấy vùng vằng muốn thoát ra khỏi sự che chở của cậu Thế Anh vì thương xót cho cậu ấy bị đánh đòn đau. </p> 
+ <p> Mẹ của cậu Thế Anh khi đó cũng có mặt, bà ấy chỉ khóc nhìn con mình bị đánh chứ không biết làm gì hơn. </p> 
+ <p> Một hồi sau, bà Thủy Tiên không thể cứ đứng và nhìn như vậy được. Bà ấy lao vào giữ lấy tay ông Trịnh Vỹ không cho ông tiếp tục đánh con mình. Đứa con tội nghiệp bé bỏng của bà đã hứng chịu quá nhiều đòn roi từ người chồng vũ phu kia rồi. Nay, bà không muốn nó phải chịu đựng thêm sự bạo hành nữa. </p> 
+ <p> Ông Trịnh Vỹ như đã nhận ra sự tàn bạo của mình. Ống ấy ngã bệt xuống, tay liên tục đấm vào tường, máu chảy ròng ròng, nhỏ giọt xuống nền gạch men. Nội tâm ông ấy rất đau khổ. </p> 
+ <p> “Em hãy đem nó đi đi! Hãy để nó rời xa khỏi chỗ này, mau lên!” </p> 
+ <p> Ông Trịnh Vỹ quay sang nói như ra lệnh cho bà Thủy Tiên. </p> 
+ <p> Bà Thủy Tiên lấy tay lau nước mắt, sau đó vào phòng thu dọn hành lý. </p> 
+ <p> Ít phút sau ông Trịnh Vỹ cũng vào theo. </p> 
+ <p> Không Biết ông ấy đã nói gì với bà Thủy Tiên trong căn phòng đó, nhưng có một điều bà chắc chắn là ông Trịnh Vỹ, đã đưa cho bà Thủy Tiên một số tiền để trả chi phí sinh hoạt cho thời gian sắp tới. Ông còn tìm cho hai mẹ con bà một nơi ở khác ở ngoại thành. </p> 
+ <p> --- </p> 
+ <p> Tụi mình tiếp tục ngồi nghe bà Hiền kể chuyện. Đến đầu giờ chiều thì bà Hiền phải về nhà trông cháu. Khôi Nguyên đã nói với bà Hiền: </p> 
+ <p> - Lần sau, khi cần hỏi chuyện gì cháu sẽ đến nhà gặp bà, hoặc gọi điện thoại để hỏi. Bà có bệnh đau nhức, không nên nhọc sức quá! </p> 
+ <p> - Được rồi, cậu Khôi Nguyên có thắc mắc thì cứ gọi điện hỏi bà. Biết gì bà sẽ trả lời đó. - Bà Hiền cười vui vẻ. </p> 
+ <p> Khôi Nguyên và mình đưa bà Hiền xuống dưới đồi trà, gọi taxi chở bà về tận nhà. </p> 
+ <p> Bà Hiền về rồi, tụi mình mới ngồi lại nói chuyện với nhau. Mình mở lời trước: </p> 
+ <p> - Tôi bắt đầu thấy sự việc rối rắm như canh hẹ rồi. </p> 
+ <p> Khôi Nguyên ngồi bắt chéo chân trên ghế sofa, biểu hiện quen thuộc của ảnh là ngồi khoanh tay bấm chóp mũi, chứng tỏ ảnh đang rất tập trung. Mình cứ tưởng ảnh không nghe lời mình nói nhưng không, ảnh nghe rất rõ và còn đáp lại mình: </p> 
+ <p> - Trái lại, tôi đã thấy được thấp thoáng bức tranh. Vụ này, như tôi đã nói là không hề đơn giản. Mặc dù không đến nỗi khó khăn nhất mà từ trước đến nay tôi gặp phải nhưng rất có bản sắc. Những thông tin mà Cô Thúy - mẹ của Kiều Oanh - cung cấp cho chúng ta một giả thiết rất đáng tin cậy, đó là, động cơ đưa đến việc tự tử của cô Kiều Oanh. </p> 
+ <p> - Theo anh động cơ đó là gì? </p> 
+ <p> - Vì tình, cô ấy tự tử do thất tình. </p> 
+ <p> - Sao anh có thể dám chắc như vậy được? Theo tôi: nguyên nhân dẫn đến cái chết của cô ấy là do bị ma ám, anh không nghe thấy cô Thúy đã nói gì sao? Cô ấy đã gặp những cơn... </p> 
+ <p> Nói đến đó thì Ngọc Diệp rùng mình, lo sợ khi nghĩ đến cảnh ngộ hiện tại của mình. </p> 
+ <p> - Ma ám? Theo tôi lại khác, ma thì cũng có ma tốt ma xấu. Và trực giác mách bảo cho tôi, cô Hoàng Lan sẽ không đến mức dọa chết người ta đâu. Xét về tính cách, công việc và những mối quan hệ xã hội của Kiều Oanh, những biểu hiện xảy ra trước khi cô ấy mất vài tháng, có thể nói: nguyên nhân tự tử của cô ấy nhiều khả năng là vì tình. Chúng ta cần tìm ra người đàn ông đó để xác nhận chuyện này. Tại sao đám tang của Kiều Oanh người đàn ông đó đã không xuất hiện? Anh ta ở đâu? Và đã có quan hệ với Kiều Oanh ở mức độ nào? </p> 
+ <p> - Anh nói cũng có lý. Nhưng không thể loại trừ khả năng cô ấy bị giết hại, rồi làm hiện trường giả. </p> 
+ <p> - Cô đọc truyện trinh thám nhiều quá rồi Ngọc Diệp à! Tôi phát hiện ra cô vừa mới mua về cả một mớ truyện cũ, thám tử lừng danh Conan. Tôi không phản đối cô đọc truyện trinh thám, nhưng truyện và đời khác nhau nhiều lắm! Đừng có vì nó mà ảnh hưởng đến suy luận thực tế của chúng ta. </p> 
+ <p> - Giả thiết của tôi cũng có lý vậy, không hề ảo tưởng chút nào. </p> 
+ <p> Mình tranh luận với Khôi Nguyên. </p> 
+ <p> - Ờ thì cứ cho là cô có đầu óc thực tế. </p> 
+ <p> Khôi Nguyên tuy nói vậy nhưng mình hiểu hơn ai hết, anh ấy chẳng coi phán đoán của mình ra gì hết. </p> 
+ <p> - Nếu lỡ như điều đó là sự thật thì sao? - Mình nóng mặt. </p> 
+ <p> - Thì giả thiết Kiều Oanh tự tử vì tình bị sụp đổ, chúng ta sẽ chuyển hướng điều tra sang giả thiết mà cô vừa mới nói: đó là cô ấy bị người khác giết hại. Thế nên tôi mới nói: trực giác mách bảo và cho chúng ta một hướng đi tốt nhất. Cô đã đọc rất nhiều truyện của Conan Doyle rồi, cô cũng biết đó: nhân vật Sherlock Holmes là một tay vĩ cầm; nếu Holmes không có cái trực giác của một nghệ sĩ thì ông ấy đã chẳng thể thành công như vậy trong việc điều tra phá án. Sự nhạy cảm luôn là món quà vô giá mà thượng đế ban tặng cho chúng ta để chúng ta tỏa sáng trong bất cứ ngành nghề nào. - Khôi Nguyên giải thích. </p> 
+ <p> - A, thì ra anh cũng đọc truyện trinh thám, vậy mà dám chê tôi. - Mình bỉu môi. </p> 
+ <p> - Còn một điều kỳ lạ nữa... </p> 
+ <p> - Anh muốn nói đến con người có tên Hoài Phong đó? </p> 
+ <p> - Ừm. Tôi lờ mờ cảm nhận có một điều gì đó rất khủng khiếp đằng sau những chuyện này, một nút thắt nằm ở con người đó. </p> 
+ <p> - Tôi lại thấy đó là sự trùng hợp ngẫu nhiên. </p> 
+ <p> Mình đưa ra nhận định. </p> 
+ <p> - Sự ngẫu nhiên không phải tự nhiên mà có. Những điều khác thường luôn chứa đựng một bản chất không tầm thường. Những vụ mất tích, bóng ma trên đồi trà, bệnh điên của bà Thùy Dung, Hoài Phong, mẹ con Thế Anh, bí ẩn của căn nhà này, đó là những dấu hỏi mà chúng ta cần phải làm rõ. </p> 
+ <p> - Hây, đầu óc tôi lại nghĩ về người đó. </p> 
+ <p> Mình thở dài, tâm trạng buồn rũ. </p> 
+ <p> - Cô lãng mạn quá rồi đấy Ngọc Diệp. </p> 
+ <p> Khôi Nguyên có ý chê bai mình. </p> 
+ <p> - Không phải sao? Anh cũng vậy mà nói tôi. </p> 
+ <p> Mình&nbsp;tức&nbsp;quá, vặn lại ảnh. </p> 
+ <p> - Tôi chỉ tập trung vào những thông tin cần thiết cho việc điều tra thôi. </p> 
+ <p> Khôi Nguyên tự biện hộ cho ảnh. </p> 
+ <p> - Thôi đi, đừng có ở đó mà ngụy trang cho bộ mặt đa tình của anh nữa. </p> 
+ <p> - Tôi mà đa tình nỗi gì, vớ vẩn! </p> 
+ <p> - Không nói với anh nữa, tôi vào bếp đây! Tối nay cho anh nhịn luôn. </p> 
+ <p> Mình hầm hầm. </p> 
+ <p> - Không sao, tối nay tôi sẽ ra ngoài ăn, chúc cô ở lại một mình trong căn nhà “ma quái” này ăn uống ngon miệng. </p> 
+ <p> Khôi Nguyên còn cố tình nhấn mạnh hai từ “ma quái” để hù dọa mình. </p> 
+ <p> - Anh... thật quá đáng mà! </p> 
+ <p> Mình tức nghẹn họng. </p> 
+ <p> Khôi Nguyên trông thấy bộ dạng đó của mình, ảnh có vẻ thích thú lắm, tuy không cười nhưng ánh mắt đó đã lộ rõ sự đắc ý. </p> 
+ <p> --- </p> 
+ <p> Buổi tối đến, mình và anh ấy ở chung phòng. Không còn cách nào khác, tụi mình phải tiếp tục cuộc điều tra. </p> 
+ <p> Chừng nào mà Khôi Nguyên chưa tìm ra được những gì anh ấy muốn trong căn nhà này, chừng đó anh ấy còn chưa chịu rời đi. </p> 
+ <p> Mình rất sợ những cơn ác mộng, và linh tính đã mách bảo cho Ngọc Diệp, tuyệt đối không được ở một mình trong căn phòng ấy. Sự cố bị bóng đè tối hôm đó, làm mình ý thức được rõ ràng hơn, mức độ nghiêm trọng sự việc. </p> 
+ <p> Đêm hôm qua, mình đã tưởng là cầm chắc cái chết trong tay. Mình đã nghe nói rất nhiều về những cơn đột quỵ, những cái chết bất đắc kỳ tử... và mình thật sự lo lắng. </p> 
+ <p> - Cô yên tâm đi, tôi sẽ không rời khỏi cô nửa bước, nên đừng có nhìn tôi bằng ánh mắt đó nữa! </p> 
+ <p> Khôi Nguyên nói để mình an tâm, khi anh ấy quan sát thấy những biểu hiện trên khuôn mặt lo âu của Ngọc Diệp. </p> 
+ <p> - Tôi rất sợ đêm nay lại gặp ác mộng nữa. Anh không biết tôi đã bàng hoàng như thế nào đâu, từ bé đến giờ tôi chưa gặp phải sự cố nào khủng khiếp như vậy. </p> 
+ <p> - Ngọc Diệp, cô quên lời tôi nói rồi sao? Đứng trước bất kỳ biến cố nào cô cũng tuyệt đối không được run sợ. Vì khi run sợ cô sẽ bị đánh ngã, cô sẽ làm buổi điểm tâm cho tinh thần suy nhược trước những thực tế không đến mức nghiêm trọng như cô nghĩ. Khối óc và tư duy của cô sẽ quyết định phần lớn cuộc đời hay số phận của cô, vậy nên hãy can đảm lên. </p> 
+ <p> Khôi Nguyên ra sức động viên, khuyên nhủ mình. </p> 
+ <p> - Anh nói giống như anh hai của tôi vậy đó. </p> 
+ <p> Mình mỉm cười. Ngọc Diệp đã rất vui khi anh ấy biết quan tâm đến mình, những lúc mình cần nhất. Khôi Nguyên thật là thú vị, tuyệt vời! </p> 
+ <p> - Ngoài anh hai của cô ra, cô không còn người thân nào nữa sao? </p> 
+ <p> - Tôi còn có một người dì nữa, nhưng anh em tôi đã không có cơ hội để gặp dì Lan. Mẹ tôi kể, dì Lan bị ông bà ngoại từ bỏ. Dì ấy bỏ nhà ra đi và không bao giờ quay trở lại. Tôi và anh hai đã thử tìm kiếm nhưng vô ích. </p> 
+ <p> - Ngọc Diệp, cô hãy nói thật cảm nhận của mình cho tôi biết nhé! Cô thấy tình yêu giữa cô Hoàng Lan và Thế Anh có điều gì đó khác lạ không? </p> 
+ <p> Khôi Nguyên bỗng nhiên hỏi mình chuyện tình yêu giữa hai người ấy. </p> 
+ <p> - Có. Tôi không thể lý giải được vì sao, nhưng rõ là tôi có cảm nhận như vậy. </p> 
+ <p> - Về phần cô Hoàng Lan, cô có còn sợ cô ấy như trước kia nữa không? </p> 
+ <p> - Không, trái lại lúc này tôi rất thương cô ấy. Và đặc biệt tôi rất sợ bà Thùy Dung. Nhưng tại sao anh lại hỏi tôi những điều đó? </p> 
+ <p> Mình tò mò hỏi Khôi Nguyên. </p> 
+ <p> - À, tôi chỉ muốn biết về cảm nhận của cô thôi. Dù sao cô cũng là phụ nữ, cô sẽ có những cái nhìn khác với một người đàn ông như tôi. Mặc dù cô rất là ngốc, nhưng không phải lúc nào cũng vậy... </p> 
+ <p> Ảnh dùng chất giọng trầm ấm rót vào đôi tai nhạy cảm của mình. </p> 
+ <p> - Ơ, tôi ngốc hồi nào? Chẳng phải anh thường nói tôi thông mình còn gì! </p> 
+ <p> - Tôi nói nhầm...nói nhầm, cô hơi bị đãng trí mới đúng chứ nhỉ! </p> 
+ <p> Khôi Nguyên còn cố tình trêu chọc mình. </p> 
+ <p> - Đánh chết anh bây giờ, tôi còn chưa xử "cái tội của anh" đâu đấy nhé! - Mình nhìn xoáy vào mắt Khôi Nguyên. </p> 
+ <p> Khoảnh khắc đó tụi mình lặng nhìn nhau, bỗng có một âm thanh ghê rợn vang lên cắt ngang giây phút đẹp lạ lùng ấy. </p> 
+ <p> Mình níu lấy cánh tay Khôi Nguyên, nói run run: </p> 
+ <p> - Anh... anh có... có nghe thấy tiếng gì không? </p> 
+ <p> Khôi Nguyên lắng tai nghe lại từng chuỗi âm thanh kinh dị. </p> 
+ <p> - Có, tôi có nghe Ngọc Diệp à! Nghe rất rõ. </p> 
+ <p> - Trời ơi, bây giờ chúng ta phải làm sao đây? Không thể ở lại đây được nữa. - Mình hốt hoảng. </p> 
+ <p> - Ngọc Diệp cô ở lại, để tôi đi xem chuyện gì đang xảy ra ngoài kia? </p> 
+ <p> Khôi Nguyên đứng lên định rời đi. </p> 
+ <p> Mình nắm níu tay anh ấy. </p> 
+ <p> - Khôi Nguyên, đừng bỏ tôi ở lại đây, hãy cho tôi theo anh. </p> 
+ <p> Ánh mắt của mình nhìn như van xin. </p> 
+ <p> - Được rồi, hãy theo tôi! </p> 
+ <p> Tụi mình cầm theo một cái đèn pin, khẩn trương xuống tầng trệt, </p> 
+ <p> Để xem điều gì đang diễn ra ngoài màn đêm tĩnh mịch? </p> 
+ <p> Lúc đó là 11h 35 phút. </p> 
+</div>

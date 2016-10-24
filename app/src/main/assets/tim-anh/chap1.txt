@@ -1,0 +1,31 @@
+<div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
+ <p> Khánh Nguyên trở về nhà với khuôn mặt cáu kỉnh. Cô lục tìm chìa khóa phía trong túi ba lô, bình thường nó rất dễ tìm, nhưng hôm nay không hiểu sao nó lại lọt tỏm xuống tận đáy túi. Cái chùm chìa khóa chết tiệt, cô quát lên, trong khi loay hoay chọn chìa cho đúng với cái ổ khóa mới thay. </p> 
+ <p> Căn nhà cô ở là một căn hộ cho thuê ở tầng 5 của một khu chung cư. 2 phòng riêng, có bếp sạch sẽ và chỗ để một bộ ghế sofa rời đối diện một chiếc TV đính tường. Không lớn lắm nhưng đủ để một gia đình sống thoải mái tại Sài Gòn đất chật người đông này, hơn nữa, cô sống có một mình. </p> 
+ <p> Bước vào nhà với vẻ ngoài uể oải, Khánh Nguyên vứt thẳng đồ đạc lên cái ghế bành rồi đi vào phòng tắm. Nước ấm vừa phải chảy từ máy nước nóng phun ra lên khắp làn da trắng trẻo, cô xoay người, rồi uốn éo để thấm ướt toàn thân. Một lát sau khi hơi nước làm mờ cái gương soi, làn da cô gái cũng trở nên hồng hào thì suy nghĩ trong cô cũng dịu đi. </p> 
+ <p> Ngồi xuống ghế ở phòng khách, tay cầm khăn vuốt mái tóc dài vẫn còn ướt, Khánh Nguyên nhớ lại lời mẹ nói cách đó vài giờ đồng hồ. "Mày già rồi con ạ!"! Mắt cô nhìn chăm chăm ra ngoài cửa sổ, môi hơi bĩu ra. Không hiểu sao ba mẹ lại làm thế với mình, cô vừa tiến ra ban công vừa nghĩ. Mới đây thôi, cô nhận một cuộc gọi của mẹ nói rằng hãy về nhà gấp. Hôm nay là tối thứ sáu, cô có hẹn với cô bạn thân sau giờ làm, nhưng lo lắng có chuyện gì xảy ra nên vội đón taxi về nhà của ba mẹ. Ba của cô lớn hơn mẹ cô nhiều tuổi nên ông ấy hay bị bệnh, trong tháng vừa rồi đã có 2 lần phải nhập viện vì huyết áp thấp. Bởi vậy nên, khi thấy mẹ vội cúp máy là Khánh Nguyên hiểu có chuyện gì đó gấp gáp. </p> 
+ <p> Sau khoảng 30 phút, chiếc taxi đỗ bên một con đường hẻm lớn ít người qua lại. Khánh Nguyên không lấy tiền thừa và chạy thẳng một mạch vào hẻm. Cô vừa bấm chuông vừa cất tiếng gọi lớn, mẹ ơi! Mẹ cô từ từ đi ra, một phụ nữ tầm 50 tuổi, bà ấy mặc một bộ đồ tây kiểu cũ màu nâu, kiểu các bà mẹ lớn tuổi hay mặc. Khánh Nguyên vừa thở vừa hỏi mẹ: </p> 
+ <p> - Ba sao rồi mẹ? </p> 
+ <p> - Ba mày đang ngồi trong kia kìa. </p> 
+ <p> Cô gái trẻ chạy thẳng vào nhà. Trong nhà ngoài ba của cô còn có thêm 3 người nữa. Thấy ba vẫn khỏe mạnh, cô thở phào một cái nhưng cũng lại bất ngờ vì sự xuất hiện của ba vị khách "lạ". </p> 
+ <p> - Vũ, anh làm gì ở nhà em vậy? Khánh Nguyên nhìn anh chàng đang đứng dậy kia. </p> 
+ <p> - Ah, hôm nay ba mẹ anh đến thăm ba mẹ em. Anh đã gọi điện báo cho em biết hồi chiều nhưng em không bắt máy, nên... </p> 
+ <p> - Dạ, con chào hai bác ạ! Bây giờ thì cô gái mới nhớ tới sự xuất hiện của 2 người lớn. </p> 
+ <p> Ba mẹ của Vũ gật đầu cười hiền hòa với Khánh Nguyên. Cô cuối chào rồi đi thẳng vào bếp kéo theo mẹ cô đang đi vào. </p> 
+ <p> - Mẹ! mẹ làm cái gì vậy? Sao tự nhiên ba mẹ anh Vũ lại tới nhà mình vậy. </p> 
+ <p> - Còn làm gì nữa, ba mẹ mời họ tới, bởi vì lo cho con thôi con gái ạ! </p> 
+ <p> - Nhưng con với anh Vũ đã có gì đâu. Tự nhiên mời người ta tới làm gì? </p> 
+ <p> - Mày quen thằng Vũ từ hồi cấp 3, tới giờ là 7-8 năm rồi, vậy mà chưa có gì?! </p> 
+ <p> - Tình cảm nó khó nói lắm mẹ à, không phải cứ quen lâu năm là cưới được đâu. </p> 
+ <p> - Chứ mày tính tới chừng nào? Tao nói cho mà nghe, con gái nó như bông hoa vậy á. Bây giờ thì đẹp thật đó, nhưng qua tuổi một cái là tàn phai. Ba mẹ chỉ có mình mày, nếu mày không sớm lập gia đình thì mày rõ ràng chẳng nghĩ gì cho ba mẹ mày cả. Thằng Vũ có gì không tốt, công việc ổn định, nhà cửa đàng hoàng, tính tình lại tốt. </p> 
+ <p> - Vậy chứ sao ba mẹ không nghĩ cho con. Con có niềm đam mê riêng, và con sẽ theo đuổi nó chứ không phải như mẹ, cứ lủi thủi ở nhà không dám đi đâu. </p> 
+ <p> Khánh Nguyên nói cộc lốc với giọng tức giận đi thẳng ra ngoài sân rồi chạy đi một mạch. Vũ thấy vậy chạy theo. Được một đoạn khoảng 50 mét thì Vũ bắt kịp cô gái. </p> 
+ <p> - Khánh Nguyên, em đi đâu vậy? Anh hỏi với giọng nhẹ nhàng dễ nghe. </p> 
+ <p> - Đi đến chỗ tôi-thấy-được-yên-ổn. </p> 
+ <p> - Ba mẹ anh chỉ đến thăm gia đình em thôi mà. Anh không hề có ý gì cả... </p> 
+ <p> - Ừ, đúng rồi, anh làm gì có ý gì? Vừa nói Khánh Nguyên vừa cười khẩy. </p> 
+ <p> - Thật đấy! Anh không có gì ý gì cả. Mẹ em đã gặp mẹ anh trong đám cưới một người họ hàng, và rồi họ sắp xếp cuộc hẹn. Anh thậm chí chỉ mới biết hồi chiều. Anh tưởng em đã biết... Giọng của Vũ vẫn rất nhẹ nhàng, có chút hơi nài nỉ. </p> 
+ <p> - Hay lắm! Làm như tôi chưa biết anh vậy á. Cái gì anh chẳng làm như vô tình. </p> 
+ <p> Khánh Nguyên quay người lại, khuôn mặt cô đầy nghiêm nghị, đôi mắt nhìn thẳng vào Vũ. </p> 
+ <p> - Để tôi nói cho anh luôn một lần. Anh yêu tôi chứ tôi không có yêu anh. Tôi không nói thẳng với anh bởi vì tôi coi anh là một người bạn và không muốn anh phải thất vọng. Chứ không phải là tôi cho anh cơ hội đâu. Nhưng bây giờ thì tôi thấy rằng việc đó là không cần thiết nữa. Anh không phải là kiểu người tôi thích. Dù anh có làm gì đi nữa thì tôi cũng không thay đổi suy nghĩ đâu. Thêm nữa, tôi nghĩ là anh cũng đừng đến nhà tôi nữa. Tôi thấy rất phiền. Vậy nhé! </p> 
+ <p> Nói xong Khánh Nguyên quay người đi thẳng, tay lăm lắm bấm điện thoại gọi taxi... </p> 
+</div>

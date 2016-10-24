@@ -1,0 +1,391 @@
+<div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
+ <p> Bao năm qua, nàng vẫn nhớ như in lời cha: Kẻ vô dụng là vì sa đọa, kẻ buồn phiền vì chưa thỏa mãn.</p>
+ <p>Đi theo Bạch Tử Họa đã gần sáu năm, từ giây phút bước chân vào Trường Lưu tiên sơn, nàng như bước vào lâu đài thủy tinh đẹp nhất thế gian, sắc tối mộng mị, yêu ma quỷ quái bao năm qua vẫn quấn quanh nàng đều bị ngăn ngoài cửa. Bắt đầu từ đó, cuộc sống của nàng không còn ưu sầu nữa.</p>
+ <p>Bạn bè là mưa của nàng, còn sư phụ, người là mặt trời của nàng.</p>
+ <p>Nàng cố gắng vì sự kì vọng của người, nàng mỉm cười vì sự dõi theo của người.</p>
+ <p>Sư phụ là tất cả trọng tâm và phương hướng của cuộc đời nàng.</p>
+ <p>Ngày ngày trôi qua quá đơn giản và hạnh phúc, nửa đêm bừng tỉnh, nàng vẫn thường nghĩ rằng mình đang mơ.</p>
+ <p>Khi một người hạnh phúc tột cùng là lúc nỗi sợ hãi mất đi tất cả bắt đầu hiện hữu.</p>
+ <p>Mà nỗi sợ của nàng, bắt đầu từ lúc nàng nhận ra tình cảm khó hiểu của bản thân đối với sư phụ.</p>
+ <p>Mọi chuyện vẫn chỉ là mơ hồ, nhưng trí tuệ và sự nhạy cảm của nàng khiến nàng lập tức ý thức được hậu quả của chuyện này, xúc cảm ngây ngô non nớt chưa kịp thành hình đã bị nàng bóp chết từ trong trứng nước. Từ trong tiềm thức, nàng tự ức chế quá trình sinh trưởng của bản thân, thầm mong mãi mãi được ở bên sư phụ, làm một đứa bé non nớt không hiểu sự đời.</p>
+ <p>Nhưng thật không ngờ, sớm chiều chung đụng, tình cảm đó đã ăn sâu bén rễ trong nàng.</p>
+ <p>Có điều nàng vẫn không muốn gì hơn, chỉ cố gắng duy trì hiện trạng, chôn tình cảm ấy sâu tận đáy lòng. Cứ sống cuộc đời vô tư lự như thế, Hoa Thiên Cốt nàng sẽ vĩnh viễn không biết tình yêu là gì, cũng không bằng lòng để bản thân biết người nàng yêu là ai!</p>
+ <p>Nhưng bí mật sâu kín nhất trong lòng nàng lại bị Tử Huân Thiển Hạ bóc trần trên Thái Bạch Sơn, thế giới nàng cố gắng duy trì cũng bắt đầu từ từ sụp xuống.</p>
+ <p>Gần một năm sau đó, nàng cùng sư phụ ngao du khắp trời nam đất bắc, có lẽ đó là khoảng thời gian hạnh phúc nhất trong cuộc đời nàng. Nhưng chính nỗi ưu tư chất chứa kia vẫn khiến cõi lòng nàng lo sợ khôn nguôi.</p>
+ <p>Khi sư phụ vì cứu nàng mà trúng kịch độc, chỉ có thể dựa vào việc hút máu nàng để kéo dài sự sống, làm tình cảm tích lũy bao năm trong nàng bộc phát, càng ngày càng khó chối bỏ.</p>
+ <p>Nhiều năm ở bên người, sao nàng có thể không biết tính tình Bạch Tử Họa? Nếu để người biết tâm tư đen tối này của nàng, hậu quả thật không thể lường được.</p>
+ <p>Nhưng Nghê Mạn Thiên có chứng cớ trong tay đủ để công khai lên án chuyện khó xử của nàng. Hoa Thiên Cốt dường như nghe thấy tiếng tòa lâu đài thủy tinh mình sống vui vẻ bao năm qua đổ ập xuống, từng mảnh vỡ hóa thành bọt nước. Sự yêu thương của sư phụ, gương mặt tươi cười của bạn bè, từng thứ từng thứ lần lượt biến mất. Nàng từ nay về sau biết phải đối mặt với bão táp thế nào đây?</p>
+ <p>Hoa Thiên Cốt cười khổ, đột nhiên nhớ tới Đông Phương Úc Khanh lúc ở cùng nàng, thấy nàng không chịu lớn, đã buông một lời như thấu hiểu mọi chuyện.</p>
+ <p>Không ai có thể cả đời làm một đứa trẻ.</p>
+ <p>Hoa Thiên Cốt khẽ thở dài, tuyệt vọng nhắm hai mắt lại.</p>
+ <p>Nàng biết nàng sai rồi, nàng không nên yêu người, nhưng khoảnh khắc con tim rung động ấy nàng nào có thể nắm trong tay?</p>
+ <p>Nàng chỉ cố gắng che giấu, cố gắng vớt vát thôi. Nếu thật sự có thể làm một đứa trẻ mãi mãi không trưởng thành thì thật tốt biết bao.</p>
+ <p>Nàng không cần gì, chỉ xin mọi thứ đừng thay đổi.</p>
+ <p>Hoa Thiên Cốt nhìn Nghê Mạn Thiên, cảm xúc dần bình phục, không còn bối rối nữa.</p>
+ <p>Nàng sợ hãi và kinh hoàng, nhưng phần nào lại nhẹ nhõm. Thứ tình cảm kia càng ngày càng sâu nặng, một mình nàng nai lưng chôn sâu dưới đáy lòng thật sự đã quá mỏi mệt rồi, một ngày nào đó sẽ không thể chịu nổi nữa…</p>
+ <p>“Ngươi muốn gì?” Mặt Hoa Thiên Cốt tái mét, dáng người gầy yếu như một chiếc lá rơi trong gió.</p>
+ <p>Nghê Mạn Thiên ngửa đầu lên trời cười vang, không ngờ Hoa Thiên Cốt dễ dàng thỏa hiệp như thế, nhưng thấy nàng vẫn bình tĩnh khi bị nắm thóp thì lại càng tức giận.</p>
+ <p>“Này, tiểu sư thúc, người chẳng có thành ý gì cả, Nghê Mạn Thiên này chẳng lẽ là loại hay bắt nạt người khác sao? Con chỉ không quen trước mặt con mà người lại kiêu ngạo khoe mẽ như thế thôi! Ma Nghiêm, Thế tôn mà biết chuyện này thì hẳn sẽ trục xuất người ra khỏi Trường Lưu Sơn luôn ấy nhỉ? Có điều không hiểu Tôn thượng mà biết đệ tử người yêu mến lại có tâm tư này thì sẽ sao đây?”</p>
+ <p>Lòng Hoa Thiên Cốt nhói đau, nghẹn ngào nói không nên lời, trên trán từng giọt mồ hôi bắt đầu chảy xuống.</p>
+ <p>“Rốt cuộc ngươi muốn gì?”</p>
+ <p>Nghê Mạn Thiên oán hận nhìn nàng, khuôn mặt xinh đẹp cực kì dữ tợn: “Là ngươi nợ ta, Hoa Thiên Cốt! Ta muốn ngươi quỳ xuống đất cầu xin!”</p>
+ <p>Hoa Thiên Cốt nắm chặt tay, nhìn thẳng vào Nghê Mạn Thiên, quỳ xuống.</p>
+ <p>“Ta xin ngươi.”</p>
+ <p>Nghê Mạn Thiên đờ đẫn cả người, nhíu mày nhìn nàng, sau đó lại phát ra một tiếng cười lanh lảnh, vừa chói tai lại vừa đáng sợ.</p>
+ <p>“Xin ta cái gì?”</p>
+ <p>Khóe miệng Hoa Thiên Cốt run nhè nhẹ: “Xin ngươi đừng nói cho sư phụ của ta…”</p>
+ <p>Nghê Mạn Thiên đi vòng ra phía sau, đá luôn một phát vào lưng nàng: “Chẳng phải ngươi thường khí phách lắm sao? Không ngờ cũng có ngày phải cầu xin ta đúng không?”</p>
+ <p>Ánh mắt Hoa Thiên Cốt kiên định, không hề lay chuyển.</p>
+ <p>Nghê Mạn Thiên hận ánh mắt này của nàng muốn chết, rõ ràng đã quỳ trước mặt nàng ta rồi mà còn cứng cỏi ngạo mạn như thế.</p>
+ <p>“Hoa Thiên Cốt!” Nghê Mạn Thiên tiến lên hai bước giật mạnh tóc nàng, “Trước kia ngươi liều mạng tranh làm đồ đệ của Tôn thượng với ta là vì lỡ thích người rồi đúng không?”</p>
+ <p>Nếu không phải nàng ta tranh! Nếu không phải nàng ta tranh với nàng thì giờ này đệ tử chưởng môn phải là nàng mới đúng!</p>
+ <p>©STENT</p>
+ <p>Nếu vậy quan hệ sư huynh sư muội giữa nàng và Lạc Thập Nhất tương xứng biết bao, ở bên nhau sẽ là điều đương nhiên, được mọi người chúc phúc. Chỉ vì nàng ta chen ngang mà giờ nàng và Lạc Thập Nhất trở thành thầy trò.</p>
+ <p>Trước kia nàng còn nhỏ, mới yêu nên cái gì cũng không biết, thầm nghĩ thích chàng thì có thể sớm tối bên nhau đã là tốt rồi, không ngờ quan hệ thầy trò này lại thành trở ngại lớn nhất. Giờ nàng đã biết trước kia mình phạm sai lầm lớn đến mức nào, nhưng mọi chuyện không thể cứu vãn được nữa rồi. Mỗi lần nhìn Hoa Thiên Cốt, Lạc Thập Nhất, Hủ Mộc Thanh Lưu, Sóc Phong và Khinh Thủy uống rượu vui đùa, nàng đều ghen tị đến phát điên. Đặc biệt là con sâu chết tiệt kia, dựa vào cái gì mà Lạc Thập Nhất lại đối xử với nó tốt như thế!</p>
+ <p>“Nếu, nếu ngươi và con sâu chết tiệt kia chưa bao giờ xuất hiện…” Tay Nghê Mạn Thiên bóp lấy cổ Hoa Thiên Cốt.</p>
+ <p>Hoa Thiên Cốt cảm thông nhìn nàng, Nghê Mạn Thiên buông tay ra lui về phía sau hai bước, ngửa mặt lên trời cười sặc sụa.</p>
+ <p>Rốt cuộc là ai đáng thương hơn ai? Nàng từng cho rằng mình đã đáng thương, lại không ngờ Hoa Thiên Cốt còn hơn thế. Tuy cùng là thầy trò, nhưng Lạc Thập Nhất và Tôn thượng khác nhau hoàn toàn, chắc chắn Hoa Thiên Cốt còn tuyệt vọng hơn nàng gấp trăm ngàn lần.</p>
+ <p>“Muốn ta trả mảnh vải này cho ngươi thì cũng được thôi, Đại hội Kiếm Tiên sắp đến rồi, ta muốn ngươi ngoan ngoãn thua ta.”</p>
+ <p>“Ta đồng ý.” Giọng Hoa Thiên Cốt lạnh tanh, nàng vẫn quỳ dưới đất không hề nhúc nhích.</p>
+ <p>Nghê Mạn Thiên vừa lòng gật đầu, tới gần nàng cười quyến rũ: “Nhớ đấy, từ nay về sau, ngươi không phải tiểu sư thúc gì gì nữa, mà là con chó của ta!”</p>
+ <p>Hoa Thiên Cốt giận dữ, bổ một chưởng qua, Nghê Mạn Thiên cười tươi như hoa không thèm trốn tránh. Đến giây cuối cùng chưởng kia dừng lại trên không.</p>
+ <p>Nghê Mạn Thiên huơ huơ mảnh lụa trong tay, ngửa mặt lên trời cười to rồi xoay người bỏ đi.</p>
+ <p>Hoa Thiên Cốt tức đến run người, trở tay đánh vào bãi cỏ, cả mặt đất đều rung chuyển.</p>
+ <p>Có lẽ tất cả đều là ý trời…</p>
+ <p>***</p>
+ <p>Hoa Thiên Cốt tuyệt vọng vùi mặt vào giữa hai chân, cuộn tròn lại lùi vào trong góc. Căn phòng tối đen như mực mà không thắp đèn. Lúc này nàng thật muốn có Đường Bảo ở bên cạnh biết bao.</p>
+ <p>Vỗ mặt mình, Hoa Thiên Cốt cố gắng tự nói với bản thân phải mạnh mẽ lên, sư phụ trúng kịch độc còn cần nàng chăm sóc.</p>
+ <p>Nàng đứng dậy, chạy bình bịch đến phòng sư phụ.</p>
+ <p>“Sư phụ.” Nàng khẽ gọi, không đợi trả lời đã đẩy cửa vào. Bệnh của Bạch Tử Họa ngày càng nặng, sức tự chủ ngày càng kém, cũng dần không từ chối máu của nàng nữa.</p>
+ <p>Bạch Tử Họa đang tĩnh tọa trên ghế, mặt cắt không còn giọt máu, tựa như một pho tượng băng hoàn mỹ.</p>
+ <p>Hoa Thiên Cốt cúi xuống gần người, thuần thục đưa cánh tay ra. Bạch Tử Họa không mở mắt, chóp mũi khẽ miết qua cổ tay nàng, răng nanh cắn mạnh một nhát. Làn da trắng trẻo, mỏng manh như tờ giấy đột nhiên rách toạc, máu như khóm tường vi tươi tốt, từ từ chảy ra, tỏa hương khắp phòng. Hoa Thiên Cốt ngửi thấy tanh tanh, Bạch Tử Họa lại như mãnh thú bị giam trong chuồng, tham lam muốn nhiều hơn, nhiều hơn nữa.</p>
+ <p>Nhưng chỉ hút được vài hơi, hắn lại bật người đẩy nàng ra, sợ nàng vì mình mà mất quá nhiều máu.</p>
+ <p>“Sư phụ, người đỡ chưa ạ?” Hoa Thiên Cốt lấy tay áo lau khóe miệng cho Bạch Tử Họa, trong lòng cực kì khó chịu, sư phụ luôn siêu phàm xuất trần lại vì nàng mà biến thành thế này.</p>
+ <p>“Đỡ hơn nhiều rồi…” Bạch Tử Họa vỗ đầu nàng, nhận ra mấy ngày nay nàng ốm đi rất nhiều.</p>
+ <p>“Kiếm Tiên đại hội ngươi chuẩn bị thế nào rồi? Không được lười biếng khi không có sư phụ ở bên đốc thúc.”</p>
+ <p>Hoa Thiên Cốt cảm thấy cực kì căng thẳng, mất tự nhiên cúi đầu.</p>
+ <p>“Đệ tử vẫn nghe lời sư phụ chăm chỉ luyện kiếm. Sư phụ, người bị trúng độc nặng thế mà vẫn tham dự đại hội sao? Nhất định sẽ bị sư bá sư thúc phát hiện. Chẳng bằng người đừng giấu bọn họ nữa, mọi người cùng nghĩ cách.”</p>
+ <p>Bạch Tử Họa lắc đầu: “Chưởng môn nhất định phải tham dự, nếu tin ta trúng độc truyền ra ngoài, Tiên giới nhất định đại loạn. Loại độc này không có thuốc nào chữa được, sư bá sư thúc ngươi có biết cũng chỉ phí công lo lắng thôi.”</p>
+ <p>“Nhưng Lam Vũ Lan Phong sẽ nói chuyện này cho Xuân Thu Bất Bại.”</p>
+ <p>“Không đâu, người Dị Hủ các đã khiến ả không thể nói ra được, bằng không sao ta dễ dàng thả ả đi như thế.”</p>
+ <p>Hoa Thiên Cốt chỗ hiểu chỗ không gật đầu: “Sư phụ, để con chữa thương cho người.” Nói xong định truyền chân khí cho hắn.</p>
+ <p>Bạch Tử Họa ngăn nàng lại: “Để dành nội lực cho Đại hội Kiếm Tiên, đã muộn quá rồi, ngươi mau về nghỉ ngơi đi.”</p>
+ <p>Hoa Thiên Cốt lúc này mới lui ra.</p>
+ <p>***</p>
+ <p>Ngày khai mạc Đại hội Kiếm Tiên chẳng mấy chốc đã tới, sáng sớm Hoa Thiên Cốt đã chờ trước cửa phòng Bạch Tử Họa.</p>
+ <p>“Tiểu Cốt, vào đi.”</p>
+ <p>“Dạ vâng, sư phụ.” Hoa Thiên Cốt bước vào, vác hai tròng mắt cú đen ngòm, hậu quả sau một đêm không ngủ được.</p>
+ <p>Nàng thấy Bạch Tử Họa vẫn để mái tóc buông dài như trước bèn đi đến phía sau người cầm lược lên.</p>
+ <p>“Sư phụ, để con vấn!”</p>
+ <p>Bạch Tử Họa gật đầu.</p>
+ <p>Bàn tay nhỏ nhắn của Hoa Thiên Cốt nâng mái tóc dài của hắn lên, mái tóc ấy vẫn mềm mại như trước, không cần chải, nhưng một lát sau nàng đã vấn được một búi tóc đơn giản mà đẹp.</p>
+ <p>Bạch Tử Họa nhìn trong gương, chợt nhớ tới lần đầu tiên nàng vụng về búi tóc cho mình, bỗng thấy lòng thật ấm áp.</p>
+ <p>“Chúng ta đi thôi!”</p>
+ <p>“Sư phụ!” Hoa Thiên Cốt đi đến trước mặt hắn giơ tay lên.</p>
+ <p>“Không cần đâu Tiểu Cốt, độc còn lâu mới phát tác.”</p>
+ <p>“Con sợ sư phụ không chịu được, rồi bị sư bá sư thúc phát hiện.”</p>
+ <p>Bạch Tử Họa cúi đầu nhìn cổ tay nàng đầy dấu răng của mình mà thoáng đau lòng.</p>
+ <p>Hoa Thiên Cốt vội thu tay về, đưa cánh tay kia lên: “Nếu không dùng bên này nhé?”</p>
+ <p>Bạch Tử Họa dịu dàng kéo tay trái nàng đến môi: “Lát nữa tay phải của ngươi còn phải điều khiển kiếm.”</p>
+ <p>Đôi môi lạnh lẽo dịu dàng đặt lên tay nàng như nụ hôn của bươm bướm. Lòng Hoa Thiên Cốt rối loạn, cúi đầu không dám nhìn Bạch Tử Họa. Những lúc thế này là khoảnh khắc khó cầm lòng nhất của nàng. Chỉ riêng chuyện máu trong người chảy vào cơ thể Bạch Tử Họa đã khiến tim nàng đập không biết trời đất là gì nữa rồi.</p>
+ <p>Một lát sau Bạch Tử Họa buông nàng ra, khẽ vuốt lên cổ tay nàng, xóa tan mọi vết thương hằn trên đó.</p>
+ <p>Hoa Thiên Cốt xót xa, nếu người biết tâm tư của nàng, e sẽ chẳng bao giờ đối xử với nàng như một đứa trẻ, quan tâm, trân trọng không chút kiêng dè nữa.</p>
+ <p>Nàng không muốn bị sư phụ ghét, thế nên dù có chết nàng cũng không thể để cho người biết!</p>
+ <p>***</p>
+ <p>Đại hội Kiếm Tiên tiến hành thuận lợi. Trên đài cao Hoa Thiên Cốt đứng bên cạnh Bạch Tử Họa, thấy Nghê Mạn Thiên đắc ý ngẩng đầu cười với nàng, trong lòng như có hàng vạn con kiến giằng xé.</p>
+ <p>Năm nay số người dự thi đông hơn năm trước rất nhiều, tỉ thí vô cùng ác liệt, nhưng Hoa Thiên Cốt lại không còn lòng dạ nào xem trận đấu.</p>
+ <p>Lạc Thập Nhất đã có đệ tử nên không thể tham gia thi đấu, thế nên đương nhiên bốn người đứng đầu nhóm đã bái sư là Hoa Thiên Cốt, Nghê Mạn Thiên, Sóc Phong và Vân Đoan.</p>
+ <p>Hoa Thiên Cốt vốn định nếu đấu với Sóc Phong trước thì sẽ chịu thua trong tay cậu ta, ít ra còn tốt hơn việc thua Nghê Mạn Thiên.</p>
+ <p>Tiếc rằng trời không chiều lòng người, đối thủ của Sóc Phong là Vân Đoan, đối thủ của nàng là Nghê Mạn Thiên.</p>
+ <p>Vừa phải thua lại vừa phải tỏ ra mình không cố tình, đối với một người mạnh hơn Nghê Mạn Thiên rất nhiều như nàng, quả thực là một vấn đề khó.</p>
+ <p>Năm nay phạm vi của mấy trận đấu cuối mở rộng hơn rất nhiều. Có thể lên núi xuống biển, lên trời xuống đất.</p>
+ <p>Nghê Mạn Thiên đứng ở giữa không trung, tay cầm song kiếm, hai người đối diện nhau mà mỗi người mang một nỗi niềm riêng. Đoạn Niệm kiếm của Hoa Thiên Cốt không hề được tuốt khỏi vỏ, nàng không muốn sỉ nhục thanh bội kiếm sư phụ tặng trong một trận đấu như thế này.</p>
+ <p>Ngươi tới ta lui, quyền cước đấu đá, dù nàng đã không còn là Hoa Thiên Cốt năm xưa nhưng vẫn không tránh khỏi vận mệnh phải thất bại.</p>
+ <p>Bọn Sóc Phong, Lạc Thập Nhất rất nhanh đã nhận ra dường như nàng đang băn khoăn điều gì đó, dựa vào pháp lực hiện giờ của nàng cần gì phải giằng co với Nghê Mạn Thiên lâu như thế.</p>
+ <p>Hoa Thiên Cốt tủi thân không cam lòng, liếc nhìn Bạch Tử Họa. Nàng biết hắn muốn thấy thành quả tu luyện bao lâu nay của mình, nhưng nàng lại khiến hắn phải thất vọng.</p>
+ <p>Hai người càng đánh càng dữ dội, cũng bay ngày càng cao. Kiếm của Nghê Mạn Thiên phóng ra một sợi dây lớn, buộc chặt Hoa Thiên Cốt, sau đó lại bao lấy hai người vào trong, tạo thành một quả cầu cực lớn, che khuất tầm mắt mọi người.</p>
+ <p>“Nhận thua đi chứ?” Nghê Mạn Thiên cười quyến rũ, đã có vết xe đổ của Bích Lạc kiếm trước kia, tay phải Nghê Mạn Thiên biến ra một khối băng sắc nhọn. Nàng ngẩn người không hề né, mặc cho khối băng đâm xuyên qua bụng. Hoa Thiên Cốt chua chát, quả thật giống lần trước như đúc!</p>
+ <p>Nghê Mạn Thiên cười sung sướng, nào có thể bỏ qua cơ hội này, nàng ta vươn tay qua đánh mấy chưởng lên người Hoa Thiên Cốt, lập tức cắt đứt mấy sợi gân mạch của nàng.</p>
+ <p>Thấy Hoa Thiên Cốt không rên lên tiếng nào, cắn răng chịu đựng, lửa giận trong Nghê Mạn Thiên lại bùng lên.</p>
+ <p>“Thật không ngờ tình cảm của ngươi dành cho Tôn thượng lại sâu nặng đến thế, ta cảm động chết mất…” Nghê Mạn Thiên dùng mật ngữ truyền âm, nói xong lại phóng một khối băng ra.</p>
+ <p>“Đúng là một con chó ngoan, lâu rồi chưa có ai khiến ta vui đến vậy. Ngươi thử nói xem sau này ta nên bắt ngươi làm gì bây giờ? Con sâu khốn kiếp suốt ngày quấn lấy sư phụ ta kia, ta nên làm gì nó nhỉ?”</p>
+ <p>Hoa Thiên Cốt vừa nghe thì như bừng tỉnh, ngẩng đầu lên căm tức nhìn nàng ta.</p>
+ <p>Nghê Mạn Thiên thấy ánh mắt sắc nhọn của nàng mà giật mình, tức giận phóng mũi băng thứ ba đâm xuyên qua bụng nàng, không ngờ lại bị Hoa Thiên Cốt đập tan trong chốc lát.</p>
+ <p>Nghê Mạn Thiên thoáng sợ hãi: “Đừng quên, nhược điểm của ngươi vẫn năm trong tay ta!”</p>
+ <p>Nhưng Hoa Thiên Cốt vẫn chỉ dùng ánh mắt sâu thẳm ấy nhìn xoáy vào nàng ta, không nói gì.</p>
+ <p>Nàng, từ trước tới nay chưa từng giết người.</p>
+ <p>Nơi này cao như thế, lại có lớp màng chắn, người bên dưới không thể nhìn thấy được, cho dù Nghê Mạn Thiên chết thì nàng cũng có thể ngụy trang thành phút lỡ tay khi giao đấu. Dù có bị phạt, nàng cũng chịu, chỉ cần có thể trừ được nàng ta, nếu không sau này mãi mãi sẽ phải chịu sự uy hiếp. Nàng hiểu rất rõ con người Nghê Mạn Thiên…</p>
+ <p>Trong mắt Hoa Thiên Cốt đột nhiên hiện lên sát khí cuồn cuộn vươn tay định moi tim phổi của Nghê Mạn Thiên, nhân tiện hủy khư đỉnh của nàng ta luôn.</p>
+ <p>Đó là bí mật lớn nhất của nàng, không kẻ nào được biết.</p>
+ <p>Nhưng đúng giây phút nàng ra tay, một luồng ánh sáng từ phía xa phá vỡ lớp màng chắn đánh ập vào, dồn một cú thật mạnh lên ngực Hoa Thiên Cốt. Hoa Thiên Cốt phụt một ngụm máu to, ngã thẳng từ trên trời xuống, rất lâu sau cũng không đứng dậy được.</p>
+ <p>Mọi người còn chưa kịp phản ứng xem chuyện gì đã xảy ra, một bóng trắng bay đến trước mặt nàng.</p>
+ <p>Hoa Thiên Cốt vội vàng ngẩng đầu lên: “Sư phụ…”</p>
+ <p>Một cái tát thật mạnh giáng vào mặt nàng, Hoa Thiên Cốt bay xa mấy trượng, lại nôn ra một búng máu.</p>
+ <p>“Sư phụ…” Nàng cố hết sức bò dậy, sợ hãi quỳ trên mặt đất, người lạnh run, không dám ngẩng đầu lên.</p>
+ <p>Mấy nghìn người đứng đó đều trợn tròn mắt, không hiểu chuyện gì vừa xảy ra. Kỳ lạ hơn là chưa bao giờ thấy Bạch Tử Họa tức giận đến vậy, còn đánh đồ đệ của mình trước mặt tất cả mọi người.</p>
+ <p>Lưng Nghê Mạn Thiên chảy đầy mồ hôi lạnh, chân khẽ run. Nàng cũng không hiểu rõ chuyện gì vừa xảy ra, chỉ biết nếu Tôn thượng không ra tay kịp thời, thì mình suýt nữa đã chết trong tay Hoa Thiên Cốt rồi.</p>
+ <p>Bạch Tử Họa nhìn đồ nhi quỳ dưới đất đang sợ run người môi không còn chút máu, mặt xanh mét, trong mắt đều là lửa giận không kìm chế được.</p>
+ <p>Hắn vung tay áo, xoay người cưỡi gió bay thẳng về Tuyệt Tình điện.</p>
+ <p>Mặt Hoa Thiên Cốt chả mấy chốc đã sưng phù, khóe miệng còn vương tơ máu, đôi mắt trống rỗng, hoàn toàn không biết gì nữa. Khinh Thủy cuống quít lao lên lay mạnh nàng, nàng lại ngơ ngác không có một phản ứng nào.</p>
+ <p>“Sư phụ…” Đột nhiên Hoa Thiên Cốt bừng tỉnh, không nghe lời khuyên ngăn của mọi người, bay thẳng lên Tuyệt Tình điện.</p>
+ <p>Nghê Mạn Thiên không kìm được sung sướng nhìn bóng nàng rời đi, thế này chắc chắn nàng ta sẽ là người vô địch. Khiến Tôn thượng giận đến mức này, Hoa Thiên Cốt phải chịu kết cục như thế cũng đáng.</p>
+ <p>Nhưng nàng ta lau mồ hôi lạnh trên trán, thâm tâm vẫn khiếp đảm. Ánh mắt vừa rồi của Hoa Thiên Cốt thật sự quá đáng sợ.</p>
+ <p>“Sư phụ, con sai rồi, sư phụ, con sai rồi, sư phụ, con sai rồi…”</p>
+ <p>Nàng quỳ trước cửa phòng Bạch Tử Họa, vừa điên loạn ra sức dập đầu, vừa nhận sai. Vì dập mạnh lên nền đất lạnh như băng, chả mấy chốc trán Hoa Thiên Cốt đã rớm máu, hơn nữa bụng còn bị băng xuyên qua, mặt đất chảy đầy máu nàng.</p>
+ <p>Bạch Tử Họa ngồi trong phòng, cảm xúc và nội lực không kìm chế được bốc lên ngùn ngụt. Hắn nâng chung trà, cố hết sức không để mình run rẩy. Nhưng trà còn chưa đến miệng, chén đã bị hắn bóp vỡ.</p>
+ <p>Đồ đệ ngoan mà Bạch Tử Họa hắn dạy đây sao! Chỉ là một Đại hội Kiếm Tiên nho nhỏ mà cũng có thể không từ thủ đoạn để chiến thắng, động sát khí với huynh đệ đồng môn, xuống tay độc ác tàn nhẫn.</p>
+ <p>Không ngờ bao năm bồi dưỡng, yêu thương của hắn lại dạy ra một kẻ nghiệp chướng!</p>
+ <p>Mấy trăm năm qua hắn chưa từng nổi giận đến thế, không thể nói rõ đó là thất vọng hay là gì, nhưng nếu thật sự hắn không thể sửa đổi mệnh số của nàng, tương lai để nàng đồ sát sinh linh thì thà bây giờ tự tay giết nàng còn hơn.</p>
+ <p>Nàng nhận tất cả chân truyền của hắn, nếu như một thời gian nữa hắn chết thì ai có thể ngăn được nàng đây?</p>
+ <p>Nghĩ vậy tay hắn bắt đầu phát run, lòng bàn tay bỏng rát. Vừa nãy giáng cái tát kia, bản thân hắn nào có dễ chịu?</p>
+ <p>Trăm năm qua hắn chưa từng mất khống chế như thế, xem ra độc ăn mòn càng ngày càng nghiêm trọng, có lẽ hắn sắp mất tiên thân rồi.</p>
+ <p>Hoa Thiên Cốt quỳ bên ngoài khóc lóc cầu xin đến điên dại, Bạch Tử Họa lại vẫn lạnh lùng ngồi trên ghế không nhúc nhích.</p>
+ <p>Ngoài trời gió mưa gào thét, mây đen cuồn cuộn, chỉ chốc lát sau mưa đã trở nên tầm tã. Hoa Thiên Cốt gọi đến khản cả họng, cơ thể gầy yếu có thể ngã xuống bất cứ lúc nào trong cơn giông, nhưng nàng vẫn liên tục dập đầu, chỉ có điều tốc độ càng lúc càng chậm.</p>
+ <p>Mưa to một ngày một đêm, nàng cũng dập đầu trước cửa một ngày một đêm. Có vài lần ngất trong màn mưa, sau khi tỉnh lại tiếp tục dập đầu, chỉ mong sư phụ có thể tha thứ cho mình.</p>
+ <p>Máu theo dòng nước mưa chảy loang lổ khắp sân, cây hoa đào bất bại ngàn năm trong một đêm đã hoàn toàn chết héo.</p>
+ <p>Mãi cho đến khi Sênh Tiêu Mặc lên Tuyệt Tình điện tìm Bạch Tử Họa, thấy Hoa Thiên Cốt hôn mê trong màn mưa thì vội vàng đưa nàng vào phòng, nhưng cánh cửa kia vẫn không hề mở ra.</p>
+ <p>Chiếc tiêu bạc xoay mòng mòng trên ngón tay Sênh Tiêu Mặc, hắn lười biếng lại không thèm kiêng nể đẩy thẳng cửa vào, chẳng tới xem Bạch Tử Họa đang tĩnh tọa trên ghế mà tự ngồi vào một chiếc ghế khác tự rót trà uống.</p>
+ <p>“Sao thế, bị thương à?” Tuy Bạch Tử Họa giấu rất kĩ, nhưng lúc ra tay cứu Nghê Mạn Thiên vẫn để lộ dấu vết. Dù người khác nhìn không ra thì cũng đâu qua nổi mắt hắn được.</p>
+ <p>Bạch Tử Họa gật đầu: “Đừng nói với sư huynh vội.”</p>
+ <p>“Không đáng lo chứ?”</p>
+ <p>Bạch Tử Họa im lặng, Sênh Tiêu Mặc nhăn mày.</p>
+ <p>“Là gì?”</p>
+ <p>“Trúng độc của vạc Thần Nông.”</p>
+ <p>Sênh Tiêu Mặc khẽ thở dài: “Huynh mau thu xếp chuyện truyền chức chưởng môn đi, có di ngôn gì thì sau này nói cho đệ biết.”</p>
+ <p>Nói xong hắn bèn đứng dậy rời đi, nhưng trên mặt lại không có chút lo lắng đau buồn nào.</p>
+ <p>Mãi cho đến khi đi tới cửa, Bạch Tử Họa mới tỏ vẻ không quan tâm, hờ hững hỏi: “Đệ đưa Tiểu Cốt đi đâu rồi?”</p>
+ <p>Sênh Tiêu Mặc nở một nụ cười trêu chọc, lẩm bẩm: “Đệ sợ nếu nàng cứ dập đầu ở đây thì cả Tuyệt Tình điện sẽ bị nhuộm máu mất, làm hỏng hết đống hoa cỏ quý hiếm kia thì tiếc quá. Thế nên đệ tiện tay kéo Hoa Thiên Cốt vào phòng băng rồi, máu đông lại sẽ không chảy được nữa, cũng đỡ ngứa mắt huynh.”</p>
+ <p>Ngón tay Bạch Tử Họa khẽ động đậy, không nói gì.</p>
+ <p>Sênh Tiêu Mặc quay đầu lại nhìn Bạch Tử Họa: “Trước kia sư phụ luôn nói trong ba huynh đệ chúng ta, thoạt nhìn thì huynh là người dửng dưng lạnh lùng nhất, nhưng thật ra lại là kẻ cố chấp nhất, nguyên tắc nhất, xem ra không sai chút nào.”</p>
+ <p>Đi được vài bước hắn bỗng nghĩ ra điều gì bèn quay lại nói: “Nhưng đệ không tin huynh thật sự chí công vô tư, trong lòng không có chút khuất tất nào như thế. Nếu huynh thấy Hoa Thiên Cốt thực sự là loại người này thì đã để đại sư huynh giao cho Giới Luật Đường xử lý rồi, mưu toan sát hại đồng môn là tội chết. Bao năm tối lửa có nhau, hơn nữa lại chỉ có duy nhất một đệ tử, đệ biết huynh ít nhiều cũng có chút luyến tiếc, nếu huynh khó xử thì để đệ giúp huynh giao nàng cho đại sư huynh nhé?”</p>
+ <p>“Chuyện của ta không cần ngươi quan tâm.” Bạch Tử Họa lạnh lùng đáp.</p>
+ <p>Sênh Tiêu Mặc nhún vai, khóe mắt tràn đầy ý cười bước đi.</p>
+ <p>Sênh Tiêu Mặc vừa mới bước một chân khỏi Tuyệt Tình điện, Bạch Tử Họa đã chạy đến phòng băng.</p>
+ <p>Nước mưa và máu đông cứng lại trên người Hoa Thiên Cốt, mặt nàng tái nhợt, môi tím đen, thoi thóp nằm trên nền đất lạnh.</p>
+ <p>Lòng Bạch Tử Họa thấp thoáng lửa giận, tên Sênh Tiêu Mặc này bao năm qua đều theo sau gây phiền phức cho hắn, cái gì cũng muốn lôi ra đùa.</p>
+ <p>Hắn nhẹ nhàng ôm Hoa Thiên Cốt lên, vừa đi ra ngoài vừa truyền nguồn chân khí cuồn cuộn cho nàng. Chỗ máu bị đông cứng trong phòng băng lại bắt đầu rươm rướm, Bạch Tử Họa vội vàng điểm huyệt cầm máu, bồng nàng lên ghế nằm, không chút suy nghĩ cởi áo Hoa Thiên Cốt ra băng bó vết thương ở bụng và trên trán. Hắn không muốn ngẩng lên nhìn mặt nàng, bởi hắn không thích cảm giác lòng đau âm ỉ này.</p>
+ <p>Bạch Tử Họa vốn vô dục vô cầu, huống chi Hoa Thiên Cốt lại mang thân hình của một đứa bé chưa dậy thì, bởi vậy nên càng không e dè. Hơn nữa trên Tuyệt Tình điện này cũng chẳng có người thứ ba để giúp đỡ, hắn quay đầu thay nhanh bộ quần áo đã ẩm ướt cho nàng.</p>
+ <p>Ngực mơ hồ có ngọn lửa và cảm giác đói khát thiêu đốt, mùi máu tanh đầy hấp dẫn với thân thể trúng kịch độc của hắn tràn ngập trong không khí. Kịch độc trong cơ thể hắn như sóng cuộn biển gầm, khát khao dòng máu đỏ tươi của Hoa Thiên Cốt.</p>
+ <p>Nếu như lúc đầu hút máu nàng là để kéo dài mạng sống, thì dần dà qua ngày hắn đã nghiện mùi vị ấy. Mỗi lần nhìn thấy nàng, hắn chỉ có thể gồng hết sức chống cự cảm giác thèm khát.</p>
+ <p>Muốn một điều gì đó là cảm giác vô cùng xa lạ với hắn, hắn vừa bối rối lại có chút bất lực, đành phải cố gắng tránh mặt nàng.</p>
+ <p>Thế nhưng nàng lại tự bò mình vào mâm đưa tới trước mặt hắn, khiến hắn muốn chối từ cũng khó.</p>
+ <p>“Sư phụ, con sai rồi…” Người trên ghế hai mắt nhắm nghiền, đau đớn nhíu mày lẩm bẩm mê sảng, trên gương mặt tái nhợt đều là những giọt mồ hôi ứa ra do đau đớn, còn cơ thể nàng đang lạnh đến run người.</p>
+ <p>Bạch Tử Họa khẽ thở dài, kéo nàng vào trong lòng, truyền càng nhiều chân khí vào người nàng hơn.</p>
+ <p>Bao năm sống bên nhau, sao hắn lại không hiểu đứa bé này. Nhưng bởi vì đặt kỳ vọng quá cao, cho nên mới càng khiến hắn không thể chấp nhận. Cái đó chính là thương cho roi cho vọt, ghét cho ngọt cho bùi.</p>
+ <p>Vì trúng kịch độc nên dù là sức chịu đựng hay sự tự chủ của hắn càng ngày càng kém, khoảnh khắc đó hắn giận đến không biết gì nữa, còn chưa kịp suy nghĩ đã giáng cho nàng một cái tát thật mạnh.</p>
+ <p>Đời này đó là khoảnh khắc hắn mất bình tĩnh duy nhất, bởi vì quá quan tâm đứa bé này ư? Tất cả cảm xúc, lí trí đều xoay xung quanh nàng, thế nên mới làm ra quá nhiều việc không rõ ràng?</p>
+ <p>Lòng Bạch Tử Họa thấp thoáng lửa giận, vừa giận nàng cũng vừa giận mình. Càng giận bản thân sau khi trúng độc lại có những tình cảm không rõ ràng này hơn. Đó là lần đầu tiên hắn không thể khống chế, lại còn là trong hoàn cảnh đó nữa.</p>
+ <p>Có lẽ đã đến lúc hắn nên rời đi rồi, nếu cứ tiếp tục ở lại Trường Lưu Sơn, ngày càng nhiễm nhiều ma tính hơn thì hắn cũng không biết sẽ xảy ra chuyện gì nữa.</p>
+ <p>Thân mình nhỏ bé của Hoa Thiên Cốt run lẩy bẩy trong lòng hắn, hắn cố gắng bỏ qua nỗi xót thương đang dấy lên trong lòng, tự trách mình có phải đã phạt nàng nặng quá rồi không?</p>
+ <p>Hắn vốn không phải là người tin vào số mệnh, thế nên trước kia mới nhận Hoa Thiên Cốt làm đệ tử. Mấy năm gần đây, không phải hắn tin vào năng lực chỉ dạy của mình, mà là tin chính đứa bé ấy. Đứa bé này mạnh mẽ, thông minh, dũng cảm lại có nghị lực, hoàn toàn có khả năng nắm chắc vận mệnh của mình, còn điều hắn cần làm là vạch ra con đường đúng đắn cho nàng.</p>
+ <p>Nhưng từ đầu đến cuối, mệnh số hung sát của nàng chẳng những nhiều lần tự gây nguy hiểm cho bản thân mà còn hại những người vô tội. Nếu là một nhóc con bình thường thì không sao, nhưng hiện giờ nàng đã có sức mạnh, nếu bước vào tà đạo, làm hại sinh linh, hắn sẽ không do dự vì đại nghĩa mà diệt thân.</p>
+ <p>Khi Hoa Thiên Cốt tỉnh thì đã là vài giờ sau, Bạch Tử Họa vẫn ôm nàng vào lòng như ôm trẻ sơ sinh, đang băn khoăn về rất nhiều chuyện.</p>
+ <p>Hoa Thiên Cốt vừa mở mắt ra đã thấy người, trong lúc tuyệt vọng ấy phải nói rằng vô cùng sung sướng.</p>
+ <p>“Sư phụ, tha thứ cho con, xin đừng dửng dưng với Tiểu Cốt…” Bàn tay nhỏ bé của nàng kéo vạt áo Bạch Tử Họa, đầu chôn sâu vào lòng hắn khẽ nức nở. Bạch Tử Họa mềm lòng, dù sao nàng cũng chỉ là một đứa trẻ.</p>
+ <p>“Tại sao lúc tỉ thí ngươi lại nặng tay như thế? Vi sư dạy ngươi pháp thuật không phải để ngươi giết người!” Mà là hy vọng sau này trên con đường chông gai không có hắn cạnh bên, nàng có đủ bản lĩnh để tự bảo vệ mình.</p>
+ <p>Hoa Thiên Cốt thấy sư phụ chịu nghe giải thích thì biết người đã bớt giận nhiều rồi, chuyện này có thể cứu vãn được, có điều nguyên nhân này sao có thể nói cho tỏ tường?</p>
+ <p>“Con xin lỗi, sư phụ, là do đồ nhi nhất thời nóng lòng muốn thắng nên mới… Đồ nhi biết sai rồi, sau này không dám nữa, xin sư phụ tha thứ…”</p>
+ <p>Bạch Tử Họa nghiêm khắc nhìn nàng: “Ngươi tưởng sư phụ ngươi mù sao? Ngươi tưởng sư phụ ngươi không nhìn ra ngay từ đầu ngươi đã liên tục nhân nhượng Nghê Mạn Thiên? Tại sao cuối cùng lại đột nhiên quyết định xuống tay? Rốt cuộc chuyện này có ẩn tình gì, ngươi nói rõ ràng cho ta!”</p>
+ <p>“Con, con…” Mồ hôi lạnh ứa ra đầy lưng Hoa Thiên Cốt.</p>
+ <p>“Đệ tử sai rồi, là con nhất thời hồ đồ, xin sư phụ trách phạt, nhưng người đừng lờ con đi!”</p>
+ <p>Lửa giận trong lòng Bạch Tử Họa lại bùng lên, không phải tức giận vì nàng có sát khí, mà là vì nàng không chịu tin tưởng, không chịu nói thật.</p>
+ <p>“Bao nhiêu năm qua, ngay cả giết gà làm cơm ngươi cũng không xuống tay nổi, lại vì một trận thắng thua mà ám toán đồng môn sao?”</p>
+ <p>“Sư phụ…” Hoa Thiên Cốt quỳ trên chiếc giường nhỏ dập đầu trước mặt Bạch Tử Họa. Người muốn phạt nàng thế nào cũng được, nhưng nếu sư phụ biết thì tất cả sẽ chấm dứt.</p>
+ <p>“Ngươi…” Bạch Tử Họa nhìn Hoa Thiên Cốt từ nhỏ đã ngoan ngoãn không bao giờ cãi lại hắn mà tức giận, độc tính lại bùng lên, người hắn vừa lảo đảo đã được Hoa Thiên Cốt vội vàng đỡ lấy.</p>
+ <p>“Sư phụ, độc của người!” Hoa Thiên Cốt vội vàng vén tay áo lên. Bạch Tử Họa đẩy nàng ra, nàng đã mất quá nhiều máu rồi. Nhưng vừa xoay người định đi đã bị Hoa Thiên Cốt ôm chặt.</p>
+ <p>“Sư phụ, đệ tử xin người, giận thì giận, nhưng phải áp chế độc trước đã. Lát nữa người muốn phạt con thế nào con cũng chịu!”</p>
+ <p>Bạch Tử Họa không giãy ra được, chỉ thấy đầu ngày càng nặng, trước mặt chỉ có độc một màu đỏ.</p>
+ <p>Máu, hắn muốn máu…</p>
+ <p>Xoay người lại nhìn Hoa Thiên Cốt, ánh mắt hắn đột nhiên tối đen như mực, màu đen này dường như trống rỗng; không có chút ánh sáng.</p>
+ <p>Hoa Thiên Cốt nổi da gà, người chung đụng sớm chiều trước mắt bỗng trở nên vô cùng xa lạ, nàng thả tay ra, có chút hoảng sợ muốn lùi lại.</p>
+ <p>Nhưng nàng chưa kịp làm gì thì cả người đã bay bổng lên, tiến về phía Bạch Tử Họa.</p>
+ <p>“Sư phụ!” Hoa Thiên Cốt chỉ kịp kinh hãi thét lên, phần cổ bên trái đã bị Bạch Tử Họa cắn. Nàng như bị dội một gáo nước lạnh, nhất thời không nói được gì.</p>
+ <p>Thế gian nháy mắt tan biến…</p>
+ <p>Hoa Thiên Cốt mệt mỏi ngửa đầu thở hổn hển, không khí quanh nàng cũng mất đi theo dòng máu. Cả thân thể gầy yếu được Bạch Tử Họa ôm chặt trong tay, tựa như một nhành cỏ non, chỉ cần gập nhẹ sẽ gẫy nát.</p>
+ <p>Độc của vạc Thần Nông không thuốc nào chữa được, dù có là tiên thân thì lâu ngày cũng sẽ cứng như đá, cuối cùng hóa thành tro bụi. Bạch Tử Họa cố gắng dựa vào sức mạnh đứng đầu thiên hạ và máu của Họa Thiên Cốt cầm cự được hơn hai tháng. Nhưng hắn vừa mới cứu Nghê Mạn Thiên lại không ngừng truyền thêm chân khí cho Hoa Thiên Cốt, độc càng ngấm sâu, cầm cự được đến tận bây giờ, cuối cùng cũng bị độc khống chế hoàn toàn, mất tất cả ý thức.</p>
+ <p>Mùi thơm của máu dường như đang dần ngấm vào da thịt trắng nõn của nàng, động mạch trên cổ nổi rõ hơn hẳn trên cổ tay, máu càng ngon càng dễ uống. Làn da mỏng mềm như tờ giấy dễ dàng bị răng hắn xé rách, dùng thêm ít sức là mạch máu cũng vỡ tung. Máu cứ chảy ào ào vào trong miệng, hương vị ngọt lành, ngon hơn tất cả loại rượu trên đời.</p>
+ <p>Hoa Thiên Cốt cảm nhận được hơi thở hắn khẽ phả bên tai mình, mặt hắn khẽ áp vào mặt nàng, chiếc răng bên cổ vừa hút vừa cắn, trong đau đớn lại mang theo sự êm ái không thể tưởng tượng được. Thân thể nàng bị rút đi tất cả sức lực, không thể cựa quậy, càng không thể tưởng tượng ngươi đang cúi đầu bên cổ nàng như tình nhân kia lại chính là sư phụ.</p>
+ <p>Cảm giác tê dại kỳ quái đến hồn phách cũng phải run rẩy như cơn đại hồng thủy trào dâng từ đáy lòng, chiếm cứ mọi ngõ ngách trên cơ thể, thậm chí ngay cả sợi tóc cũng cảm nhận được sự run rẩy của nàng.</p>
+ <p>Hoa Thiên Cốt cắn chặt môi dưới để tránh không phát ra tiếng kêu hoặc rên rỉ, nhưng cảm giác kỳ quái này lại không ngừng theo máu trào dâng trong người nàng. Nàng khẽ thở dốc, nhưng không thấy rõ cảnh tượng trước mắt, chỉ thấy độ ấm trên người sư phụ vốn luôn lạnh như băng.</p>
+ <p>Nàng hy vọng sư phụ có thể dừng lại ngay như bình thường nhưng Bạch Tử Họa lại như nghiện, ôm mãi không chịu buông, tựa như muốn hút tất cả máu trong người nàng.</p>
+ <p>Hoa Thiên Cốt vì mất quá nhiều máu nên ý thức càng lúc càng mơ hồ, tay từ từ trượt xuống lưng Bạch Tử Họa, hoàn toàn mất đi tri giác.</p>
+ <p>***</p>
+ <p>Đến khi tỉnh lại, nàng vẫn nằm trong phòng mình như trước. Cơ thể yếu ớt không còn chút sức nào, Hoa Thiên Cốt vừa nghĩ có khi tất cả đều là mơ, bèn soi gương thì thấy trên cổ thật sự có thêm hai dấu răng. Xung quanh dấu răng là rất nhiều vết đỏ nhạt vì bị hút quá nhiều, giống như dấu hôn.</p>
+ <p>Trên bàn đặt một chén thuốc, xem ra là sư phụ đích thân xuống bếp sắc.</p>
+ <p>Vết thương ngoài da gần như đã bình phục, ít nhất nàng đã ngủ ba, bốn ngày, chắc sư phụ đã dùng rất nhiều vị thuốc quý và hao tổn rất nhiều nội lực để chữa thương cho nàng. Vì Hoa Thiên Cốt chưa đắc đạo nên dù có tiên thân, hay trường sinh bất lão thì vẫn dễ dàng bị thương tổn như thường.</p>
+ <p>“Sư phụ…” Nàng đờ đẫn thầm thì, bao nhiêu năm qua ngoại trừ nụ cười ở Quần Tiên yến, nàng vẫn chưa thấy vẻ mặt nào khác của người. Cho dù là lúc nàng mắc lỗi hay là bọn họ gặp nguy hiểm, thì trong mắt sư phụ vẫn ánh lên vẻ thong dong bình tĩnh, lạnh lùng không thể phá vỡ. Nhưng nay sư phụ lại ra tay đánh nàng, có thể thấy người giận đến thế nào, thất vọng về nàng đến thế nào.</p>
+ <p>Hoa Thiên Cốt xót xa, tủi thân suýt khóc. Nàng thật sự không cố ý lừa người, cũng không muốn thương tổn ai, chỉ là nàng không muốn để người khác biết chuyện kia thôi.</p>
+ <p>Lúc ấy hai người ở trong lớp màng pháp thuật, người xung quanh không thể xem được chuyện gì đang xảy ra. Sư phụ bao năm qua luôn ở bên nàng, nhất định đã cảm nhận được sát khí của nàng nên mới ra tay.</p>
+ <p>Bây giờ muốn giết Nghê Mạn Thiên thì càng không thể, Trường Lưu Sơn canh gác nghiêm ngặt như thế, làm sao có thể giết người mà không bị phát hiện đây. Chỉ cần một ngày không trừ được Nghê Mạn Thiên thì cho dù có lấy lại mảnh lụa cũng không có tác dụng gì. Chỉ cần nàng ta thuận miệng nói ra thì bất kể người khác có tin hay không, rơi vào tai sư phụ là nàng chết chắc.</p>
+ <p>Làm sao bây giờ, làm sao bây giờ? Quả thật không còn cách nào sao? Nàng cố gắng khiến bản thân tỉnh táo lại, dù sư phụ có cho nàng là đại nghịch bất đạo, khi sư diệt tổ, sát hại đồng môn… dù thế nào… dù phải chết cũng tuyệt đối không thể để Nghê Mạn Thiên nói chuyện này ra. Cùng lắm thì được ăn cả, ngã về không!</p>
+ <p>Hoa Thiên Cốt lảo đảo đứng dậy, đẩy cửa định ra ngoài. Không biết sư phụ thế nào rồi, nếu sau khi khôi phục ý thức phát hiện bản thân hoàn toàn mất khống chế hút máu nàng, hẳn người sẽ khó chịu lắm? Nhưng cũng không thể trách người, tất cả đều là lỗi của nàng! Chỉ cần có thể giải độc cho người thì dù có hủy cả trời đất, dù có phải băm mình ra thành nghìn mảnh để nấu thuốc cho người uống, nàng cũng cam tâm tình nguyện.</p>
+ <p>Ánh sáng chói chang giữa trưa chiếu tới, Hoa Thiên Cốt không mở nổi mắt, người lảo đảo một lúc rồi ngã khụy, bỗng được một đôi tay rắn chắc đỡ lấy.</p>
+ <p>Vừa ngẩng đầu lên, không ngờ nàng lại thấy Đông Phương Úc Khanh, trên vai là Đường Bảo đang nhoài người lên phía trước.</p>
+ <p>Bỗng chốc tất cả lo lắng, buồn tủi trong lòng đều bùng phát, nàng chúi đầu vào trong lòng hắn.</p>
+ <p>Mày Đông Phương Úc Khanh nhíu chặt, nhìn Hoa Thiên Cốt tái nhợt như tờ giấy, mặt cắt không còn giọt máu cùng hốc mắt tiều tụy hõm sâu, lòng hắn nhói đau, khẽ thở dài một tiếng rồi ôm lấy nàng.</p>
+ <p>“Mẹ Cốt Đầu, bọn con về rồi… Đường Bảo cũng cọ đi cọ lại lên mặt nàng.</p>
+ <p>Hoa Thiên Cốt gắng nở một nụ cười, kích động đến mức tay run lẩy bẩy: “Ngươi đi đâu thế, ta còn tưởng rằng ngươi không cần mẹ nữa.”</p>
+ <p>Đường Bảo thơm một cái rõ kêu lên mặt nàng: “Con đi tìm cha, nghĩ cách giải độc cho Tôn thượng.”</p>
+ <p>“Tìm ra chưa?” Hoa Thiên Cốt kích động nhìn Đông Phương Úc Khanh.</p>
+ <p>Một lúc lâu sau Đông Phương Úc Khanh vẫn không trả lời, chỉ ngồi xổm xuống, vuốt ve khuôn mặt nhỏ nhắn của nàng, đau lòng nói: “Sao lại gầy thế này?”</p>
+ <p>Mũi Hoa Thiên Cốt cay cay, cầm tay Đông Phương Úc Khanh, lập tức cảm nhận được ấm áp và sự tin tưởng, cuối cùng nàng không nhịn được, nói thật: “Mảnh vải của ta bị Nghê Mạn Thiên cướp, nàng uy hiếp ta, thế nên trong Đại hội Kiếm Tiên ta định ra tay giết nàng, không ngờ bị sư phụ phát hiện…”</p>
+ <p>“Mảnh vải nào? Chuyện nghiêm trọng đến mức nào mà khiến nàng phải chịu sự uy hiếp của nàng ta, thậm chí còn muốn đẩy nàng ta vào chỗ chết?” Đông Phương Úc Khanh nhìn nàng hỏi, ánh mắt sắc bén như đã sớm hiểu rõ tất cả.</p>
+ <p>“Bởi vì, bởi vì nàng ta đã biết một bí mật của ta…” Hoa Thiên Cốt cúi đầu không dám nhìn Đông Phương Úc Khanh.</p>
+ <p>Đông Phương Úc Khanh nheo mắt, cười như không cười, bảo: “Bí mật? Ở chỗ của ta, không có gì là bí mật.”</p>
+ <p>Hoa Thiên Cốt khẽ giật mình, mở to hai mắt ngẩng đầu. Đột nhiên lúc này nàng cảm thấy Đông Phương Úc Khanh vừa xa lạ lại rất quen thuộc.</p>
+ <p>“Nếu nàng không có cách nào giải quyết chuyện này, ta có thể giúp nàng.” Hắn chậm rãi mở miệng, trong tiếng nói ma mị mang theo sự dịu dàng kỳ lạ.</p>
+ <p>Hoa Thiên Cốt từ từ buông tay hắn ra lui lại mấy bước, ánh mắt dần bình tĩnh lại, thoáng cười khổ.</p>
+ <p>“Được rồi, nói đi, cái giá huynh muốn là gì? Chỉ cần có thể thì nhất định ta sẽ cho huynh.”</p>
+ <p>Đông Phương Úc Khanh ngửa mặt lên trời cười, nụ cười ấm áp như ánh nắng tháng Ba.</p>
+ <p>“Nàng biết từ khi nào?”</p>
+ <p>Hoa Thiên Cốt bất đắc dĩ lắc đầu: “Lúc ở Thái Bạch Sơn đã thoáng nhận ra rồi, nhưng lại không dám chắc. Sau đó sư phụ trúng độc, khi ta và người bị dồn đến chân tường mà Đường Bảo lại tìm người của Dị Hủ các đến cứu thì trong lòng ta đã khá chắc chắn.”</p>
+ <p>Đông Phương Úc Khanh đối mặt với Hoa Thiên Cốt, nhìn thật sâu vào mắt nàng: “Nàng không sợ ta?”</p>
+ <p>Hoa Thiên Cốt cười khổ: “Ta sợ huynh làm gì? Huynh hết lần này đến lần khác cứu ta, lại đối xử với ta tốt như thế.”</p>
+ <p>Khóe miệng Đông Phương Úc Khanh nhếch lên một nụ cười thâm sâu khó lường: “Lúc nào nàng cũng thông minh lanh lợi, nhưng chỉ cần gặp chuyện liên quan đến Bạch Tử Họa thì tất cả đều rối tung hết cả lên.”</p>
+ <p>Hoa Thiên Cốt nhìn Đông Phương Úc Khanh, thầm cười khổ: “Đáng ra ta phải đoán được sớm hơn mới phải, một thư sinh nhân gian bình thường sao có thể biết nhiều chuyện, am hiểu nhiều kì môn dị thuật như thế!”</p>
+ <p>Đông Phương Úc Khanh vuốt bím tóc nàng, dịu dàng nói: “Nàng trách ta gạt nàng à?”</p>
+ <p>Hoa Thiên Cốt lắc đầu: “Huynh có lý do của huynh, bất kể thân phận là gì, huynh vẫn là Đông Phương Úc Khanh, đối với ta vẫn không hề thay đổi.”</p>
+ <p>Mắt hắn tràn ngập ý cười: “Đó là điều ta thích nhất ở Cốt Đầu, thế nên trước giờ ta chưa hề lo lắng chuyện thân phận có bị vạch trần hay không.”</p>
+ <p>Hoa Thiên Cốt quay đầu lại hung dữ nhéo Đường Bảo một cái rõ đau: “Không ngờ con sâu thối này cũng dám cùng huynh lừa ta lâu như thế, không thể tha thứ được!”</p>
+ <p>“Hu hu hu… Con sai rồi, con sai rồi, cha ơi cứu con…” Đường Bảo vội vàng trốn ra sau gáy Đông Phương Úc Khanh.</p>
+ <p>Đông Phương Úc Khanh cười sặc sụa, hắn muốn cả nhà vĩnh viễn ở bên nhau như thế này biết bao, tiếc rằng trước kia trong phút mềm lòng đã không mang nàng đi, đến giờ thì muộn mất rồi.</p>
+ <p>Hắn đã chứng kiến rất nhiều chuyện, thông hiểu rất nhiều bi ai tự cổ chí kim, tri thức bởi vậy mà mở rộng hơn. Không có khúc mắc nào hắn không tháo gỡ được, cũng không có thứ gì hắn không từ bỏ được. Nhưng Cốt Đầu thật sự giống như một khúc xương trong người hắn vậy, chỉ cần nàng xảy ra chuyện gì tim hắn liền bị giằng xé, gan phổi nhói đau.</p>
+ <p>“Ta vẫn còn nhớ lần đầu tiên gặp huynh, huynh trùm một chiếc áo choàng rộng thùng thình, đeo mặt nạ có lưỡi rất dài, y hệt con dơi bự, sau khi dọa xong lại đóng vai một gã thư sinh cổ hủ đến trêu chọc ta!”</p>
+ <p>Đông Phương Úc Khanh cười khúc khích: “Còn nàng ấy à, mang một rổ củ cải đào từ bãi tha ma cho ta, sau đó đang tắm thì bị ta bắt gặp…”</p>
+ <p>Mặt Hoa Thiên Cốt đỏ lên, tức giận nói: “Thì ra là huynh cố ý!”</p>
+ <p>Đông Phương Úc Khanh cười gian xảo: “Vì nhìn thấy cả người nàng nên ta sẽ chịu trách nhiệm với nàng. Ta giúp nàng đoạt lại thần khí, san sẻ nỗi buồn với nàng, chăm sóc nàng, bảo vệ nàng cả đời xem như bù đắp.”</p>
+ <p>Hoa Thiên Cốt giật mình, cúi đầu: “Cái giá này của huynh quá lớn, vụ làm ăn Dị Hủ các lỗ vốn rồi.”</p>
+ <p>Đông Phương Úc Khanh khẽ thở dài, một khoảng tối lướt qua mắt: “Nhưng bây giờ ta chỉ có thể giúp nàng chuyện Nghê Mạn Thiên, còn độc tố của Bạch Tử Họa, ta đã nghĩ rất nhiều cách, nhưng vẫn vô ích…”</p>
+ <p>Hoa Thiên Cốt ngẩn ngơ, tuy đã sớm chuẩn bị nhưng lòng vẫn nhói đau. Ngay cả Dị Hủ Quân cũng nói như thế, tia hy vọng cuối cùng của nàng biến mất rồi.</p>
+ <p>Đông Phương Úc Khanh nhìn vẻ mặt suy sụp trong nháy mắt của Hoa Thiên Cốt, mày nhíu chặt, muốn nói lại thôi, cuối cùng vẫn lái sang chuyện khác.</p>
+ <p>“Nàng muốn để Nghê Mạn Thiên giữ bí mật này mà không thể nói ra, hay là giải quyết luôn cho sạch sẽ?” Đông Phương Úc Khanh mở miệng, thoải mái như đang hỏi hôm nay chúng ta ăn cơm ở đâu.</p>
+ <p>Hoa Thiên Cốt giật mình, chợt nhớ tới lời Bạch Tử Họa: Ta dạy pháp thuật cho ngươi không phải để ngươi giết người.</p>
+ <p>“Nếu không phải giết nàng ta mà vẫn có thể giữ bí mật đương nhiên là tốt nhất, nhưng nàng ta sao có thể không nói? Tội của Nghê Mạn Thiên vốn không đáng chết, lúc ấy nàng ra tay cũng là vì không còn cách nào khác. Thật giống như gà mái phải bảo vệ gà con, vừa nghĩ tới sau này nàng ta có thể thương tổn đến những người nàng yêu thương, nàng liền mất khống chế.</p>
+ <p>Đông Phương Úc Khanh cười nói: “Nàng quên ta làm gì rồi à? Người trong thiên hạ là không quản được, nhưng lưỡi họ đều thuộc phạm vi điều khiển của ta. Nếu cái lưỡi kia dám không nghe lời, ta liền…”</p>
+ <p>Đông Phương Úc Khanh lấy một cây đao nhỏ màu vàng giống hệt con rắn từ trong ngực ra: “Cắt nó!”</p>
+ <p>Hoa Thiên Cốt trợn tròn mắt: “Đừng nói huynh thật sự muốn cắt lưỡi Nghê Mạn Thiên để nàng ta thành người câm luôn nhé?” Đối với Nghê Mạn Thiên mà nói, nếu bị cắt lưỡi chẳng bằng chết quách cho xong.</p>
+ <p>“Dù không thể nói nhưng vẫn có thể viết mà, còn có thể vẽ, truyền âm nữa!” Vậy mà dám tự nhận mình thông minh, ngốc chết luôn.</p>
+ <p>Đông Phương Úc Khanh vuốt đầu nàng: “Yên tâm đi, ta sẽ giải quyết gọn ghẽ.”</p>
+ <p>Hoa Thiên Cốt đột nhiên thấy an tâm, bao ngày qua nàng không có một phút giây yên ổn, cảm giác bị người ta nắm thóp thật quá khó chịu.</p>
+ <p>“Đúng rồi, huynh vào Trường Lưu Sơn và lên Tuyệt Tình điện bằng cách nào?” Hoa Thiên Cốt lúc này mới nhận ra, nếu để sư phụ thấy…</p>
+ <p>“Ta bảo với Tôn thượng là mình đưa Đường Bảo về.”</p>
+ <p>“Hả? Huynh thân với sư phụ lắm à?”</p>
+ <p>“Không thân, chỉ tán gẫu vài câu khi cứu hai người thôi. Sau đó hắn đưa nàng về Trường Lưu Sơn, Đường Bảo ở lại Dị Hủ các với ta.”</p>
+ <p>“Vậy bây giờ người đang ở đâu?”</p>
+ <p>Nhìn dáng vẻ lo lắng của Hoa Thiên Cốt, lòng Đông Phương Úc Khanh không hiểu vì sao bỗng chua chát: “Bụng hắn no căng máu nàng rồi, bây giờ chắc đang bế quan. Nàng uống thuốc này bồi bổ thân thể đi, ta ra ngoài một lát.”</p>
+ <p>Hoa Thiên Cốt cầm viên thuốc Đông Phương Úc Khanh đưa nuốt xuống: “Huynh đi đâu?”</p>
+ <p>“Giải quyết bí mật kia giúp nàng.”</p>
+ <p>Đông Phương Úc Khanh lách người ra khỏi cửa, bóng hình lập tức biến mất.</p>
+ <p>“Ê này! Cẩn thận Thế tôn đấy!”</p>
+ <p>Hoa Thiên Cốt bất đắc dĩ bưng chén thuốc để trên bàn mà sư phụ sắc lên, vừa uống vừa kể cho Đường Bảo nghe những chuyện xảy ra gần đây.</p>
+ <p>***</p>
+ <p>Nghê Mạn Thiên đang ở trong phòng, vừa xem hai bản bí tịch Thế tôn thưởng vì nàng giành được ngôi vị đứng đầu trong Đại hội Kiếm Tiên, vừa nghĩ tới việc sau này Hoa Thiên Cốt sẽ phải ngoan ngoãn nghe lời liền cực kì vui vẻ.</p>
+ <p>Đột nhiên nàng cảm giác phía sau có người.</p>
+ <p>“Ai?” Nàng vội xoay người lại.</p>
+ <p>Sao lại có kẻ thần không biết quỷ không hay lẻn vào phòng mình trên Tham Lam điện mà không bị phát hiện?</p>
+ <p>Nàng còn chưa kịp khép miệng đã có một thứ gì đấy chui tọt vào miệng, lành lạnh, trôi xuống cuống họng.</p>
+ <p>“Ngươi là… Ngươi là Đông Phương Úc Khanh!” Nghê Mạn Thiên hoảng sợ nhìn người trước mặt, quả đúng là tên thư sinh mặt trắng đột nhiên xuất hiện ở Thái Bạch Sơn giúp Hoa Thiên Cốt đánh bại Khoáng Dã Thiên, lấy lại thần khí.</p>
+ <p>Lẽ nào… lẽ nào Hoa Thiên Cốt bảo hắn tới giết nàng?!</p>
+ <p>Nghê Mạn Thiên lạnh lùng nói: “Ngươi dám động vào ta sao? Thời điểm Hoa Thiên Cốt muốn giết ta trong Đại hội Kiếm Tiên ta đã biết sẽ có ngày này. Ta đã sớm dùng pháp thuật giấu mảnh lụa đó và một phong thư, nếu ta chết, bức thư đó sẽ bay đến tay Thế tôn và Tôn thượng!”</p>
+ <p>Đông Phương Úc Khanh nhìn nàng ta cười dịu dàng, nhưng nụ cười đó trong mắt Nghê Mạn Thiên lại hệt như ma quỷ. Nàng bỗng khó hiểu, rốt cuộc Hoa Thiên Cốt đi đâu mà quen được đám người quái gở thế này.</p>
+ <p>“Ngoan, há miệng ra!”</p>
+ <p>Nghê Mạn Thiên trợn tròn mắt kinh ngạc phát hiện mình không nghe lời bản thân mà thật sự từ từ mở ra.</p>
+ <p>“Ừ, đúng rồi, ngoan quá, lè lưỡi ra.” Đông Phương Úc Khanh hài lòng gật đầu, lấy cây đao nhỏ màu vàng giống con rắn ra.</p>
+ <p>Nghê Mạn Thiên sợ hãi tột độ ra sức lắc đầu, đáng tiếc ngoài bộ phận hắn ra lệnh ra, toàn thân nàng không thể cử động, pháp thuật cũng chẳng cách nào sử dụng.</p>
+ <p>Đừng! Đừng! Hắn ta rốt cuộc định làm gì nàng? Chẳng lẽ vì muốn giữ bí mật nên định cắt lưỡi nàng? Hắn tưởng rằng nếu làm thế nàng sẽ không nói được?</p>
+ <p>Hoa Thiên Cốt, xem như ngươi giỏi! Nghê Mạn Thiên ta có thành quỷ cũng không tha cho ngươi!</p>
+ <p>Đúng lúc Nghê Mạn Thiên sợ hãi nhắm mắt lại, Đông Phương Úc Khanh lấy đao cắt chính ngón giữa của mình sau đó ngón tay rướm máu khẽ chạm vào đầu lưỡi nàng. Nàng cảm thấy vị ngọt xộc thẳng lên, từng bộ phận trên cơ thể đều ngọt đến bủn rủn.</p>
+ <p>Sao trên đời này lại tồn tại kẻ có máu ngọt? Ngay cả không khí cũng đong đầy hương vị nhan nhát đó, không riêng gì vị giác, tâm trí nàng cũng ngây ngất.</p>
+ <p>Tay Đông Phương Úc Khanh kết thành vài chiếc ấn, miệng hắn liến thoắng niệm chú, một hàng chữ màu vàng giống như kinh văn bay từ miệng hắn ra, tiến vào trán Nghê Mạn Thiên.</p>
+ <p>“Ngươi muốn làm gì ta? Buông! Buông ra! Sư phụ! Sư tổ!! Cứu con!!!” Nghê Mạn Thiên hoảng loạn hét lên, nhưng xung quanh đã giăng kết giới.</p>
+ <p>“Ngươi để mảnh lụa ở đâu?”</p>
+ <p>Ta không nói, hà cớ gì phải cho ngươi biết? Không ngờ nàng lại nghe thấy tiếng mình vang lên: “Ở trong hộp đựng trang sức trên bàn.”</p>
+ <p>Đông Phương Úc Khanh xoay người đi lấy, nhìn Nghê Mạn Thiên đang tức nghiến răng nghiến lợi.</p>
+ <p>“Nói ta nghe, ngươi sẽ không bao giờ nói ra bí mật của Hoa Thiên Cốt dù có ai sử dụng cách gì.”</p>
+ <p>Nghê Mạn Thiên nhìn nụ cười quái dị của Đông Phương Úc Khanh, giọng nói ma mị, lạnh run người, lần đầu tiên nàng nhận ra thế giới này còn có người đáng sợ đến vậy. Nếu Thế tôn, Hiên Viên Lãng khiến người ta có cảm giác bức bối, thì kẻ này lại tràn ngập lực khống chế thần bí, khiến người khác không kìm được chìm đắm trong tiếng gọi của hắn, ánh mắt của hắn, nụ cười của hắn, sau đó tình nguyện kính dâng cho hắn cả linh hồn.</p>
+ <p>“Ta… ta sẽ không nói ra bí mật của Hoa Thiên Cốt dù ai có dùng cách gì.”</p>
+ <p>Nàng nghe tiếng mình vang lên, giọng nói đó quá xa lạ, không phải của nàng.</p>
+ <p>“Ngươi cũng không để ai biết hôm nay đã xảy ra chuyện gì.”</p>
+ <p>“Ta sẽ không để ai biết hôm… hôm nay đã xảy ra chuyện gì.” Nghê Mạn Thiên gắng sức cắn chặt môi dưới, nhưng tiếng vẫn vọng lên từ cổ họng. Mỗi một lời nói ra đều hóa thành hàng chữ vàng bay bồng bềnh trên không, sau đó dán lên tấm lụa trắng mà Đông Phương Úc Khanh vừa lấy ra.</p>
+ <p>“Ừm, ngoan lắm!” Đông Phương Úc Khanh búng lên trán Nghê Mạn Thiên một cái, niêm phong mật ngữ này vào đầu nàng, sau đó hôn lên vệt máu, bỗng chốc tất cả mọi thứ đều biến mất.</p>
+ <p>Cất tấm lụa vào trong túi vải, Đông Phương Úc Khanh cười nói: “Ngươi cũng đóng dấu chứ nhỉ?”</p>
+ <p>Nghê Mạn Thiên nhìn cánh tay mất khống chế của mình cứa qua lưỡi đao màu vàng, sau đó ấn lên túi vải.</p>
+ <p>Đông Phương Úc Khanh hài lòng gật đầu: “Được rồi, khế ước đã viết xong, cáo từ.”</p>
+ <p>Hắn mới đi được hai bước thì quay người lại, gương mặt dịu dàng vô hại nhìn nàng: “Những vết thương trên người Cốt Đầu nhà ta là ngươi làm đúng không? Sao lại như thế được, là đồng môn thì phải tương thân tương ái chứ, ngươi không được bắt nạt Tiểu Cốt Đầu nhà ta đâu đấy!” Nói xong vung tay gõ nhẹ lên cằm Nghê Mạn Thiên, miệng Nghê Mạn Thiên như có sóng biển trào dâng, cả hàm dưới đều mất cảm giác, đầu lưỡi cũng không cảm nhận thấy gì nữa.</p>
+ <p>“Ta vốn không đánh phụ nữ, lần này chỉ phạt nhẹ, tuyệt đối đừng để ta biết có lần sau!”</p>
+ <p>Đông Phương Úc Khanh bỏ đi, một lúc lâu sau cuối cùng Nghê Mạn Thiên cũng cử động được. Nàng hoảng loạn chạy đi tìm Lạc Thập Nhất, nhưng Lạc Thập Nhất biết chuyện Đường Bảo đã về nên bay lên Tuyệt Tình điện rồi. Thế tôn đang xử lí công việc trong phòng, Nghê Mạn Thiên khoa chân múa tay nói rất lâu, nhận ra chỉ cần mình định nói đến chuyện của Hoa Thiên Cốt và Đông Phương Úc Khanh thì đầu lưỡi sẽ không nghe lời bản thân nữa, cũng không thể viết ra hay làm cách gì khác, ngay cả vị giác của nàng cũng bị mất suốt một tháng mới khôi phục lại được.</p>
+ <p>Đông Phương Úc Khanh về, lúc trả lại mảnh vải cho Hoa Thiên Cốt, nàng kích động nhảy dựng lên.</p>
+ <p>“Sao huynh lại có được nó?”</p>
+ <p>Đong Phương Úc Khanh giải thích qua với nàng, Hoa Thiên Cốt không hiểu lắm gật đầu: “Thảo nào sư phụ bảo Lam Vũ Lan Phong không thể nói được, hóa ra khi đó đã bị tỷ tỷ áo xanh xử rồi. Cuối cùng ta cũng yên tâm. Cám ơn, cám ơn huynh lắm lắm, ta cũng không biết phải nói gì nữa. Huynh muốn gì, cả lần trước đã cứu ta và sư phụ nữa, chỉ cần ta có thể thì sẽ cho huynh hết! Huynh muốn ta làm gì cũng được!”</p>
+ <p>Mày Đông Phương Úc Khanh nhíu chặt lại: “Ta biết nếu ta muốn nàng theo ta, nàng chắc chắn không chịu.”</p>
+ <p>Hoa Thiên Cốt gật đầu: “Ta muốn ở bên sư phụ.”</p>
+ <p>“Thời gian của hắn không còn nhiều nữa.”</p>
+ <p>“Cho nên ta càng phải ở bên người nhiều hơn, có thể sống thêm ngày nào thì hay ngày ấy.”</p>
+ <p>“Nàng tội gì phải làm thế, cuối cùng sẽ có một ngày hắn phải chết.”</p>
+ <p>Hoa Thiên Cốt cúi đầu thản nhiên mỉm cười: “Ta đã nghĩ thông rồi, sư phụ nói sống chết đều là hư ảo, người tu đạo càng không nên câu nệ sống chết, cho nên cũng không cần phải đau lòng hay tiếc thương. Làm tiên cũng được, làm người cũng được, thành quỷ cũng được, có là gì cũng không quan trọng, ta chỉ muốn mãi mãi được ở bên người thôi.”</p>
+ <p>Gương mặt Đông Phương Úc Khanh lộ ra vẻ buồn bã chưa bao giờ có, đôi khi biết nhiều quá, hiểu nhiều quá thật không phải chuyện tốt.</p>
+ <p>“Cái hay thì không học, cái tính cố chấp và bướng bỉnh này giống sư phụ nàng y xì đúc. Ta biết, nếu Bạch Tử Họa chết nàng cũng không sống nổi. Sinh tử trong mắt nàng chẳng qua cũng bình thường như trồng củ cải, chỉ cần đào một cái hố là được, nhưng nàng có nghĩ sau này Đường Bảo phải làm sao? Ta cũng phải làm sao không?”</p>
+ <p>Hoa Thiên Cốt nhất thời đờ đẫn, nàng đã hiểu tình cảm của mình đối với sư phụ, cũng hơi hiểu tình cảm Đông Phương Úc Khanh dành cho nàng.</p>
+ <p>Đông Phương Úc Khanh đi quanh phòng vài vòng, dường như có chút phân vân.</p>
+ <p>Cuối cùng hắn nắm hai tay nàng, nhìn nàng trịnh trọng nói: “Độc Bạch Tử Họa thật ra không phải không có hy vọng, nhưng chỉ có một biện pháp…”</p>
+ <p>Hai con mắt của Hoa Thiên Cốt như hai ngôi sao bừng sáng trong khung trời đêm, phút chốc ngập tràn sức sống.</p>
+ <p>“Biện pháp gì?”</p>
+ <p>Đông Phương Úc Khanh hít vào một hơi thật sâu, như đang hạ quyết tâm: “Đá Nữ Oa.”</p>
+ <p>Hoa Thiên Cốt biết khả năng trị thương của đá Nữ Oa không gì sánh bằng, lại còn có khả năng thần kì cải tử hoàn sinh. Nàng kinh ngạc nhìn Đông Phương Úc Khanh, có chút khó hiểu: “Nhưng đá Nữ Oa vỡ rồi mà?”</p>
+ <p>“Trong thần vật thượng cổ phong ấn một lượng yêu khí lớn của Yêu Thần, nếu có thể hủy thì chúng tiên đã sớm hủy rồi. Đá Nữ Oa chỉ bị vỡ thành nhiều mảnh vụn, nhưng vẫn tồn tại trên khắp thế gian này.”</p>
+ <p>Hoa Thiên Cốt mừng như điên giữ chặt lấy tay huynh ấy: “Vậy thì tốt quá, sư phụ được cứu rồi.”</p>
+ <p>Đông Phương Úc Khanh lắc đầu, mày nhíu chặt: “Chẳng lẽ nàng định tìm từng mảnh của tảng đá đã vỡ vụn sao? Còn chưa tìm được một phần mười thì sư phụ nàng đã tan thành tro bụi rồi.”</p>
+ <p>Khó khăn lắm nàng mới có một tia hy vọng, vậy mà phút chốc đã bị dập tắt.</p>
+ <p>“Nhất định có cách đúng không?”</p>
+ <p>Đông Phương Úc Khanh không dám nhìn vào ánh mắt tha thiết của Hoa Thiên Cốt, nếu nói ra chẳng khác nào chỉ cho nàng đường xuống địa ngục không lối về, nhưng không cứu được Bạch Tử Họa thì chắc chắn nàng không thể sống nổi.</p>
+ <p>Yêu Thần sẽ xuất thế, sớm hay muộn cũng chẳng khác nhau. Có lẽ hắn nên cho Tiểu Cốt một cơ hội, nói không chừng nàng có thể cứu được Bạch Tử Họa, xoay chuyển Càn Khôn và vận mệnh của mình.</p>
+ <p>“Mười sáu món thần khí có một mối liên hệ rất kì diệu, vừa tương sinh lại vừa tương khắc, nếu tìm được vài món thì thông qua dị thuật có thể tìm được vị trí của các thần khí khác, nếu có thể tập hợp đủ mười lăm món thần khí, thì đá Nữ Oa sẽ khôi phục lại như cũ.”</p>
+ <p>Hoa Thiên Cốt gật đầu: “Chính vì thế nên bọn Xuân Thu Bất Bại mới ung dung thu gom từng món đúng không?”</p>
+ <p>Đông Phương Úc Khanh khẽ thở dài: “Giờ nàng hiểu ta đang lo lắng gì chưa?”</p>
+ <p>“Huynh lo ta khăng khăng tìm đủ mười lăm món thần khí, sau đó dùng đá Nữ Oa giải độc cho sư phụ. Tuy mục đích bất đồng, nhưng thật ra cũng giống chuyện Xuân Thu Bất Bại đang làm. Vì chuyện tập hợp tất cả thần khí lại là một chuyện vô cùng nguy hiểm, nếu không cẩn thận, phong ấn có thể bị hóa giải, Yêu Thần sẽ xuất thế.”</p>
+ <p>Đông Phương Úc Khanh nhìn ánh mắt của nàng thì biết nàng đã hạ quyết tâm, bèn kéo nàng nhìn thẳng vào mình.</p>
+ <p>“Nàng phải biết rằng sư phụ nàng luôn lấy muôn dân trăm họ trên thế gian này làm trọng, cho dù có phải mất đi tiên thân cũng tuyệt đối không để nàng tập hợp thần khí, tạo cơ hội cho Yêu Thần xuất thế.”</p>
+ <p>“Vậy nên nhất định không thể để người biết.” Ánh mắt Hoa Thiên Cốt toát lên vẻ lí trí và cương quyết hơn bề ngoài rất nhiều. Biết kịch độc của sư phụ có cách giải, tâm trạng bất an tuyệt vọng bao lâu nay của nàng cuối cùng cũng hạ được xuống, tựa như có Định Hải Thần Châm[1] vậy.”</p>
+ <p>[1] Định Hải Thần Châm: Bảo vật chống biển của Đông Hải Long Vương, sau trở thành cây gậy Như Ý của Tôn Ngộ Không.</p>
+ <p>“Ta sẽ cố hết sức bảo vệ thần khí, không để Yêu Thần xuất thế.”</p>
+ <p>“Bây giờ chuông Đông Hoàng đang ở Trường Bạch Sơn, ấn Không Động ở Thiên Sơn, ô Huyền Thiên ở chỗ Sát Thiên Mạch, ngọc Câu Lan không biết ở nơi nào. Nhưng vạc Thần Nông và mười một món thần khỉ khác đều ở trong khư đỉnh của sư phụ nàng, nàng cho là mình có cách lấy được ư?”</p>
+ <p>“Chắc chắn sẽ có cách!” Chuyện này liên quan đến tính mạng của sư phụ, bằng bất cứ giá nào nàng cũng phải lấy được!</p>
+ <p>Đông Phương Úc Khanh lại thở dài, buồn bã nhìn nàng: “Thật ra ta biết, dù có nói cho nàng rằng chỉ cần tập hợp đủ thần khí, Yêu Thần sẽ xuất thế, trăm họ lầm than, thì chỉ vì cứu Bạch Tử Họa, nàng vẫn sẽ làm đúng không?”</p>
+ <p>Hoa Thiên Cốt hoang mang lắc đầu: “Ta không biết, có lẽ là vậy. Nhưng ta sẽ suy nghĩ thật kĩ.”</p>
+ <p>“Nàng định làm thế nào? Chuông Đông Hoàng và ấn Không Động ta có thể lấy giúp nàng. Nắm thần khí trong tay, vị trí của ngọc Câu Lan có thể tìm ra, nhưng không biết Sát Thiên Mạch có chịu cho nàng ô Huyền Thiên không?”</p>
+ <p>Hoa Thiên Cốt lại lắc đầu: “Không thể kéo huynh vào chuyện này được, việc đó rất nguy hiểm, nếu bị Tiên giới phát hiện, chắc chắn không tránh khỏi tội chết.” Nàng nhìn gương mặt lo lắng của Đông Phương Úc Khanh, bèn mỉm cười: “Hơn nữa Dị Hủ các cũng không thể làm ăn lỗ mãi được, ta đã nợ huynh hai lần, huynh mà giúp ta nữa, ta không trả nổi, phải tự bán mình làm Hoa cô nương thật đấy. Huynh yên tâm, ta sẽ có cách, không phải chúng ta đã từng đến Thái Bạch Sơn rồi sao, huynh phải tin vào khả năng của ta. Ta đã trưởng thành rồi!”</p>
+ <p>Bắt đầu từ lúc bí mật bị vạch trần, nàng đã không thể là một đứa trẻ được nữa.</p>
+ <p>Đông Phương Úc Khanh khẽ gật đầu, vươn tay kéo nàng vào lòng. Con đường sau này nàng phải tự đi khó khăn nguy hiểm biết nhường nào.</p>
+ <p>“Con cũng muốn ôm!” Đường Bảo đột nhiên bò ra khỏi cái phòng ngủ của nó, chạy vào chen ngang. Hoa Thiên Cốt và Đông Phương Úc Khanh nhìn nhau cười.</p>
+ <p>Đông Phương Úc Khanh dù sao cũng là khách, ngay hôm sau đã rời khỏi Trường Lưu Sơn. Hoa Thiên Cốt tiễn hắn một quãng rất xa, không biết vì sao nàng luôn cảm thấy vận mệnh sau này của mình nhiều trái ngang, sẽ không gặp nhau dễ dàng như thế này được nữa.</p>
+ <p>Bạch Tử Họa vài ngày sau mới bế quan xong, thấy Hoa Thiên Cốt vẫn bình thường như ngày đó không có chuyện gì xảy ra. Chẳng lẽ lúc ấy người mất trí nên không nhớ được gì?</p>
+ <p>Hoa Thiên Cốt thầm cảm thấy may mắn nhưng trong lòng vẫn có chút mất mát.</p>
+ <p>Tất cả vẫn trôi qua như thế, nhưng vì chuyện xảy ra vào hôm Đại bội Kiếm Tiên đó, khoảng cách giữa hai người xa xôi không ít. Độc của Bạch Tử Họa càng ngày càng nặng, tính cách cũng càng ngày càng khó dò. Biết Hoa Thiên Cốt vốn bướng bỉnh, nên Bạch Tử Họa không truy cứu tại sao nàng lại muốn giết Nghê Mạn Thiên nữa.</p>
+ <p>Chỉ có điều hắn bắt đầu tự xét lại bản thân mấy năm qua đã hoàn thành bổn phận làm thầy đối với nàng hay chưa. Tục ngữ nói “Từ mẫu xuất bại nhi, nghiêm sư xuất cao đồ”[2]. Hắn không còn nhiều thời gian nữa, chỉ có thể dùng chút sức lực cuối cùng dạy dỗ nàng, không thể để nàng nhất thời hồ đồ mà lỡ bước vào tà đạo.</p>
+ <p>[2] Con hư tại mẹ hiền, trò giỏi nhờ thầy nghiêm.</p>
+ <p>Vì thế Bạch Tử Họa rất ít khi lộ vẻ mặt ôn hòa trước Hoa Thiên Cốt mà luôn nghiêm khắc và lạnh nhạt. Tuy trước kia thái độ của người cũng rất hờ hững nhưng còn xa mới bì kịp cảm giác cự tuyệt người khác ngoài vạn dặm như bây giờ.</p>
+ <p>Hoa Thiên Cốt không thể ngày ngày theo sư phụ như hồi hai người hành tẩu chốn nhân gian nữa, huống chi là thân mật hay làm nũng. Vì thế nàng bắt đầu trở nên trầm lặng, rất hiếm khi nói những lời vu vơ, lại càng ít khi cười với hắn, thái độ luôn cẩn thận kính cẩn rồi khúm na khúm núm giống như trước mặt Thế tôn. Nhưng thực ra mỗi khi đứng trước mặt hắn lúc nào nàng cũng cảm thấy cổ họng bỏng rát như bị lửa đốt.</p>
+ <p>Ngày nào nàng cũng nghĩ phải làm sao để lấy được thần khí giải độc cho hắn, trước mặt bọn Khinh Thủy cũng thường xuyên lơ đãng, dáng vẻ đầy tâm sự.</p>
+ <p>Bạch Tử Họa không còn ngồi ăn cơm với nàng nữa, nhưng mỗi ngày đều uống một lượng thuốc lớn. Hoa Thiên Cốt vẫn làm một bàn đầy đồ ăn như hồi trước, đẹp mắt thơm mùi có mặn có chay, ấy vậy mà vào miệng vẫn như bò nhai rơm.</p>
+ <p>Tuy đau lòng nhưng nàng không có thời gian để ý chuyện này, sư phụ đối xử với nàng thế nào nàng cũng không quan tâm. Chuyện quan trọng nhất bây giờ là giải độc cho hắn. Hoa Thiên Cốt há to miệng và cơm, ra sức ép bản thân phải ăn thật nhiều rau dưa và các vị thuốc bổ máu.</p>
+ <p>Độc của Bạch Tử Họa phát tác ngày càng thường xuyên, chỉ cần còn một chút ý thức thì dù làm thế nào cũng không chịu uống máu nàng. Nhưng một khi đã hoàn toàn mất lí trí thì không có cách nào áp chế được, dù cho đêm khuya cũng sẽ lặng lẽ lần theo mùi máu, đi đến bên giường nàng, ngay lúc nàng đang ngủ cắn mạnh vào cổ, khiến nàng phải tỉnh dậy.</p>
+ <p>©STENT</p>
+ <p>Cảm giác máu bị hút ra khỏi cơ thể là một cảm giác vô cùng kỳ lạ, trong đau đớn lại mang theo chút rã rời và ngọt ngào. Hoa Thiên Cốt cảm nhận hơi thở nóng hổi của hắn ở bên tai, hàm răng đang mút trên cổ mình, ngoài việc khẽ thở hổn hển ra nàng sẽ không làm bất cứ điều gì khác.</p>
+ <p>Chỉ có lúc này nàng mới gần gũi được với hắn, thậm chí có thể cảm nhận được hàn khí lạnh như băng tỏa ra người Bạch Tử Họa. Nàng muốn ủ ấm cho hắn, lại không dám vượt qua khuôn phép, chỉ cứng ngắc để hắn uống máu. Đến khi số máu hút vào phỏng chừng đã đủ để trì hoãn độc tính, Hoa Thiên Cốt sẽ điểm huyệt Bạch Tử Họa để người hôn mê, rồi sau đó đưa về phòng.</p>
+ <p>Nàng phải thật khỏe mạnh, thật sung sức, như thế mới đủ máu giúp sư phụ cầm cự lâu hơn, để nàng có thời gian tập hợp đủ thần khí.</p>
+ <p>Bởi vì có kho dữ liệu Đường Bảo, qua một tháng thu thập tin tức và vạch kế hoạch, trên cơ bản nàng đã chuẩn bị ổn thỏa. Hoa Thiên Cốt định mấy ngày nữa sẽ ra tay, vì chỉ cần mất một thần khí, những nơi khác chắc chắn sẽ càng cảnh giác, cho nên nàng phải đánh trúng mục tiêu, lấy được tất cả thần khí cùng lúc.</p>
+ <p>Lúc này Trường Lưu Sơn đang đón mừng lễ Mộc Kiếm sau Đại hội Kiếm Tiên.</p>
+ <p>Lễ Mộc Kiếm, tên như ý nghĩa, là đại lễ tế kiếm cử hành hai năm một lần của Trường Lưu Sơn. Các đệ tử sẽ theo nghi thức tẩy rửa kiếm của mình trong nước ao Tam Sinh, để kiếm được tẩy trừ uế khí, tăng thêm linh tính như người.</p>
+ <p>Ngày lễ này mặc dù không hoành tráng như Đại hội Kiếm Tiên nhưng lại long trọng và sôi nổi hơn, bởi vì sau nghi thức chính, một loạt hoạt động sẽ được tổ chức. Có loại thi đấu thể thao trí tuệ, cũng có loại thi đấu tay chân, chỉ lấy mục tiêu giải trí là chính, không đánh đấm gì cả. Đêm trên biển sẽ đốt một đống lửa, trong trời đêm đủ loại hoa đăng bay lơ lửng trên không, hơn nữa còn có đủ các tiết mục văn nghệ, cười nói vui vẻ, múa hát ca vang.</p>
+ <p>Ví dụ như thi đấu thể thao có mục cưỡi kiếm bắn tên, nghĩa phải cưỡi kiếm bay lên trời, sau đó bắn từng quả cầu sáng như sao, bắn được càng nhiều thì phần thưởng càng lớn. Lần trước Hoa Thiên Cốt tham gia, mỗi lần bắn đều phải chạy mòng mòng trên không, bắn một mũi xuyên qua một đống sao như xâu mứt quả.</p>
+ <p>Ngoài ra còn có trò đá cầu trên không, tìm kho báu, bắt cá dưới đáy biển hay trả lời câu hỏi của các vị tiền bối tuổi đã cao. Có cái nhàm chán có cái thú vị, chẳng qua chỉ là một cơ hội cho những người luôn chăm chỉ tu luyện pháp thuật có thể nghỉ ngơi thả lỏng, gần gũi với động vật và tự nhiên hơn, để sớm có ngày đạt được cảnh giới thiên nhân hợp nhất.</p>
+ <p>Mặt Bạch Tử Họa đã tái đến bất thường, càng ngày càng giống một bức tượng băng, không dùng pháp thuật thì rất khó che giấu, vì thế từ đầu đến cuối đại hội đều không ló mặt.</p>
+ <p>Hoa Thiên Cốt cũng không muốn đi, chỉ mong ở lại Tuyệt Tình điện với Bạch Tử Họa, nhưng không thể chịu được Đường Bảo mè nheo, cũng khó từ chối lời mời của Khinh Thủy nên đành phải xuống.</p>
+ <p>Không ngờ hai người vừa xuống đến Trường Lưu điện đã đụng ngay phải Nghê Mạn Thiên.</p>
+ <p>Bao lâu nay Hoa Thiên Cốt đều cố gắng tránh nàng ta, sư phụ đã hiểu lầm nàng, nàng không muốn có xung đột gì với nàng ta nữa.</p>
+ <p>Nghê Mạn Thiên nhìn thấy nàng thì giận đến tái ruột.</p>
+ <p>“Hoa Thiên Cốt, ngươi… ngươi… ngươi…” Nghê Mạn Thiên muốn nhắc tới Đông Phương Úc Khanh và chuyện kia lại không nói nổi nên lời, đầu lưỡi đã không còn không nghe theo sự chỉ huy của nàng ta nữa.</p>
+ <p>“Ta ta, ta… Ta làm sao?” Hoa Thiên Cốt có chút buồn cười nhìn nàng ta.</p>
+ <p>Nghê Mạn Thiên tức tối giậm chân: “Xem như ngươi giỏi! Hoa Thiên Cốt, ngươi nhớ kĩ cho ta! Sẽ có một ngày ta trả lại ngươi gấp trăm ngàn lần!”</p>
+ <p>Hoa Thiên Cốt khẽ thở dài nhìn bóng dáng hung hăng bỏ đi của nàng ta. Mâu thuẫn này, xem ra càng kết càng sâu. </p> 
+</div>

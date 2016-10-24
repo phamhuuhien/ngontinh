@@ -1,0 +1,47 @@
+<div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
+ <p></p>"Không có chuyện gì. . . . . ."
+ <p></p>"Trương đại ca tốt không? Ta vào xem một chút. . . . . ." Nhan Nhiễm Y nói.
+ <p></p>Trương tẩu gật đầu liên tục, nói: "Xem ta lại quên, chính là muốn đưa bọn ngươi vào cho cha Hương Nhi gặp mặt ân nhân một chút. . . . . ."
+ <p></p>"Trương tẩu ngươi nói gì vậy, chúng ta không dám nhận... . . . ." Nhan Nhiễm Y và Diệp Linh Cẩm đi theo Trương tẩu vào phòng, lúc này cha Hương Nhi đã ngồi dậy tựa lưng trên thành giường.
+ <p></p>"Đây chính là hai người ta đã nói, Cẩm nhi muội tử và Nhan huynh đệ. . . . . ."
+ <p></p>Diệp Linh Cẩm thân thiện mỉm cười với hắn. Chỉ thấy sắc mặt cha Hương Nhi so với mấy ngày trước tốt hơn nhiều, mặc dù còn có chút suy yếu nhưng đoán chừng mấy ngày nữa sẽ khỏe.
+ <p></p>"Cẩm nhi muội tử, Nhan huynh đệ. . . . Cám ơn nhiều. . . ." Mới vừa tỉnh lại, hắn nói chuyện còn có chút thở gấp.
+ <p></p>Nhan Nhiễm Y đi vào, nắm cổ tay bắt mạch nói: "So với dự đoán của ta, đã hồi phục tốt hơn rồi, qua ba, bốn ngày nữa thì có thể xuống giường rồi, nghỉ ngơi vài ngày là có thể khỏi hoàn toàn . . . . ."
+ <p></p>"Thật, thật chứ?" Trương tẩu có chút kích động. Diệp Linh Cẩm cầm tay của nàng, vốn muốn nói: Nhan Nhiễm Y nói được, đương nhiên là có thể được . . . . . . Nhưng là suy nghĩ một chút, xưng hô như vậy không tốt lắm, nhất thời không nghĩ ra cách xưng hô khác, liền thôi.
+ <p></p>"Mới vừa tỉnh lại, tốt nhất ăn chút thức ăn lỏng trước, hay hơn là cháo. . . . . ." Nhan Nhiễm Y nói.
+ <p></p>Trương tẩu gật đầu một cái nói: "Tốt. . . . Tốt. . . . Ta sẽ đi làm ngay . . . . Muội tử cùng Nhan Nhiễm Y đi trước ăn cơm đi. . . . . ."
+ <p></p>"Cha khỏe rồi . . . ." Hương Nhi vui mừng kêu, làm cho trong lòng mỗi người cũng tràn đầy vui sướng.
+ <p></p>Ăn cơm, Nhan Nhiễm Y tiếp tục đi ra ngoài.
+ <p></p>Diệp Linh Cẩm giúp đỡ Trương tẩu dọn dẹp một chút, Trương tẩu liền vào chăm sóc cho chồng, Hương Nhi quấn quít bên cạnh cha mẹ, không có việc gì nên làm cho Diệp Linh Cẩm cảm thấy có chút nhàm chán.
+ <p></p>Hay là đi xem Nhan Nhiễm Y một chút thôi. . . . . . Thật ra thì nàng rất tò mò, ngày thứ nhất không có ai đến khám bệnh, thế nào ngày thứ hai bắt đầu thì có, hơn nữa nhìn Nhan Nhiễm Y mỗi ngày mang thức ăn về, người xem bệnh hình như là càng ngày càng nhiều.
+ <p></p>Sau giữa trưa, trên chợ, người bắt đầu từ đông hơn, vì khí trời càng ngày càng nóng, rất nhiều người bán hàng rong dựng lên mái che nắng nhỏ nhỏ. Diệp Linh Cẩm đi đến chỗ cũ nhưng không có thấy Nhan Nhiễm Y.
+ <p></p>"Cô nương, ngươi đến tìm chồng hay sao?" lão bà Bán rau vẫn cười rất thuần phác. Diệp Linh Cẩm gật đầu một cái, đứng bên cạnh, nói: "Lão bà bà. . . . Chừng mấy ngày không gặp, nhìn qua sắc mặt càng ngày càng tốt rồi. . . . . ."
+ <p></p>Lão bà bà mỉm cười, nếp nhăn trên mặt sâu hơn. "Đều là do chồng của ngươi giúp đỡ, kê cho ta phương thuốc đấy. . . . . ."
+ <p></p>"Bà bà thật là càng ngày càng trẻ ra. . . . . ." Diệp Linh Cẩm khen. Lão bà sẳng giọng: "Tuổi cũng đã cao, trẻ nữa là thành lão yêu quái sao. . . . . ." Ngay sau đó lại nói, "Cô nương là tới tìm chồng ngươi sao. . . . . ."
+ <p></p>Mặc dù "Chồng ngươi" nghe rất không được tự nhiên nhưng Diệp Linh Cẩm vẫn gật đầu một cái. Lão bà nói: "Ở phía trước khúc quanh kia. . . . Đi về phía trước là ngươi có thể nhìn thấy. . . . . ."
+ <p></p>Diệp Linh Cẩm gật một cái liền muốn nói lời từ biệt. Lão bà nói: "Chồng ngươi dáng người anh tuấn, hai ngày nay đều có nhiều cô nương hôm nào cũng đến, cũng đâu thấy giống là có bệnh hoạn gì. . . . ."
+ <p></p>Quả nhiên Nhan Nhiễm Y trêu hoa ghẹo nguyệt rồi. Diệp Linh Cẩm trên mặt nói tiếng cám ơn, từ biệt lão, liền đi về phía trước, trong lòng mắng Nhan Nhiễm Y tên khốn kiếp.
+ <p></p>Diệp Linh Cẩm ở xa xa có thể nhìn thấy chỗ Nhan Nhiễm Y ngồi, không biết lúc nào hắn lấy được một cái bàn, còn có cái ghế. Mặc dù mình mặc quần áo vải thô màu xám tro nhưng Diệp Linh Cẩm liếc mắt một cái liền thấy được hắn trong đám đông. Mà ngồi đối diện hắn chính là một cô gái.
+ <p></p>Diệp Linh Cẩm đi vào, rốt cuộc có thể nghe rõ bọn họ nói gì rồi. Nhan Nhiễm Y nhìn thấy nàng, cũng không có kinh ngạc, không có chột dạ, chỉ là ôn nhu liếc nàng một cái.
+ <p></p>Cô gái trước mặt nàng theo ánh mắt của hắn cũng quay đầu chút đầu, nhìn Diệp Linh Cẩm, cho là cô nương xếp hàng chờ "Xem bệnh", liền nghiêng đầu, tiếp tục nói: "Tiểu thư nhà ta thân thể có chút hư nhược, muốn mời tiên sinh đến xem một chút. . . . . . Ngày mai giờ Mùi, ở bên bờ sông chờ tiên sinh. . . . . ."
+ <p></p>Đi ra ngoài xem bệnh ? Đây rốt cuộc là đi hẹn hò a, hẹn hò a, vẫn là đi hẹn hò!
+ <p></p>Thật không biết mấy ngày nay Nhan Nhiễm Y thừa dịp nàng không có ở đây, rốt cuộc đã trêu chọc bao nhiêu hoa đào, ở nơi này xem bệnh, là bán nhan sắc a! Không trách được mỗi ngày đều có thể kiếm được tiền trở về, té ra là muốn làm chồng tương lai của người ta!
+ <p></p>"Mẹ kế. . . . . ." Diệp Linh Cẩm xấu xa kêu lên.
+ <p></p>Nha hoàn ngồi đối diện Nhan Nhiễm Y, nghiêng đầu nhìn nàng một chút, biết là không phải gọi mình, lại cảm thấy nhất định không phải là gọi Nhan Nhiễm Y , liền quay đầu, tiếp tục nói chuyện với Nhan Nhiễm Y.
+ <p></p>"Mẹ kế. . . . . ." Diệp Linh Cẩm tiếp tục.
+ <p></p>"Mẹ kế. . . . . ."
+ <p></p>Nha hoàn kia rốt cuộc không chịu nổi, quay đầu lại nhìn nàng, nói: "Cô nương ……. Ngươi tìm nhầm người rồi. . . . . . Ta không phải là mẹ kế ngươi. . . . . . Cũng không có một đứa con lớn như ngươi vậy. . . . ."
+ <p></p>Lúc nói chuyện trong mắt có chút không xem ai ra gì, Diệp Linh Cẩm đoán là nha hoàn của gia đình giàu có nào đó. Diệp Linh Cẩm căn bản không nhìn nàng, mà là nhìn phía trước nàng, tiếp tục nói: "Mẹ kế. . . . . . Về nhà. . . . . ."
+ <p></p>Tên chết tiệt kia, hắn không để ý tới nàng! Nha hoàn kia theo tầm mắt của nàng nhìn, có chút kinh ngạc nhìn Nhan Nhiễm Y rất điềm đạm. "Còn sớm. . . . . . Chút nữa hãy về. . . . . ." Nhan Nhiễm Y âm ấm nói. 
+ <p></p>Nha hoàn nhất thời há to miệng. . ."Tiên…, tiên sinh. .. . Đây là. . . ." Trong lòng Diệp linh Cẩm cười hài lòng. Cô nương, cũng đã 3 lần rồi, ngưng lại thôi. . . . . .
+ <p></p>"Con gái nuôi của tại hạ. . . . . . Khiến cô nương chê cười. . . . . ." Nhan Nhiễm Y khẽ gật đầu với nàng nói, giọng bình thản, mỉm cười ôn hòa, hắn nói ra làm cho người ta kinh ngạc, thấy không thích hợp chút nào.
+ <p></p>"A, . . . . ." Nha hoàn kia thật vất vả tiêu hóa tin tức này, hơi lớn tiếng, nói "Tiên sinh. . . . . . chuyện ngày mai ta đi hỏi lại tiểu thư nhà ta vậy. . . . . ."
+ <p></p>Nhan Nhiễm Y mỉm cười nói: "Tốt. . . . . ." Nha hoàn đi mà giống y hệt chạy nha. Diệp Linh Cẩm có chút hả giận nhìn bóng dáng nha hoàn kia có chút hoảng hốt, hả hê bĩu môi, quay đầu lại.
+ <p></p>"Chơi đùa đã chưa. . . . . ." Trong nháy mắt, Diệp Linh Cẩm nghiêm mặt lại, ngồi đối diện hắn không nói lời nào. Nhan Nhiễm Y buồn cười nhìn nàng nói: "Ngươi hung thần ác sát như vậy ngồi ở chỗ này, ta còn muốn buôn bán a. . . . . ."
+ <p></p>Không đề cập tới chuyện này thì thôi, nhắc tới Diệp Linh Cẩm càng thêm giận. "Phanh…….." một tiếng, Diệp Linh Cẩm vỗ nhẹ xuống bàn, nói: "Thì ra là gần đây ngươi đều kiếm tiền như vậy đúng không. . . . . . Ta nói a. . . . . . Thì ra là tiểu thư, con gái nhà người ta tới đưa tiền . . . ."
+ <p></p>Nhan Nhiễm Y thản nhiên nói: "Họ đến khám bệnh, ta cũng xem, đương nhiên là phải thu tiền xem bệnh. . . . . ."
+ <p></p>"Họ rốt cuộc là xem bệnh hay là xem ngươi !" "Chuyện này ta cũng đành chịu …" Nhan Nhiễm Y giơ hai tay ra.
+ <p></p>". . . . . ."
+ <p></p>"Ngươi. . . . . ." Diệp Linh Cẩm tức giận, lại muốn vỗ bàn.
+ <p></p> 
+</div>

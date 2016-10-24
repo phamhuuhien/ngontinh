@@ -1,0 +1,178 @@
+<div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
+ <p> Gió mang tiên khí nhẹ nhàng lan tràn khắp nơi, các loài linh cầm bay lượn trong các bức tường mây. Tiếng sáo thánh thót trong veo từ đâu đó vang lên, tạo nên một khúc nhạc uyển chuyển hòa với mây mù len lỏi vào từng khe núi, vang vọng khắp mười hai đỉnh núi lớn nhỏ ở Nam Hoa. Dường như có người đang thổi sáo, tiếng sáo quẩn quanh những thân trúc tím bao bọc quanh Tử Trúc Phong như một lời ca nhẹ nhàng than thở. Đối diện với ngọn núi cao nhất ở Nam Hoa vẫn là tòa cung điện hùng vĩ như trước đây, những người lui tới nơi này cũng vẫn là những gương mặt quen thuộc như vậy. Nhưng, Trọng Tử lại cảm thấy dường như có gì đó khác hẳn ngày hôm qua. </p>
+ <p>Nam Hoa ngày hôm qua và Nam Hoa ngày hôm nay, dường như đã trải qua đến mấy đời.</p>
+ <p>Trọng Tử ôm gối ngồi một mình trên tảng đá, nhìn theo những đám mây đầy màu sắc trải dài khắp cả bầu trời, lòng nàng trống rỗng, giống như đã đánh mất một thứ gì đó, nơi này quen thuộc với nàng như vậy, nhưng sao nàng lại cảm thấy giờ đây nó xa lạ vô cùng.</p>
+ <p>Ma kiếm đã được đưa trở về, trên dưới Tiên môn đều hân hoan ăn mừng, cung chủ Thanh Hoa cung Trác Diệu cùng với chưởng môn phái Côn Luân, phái Mao Sơn và các vị chưởng môn của các phái khác đều tới Nam Hoa thảo luận biện pháp xử trí ma kiếm. Nghe chuyện của Sở Bất Phục xong, các vị chưởng môn đều thở dài, ngay cả Mẫn Vân Trung vẫn nổi tiếng hà khắc xưa nay, cũng chỉ trách cứ một câu: “Năm đó y đã quá hồ đồ rồi.” Nói tóm lại, Ma kiếm được thu về bình yên là tốt rồi. Mọi người càng bất ngờ và kinh sợ hơn là, gian tế lại ở trong Tiên môn, sự việc này quá trọng đại, bởi vì đệ tử tiên môn vốn rất đông, việc này sẽ liên quan đến nhiều người, gây ra ảnh hưởng rất lớn. Vì thế Lạc Âm Phàm không để lộ ra, chỉ báo cho các chưởng môn để họ âm thầm điều tra việc này.</p>
+ <p>Cung Khả Nhiên âm thầm một mình rời đi, nhưng lại không thấy quay về Trường Sinh Cung, từ nay về sau đã không còn rõ tung tích.</p>
+ <p>Mấy ngày nay Trọng Tử không lúc nào được thanh tĩnh, tuy mỗi ngày Lạc Âm Phàm cùng các chưởng môn đều thảo luận với nhau về việc tinh lọc Ma kiếm đến khuya mới xong việc, nhưng Yến Thực Châu thỉnh thoảng lại mang vài đệ tử có giao tình tốt với nàng tới thăm hỏi, nên Trọng Tử ít có thời gian rảnh rỗi mà suy nghĩ lung tung.</p>
+ <p>Nhưng, trong mỗi đêm trường vắng lặng, khi nàng hoảng hốt tỉnh dậy từ trong giấc mộng, không biết vì sao mặt lại ướt đẫm nước mắt, nhưng không còn ai đến ôm nàng, an ủi, vỗ về nàng nữa.</p>
+ <p>Tiên trưởng áo trắng tóc dài, ma tôn áo đen tóc đỏ, luôn dịu dàng mỉm cười nhìn nàng, với một khúc Thương Hải cầm ca. Tất cả đều bị hai chữ ‘đã từng’ lấy đi mất, từ nay về sau hình bóng người chỉ vĩnh viễn còn lại trong ký ức mà thôi.</p>
+ <p>Tiểu ma xà bên cạnh kéo kéo góc áo của nàng, Trọng Tử đưa tay sờ đầu nó.</p>
+ <p>Những chuyện xảy ra tại Vạn Kiếp cung, tất cả giống như một giấc mộng, nên chỉ khi nhìn thấy tiểu ma xà Trọng Tử mới cảm giác được những việc đó là sự thật, đã từng xảy ra.</p>
+ <p>Chủ nhân của nó đã không còn, tiểu ma xà liền nhận nàng là chủ nó, bất luận thế nào cũng không chịu rời đi. Ma xà của Hư Thiên vốn là loài ma thú rất hiếm và cực độc, bao nhiêu đệ tử Tiên môn đều bị nó làm hại, Mẫn Vân Trung suýt nữa đã rút kiếm ra chém nó, may mắn Lạc Âm Phàm đã làm phép bỏ đi răng nanh, nàng mới có thể đem nó lên Nam Hoa. Bản thân là ma thú, lại mất đi thứ quý giá nhất là răng nanh, lúc vừa mới tới Tử Trúc Phong, khi nhìn thấy linh hạc, nó liền sợ tới mức phát run, nhưng may mắn linh hạc là Tiên cầm, vốn không có ý định làm hại nó, chỉ ngẫu nhiên dọa nó một chút thôi.</p>
+ <p>Hai thân phận nhỏ bé với cách sống hèn mọn giống nhau, cả hai dường như cũng đã cam tâm thỏa mãn lắm rồi.</p>
+ <p>Giờ phút này nó không biết buồn bã mà quấn lấy tay Trọng Tử làm nũng, nhưng nó làm sao hiểu được, sau này nếu nó rời khỏi Nam Hoa, rời khỏi nàng, cũng chỉ có thể mang một vận mệnh là một con vật nhỏ bé bị người khác khinh khi ức hiếp mà thôi, nếu tương lai nàng không thể bảo vệ được nó thì phải làm sao đây?</p>
+ <p>Trọng Tử có chút buồn rầu, vỗ đầu nó: “Hai ngày nay mày đã đi đâu, có nhớ lời tao nói với mày không, mày nhất định không được rời khỏi Tử Trúc Phong đó.”</p>
+ <p>Tiểu ma xà gật gật đầu.</p>
+ <p>Trọng Tử lúc này mới an tâm, nếu như nó cứ chạy lung tung bên ngoài, nếu gặp phải Văn Linh Chi chắc chắn nàng ta sẽ dùng một kiếm chém chết nó. Ngu Độ sẽ không vì một con ma thú mà truy cứu trách nhiệm, Tử Trúc Phong vốn không có người nào dám tự tiện xông vào, nó ở đây sẽ được an toàn.</p>
+ <p>“Trọng Tử.”</p>
+ <p>“Mộ sư thúc!”</p>
+ <p>Thấy có người tới, tiểu ma xà lập tức ngoan ngoãn trườn ra ngoài, tự đi chơi.</p>
+ <p>Mộ Ngọc mỉm cười, đi về phía Trọng Tử, ngồi xuống bên cạnh nàng: “Lần này con mang Ma kiếm về đã lập được công lớn, sư phụ ta đã đồng ý, con không cần phải đi Băng lao Côn Luân nữa.”</p>
+ <p>Trọng Tử cụp mắt xuống, sau một lúc lâu mới cất tiếng: “Có đi Côn Luân hay không, đối với con mà nói đã không còn là việc quan trọng nữa rồi. Nếu đi, ngược lại đối với con có lẽ sẽ là chuyện tốt.”</p>
+ <p>Mộ Ngọc lắc đầu: “Vạn Kiếp tiền bối đã đi rồi, sư thúc biết con đau buồn nhiều, nhưng Vạn Kiếp tiền bối sở dĩ làm như vậy, là muốn cho con có thể lập công chuộc tội. Con hãy ở lại Nam Hoa, không cần tới Côn Luân chịu cực hình đâu, nếu không những việc tiền bối đã làm cho con, chẳng lẽ hóa thành công cốc hết rồi sao?”</p>
+ <p>Trọng Tử sửng sốt.</p>
+ <p>Mộ Ngọc vươn tay ra ôm lấy nàng: “Còn có rất nhiều người nhớ thương con, quan tâm con, ít nhất là còn có ta, con không thể cứ vậy mà tự xem thường mình rồi từ bỏ mọi thứ, con biết không.”</p>
+ <p>Trong lòng Trọng Tử chợt thấy ấm áp, thấp giọng nói: “Mộ sư thúc, Trọng Tử đã biết sai rồi, người đừng lo lắng.”</p>
+ <p>Mộ Ngọc nhớ đến một chuyện, nói với nàng: “Tần Kha nhiều lần vì con mà cầu xin, nên bị chưởng giáo phạt cấm túc ở Ngọc Thần Phong. Ta đã đem chuyện của con nói với thằng bé rồi, nếu con có thời gian thì nên đi thăm thằng bé một chút xem sao.”</p>
+ <p>Hèn gì mấy ngày nay nàng không nhìn thấy Tần Kha. Trọng Tử giật mình, nghĩ tới y vì mình mà cầu xin để rồi bị phạt, còn bản thân mình đã về đây mấy ngày rồi, thế mà chưa từng hỏi thăm đến y lấy một lời, trong lòng áy náy vô cùng, nàng vội vàng gật đầu.</p>
+ <p>‘Bất luận là con chịu nhiều ấm ức, chịu nhiều đau khổ đến thế nào, sẽ vẫn luôn có người tin tưởng con, thương yêu con.’ Đại thúc nói rất đúng, nàng không chỉ có một mình, đại thúc đã dùng chính tính mạng mình cho nàng một cơ hội quay về Nam Hoa, nàng tuyệt đối không thể phụ lòng người, tuyệt đối không dễ dàng mà rời khỏi Nam Hoa.</p>
+ <p>…………</p>
+ <p>Có lẽ là do việc thảo luận tinh lọc Ma kiếm đã có kết quả, hôm nay Lạc Âm Phàm trở về sớm hơn mọi ngày. Trọng Tử bước vào trong điện hầu hạ hắn, nàng đứng xa xa ở cạnh bàn mà mài mực. Mấy ngày gần đây nàng không tiếp tục tu luyện Linh Đài ấn, càng ít nói chuyện hơn trước rất nhiều, Lạc Âm Phàm hiểu rõ tính tình của tiểu đồ đệ mình, sự ra đi của Sở Bất Phục đã làm tinh thần con bé sa sút nặng nề, trong thời gian ngắn khó có thể suy nghĩ thông suốt được, nên hắn cũng không trách cứ Trọng Tử điều gì.</p>
+ <p>“Sư phụ, tiểu ma xà thích đi lung tung, con sợ nó lỡ mà gặp phải linh thú Toan Nghê đi tuần núi sẽ bị thương.”</p>
+ <p>“Không có đâu.”</p>
+ <p>Nghĩ rằng sư phụ chắc là đã dặn dò qua Toan Nghê, Trọng Tử “dạ” một tiếng, hồi lâu sau mới nói tiếp: “Sư phụ, nếu đúng như lời nói của đại thúc. Con cùng với Ma tôn Nghịch Luân có mối quan hệ mật thiết với nhau thì phải làm sao bây giờ?”</p>
+ <p>Lạc Âm Phàm mấy ngày nay cũng luôn suy nghĩ về việc này, nghe Trọng Tử hỏi vậy mới nói: “Sẽ không sao đâu.”</p>
+ <p>Trọng Tử cúi đầu.</p>
+ <p>Sư phụ nói: ‘Sẽ không sao”, chứ không phải là: ‘Đừng sợ.’</p>
+ <p>Lạc Âm Phàm đặt bút xuống nhìn nàng: “Sở Bất Phục vì sư môn mà nhập vào ma đạo. Về tình có thể thương xót, nhưng nếu không phải y vì một ý niệm sai lầm mà bước sai, Ma kiếm sẽ không tồn tại tới bây giờ, vì sư môn mà không màng đến chúng sinh, đó là tội lỗi rất nặng. Mấy năm gần đây y lại bị ma khí nhiễu loạn thần trí, giết người vô số. Nay y đã có thể quay đầu bù đắp lại sai lầm của mình đã là việc rất khó có được rồi. Mấy vạn măn sau, linh khí trời đất tự nhiên hội tụ, sẽ tái sinh vạn vật, vạn vật bản chất đều không có “sống chết”, con lại càng không nên phụ tấm lòng của y.”</p>
+ <p>Mọi người đều gọi đại thúc là Ma tôn Vạn Kiếp, chỉ có mỗi sư phụ là còn nhớ cái tên này, Trọng Tử nhỏ giọng nói: “Đệ tử tu hành không đủ, đạo lý này tuy có thể hiểu được, nhưng vẫn không thể nào thông suốt, đại thúc là bị ép buộc mà.”</p>
+ <p>Lạc Âm Phàm nhíu mày.</p>
+ <p>Sở Bất Phục đã chết, kẻ ẩn sau tấm màn kia chắc chắn sẽ cẩn trọng hơn, Tiên giới rộng lớn, môn đồ vô số, nếu tiến hành tra xét sợ không thể có được kết quả, cũng may mắn là vào thời điểm này, kẻ đó sẽ không dám có hành động thiếu suy nghĩ, xem ra còn có thể từ từ mà điều tra. Trước mắt, Nghịch Luân kiếm sắp bị tinh lọc, vì sợ tiểu đồ đệ sẽ bị người khác mượn tay làm chuyện xấu, hắn đã đặc biệt thiết lập một kết giới nghiêm mật ở Tử Trúc Phong. Như vậy, nếu có chuyện gì xảy ra nữa, hắn cũng có thể biết được đúng lúc.</p>
+ <p>“Chuyện của Sở Bất Phục, sư phụ và chưởng giáo nhất định sẽ điều tra rõ ràng, mấy ngày sắp tới con ít rời khỏi Tử Trúc Phong thôi. Nếu con muốn đi đâu, thì hãy gọi Mộ Ngọc đi cùng, còn những chuyện khác, con không cần phải suy nghĩ nhiều.”</p>
+ <p>Trọng Tử vâng lời, thấy sư phụ đưa tay lên, nàng đi qua rót cho hắn chén trà, rồi vội đặt chén trà lên án thư trước mặt hắn, nhanh chóng lùi lại đằng xa.</p>
+ <p>Lạc Âm Phàm cầm chén trà lên, dặn dò: “Trác Thiếu cung chủ của Thanh Hoa cung tới thăm con đó, lần này vì cứu con, Thanh Hoa cung cũng đã dốc hết sức giúp đỡ, con nhớ phải nói tiếng cảm tạ với cậu ấy.”</p>
+ <p>………….</p>
+ <p>Trác Hạo quả nhiên chờ dưới chân núi Tử Trúc Phong, đôi mày kiếm nhướng lên, đôi môi khẽ mím, không còn mặc y phục sặc sỡ như con khổng tước nữa, y phục màu tuyết trắng vừa hợp với màu da của y, trong tay cầm một cây quạt trắng, trong vẻ phong lưu phóng khoáng lại lộ ra nét anh khí bừng bừng.</p>
+ <p>Thấy Trọng Tử đi tới, y liền thu quạt lại, cất tiếng chào đón: “Ta đã muốn sớm đi thăm muội nhưng lại bị phụ thân phái đi đón cô cô, nên hôm nay mới tới được Nam Hoa, muội muội…có bị thương không?</p>
+ <p>Trọng Tử thi lễ theo quy củ: “Muội không sao, đã nhọc lòng sư huynh lo lắng rồi.”</p>
+ <p>Trác Hạo nhíu mày, bỗng nhiên nói: “Muội muội, muội nhìn kìa!”</p>
+ <p>Rõ ràng đang là ban ngày, thế nhưng bầu trời đột nhiên tối sầm xuống, chỉ trong giây lát trên đỉnh đầu Trọng Tử có vô số ánh sao đang hiện lên.</p>
+ <p>Ánh sao màu xanh nhạt, rất nhỏ, rất đẹp, nhìn thấy thật rõ ràng nhưng lại không hề chói mắt, nhiều không thể đếm nỗi. Đầu tiên là ở trên đỉnh đầu nàng di chuyển, sau đó liền sa xuống dưới.</p>
+ <p>Mưa sao rơi đầy trời, như những đóa hoa dương liễu tung bay trong gió, như pháo hoa nở rộ trong đêm hè, thăm thẳm huyền ảo, vô cùng đẹp đẽ.</p>
+ <p>“Đây là ảo thuật gì vậy?” Trọng Tử ngẩng mặt lên nhìn tới ngẩn người.</p>
+ <p>“Cái này mà là ảo thuật sao? Đây là sát chiêu tuyệt kĩ nổi danh của Thanh Hoa cung chúng ta, gọi là Hải Chi Diễm đó.”</p>
+ <p>Trọng Tử vừa kinh ngạc vừa vui mừng: “Thật sao? Sư huynh làm lại một lần nữa cho muội xem đi.”</p>
+ <p>Trác Hạo bật cười: “Muội xem đây là cái gì vậy, đây là sát chiêu đó, nếu khống chế không tốt sẽ làm bị thương người khác, huynh vừa luyện thành không bao lâu, có thể xuất chiêu lần này đã là rất khó.” Thấy vẻ mặt thất vọng của Trọng Tử, y vươn tay kéo nàng, dịu dàng nói: “Đợi huynh luyện thành thạo nó rồi, mỗi ngày đều sẽ làm cho muội xem.”</p>
+ <p>Trọng Tử vội vàng muốn lùi về phía sau: “Trác sư huynh, muội đã nghe sư phụ nói rồi, lần này cảm ơn huynh…”</p>
+ <p>“Lần này muội có thể bình yên trở về là tốt rồi.” Trác Hạo ngắt lời nàng, đem bàn tay nhỏ bé kia nắm gọn vào hai bàn tay mình: “Từ lúc muội bị Vạn Kiếp tiền bối mang đi, mấy ngày liền huynh đều không thể ngủ được. Thật là huynh đã bị dọa cho sợ hãi, huynh sống hai mươi năm nay, lần đầu lại sợ hãi đến vậy, chẳng lẽ những điều huynh làm chỉ là vì muốn đổi lấy một câu nói khách khí này của muội thôi sao?”</p>
+ <p>Nghe xong những lời nói chân thành tha thiết ấy, Trọng Tử im lặng một lát, nói: “Đã làm sư huynh lo lắng cho muội rồi.”</p>
+ <p>Trác Hạo lại xòe quạt ra một lần nữa ngăn cách giữa mặt hai người, một tay vẫn cầm lấy tay nàng: “Phải lo lắng chứ, nói không chừng trong tương lai khi tiểu nương tử bắt nạt phu quân, tiểu nương tử sẽ niệm tình này mà sẽ hạ thủ lưu tình với phu quân thì sao.”</p>
+ <p>Đối mặt với ánh mắt trêu chọc kia, Trọng Tử hốt hoảng, muốn tránh tay y ra.</p>
+ <p>Trác Hạo thấy thế càng thêm thích thú: “Nghe nói muội gần đây không hề rời khỏi Tử Trúc Phong, chắc là buồn chán đến chết rồi phải không, để huynh đưa muội dạo quanh một chút.”</p>
+ <p>Trọng Tử vội nói: “Sư phụ đã dặn dò qua, bảo muội không được đi lung tung.”</p>
+ <p>“Ban ngày nhiều người lại có ta ở đây, muội sợ gì chứ.” Trác Hạo giống như là chợt hiểu ra chuyện gì, vội an ủi Trọng Tử: “Chuyện của Vạn Kiếp tiền bối huynh đã nghe cha huynh kể rồi, không thể tưởng được tiền bối bước sai bởi một ý nghĩ sai lầm mà cứ vậy mà bị người khác hiểu lầm. Muội đừng quá thương tâm, sau này tra ra được kẻ ẩn thân kia, chúng ta chắc chắn sẽ thay muội báo thù cho tiền bối.”</p>
+ <p>Y thu hồi quạt, dịu dàng nói: “Chỉ hận một điều bọn họ đã khiến muội phải chịu oan khuất, may mắn chân tướng sự việc đã được tra ra rõ ràng, muội đến Thanh Hoa đi, huynh tuyệt đối sẽ không để cho muội phải chịu một chút oan khuất nào nữa cả.”</p>
+ <p>Trọng Tử hoảng sợ: “Trác sư huynh, muội…”</p>
+ <p>Trác Hạo lấy chiếc quạt nâng cằm nàng lên: “Sư huynh?”</p>
+ <p>Trọng Tử nói: “Hôm nay muội đặc biệt tới đây là để cảm ơn sư huynh, muội… tuyệt đối sẽ không rời khỏi Nam Hoa.</p>
+ <p>Trác Hạo sửng sốt, nhíu mày: “Vẫn là vì chuyện trời sinh sát khí sao? Đó không phải là lỗi của muội, đừng nghe họ nói nhảm, Trác Hạo ca ca không e ngại gì chuyện này đâu.”</p>
+ <p>Trọng Tử nói: “Kẻ ẩn thân kia là nhằm vào muội, không có khả năng y dễ dàng dừng tay, muội đã quyết định ở lại Tử Trúc Phong phụng dưỡng sư phụ, không muốn lại gây ra chuyện gì nữa cả.”</p>
+ <p>Trác Hạo buồn cười: “Nói bậy, làm sao muội có thể ở bên sư phụ mình mãi được! Huống chi muội tới Thanh Hoa, huynh thấy còn an toàn hơn ở Nam Hoa, hay là muội sợ cha huynh có thành kiến với muội? Việc này ta đã nói với cha rồi, người vẫn luôn thích muội, người đã đồng ý với huynh sẽ thay muội nghĩ cách rồi.”</p>
+ <p>Trọng Tử chỉ lắc đầu.</p>
+ <p>Trác Hạo thở dài, kéo Trọng Tử lại gần: “Trác Hạo ca ca đối với muội thế nào, chẳng lẽ muội còn chưa tin tưởng huynh sao?”</p>
+ <p>Làm sao mà không tin cho được, y liều mình bảo vệ nàng, vì nghĩ cách cứu nàng ngay cả thương thế của mình cũng không màng tới, lấy thân phận của y, căn bản không cần đối xử tốt với nàng như vậy, nếu là bất kỳ ai thì cũng đã cảm động mất rồi.</p>
+ <p>Nhưng mà, con người luôn không thể thuyết phục được chính bản thân mình.</p>
+ <p>Trọng Tử bỗng nhiên dùng sức, giật tay lại, lùi về phía sau hai bước.</p>
+ <p>Trác Hạo có chút bất đắc dĩ, đành phải xoay người lại cười: “Mẫn sư muội?”</p>
+ <p>Mẫn Tố Thu vốn đến tìm Trác Hạo, thấy thế bèn cụp mắt xuống: “Trác Hạo ca ca, muội đi khắp nơi tìm huynh đều không thấy, thì ra là huynh đang ở nơi này, mới vừa rồi Trác bá bá cho tìm huynh đấy.”</p>
+ <p>Ở trước mặt Mẫn Tố Thu, Trọng Tử cũng không tiện nói tiếp nữa.</p>
+ <p>Nghe nói cha đang tìm mình, Trác Hạo cũng không dám chần chừ thêm nữa, dặn dò Trọng Tử: “Huynh đi gặp cha trước, ngày mai huynh lại tới thăm muội, muội đừng suy nghĩ nhiều nữa.”Nhìn theo bóng dáng hai người rời khỏi, Trọng Tử ngơ ngác đứng hồi lâu, chợt nhớ tới lời nói của Mộ Ngọc, trong lòng thầm nghĩ không bằng thừa dịp ban ngày nhiều người, đi thăm Tần Kha một chút. Vì thế bèn vội vàng quay về Trọng Hoa cung thưa chuyện với Lạc Âm Phàm, sau đó ngự Tinh Xán bay thẳng tới Ngọc Thần Phong.</p>
+ <p>Ngọc Thần Phong là nơi tu hành của Ngu Độ, những cây cổ thụ rậm rạp che khuất cả bầu trời, có cây thậm chí cao hơn mười trượng, cành lá xum xuê vươn dài ra, tán rộng như một chiếc cầu dài, người ta có thể bước đi được trên đó.</p>
+ <p>Dưới lòng bàn chân Trọng Tử, những đám mây bay ngang qua vun vút, xa xa thỉnh thoảng có vài đệ tử đang ngự kiếm lướt qua.</p>
+ <p>Trọng Tử vòng đi vòng lại ngoài ngoài Ngọc Thần Phong mấy vòng, nhưng trước sau vẫn không dám đi vào, đang sầu não, thì nghe thấy một giọng nói lành lạnh quen thuộc vang lên: “Muội còn muốn ngẩn người tới bao giờ nữa?”</p>
+ <p>Cúi đầu xuống, thấy một bóng áo trắng đang đứng vững vàng trên đầu một cành cổ thụ lớn, dưới chân những cành lá như làn sóng xanh nhẹ nhàng xao động.</p>
+ <p>Trọng Tử lao nhanh xuống dưới, vui vẻ nói: “Làm sao huynh biết muội tới đây vậy?”</p>
+ <p>Tần Kha không đáp lời, chỉ đưa mắt nhìn Trọng Tử một lúc lâu mới mở miệng: “Trở về là tốt rồi, cẩn thận đi theo Tôn giả, đừng chạy lung tung nữa.”</p>
+ <p>Nghĩ là Tần Kha đã được Mộ Ngọc nói cho nghe về chuyện gian tế ở tiên môn, Trọng Tử gật đầu đồng ý: “Sư huynh một mình ở Ngọc Thần Phong, phải nhớ đề phòng cẩn thận nhé.”</p>
+ <p>Khóe miệng Tần Kha giật giật, cả tòa Ngọc Thần Phong đó đều bị Ngu Độ thiết lập kết giới, nếu không làm sao có thể vây hãm y được, nên nếu có người lạ xâm nhập Ngu Độ sẽ phát hiện ra ngay.</p>
+ <p>Tần Kha cũng không nói rõ ra: “Huynh đã nghĩ qua rồi, năm đó kẻ đó vì muốn giữ lại ma kiếm mà giăng bậy dẫn dụ Vạn Kiếp tiền bối lấy thân tuẫn kiếm, rồi mượn Trường Sinh cung mà áp chế người, khiến cho ma kiếm lưu lại tới hôm nay. Gần đây huynh nghe nói sư phụ huynh và Tôn giả thảo luận, bàn việc với nhau về việc tinh lọc kiếm, chỉ sợ kẻ đó sẽ không bỏ qua, nếu như kẻ đó muốn lợi dụng muội để nhúng tay vào phá hư việc này, nặng nhẹ thế nào chắc Tôn giả chắc đã cân nhắc kĩ càng.”</p>
+ <p>Trọng Tử vội hỏi: “Vậy là sư phụ đã thiết lập kết giới tại Tử Trúc Phong sao?”</p>
+ <p>Tần Kha gật đầu: “Vì thế, tốt nhất muội đừng đi ra ngoài một mình.”</p>
+ <p>“Muội biết rồi, chỉ vì hôm nay muội muốn tới thăm huynh thôi, muội cũng đã nói sư phụ rồi.” Trọng Tử cảm thấy lo lắng: “Chưởng giáo phạt huynh ở nơi này bao lâu?”</p>
+ <p>Tần Kha không trả lời mà hỏi lại: “Trác thiếu cung chủ cũng tới Nam Hoa sao?”</p>
+ <p>Trọng Tử ngượng ngùng, lập tức đứng lên: “Sư huynh nói đến chuyện này để làm gì.”</p>
+ <p>“Lời ngon tiếng ngọt, đúng là hiếm thấy.” Tần Kha xoay người, ngự kiếm biến vào trong rừng: “Muội còn ở đây làm gì, mau trở về đi, tránh xảy ra chuyện.”</p>
+ <p>Trọng Tử định nói thêm nhiều nữa, ai ngờ y lại đi nhanh như thế, đành phải về Tử Trúc Phong bẩm báo với sư phụ, không ngờ lại không thấy người trong điện.</p>
+ <p>……………</p>
+ <p>Sau khi thu hồi kết giới, Kình Thiên Phong - ngọn núi cao nhất Nam Hoa vốn luôn bị che dấu hiện lên trước mắt, cao lên đến tận thông Thiên môn, đây vốn là nơi cử hành Thử kiếm hội lần trước. Các đệ tử có tu vi cao đều được sắp xếp thay phiên nhau bố trí canh gác dọc đường lên núi. Ở giữa Kình Thiên Phong có một tòa thạch động, phía trên cửa động không đề chữ, đúng là một cái động vô danh, ngầm có ý nghĩa danh tiếng không cần tự khoe ra, mà để người tự biết. Lúc này ngoài động chỉ có hai người là Mộ Ngọc và Văn Linh Chi.</p>
+ <p>Hang núi này rất ngắn, chỉ khoảng vài chục trượng, thế nhưng lại không nhìn rõ được vách tường, hai bên trắng xóa mơ hồ phản chiếu bóng người, lập lờ trên vách.</p>
+ <p>Nước từ con suối từ dưới lòng đất phun lên, phát ra những âm thanh ‘ùng ục’, hơi nước che phủ khắp nơi. Một thanh kiếm dài màu đỏ sậm, hình dáng kỳ lạ đang trôi nổi trên mặt nước, như ẩn như hiện. Bên cạnh còn có một khối lệnh bài có màu sắc giống thanh kiếm to khoảng bằng lòng bàn tay, đúng là Thiên Ma lệnh, hiển nhiên là cả hai thứ đều bị pháp thuật giữ chặt ở nơi này.</p>
+ <p>Ngu Độ, Lạc Âm Phàm, Trác Diệu, Ngọc Hư Tử cùng vài vị chưởng môn các môn khái khá lớn khác đều đứng bên cạnh con suối, sắc mặt cực kỳ nghiêm trọng.</p>
+ <p>Sau một lúc lâu, Ngu Độ mới mở miệng nói trước: “Hôm qua Mộ Ngọc và Linh Chi phát hiện điều này, nên mời mọi người tới nới này trao đổi.”</p>
+ <p>Trác Diệu cất lời: “Chẳng lẽ là tàn hồn của y sao?”</p>
+ <p>Ngu Độ nói: “Khó nói lắm.”</p>
+ <p>Ngọc Hư Tử nói: “Hay là chúng ta hợp lực dẫn dắt ra đi?”</p>
+ <p>Lạc Âm Phàm nhìn một lúc lâu, lắc đầu: “Tuẫn kiếm chính là cấm thuật của Ma tộc, lấy hồn phách để nuôi dưỡng hồn kiếm, kiếm còn người còn.”</p>
+ <p>Mọi người trầm mặc.</p>
+ <p>Không thể tưởng tượng được lại xảy ra chuyện này, Vô Phương châu là pháp khí Phật môn, lực tinh lọc vô cùng mạnh mẽ, khi đã bắt đầu rồi thì khó cách nào có thể ngăn lại được. Vậy nên khi tinh lọc Ma kiếm, tất nhiên là tàn hồn cũng phải tiêu tan cùng với ma khí trên thanh kiếm. Quả thật điều này không khỏi khiến người khác cảm thấy không đành lòng. Nhưng kiếm này ở lâu thêm một ngày, là lại thêm một phần nguy hiểm, nên không thể vì thế mà trì hoãn được nữa. Nhưng quả thật việc này thật khó xuống tay.</p>
+ <p>Mẫn Vân Trung ngắt lời : “Kiếm này nhất định không thể giữ lại.”</p>
+ <p>“Mẫn tiên tôn nói có lý, nếu để cho kiếm này rơi vào tay Ma tôn Cửu U, hậu họa vô cùng.” Cung chủ Trường Sinh cung, Minh cung chủ vuốt cằm, nhìn Lạc Âm Phàm: “Nhưng nếu như vậy thì chút hồn phách cuối cùng của y cũng vĩnh viễn tan biến, ta thật sự không đành lòng. Theo Tôn giả, chúng ta nên làm thế nào mới phải đây?”</p>
+ <p>Ngu Độ cũng nói: “Sư đệ, đệ nói thử xem.”</p>
+ <p>Lạc Âm Phàm dời đề tài: “Việc tinh lọc coi như đã được quyết định.”</p>
+ <p>Tất cả mọi người nhẹ nhàng thở ra.</p>
+ <p>Ngu Độ gật đầu: “Y đã xả thân như vậy, chứng tỏ trước đó đã quyết tâm rồi, trước mắt cũng chỉ biết thuận theo ý trời thôi. Kiếm này cùng với Thiên ma lệnh đều là một loại chú chiếm cứ linh hồn, suốt bao năm dùng hồn phách của y để tẩm bổ nuôi dưỡng nó nên ma khí càng lúc càng mạnh, sớm đã không còn như xưa. Ta cùng với vài vị chưởng môn đã thảo luận qua rồi, biện pháp duy nhất là dùng Vĩnh Bảo để diệt trừ hậu họa, đầu tiên dùng loại nước cực lạnh tẩy rửa trong vòng bảy ngày bảy đêm, sau đó mượn linh khí lấy được nơi cột mốc biên giới lục giới cùng với Vô Phương châu bảo vệ, dùng lửa cực nóng nung trong bốn chín ngày, ta nghĩ ma khí dù có mạnh mẽ đến thế nào cũng không qua khỏi được biện pháp này đâu.</p>
+ <p>Trác Diệu nói: “Loại nước cực lạnh chính là nước ở dòng Tứ Hải (*) trong Tử Trúc Phong của Tôn giả, còn về lửa cực nóng thì…”</p>
+ <p><i>* Chính là dòng suối nhỏ trước đại điện Trọng Hoa cung. Coi lại chương 5 </i></p>
+ <p>Ngu Độ sớm đã có biện pháp: “Theo ta được biết, núi Côn Luân có lửa của Phượng thần, còn dược của Trường Sinh cung cũng là dùng lửa nơi Cửu Thiên mà luyện thành, tất cả xin nhờ vào Ngọc Hư chưởng giáo và Minh cung chủ.”</p>
+ <p>Ngọc Hư Tử cười: “Ngu chưởng giáo nói vậy là sai rồi, sự việc có liên quan đến Tiên môn cùng chúng sinh trong thiên hạ, Côn Luân tất nhiên phải dốc hết sức trợ giúp rồi. Nhưng bần đạo chỉ lo ngại đường đi quá xa, trên đường đi sợ sẽ xảy ra chuyện. Theo bần đạo nghĩ, không bằng nhờ Minh cung chủ đây vậy.”</p>
+ <p>Minh cung chủ vội nói: “ Sao lại khách sáo như thế, việc đó là tất nhiên mà.”</p>
+ <p>Ngu Độ có chút lo lắng, chuyển hướng sang Lạc Âm Phàm: “Năm đó khi luồng khí Bắc Đẩu chiếu xuống thông Thiên môn, ta cùng với các vị đây từng hợp lực lấy được một lọ linh khí nơi cột mốc biên giới lục giới, nay vừa lúc có thể sử dụng nó, không biết ý kiến của sư đệ ra sao?”</p>
+ <p>Lạc Âm Phàm gật đầu: “Tốt lắm.”</p>
+ <p>Tay khẽ nâng lên, Ma kiếm lại chìm hẳn xuống con suối, Ngu Độ xoay người hướng về phía các chưởng môn thi lễ, cười nói: “Nếu mọi người không còn điều gì khúc mắc nữa, ngày mai ta liền phái người tới Trường Sinh cung để mượn lửa về.”</p>
+ <p>Mọi người đều không có ý kiến gì khác, mọi việc đã định.</p>
+ <p>Đi ra đến cửa động, Ngu Độ dặn dò Mộ Ngọc và Văn Linh Chi thật cẩn thận, thấy Lạc Âm Phàm đang tính rời khỏi, bèn nhỏ giọng gọi lại: “Sư đệ chậm đã, ta còn có chuyện quan trọng muốn bàn với đệ.”</p>
+ <p>Trác Diệu nghe vậy, cười hướng Ngu Độ chắp tay rồi vội vàng rời đi.</p>
+ <p>Lạc Âm Phàm mặc dù cảm thấy nghi hoặc, nhưng cũng không hỏi nhiều, Ngu Độ cũng không giải thích gì thêm, cùng các chưởng môn cười cười nói nói đi xuống Kình Thiên Phong. Mãi đến khi mọi người đã mỗi người mỗi ngã mới cùng với Mẫn Vân Trung và Lạc Âm Phàm đi vào đại điện Nam Hoa, ngồi vào chỗ của mỗi người.</p>
+ <p>Lạc Âm Phàm cất lời trước: “Sư huynh có việc gì quan trọng sao?”</p>
+ <p>Ngu Độ phất tay cho đệ tử phụng trà lui ra, cười nói: “Hôm nay ta tìm đệ là vì chuyện của Trọng Tử.”</p>
+ <p>Lạc Âm Phàm nhíu mày.</p>
+ <p>Mẫn Vân Trung cười lạnh: “Con yên tâm đi, con bé thu hồi Ma kiếm lập công với tiên môn, ta mặc dù hồ đồ cũng biết luận công thưởng phạt. Còn chuyện tu luyện Linh Đài ấn ta cũng không so đo với con nữa, con tự lo liệu lấy. Lần này chưởng giáo tìm con là do chịu sự nhờ vả của cung chủ Trác Hoa cung Trác Diệu.”</p>
+ <p>“Sư thúc là Đốc giáo, luôn luôn thưởng phạt phân minh, người chỉ tức giận mà nói thế thôi.” Ngu Độ cười, giải thích: “Mối quan hệ giữa Thanh Hoa - Nam Hoa xưa nay luôn rất tốt, Trác cung chủ đã hai lần mở miệng rồi, quả thật ta khó từ chối thêm được nữa, nên hỏi đệ xem sao.”</p>
+ <p>Nhắc tới Trác Diệu, Lạc Âm Phàm đã mơ hồ đoán được nguyên nhân: “Vẫn là chuyện của Trác thiếu cung chủ sao?”</p>
+ <p>“Đúng vậy.” Ngu Độ thở dài: “Sư đệ đừng trách ta hay lo, Thiên Ma lệnh chỉ lưu giữ lại duy nhất vết máu của con bé thôi, cũng có thể thấy được mối nghi ngờ của Vạn Kiếp là có căn cứ, e là con bé có mối quan hệ không đơn giản với Nghịch Luân. Cho con bé đi Thanh Hoa cung so với ở lại Nam Hoa này càng ổn thỏa hơn, tương lai con bé sẽ vướng bận vào việc sinh con dưỡng cái thì ta và đệ cũng yên tâm hơn. Huống chi đây là Trác cung chủ tự mình mở miệng, hơn nữa vì nể mặt đệ, tuyệt đối sẽ không bạc đãi con bé đâu.”</p>
+ <p>Lạc Âm Phàm trầm mặc một lát, nói: “Việc này chỉ sợ không ổn.”</p>
+ <p>Mẫn Vân Trung có chút hờn giận: “Lại còn có chỗ nào không ổn?”</p>
+ <p>Ngu Độ hiểu ra: “Nếu đệ không thể tự mình làm chủ cho con bé, hay để ta sai Thực Châu đến hỏi ý con bé, đệ nghĩ thế nào?”</p>
+ <p>Mẫn Vân Trung ngắt lời: “ Sư phụ như cha mẹ của đệ tử, con bé đã không còn cha mẹ, nên con làm chủ là phải đạo rồi. Huống chi Trác thiếu cung chủ tuổi trẻ tài cao, tương lai nhất định sẽ là một nhân tài, cũng không có gì gọi là thiệt thòi cho con bé cả.”</p>
+ <p>Ngu Độ nói: “Thật ra con bé rất tốt, ta luôn biết điều đó, đáng tiếc lại là trời sinh sát khí, bởi vây đơn giản là đệ cảm thấy thiệt thòi cho con bé thôi. Nhưng việc này sao có thể trách đệ được, mấy năm nay đệ dốc lòng dạy bảo nuôi dưỡng con bé rồi, như thế coi như cũng đã làm hết trách nhiệm của người làm thầy rồi. Ta cũng hiểu, đệ chỉ có duy nhất một đệ tử này thôi nên muốn chăm lo kỹ càng hơn chút nữa. Nhưng đồ đệ sớm hay muộn gì thì cũng phải tự lập. Thanh danh Thanh Hoa cung đâu phải là tệ, con bé tới đó cũng không thua thiệt gì so với ở đây với đệ đâu.”</p>
+ <p>Ngừng lại một chút, y vừa cười vừa nói: “Đệ sợ con bé không chịu sao? Theo ta thấy, quan hệ của con bé và Trác thiếu cung chủ rất tốt, nghe nói trước đó vài ngày, vì cứu con bé mà Trác thiếu cung chủ còn chẳng màng đến thương thế bản thân nữa mà. Bây giờ đệ gật đầu đồng ý biết đâu là tác hợp, thành toàn cho tâm ý của bọn trẻ cũng nên.” </p>
+ <p>Lạc Âm Phàm không nói gì, đưa mắt nhìn về phía cửa.</p>
+ <p>Ngu Độ và Mẫn Vân Trung cũng đồng thời nhìn ra.</p>
+ <p>Một thân ảnh gầy yếu xuất hiện ở cửa, bàn tay mảnh khảnh vịn vào khung cửa, Trọng Tử lẳng lặng đứng tại nơi đó, như hòa vào cùng ánh sáng phía sau lưng, cả người dường như trong suốt.</p>
+ <p>Trong điện tức khắc rơi vào yên lặng.</p>
+ <p>Sắc mặt nàng tái nhợt như tờ giấy, đôi mắt mở to, ánh mắt mơ hồ chậm rãi lướt qua ba người, cuối cùng dừng lại trên một khuôn mặt quen thuộc.</p>
+ <p>Ngu Độ hết sức nhẹ nhàng gọi Trọng Tử: “Con muốn tìm sư phụ sao? Vào đi, vừa lúc ta có chuyện muốn hỏi con.”</p>
+ <p>Trọng Tử cụp mắt xuống, trong phút chốc nhưng nàng cảm thấy bình tĩnh hơn nhiều, không chút hoang mang bước vào trong điện quỳ xuống: “Trọng Tử đến tìm sư phụ thưa chuyện, đã quấy rầy chưởng giáo cùng Mẫn tiên tôn.”</p>
+ <p>“Con quỳ làm gì.” Ngu Độ có ý bảo nàng đứng dậy: “Mới vừa rồi ta cùng với sư phụ con có nói qua…”</p>
+ <p>Trọng Tử ngắt lời y: “Trọng Tử đều đã nghe hết cả rồi.”</p>
+ <p>Ngu Độ nhìn nàng, không nói nữa.</p>
+ <p>Trọng Tử dập đầu nói: “Trọng Tử đã thề là sẽ không lấy chồng, mong chưởng giáo thành toàn cho con.”</p>
+ <p>Mẫn Vân Trung nhịn không được cười lạnh: “Lời thề hay nhỉ, ý của con là trách cứ chúng ta bức ép con sao?”</p>
+ <p>Ngu Độ nhíu mày: “Con bé này, có điều gì không hài lòng thì cứ nói, tại sao lại lấy sự việc thế này mà giận dỗi.”</p>
+ <p>Trọng Tử lắc đầu: “Trọng Tử không dám, con trời sinh sát khí, liên tiếp bị người khác hãm hại, an bài cho con đi Thanh Hoa là nỗi khổ tâm của chưởng giáo. Nhưng Trọng Tử đã bái nhập Nam Hoa, là đệ tử Nam Hoa. Cuộc đời này của con…không còn gì để có thể chờ mong được nữa, chỉ mong ở lại Tử Trúc Phong này tu hành. Về mối quan hệ giữa con và Nghịch Luân, nếu đã khiến chưởng giáo và tiên tôn lo lắng, con xin đưa ra một chủ ý, bảo đảm không còn lo hậu hoạn về sau.”</p>
+ <p>Ngu Độ và Mẫn Vân trung đều sửng sốt.</p>
+ <p>Trọng Tử nói: “Nay Ma kiếm sắp tinh lọc, kẻ nọ không phải có chủ ý muốn mượn tay con để thức tỉnh Thiên Ma lệnh sao. Vậy thì chỉ cần con từ bỏ cơ thể này, sẽ không còn gì có thể thi triển huyết chú gì đó được nữa, như vậy cho dù y có muốn lợi dụng con lần nữa cũng không thể làm được.”</p>
+ <p>Ngu Độ khiếp sợ.</p>
+ <p>Hồn phách một khi tách rời khỏi thân thể, sẽ tự động quay về Qủy Môn Quan đầu thai chuyển thế. Thân thể bị phá hủy, hồn phách không còn chỗ để nương nhờ, cho dù được người khác dùng pháp thuật giữ lại, nhưng chỉ cần bị ánh mặt trời chiếu rọi sẽ ‘hồn phi phách tán’ ngay. Con bé nói như vậy có nghĩa là muốn chấm dứt cuộc đời này sao.</p>
+ <p>Mẫn Vân Trung dằn mạnh chén trà xuống: “Hoang đường! Thật là hoang đường mà!”</p>
+ <p>Ngu Độ cũng lắc đầu: “Việc này không thể được, con đừng nói nữa.”</p>
+ <p>“Con cũng không phải có ý muốn đi chuyển thế.” Trọng Tử giải thích: “Trọng Hoa cung có một tấm kính Câu Hồn, tạm thời con có thể sống nhờ trong đó, rồi nhờ sư phụ tác pháp phong ấn nó lại. Thiên hạ rộng lớn như thế, tương lai chắc hẳn sẽ tìm được cách thanh lọc sát khí cho con mà.”</p>
+ <p>Ngu Độ và Mẫn Vân Trung đều không nói gì.</p>
+ <p>Trời sinh sát khí, đầu thai chuyển thế không có ích gì. Năm đó Nghịch Luân trải qua ba kiếp luân hồi mà thành ma. Nhưng với biện pháp này của con bé, vừa có thể khiến cho kẻ ẩn thân kia không còn vọng tưởng gì được nữa, lại vừa có thể miễn đi nỗi lo lắng về việc chuyển thế đầu thai. Đợi đến khi Lạc Âm Phàm tu thành Kính Tâm thuật, thanh lọc sát khí cho con bé, để cho con bé đi đầu thai lần nữa, vẫn có thể coi là một biện pháp tốt.</p>
+ <p>“Khó có được lúc con vì Tiên môn mà suy nghĩ, cam chịu thiệt thòi.” Mẫn Vân Trung giọng nói đã nhẹ nhàng đôi chút: “Nhưng việc này liên quan đến cả cuộc đời của con, tương lai hối hận cũng không kịp đâu, con có hiểu được không?”</p>
+ <p>Trọng Tử cúi đầu: “Trọng Tử đã hiểu rõ tất cả, con không muốn rời khỏi Nam Hoa.”</p>
+ <p>Đã nói đến nước này rồi, Ngu Độ chỉ còn biết cười khổ. Biết việc cho Trọng Tử đi Thanh Hoa là không thể được rồi, về biện pháp con bé đề ra đó lại càng không được, vô duyên vô cớ để cho một đứa trẻ bỏ đi thân thể của chính mình, chưa nói với trách nhiệm là một chưởng giáo y khó có thể giải thích với bên ngoài, cho dù người khác không nói năng ý kiến gì đi chăng nữa, việc như thế cũng không thể để cho con bé tự làm chủ được.</p>
+ <p>Quả nhiên, Lạc Âm Phàm không biểu lộ gì cả.</p>
+ <p>Trọng Tử chậm rãi ngẩng đầu lên, tám năm qua, lần đầu tiên nàng nhìn thẳng vào hắn.</p>
+ <p>Đôi đồng tử đen sâu không thấy đáy, ‘vô bi vô hỉ’, lạnh nhạt nhìn thấu hết thảy, cũng rộng lớn bao dung hết thảy.</p>
+ <p>Đối với nàng mà nói, việc này cũng coi như là kết quả tốt nhất rồi, nàng chưa từng hy vọng xa vời, chỉ cần sư phụ có thể đáp ứng yêu cầu nhỏ bé này của nàng, từ nay về sau nàng ở lại mãi trong Trọng Hoa cung, không còn bị ai nghi ngờ, không còn khổ cực nữa, im lặng ở bên cạnh người.</p>
+ <p>"Sư phụ."</p>
+ <p>“Đi ra ngoài!”</p>
+ <p>Không thể tưởng tượng được sư phụ đột nhiên lại tức giận, Trọng Tử giật mình, cúi đầu: “Sư phụ, người không cần phải lo lắng cho con, hồn phách thân thể gì gì đó, con không để ý đâu.”</p>
+ <p>Mẫn Vân Trung cũng nói: “Âm Phàm..”</p>
+ <p>“Ta nói không được là không được.” Lạc Âm Phàm thản nhiên nói: “Ta dạy dỗ con, nuôi dưỡng con mấy năm nay, là để cho con tự tung tự tác, ngay cả ta cũng không để vào mắt sao?” </p>
+ <p>Trọng Tử ngơ ngác quỳ tại chỗ, nhìn hắn rời đi.</p>
+ <p>Ngu Độ thở dài, phất tay: “Thôi, việc này không nên nhắc lại nữa, về phần Trác cung chủ ta sẽ giải thích, nghe lời sư phụ con, đi xuống đi.”</p>
+ <p> </p> 
+</div>

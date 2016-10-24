@@ -1,0 +1,239 @@
+<div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
+ <strong> Chương I </strong> 
+ <strong> : Mười lăm đóa </strong> 
+ <strong> </strong> 
+ <strong> hồng </strong>
+ <p> <strong> 1. </strong> </p> 
+ <strong> 1. </strong>
+ <p> Những cơn mưa tháng bảy hình như không gây trở ngại gì cho hắn lắm! Đã từ ba ngày nay, hắn cuốc bộ một quãng đường dài từ nhà đến thư viện, đi đi về về cũng phải mười cây số. Hắn là Minh Quân, một gã trai hăm bảy tuổi. Nhưng giữa cái tuổi và ngoại hình của hắn thì&nbsp;cách nhau một trời một vực. Với dáng người cao, gầy, mái tóc dài rất ít khi được chải chuốt, kèm theo bộ ria mép và "chùm" râu dê, không ai nghĩ hắn là một thanh niên mới lớn. Dường như hắn già trước tuổi rất nhiều. Đã vậy, có một đặc điểm ở hắn, mà với đặt điểm đó thì chẳng thể nào cứu vớt được vẻ già nua của hắn. Đó là cách ăn mặc, hắn ăn mặc rất sang trọng, một bộ Veston với gam màu tối, chiếc áo Măng – tô khoác ngoài đi kèm với chiếc mũ Fedora cách điệu, áo sơ mi trắng, giày tây. Với trang phục đó hắn lạc lõng giữa muôn người, với hắn nét cổ điển như đã ăn vào máu. Minh Quân bước đi trên con đường mưa, đoạn đường với những cây Trạng Nguyên đang run lên vì giá lạnh. Thỉnh thoảng Minh Quân phải dừng lại, nghiêng chiếc ô xuống để che chắn những cơn gió, kèm theo những hạt mưa cứ quất rát vào mặt. Đôi giày ướt sũng, còn Minh Quân thì cứ tiếp tục chặng đường dài của mình. Điều gì đã khiến Minh Quân phải chấp nhận một kiểu hành xác như vậy? Trong khi vào thời điểm đó mọi người đang ở trong văn phòng, hay nữa là vùi mình trong chăn êm, nệm ấm… Sự thể là gần đây Minh Quân có rất nhiều tâm sự. Nào chuyện gia đình, tình yêu, sự nghiệp… đã nhuốm hết màu vô tư, hồn nhiên của hắn. </p> 
+ <p> Sinh ra trong một gia đình tiểu thương, có ba mẹ là những người thực dụng, ham thích cái lợi nhỏ. Nói vậy cũng đủ thấy hậu quả ra sao nếu đứa con đầu lòng của họ là một đứa lãng mạn, hay mơ mộng và chẳng thiết gì tiền bạc. Chính thế đấy! Còn ai nữa ngoài hắn, cái kẻ chuyên nghĩ những điều bị cho là vớ vẩn. Thay vì lo làm ăn kiếm tiền bằng một nghề nghiệp nào đó như: kỹ sư máy tính, kế toán viên, nhà quản lý… thì hắn lại chọn một cái nghề mà hầu như ai nghe thấy cũng lắc đầu, lè lưỡi. </p> 
+ <ul> 
+  <li> Tôi là nhà văn (Có lần hắn đã thốt lên như vậy trước những câu hỏi của mọi người về nghề nghiệp của hắn) </li> 
+ </ul> 
+ <li> Tôi là nhà văn (Có lần hắn đã thốt lên như vậy trước những câu hỏi của mọi người về nghề nghiệp của hắn) </li>
+ <p> Nhưng phải chi hắn là một nhà văn đã có những tác phẩm mang tầm ảnh hưởng đến quần chúng. Mọi người nghĩ hắn là một kẻ khoác lác khi hắn biện minh cho sự lựa chọn của mình. Có lần hắn giải thích: </p> 
+ <ul> 
+  <li> Cuộc đời của một con người có bao nhiêu năm gọi là đáng sống? Con trâu, con bò nó được cho ăn, được chăm sóc nhưng nó phải cày bừa theo ý chủ, nó không có quyền quyết định vận mệnh của nó. Ai dám bảo rằng con trâu, con bò nó thích cày bừa? Nó không hề thích như vậy một chút nào. Nhưng vì lẽ gì nó phải làm nô lệ cho tham vọng của con người? Ngay khi có thể thoát ra sự lệ thuộc đó, dù chỉ là một chút ít, tôi vẫn lựa chọn làm một nhà văn tự do. </li> 
+ </ul> 
+ <li> Cuộc đời của một con người có bao nhiêu năm gọi là đáng sống? Con trâu, con bò nó được cho ăn, được chăm sóc nhưng nó phải cày bừa theo ý chủ, nó không có quyền quyết định vận mệnh của nó. Ai dám bảo rằng con trâu, con bò nó thích cày bừa? Nó không hề thích như vậy một chút nào. Nhưng vì lẽ gì nó phải làm nô lệ cho tham vọng của con người? Ngay khi có thể thoát ra sự lệ thuộc đó, dù chỉ là một chút ít, tôi vẫn lựa chọn làm một nhà văn tự do. </li>
+ <p> Cũng chính vì những quan điểm tách biệt đó, Minh Quân trở thành một người xa cách với gia đình. Cha mẹ coi hắn là đồ bỏ, một kẻ “điên khùng” đang sống trong ảo tưởng. Định mệnh thật trớ trêu khi đâu đó người ta còn bảo nhau: Nghiệp văn chương là nghiệp long đong. Mà với hắn thì câu này là đúng trăm phần trăm. Về chuyện cơm áo gạo tiền, chuyện tình cảm, chuyện quan hệ xã hội… làm Minh Quân không ít lần cảm thấy mất mát, hụt hẫng. Cũng dễ hiểu với một tâm hồn nhạy cảm, buồn vui là chuyện cơm bữa, mới cười nói vô tư đó, rồi lại đâm ra sầu muộn, chán nản. Có những khi hắn ngồi co ro một góc, hắn vò đầu bức trán. Sự cô độc như một người bạn tri kỉ thường tìm đến hắn. Cuộc đời Minh Quân cứ ngụp lặn trong cô quạnh như vậy. Cho đến một ngày nọ: </p> 
+ <p> Cũng sắp về đến nhà, mưa đã ngớt, bầu trời đã thấy màu hi vọng. Những tay câu đang tụ tập quanh Cầu Sắt. Về nguồn gốc tên gọi của cây cầu này thì tôi không rõ lắm. Cây cầu nằm ở cuối đường Trạng Trình, là điểm giao nhau giữa một dòng suối và một hồ lớn, gọi với cái tên thơ mộng là Hồ Xuân Hương. Công việc bắt cá cũng khá dễ dàng, chỉ cần canh lúc trời mưa lớn, nước chảy siết từ dòng suối đổ ra hồ, họ đứng trên cầu buông câu chờ đợi những con cá xấu số sẽ mắc vào những chiếc lưỡi câu bén, nhọn. Minh Quân đi qua, miệng không ngớt niệm “A Di Đà Phật”. Những cảnh tượng sát sinh luôn ám ảnh hắn, nói ra thật khó tin nhưng hắn không dám giết, dù chỉ là một con muỗi. </p> 
+ <p> Hôm đó, Minh Quân quyết định sẽ ghé quán của Chú, một người mà Minh Quân yêu mến đến độ hắn không muốn gọi Chú bằng một cái tên như mọi người vẫn thường gọi. Chuyện là, mấy ngày gần đây hắn đang rất giận Cẩn, một người quản lý quán cà phê sách Danh Nhân cho chú, một người luôn được chú xem như con đẻ. Về chuyện Minh Quân và Cẩn giận nhau cũng khá là trẻ con. Chỉ đơn giản là Minh Quân không thích những biểu hiện, lối sống mấy ngày gần đây của Cẩn. Gần đây, Cẩn thường dán mặt vào chiếc Laptop để chơi cờ trực tuyến, Cẩn mê chơi đến độ không còn quan tâm đến khách khứa, bạn bè và những người xung quanh nữa. Với lý do đó, vào một buổi tối khi ba chú cháu ngồi cùng nhau, Minh Quân đã lên tiếng chỉ trích Cẩn rất nặng nề. </p> 
+ <ul> 
+  <li> Ngày mai qua sớm, ăn sáng, rồi chơi cờ tiếp nghe con? – Chú nói với chất giọng đặc trưng của người Nam Bộ </li> 
+  <li> Chắc mai con không qua đâu chú – Minh Quân trả lời nhát gừng </li> 
+  <li> Ủa… ủa… Sao vậy con? – Chú ngạc nhiên </li> 
+  <li> Dạ! Con không muốn thấy mặt Cẩn, mỗi lần thấy Cẩn sống bê tha, xuống cấp như vậy con không chịu đựng nổi. Cẩn hỏng rồi chú à! Ngày trước con đặt niềm tin vào Cẩn bao nhiêu thì bây giờ con thất vọng bấy nhiêu. </li> 
+  <li> Ủa… Có sao đâu con, còn có chú mà, mai qua nghe! </li> 
+  <li> Dạ thôi! </li> 
+ </ul> 
+ <li> Ngày mai qua sớm, ăn sáng, rồi chơi cờ tiếp nghe con? – Chú nói với chất giọng đặc trưng của người Nam Bộ </li> 
+ <li> Chắc mai con không qua đâu chú – Minh Quân trả lời nhát gừng </li> 
+ <li> Ủa… ủa… Sao vậy con? – Chú ngạc nhiên </li> 
+ <li> Dạ! Con không muốn thấy mặt Cẩn, mỗi lần thấy Cẩn sống bê tha, xuống cấp như vậy con không chịu đựng nổi. Cẩn hỏng rồi chú à! Ngày trước con đặt niềm tin vào Cẩn bao nhiêu thì bây giờ con thất vọng bấy nhiêu. </li> 
+ <li> Ủa… Có sao đâu con, còn có chú mà, mai qua nghe! </li> 
+ <li> Dạ thôi! </li>
+ <p> Minh Quân rót rượu mời chú, thứ rượu nếp được lên men tự nhiên có vị rất ngọt. Nhấp xong ly rượu, chú bỗng lên tiếng nói với Cẩn: </p> 
+ <ul> 
+  <li> Ngày mai chú về, con đưa cái máy cho chú đem về trả cho bác Hai, bác Hai thì không có máy dùng, còn con thì dùng máy để làm hư chính mình. Chú cứ tưởng đem máy tính lên để con dùng vào việc có ích, truy cập thông tin, xây dựng hình ảnh cho quán trên internet. Nào ngờ con lại dùng để chơi game, sống không ra sống, sống xa lánh mọi người, không còn là kiếp sống của một con người nữa. </li> 
+  <li> Dạ thưa chú! – Cẩn trả lời nhẹ nhàng, ánh mắt lơ đãng </li> 
+  <li> Ngày mai Minh Quân không ghé nữa. Chú cũng không giữ nổi Minh Quân. Con coi tính sao thì tính. </li> 
+  <li> Con đã nói với mọi người ngay từ đầu rồi mà – Giọng điệu Cẩn bỗng nhiên thay đổi, tức giận, bực bội – Con bất cần. Mấy đêm nay đêm nào con cũng đau khổ, nội tâm bị dằn xé, cuộc chiến với con quỷ đang diễn ra khốc liệt, và hiện tại quỷ dẫn trước năm không. </li> 
+ </ul> 
+ <li> Ngày mai chú về, con đưa cái máy cho chú đem về trả cho bác Hai, bác Hai thì không có máy dùng, còn con thì dùng máy để làm hư chính mình. Chú cứ tưởng đem máy tính lên để con dùng vào việc có ích, truy cập thông tin, xây dựng hình ảnh cho quán trên internet. Nào ngờ con lại dùng để chơi game, sống không ra sống, sống xa lánh mọi người, không còn là kiếp sống của một con người nữa. </li> 
+ <li> Dạ thưa chú! – Cẩn trả lời nhẹ nhàng, ánh mắt lơ đãng </li> 
+ <li> Ngày mai Minh Quân không ghé nữa. Chú cũng không giữ nổi Minh Quân. Con coi tính sao thì tính. </li> 
+ <li> Con đã nói với mọi người ngay từ đầu rồi mà – Giọng điệu Cẩn bỗng nhiên thay đổi, tức giận, bực bội – Con bất cần. Mấy đêm nay đêm nào con cũng đau khổ, nội tâm bị dằn xé, cuộc chiến với con quỷ đang diễn ra khốc liệt, và hiện tại quỷ dẫn trước năm không. </li>
+ <p> Cẩn đứng lên bỏ đi vào nhà vệ sinh. Hai phút sau thì Cẩn quay lại với vẻ mặt vui vẻ, giống như người vừa giác ngộ. </p> 
+ <ul> 
+  <li> Cảm ơn chú và bạn, Cẩn biết mọi người yêu thương Cẩn và lo lắng cho Cẩn. Cẩn cám ơn. À mà chú nè! Con đã từng nói gì với chú nhỉ? Con thường chọn những bạn tốt để chơi. Mà với con bạn tốt thì phải thẳng thắng, thà cho con uống thuốc đắng để hết bệnh còn hơn lúc nào cũng ngọt ngào để con không còn nhận ra chính mình nữa. – Cẩn vừa nói, vừa vỗ vai Minh Quân </li> 
+ </ul> 
+ <li> Cảm ơn chú và bạn, Cẩn biết mọi người yêu thương Cẩn và lo lắng cho Cẩn. Cẩn cám ơn. À mà chú nè! Con đã từng nói gì với chú nhỉ? Con thường chọn những bạn tốt để chơi. Mà với con bạn tốt thì phải thẳng thắng, thà cho con uống thuốc đắng để hết bệnh còn hơn lúc nào cũng ngọt ngào để con không còn nhận ra chính mình nữa. – Cẩn vừa nói, vừa vỗ vai Minh Quân </li>
+ <p> Nhưng Minh Quân nhận ra một điều gì đó trong giọng nói và cung cách ứng xử của Cẩn. Minh Quân thấy một khoảng cách và thấy một điều gì trái ngược. Sau khi chú về thì Minh Quân cũng về theo, bỏ lại phía sau câu nói và tiếng kéo cửa của Cẩn: </p> 
+ <ul> 
+  <li> Cảm nhận của cậu đúng rồi đấy! </li> 
+ </ul> 
+ <li> Cảm nhận của cậu đúng rồi đấy! </li>
+ <p> Đó là những gì đã xảy ra để đến tận hôm nay, sau một tuần không đến quán, Minh Quân đã nguôi ngoai phần nào. Bây giờ mọi thứ đã trở lại tương đối bình thường. Minh Quân nghĩ rằng Cẩn đã thay đổi sau những lời đau buốt tàn nhẫn của mình. Thuốc đắng dã tật, sự thật mất lòng. Đôi khi một cú đấm sẽ làm người khác tỉnh ngộ hơn là những lời lẽ dịu dàng. </p> 
+ <ul> 
+  <li> Chào các cậu </li> 
+  <li> A! Lâu ngày quá! – Cẩn đáp lại nhát gừng </li> 
+ </ul> 
+ <li> Chào các cậu </li> 
+ <li> A! Lâu ngày quá! – Cẩn đáp lại nhát gừng </li>
+ <p> Đập vào mắt Minh Quân lúc này là hai con người mà hắn từng xem là tri kỉ, cả hai đang dán mắt vào màn hình Laptop, đang sát phạt những đối thủ trên mạng. Tiếng “cách cách” của âm thanh được tạo ra bởi cái Laptop sao nghe mà vô cảm quá. Mẫn đang ôm cây đàn guitar, vừa đàn vừa hát, thỉnh thoảng lại hét toáng lên. </p> 
+ <ul> 
+  <li> Chiếu, chiếu đi… Đưa pháo qua hai nước, nếu nó vả bồ, thì mình chiếu tướng bắt chết con xe, thằng gà. – Mẫn nói với vẻ rất khoái trá </li> 
+ </ul> 
+ <li> Chiếu, chiếu đi… Đưa pháo qua hai nước, nếu nó vả bồ, thì mình chiếu tướng bắt chết con xe, thằng gà. – Mẫn nói với vẻ rất khoái trá </li>
+ <p> Minh Quân xếp chiếc dù lại để một góc, ngoài trời mưa rả rít. Ánh mắt và điệu bộ của hắn ngùi ngùi làm sao ấy! Hắn khinh khỉnh thầm nghĩ: “Đây gọi là những kỳ thủ sao? Thế kỳ đạo ở đâu? Người ta thường nói quân tử không luận cờ của người khác, anh hùng không ỷ đông hiếp yếu, hảo hán chỉ xem người khác đánh cờ… Quân tử đi cờ như miêu tiểu nhân động cờ như hổ, quân tử đãng thản thản, tiểu nhân trường thích thích, hay như lớn tiếng to mồm phi quân tử, gõ mạnh tung cờ bất trượng phu. Hai người này đều là những tay cao cờ nhưng sao ngay cả một đạo lý đơn giản trong cờ mà họ cũng không hiểu. Cờ đâu phải là để thắng thua, chụp giật, đốp chát. Cứ cho rằng họ đánh cờ thật hay đi, đẳng cấp quốc tế đại sư đi, thì sự giỏi của họ thấm vào đâu so với một phần mềm máy tính vô cảm, máy tính đã đánh bại con người trong những cuộc thi cờ cấp quốc tế, qua đó đủ để ta hiểu việc hơn thua trong cờ chẳng có một ý nghĩa gì cả. Phong cách và tác phong cũng như bản lĩnh thể hiện qua bàn cờ mới là quan trọng. Đáng tiếc thay!”. </p> 
+ <p> Minh Quân không nói gì nữa, mặc cho hai người kia ngồi sát phạt. Hắn đi ra phòng sau cất quyển sách mang về từ thư viện. Rồi lủi thủi đi qua đi lại khắp căn phòng với những suy nghĩ mong lung. Hắn đi ra ngoài sân nhìn cảnh mưa đang bao phủ thành phố với nỗi buồn vời vợi. Bỗng có tiếng của Cẩn thốt lên: </p> 
+ <ul> 
+  <li> Này Minh Quân, cậu biết tin gì chưa? Cậu còn nhớ Ni chứ? Bé Tâm á! Em ấy hiện đang là nhân viên của quán mình đấy! </li> 
+ </ul> 
+ <li> Này Minh Quân, cậu biết tin gì chưa? Cậu còn nhớ Ni chứ? Bé Tâm á! Em ấy hiện đang là nhân viên của quán mình đấy! </li>
+ <p> Giọng của Mẫn chen vào: </p> 
+ <ul> 
+  <li> Ôi dào! Em nó đến làm cho vui ấy mà! </li> 
+ </ul> 
+ <li> Ôi dào! Em nó đến làm cho vui ấy mà! </li>
+ <p> Minh Quân chau mày nhìn hai người, rồi đột ngột bỏ đi vào phòng trong, không quên nói vọng lại: </p> 
+ <ul> 
+  <li> Tớ biết rồi, tuy ở nhà nhưng tớ biết. </li> 
+  <li> Biết ngay mà! Ở đâu có gái là y như rằng… - Mẫn lại nói chêm vào </li> 
+ </ul> 
+ <li> Tớ biết rồi, tuy ở nhà nhưng tớ biết. </li> 
+ <li> Biết ngay mà! Ở đâu có gái là y như rằng… - Mẫn lại nói chêm vào </li>
+ <p> Thực ra, việc Minh Quân biết Tâm đến làm cũng là một chuyện rất lạ. Không hiểu sao mấy ngày qua hắn cứ có một linh cảm rằng Tâm sẽ đến làm nhân viên cho quán, ai dè linh cảm đó lại đúng vậy. Nhớ lại buổi đầu tiên Minh Quân gặp Tâm là lúc hắn đang chơi cờ với Chú. Khi đó Tâm là một nhân viên chào hàng trà ngọt đóng gói, Tâm thường đi với một cậu con trai, nghe bảo họ là anh em của nhau, từ ngoại hình đến độ tuổi rất tương đồng. Cả hai đều khôi ngô, xinh đẹp, đặc biệt là Tâm. Bữa đó có chương trình khuyến mãi nên chú mua rất nhiều trà cho hai người, điều khoản là cứ mua một thùng trà thì được tặng một bộ ly tách đẹp mắt. Chú đã rất nhanh nhạy trong việc ghi lại số điện thoại của hai anh em để tiện việc liên lạc khi cần. Lý do thì có lần chú cũng nói, hai anh em này tạo ấn tượng tốt với chú, trông họ rất dễ thương, gây được thiện cảm. </p> 
+ <ul> 
+  <li> Cô bé này đúng là giai nhân, hiền lành, thùy mị quá! Cỡ như cô bé này thì chỉ khiến cho đàn ông từ chết cho tới chết thôi. – Mẫn nói khi Tâm đã rời đi </li> 
+ </ul> 
+ <li> Cô bé này đúng là giai nhân, hiền lành, thùy mị quá! Cỡ như cô bé này thì chỉ khiến cho đàn ông từ chết cho tới chết thôi. – Mẫn nói khi Tâm đã rời đi </li>
+ <p> Biết tin chính xác Tâm đến quán làm thêm, trong lòng Minh Quân trỗi lên nhiều cảm xúc kỳ lạ. Lo sợ, bất an, ghen tuông, khó chịu… Những cảm xúc này bản thân Minh Quân có thể nhìn thấy nhưng không hiểu căn nguyên từ đâu? </p> 
+ <p> <strong> 2. </strong> </p> 
+ <strong> 2. </strong>
+ <p> Sáng hôm sau, Minh Quân thức dậy muộn hơn mọi ngày. Có lẽ là do đi bộ một chặng đường dài, lại gặp phải những cơn mưa tai ác ngày hôm qua đã làm hắn mệt mỏi ngủ li bì. Khi thức dậy là hắn viết ngay những dòng nhật ký. Gần đây Minh Quân lại tìm đâu ra cái sở thích đó, cái điều mà ngày trước hắn coi là hành động ủy mị, đàn bà. Viết xong trang nhật ký, hắn dùng buổi điểm tâm. Cần phải nói thêm một điều nhỏ nhặt nữa trong tính cách của Minh Quân, hắn thường có thói quen buông tuồng trong sinh hoạt thường ngày. Tất cả những công việc ngủ, nghỉ, ăn uống, học hành, vận động đều không tuân theo một quy tắc nào cả; hễ thích thú với điều gì thì hắn bắt tay vào làm ngay, còn khi đã không thích thì có ép trời gì hắn cũng mặc kệ, chẳng thèm bận tâm. Việc ăn uống thất thường của hắn cũng được coi là một trong số những thói quen lập dị. Hôm đó, hắn dùng bữa điểm tâm cho nguyên một ngày. Điều làm hắn chú ý hơn lúc này là tiếp tục đến thư viện đọc sách, tìm kiếm ý tưởng cho những trang viết tiếp theo của hắn. Hôm đó, hắn cũng diện ra phết. Áo lính bụi bặm khoác bên ngoài chiếc áo lưới giang hồ, quần jean cũ đã phai màu, giày sô, mái tóc dài lãng tử phong trần. Đôi mắt sắc sảo của hắn ánh lên vẻ bất cần, cặp lông mày đen tuyền, cong vút như lưỡi dao lại tô điểm thêm cho nét gì đó tàn bạo trong tính cách của hắn. </p> 
+ <p> Vẫn như những hôm trước, hắn cầm trên tay quyển Sông Đông Êm Đềm được bọc kỹ trong một túi nilon màu đen, một chiếc ô để che mưa. Nhưng hình như trong hắn đã có một sự thay đổi, về mục đích của cuộc hành trình ngày hôm đó của hắn. Hắn đột ngột chuyển hướng. Phải! Hắn không đến thư viện nữa mà lại rẽ qua con đường Trạng Trình. Không biết trong thâm tâm hắn đang nghĩ ngợi điều gì? Những cảm xúc tiêu cực ngày hôm qua còn đọng lại trong tâm tư của hắn. Nhưng hắn không thể lặng im làm ngơ, hắn không thể ngồi ở một góc thư viện rồi tưởng tượng ra kịch bản “Con cừu non lạc giữa bầy sói”. Không! Vậy là hắn quyết định phải đến quán, hắn phải gặp một người. </p> 
+ <p> Câu chuyện này có lẽ sẽ không bao giờ được biết đến nếu như ngày hôm đó hắn không đưa ra quyết định dứt khoát này. Cũng từ đó mà cuộc đời của Minh Quân bước sang một phương trời mới. </p> 
+ <ul> 
+  <li> Ni ơi! Có khách quý, Anh Minh Quân đến – Cẩn reo lên, tâm trạng hồ hởi </li> 
+ </ul> 
+ <li> Ni ơi! Có khách quý, Anh Minh Quân đến – Cẩn reo lên, tâm trạng hồ hởi </li>
+ <p> Trước mặt Minh Quân là một cô gái với cái nhìn lạ lẫm, cô gái trẻ mới mười sáu tuổi, gương mặt thanh tú, với một vóc dáng khá mảnh mai. Cô ấy đang ngồi gần Cẩn, hình như đang chăm chú nghe Cẩn kể chuyện gì đó. Điều này làm Minh Quân khá là ngạc nhiên, nó nằm ngoài suy đoán của Minh Quân. “Cô gái này không phải Tâm”. . Sau Minh Quân mới biết cô ấy là Mây, một cô gái trẻ đang học lớp mười một trường Tây Sơn. Nhưng điều ngạc nhiên đã được giải tỏa nhanh chóng khi một thiếu nữ xuất hiện tiếp sau đó, cô ấy đang rửa ly tách, khi nghe tiếng Cẩn gọi đã vội chạy lên xem vị khách đó là ai. Minh Quân nhìn thoáng qua cô gái hơi thấp, thân hình nhỏ nhắn, với gương mặt đậm chất nữ tính, duyên dáng và quyến rũ mê hồn. Không còn nghi ngờ gì nữa. Đó mới chính là Tâm, người mà trước đây Minh Quân đã bắt gặp ánh mắt của cô nàng một lần tình cờ, lần đó Tâm đang cúi người bê một thùng hàng, Minh Quân cúi nhìn theo và vô tình hai ánh mắt chạm nhau. Nhưng lần này thì sự gặp gỡ có một điều gì đó khác lần trước. Minh Quân quân chỉ lạnh lùng gật đầu đáp lại mọi người, gương mặt không hề biểu lộ một cảm xúc vui vẻ nào. </p> 
+ <p> Hắn lầm lì, đi ra phía phòng sau. Ngồi bệt xuống chết ghế đệm, với tư thế của một kẻ bất cần đời. Thoảng bên tai hắn còn nghe tiếng nói nhỏ nhẹ của Mây: </p> 
+ <ul> 
+  <li> Anh Minh Quân làm gì vậy anh? </li> 
+  <li> À! Anh Minh Quân là nghệ sỹ đó em à! </li> 
+  <li> Vậy anh có biết đàn không anh? </li> 
+  <li> Ừ! Có chứ em. Anh Minh Quân đàn và hát nhạc Trịnh hay lắm! </li> 
+ </ul> 
+ <li> Anh Minh Quân làm gì vậy anh? </li> 
+ <li> À! Anh Minh Quân là nghệ sỹ đó em à! </li> 
+ <li> Vậy anh có biết đàn không anh? </li> 
+ <li> Ừ! Có chứ em. Anh Minh Quân đàn và hát nhạc Trịnh hay lắm! </li>
+ <p> Minh Quân ngồi một góc với những tâm tư chồng chất. Sự cô độc đang ngấm dần vào cốt tủy của hắn. Hắn mở quyển Sông Đông Êm Đềm ra đọc, thỉnh thoảng dừng lại lan man với những suy tưởng. </p> 
+ <p> Mẫn đang nằm ở phòng chứa đồ, cậu chàng đã tỉnh giấc sau một giấc ngủ kiểu cách như kiểu Vi Tiểu Bảo, một trong những nhân vật tiểu thuyết mà cậu chàng rất ưa thích. Câu đầu tiên sau khi cậu chàng tỉnh giấc là một khúc nhạc vàng được xướng lên bất chấp người nghe với sự lạc giọng đến thảm hại. Cậu chàng chạy vội ra phòng vệ sinh, rưới nước lên mặt, sột soạt vài cái, sau đó nhìn vào gương vuốt vuốt mái tóc dài óng mượt. Mẫn hình như không thấy sự hiện diện của Minh Quân. Bằng chứng là lúc cậu chàng cùng Cẩn đi ra ngoài nhà, lúc Cẩn dắt xe ra đứng đợi thì Mẫn mới thấy Minh Quân đang loay hoay pha tách trà. Cậu chàng trông có vẻ rất ngạc nhiên, hỏi qua quýt vài câu; mà Minh Quân cũng không buồn trả lời, Minh Quân mỉm cười lạnh nhạt, bảo họ hãy đi đi, rồi hắn quay vào ngồi trong căn phòng chính. </p> 
+ <p> Cần nói qua, quán Danh Nhân là một quán cà phê khá độc đáo, ở đây cung cấp cà phê sạch, khách đến uống cà phê có thể đọc sách, xem thư pháp, xem hình danh nhân và những câu nói bất hủ của họ, quán Danh Nhân tương đối nhỏ, được chia làm sáu phòng, gồm hai phòng để phục vụ khách, một phòng chính để gia chủ nhậu nhẹt vui chơi với các bạn trẻ, một phòng ngủ và cũng là phòng chứa đồ, một phòng nhỏ tiết kiệm làm bếp, phòng vệ sinh bố trí kín đáo ở phía sau. Quán mang phong cách hỗn tạp, khắp nơi treo đầy thư pháp và hình danh nhân, ngay cả phòng vệ sinh cũng có. Mang tiếng là quán cà phê sách nhưng lúc nào cũng có những tiếng ồn bởi những cuộc nhậu nhẹt ham vui đem lại, những phen đổ cá ngựa đến đoạn kịch tính và mọi người tham gia la hét inh ỏi, nếu không có những lần quần tụ như vậy thì tối thiểu cũng phải có những tiếng nhạc mở với tần suất lớn, tất nhiên thể loại nhạc Pháp, nhạc trữ tình lãng mạn được ông chủ ưu ái lựa chọn. Một khoảng sân nhỏ, tức mặt tiền của quán có đặt những chiếc bàn tròn với những chiếc ghế được làm từ đá hoa cương, hoa được trồng toàn là hoa sim với sắc tím ma mị. Sẽ là không đầy đủ khi tả về quán Danh Nhân mà không nói đến những hình nhân cổ quái, trước cửa là một ông đồ đang ngậm một điếu thuốc, phía dưới là dòng chữ “Xin đừng khều tôi”, mỗi góc nhà chúng ta sẽ bắt gặp một người ngoài hành tinh đến từ các vì sao Kim, Thủy, Mộc, Hỏa, Thổ… Cũng giống như ông đồ, mỗi vị ngoài hành tinh đều kèm theo một câu từ nào đó ngồ ngộ. Ví dụ như ông người ngoài hành tinh còm nhom đặt khuất trong góc trái căn phòng chính. “Nếu muốn có thể hình như tôi, thì xin cứ hút thuốc lá”… Nói chung quán Danh Nhân có rất nhiều thứ hài hước, mặc dù sự thật đằng sau đó không phải bao giờ cũng tuyệt đối như chúng ta nghĩ. Chú là gia chủ, là người mở quán với mục đích mà như chú thường nói. “Chỗ để dưỡng già, vui chơi, làm từ thiện”. Tất cả những chi phí trong các cuộc vui chơi, chè chén, những chuyến đi du lịch Nha Trang thường kì Chú đều đứng ra lo hết. “Rượu chú mời, thuốc cứ lấy hút, miễn mấy con cứ đến đây chơi với chú, mỗi ngày chọn một niềm vui, sống đơn giản cho đời thanh thản”. Đó là những gì mà chú thường nói với đám Minh Quân và bạn bè của hắn. Chú đã ngoài sáu mươi, thân hình tầm thước, tóc và râu đen, nhìn cứ như Bụt vậy, tuy nhiên chú có đôi mắt rất lém lỉnh, chỉ những người tinh tế mới nhận ra điều này. Với chú, tiếng cười là thường trực, chú thường dạy anh em Minh Quân. “Phải luôn sống lạc quan, phải luôn yêu đời”. </p> 
+ <p> Trở lại căn phòng chính, Minh Quân đang ngồi gieo những con xúc xắc, hắn muốn giết đi thời gian với những khoảng lặng. Thỉnh thoảng hắn lại đưa mắt len lén nhìn hai cô gái đang ngồi cùng phòng với hắn. </p> 
+ <p> “Cạch” </p> 
+ <p> Có tiếng khóa cổ xe, thoáng một cái một chàng trai xuất hiện, đó chẳng phải ai xa lạ, là anh chàng hay đi với Tâm, tên cậu ta là Nhật, cậu chàng này cao ráo đẹp trai, gương mặt baby thanh tú như tranh vẽ. Cậu ta chạy xộc vào không chào hỏi ai. Nhật chạy đến bên Tâm nói điều gì đó chẳng rõ, chỉ thấy gương mặt Tâm hầm hầm, tức giận ra mặt: </p> 
+ <ul> 
+  <li> Đã nói được thì làm được, không thì đừng có hứa, con trai gì mà… </li> 
+ </ul> 
+ <li> Đã nói được thì làm được, không thì đừng có hứa, con trai gì mà… </li>
+ <p> Nhật quấn quít lo sợ, chạy đến bên Tâm, choàng tay ôm eo cô nàng. Nói giọng nũng nịu, cố gắng xoa dịu mâu thuẫn. Cũng từ đó trở đi Minh Quân phát hiện ra một điều, từ trước đến giờ hắn đã lầm, thì ra cái cậu chàng con nhà vương tôn công tử này không phải là anh của Tâm mà là bạn trai của cô bé. Một nét gì đó là lạ trong đôi mắt của Minh Quân. </p> 
+ <p> Màng xoa dịu tình tứ của hai người mau chống tan biến bởi một câu hỏi bất ngờ của Mây. Lúc bấy giờ cô nàng mới chịu lên tiếng: </p> 
+ <ul> 
+  <li> Nghe nói anh Minh Quân…. – Giọng của Mây rụt rè </li> 
+ </ul> 
+ <li> Nghe nói anh Minh Quân…. – Giọng của Mây rụt rè </li>
+ <p> Minh Quân từ từ ngẩng đầu lên, hướng ánh mắt như soi mói về phía Mây, hắn cau mày: </p> 
+ <ul> 
+  <li> Là chuyện gì? – Hắn trả lời cộc lốc </li> 
+  <li> Dạ… - Mây có vẻ lo sợ hơn trước thái độ lạnh lùng của hắn – Em nghe anh Cẩn nói anh Minh Quân đàn hát nhạc Trịnh hay lắm! </li> 
+ </ul> 
+ <li> Là chuyện gì? – Hắn trả lời cộc lốc </li> 
+ <li> Dạ… - Mây có vẻ lo sợ hơn trước thái độ lạnh lùng của hắn – Em nghe anh Cẩn nói anh Minh Quân đàn hát nhạc Trịnh hay lắm! </li>
+ <p> Sau câu nói bắt chuyện làm quen của Mây, Minh Quân chỉ đáp lại bằng một nụ cười nhếch mép có vẻ mỉa mai và coi thường. </p> 
+ <p> Nhưng Minh Quân càng tỏ ra khô khốc chừng nào thì hai cô gái lại càng tỏ ra thân thiện chừng đó. Họ ngồi xích lại, sau đó rủ hắn đổ cá ngựa. Hắn vẫn trả lời cộc lốc: </p> 
+ <ul> 
+  <li> Không biết chơi </li> 
+  <li> Anh xạo vừa á! Thật là không biết chơi không? – Tâm nói </li> 
+  <li> Thật chứ bộ, không biết thì nói là không biết, chơi làm sao? </li> 
+  <li> Thôi vậy đi, anh cứ chơi đi, đến chỗ nào cần giải thích tụi em chỉ cho </li> 
+ </ul> 
+ <li> Không biết chơi </li> 
+ <li> Anh xạo vừa á! Thật là không biết chơi không? – Tâm nói </li> 
+ <li> Thật chứ bộ, không biết thì nói là không biết, chơi làm sao? </li> 
+ <li> Thôi vậy đi, anh cứ chơi đi, đến chỗ nào cần giải thích tụi em chỉ cho </li>
+ <p> Vậy là, trò chơi được bắt đầu. Mây và Tâm tận tình hướng dẫn cách chơi cho Minh Quân. Minh Quân thì vẫn giữ thái độ lạnh nhạt, ít nói, đến lượt mình thì đổ xúc xắc, đầu cúi gầm nhìn xuống bàn, thỉnh thoảng liếc nhìn mọi người với cái nhìn đầy thách thức. </p> 
+ <p> Trò chơi tiếp diễn không lâu sau đó thì Cẩn và Mẫn trở về. Họ vừa mới đi lấy về một thùng nước uống tinh khiết, đây là một trong những hoạt động từ thiện của quán Danh Nhân, chú đã đặt ở nhiều điểm trong thành phố những bình nước từ thiện, để ai khát cũng có thể dùng được nước sạch. Quán Danh Nhân cũng đặt một bình để phục vụ miễn phí những người lao động vất vả, khi họ đi ngang qua sẽ có nước để uống, miễn là họ không từ chối lòng hảo tâm của gia chủ. </p> 
+ <p> Mấy ngày nay chú đi vắng, chú về lại Sài Gòn để sắp xếp công việc gia đình và việc làm ăn của chú dưới thành phố. Căn nhà có vẻ được tươi mới hơn từ ngày hai cô gái xuất hiện. Mọi thứ không đến nỗi đảo lộn nhưng giống như vừa được thổi vào một làn gió mới, tươi mát hơn, trong sáng thuần khiết và có nét tinh nghịch hơn. </p> 
+ <p> Khi Mẫn và Cẩn về lại quán, ván cờ cá ngựa cũng vừa kết thúc, Minh Quân đứng lên định bỏ đi ra sau ngồi. Tâm gọi hắn lại: </p> 
+ <ul> 
+  <li> Ủa sao vậy anh? Sao không chơi nữa? </li> 
+  <li> Thôi không chơi nữa đâu </li> 
+ </ul> 
+ <li> Ủa sao vậy anh? Sao không chơi nữa? </li> 
+ <li> Thôi không chơi nữa đâu </li>
+ <p> Rồi im lặng, hắn đi thẳng ra phía sau, nơi không có ai làm phiền hắn, ôm lấy cây đàn guitar cất lên những giai điệu quen thuộc. </p> 
+ <p> <strong> 3. </strong> </p> 
+ <strong> 3. </strong>
+ <p> Trong cuộc đời của mỗi con người, có nhiều lúc chúng ta hành động theo bản năng, lý trí dường như bị thiêu trụi trước một sức mạnh vô hình nào đó. Trường hợp của Minh Quân lúc này cũng vậy, hắn cố dặn lòng mình sẽ không quay trở lại quán Danh Nhân nữa, vì đối với hắn mọi người bây giờ giống như những hành tinh xa lạ, giữa hắn và họ có những khoảng cách quá lớn, khó có thể vượt qua được. Ấy vậy mà trái tim Minh Quân, luôn cảm thấy bị thôi thúc phải quay trở lại cái nơi đã từng đem lại nhiều phiền muộn cho hắn. </p> 
+ <p> Sự xuất hiện của hắn lần này cũng khiến mọi người ngạc nhiên đôi chút. Trước kia hắn thường đến vào buổi chiều, nay thì hắn xuất hiện từ rất sớm. Sáng hôm đó hắn ăn mặc rất đẹp, lần này phong cách của hắn trông có vẻ bụi bụi nhưng lịch lãm. Quần đen ống đứng kiểu ôm sát đùi, áo ghi lê mặc chồng lên chiếc áo thun đen kiểu cách, chiếc áo khoác bằng vải nỉ dài tới đầu gối choàng lên người trông rất điệu nghệ, chiếc giày tây mũi nhọn kèm với chiếc mũ kiểu ông trùm, lần này trông hắn chẳng khác gì một diễn viên điện ảnh. </p> 
+ <p> Hắn xuất hiện bất ngờ trước sự ngạc nhiên của mọi người. Giống như ngày hôm qua, Cẩn và Mây đang ngồi nói chuyện với nhau. Mây dường như không kiềm chế được cảm xúc của mình đã thốt lên. </p> 
+ <ul> 
+  <li> Anh Minh Quân lúc nào cũng đậm chấy nghệ sĩ anh Cẩn nhỉ? </li> 
+ </ul> 
+ <li> Anh Minh Quân lúc nào cũng đậm chấy nghệ sĩ anh Cẩn nhỉ? </li>
+ <p> Đáp lại câu nói trên, hắn chỉ đưa tay ra hiệu, tỏ ý đã chào hỏi hai người đúng phép lịch sự. Sau khi đã gấp chiếc ô lại để vào một góc nhà, hắn đi thẳng vào phía sau tìm chỗ cất quyển sách mà hắn đang cầm trên tay, vẫn với thái độ kiêu kì, lạnh lùng vốn có của hắn. Thái độ của hắn khinh khỉnh, và hình như với hắn trên thế giới này chẳng còn ai nữa vậy. Hắn đủng đỉnh đi ra ngoài gian pha chế, tự mình pha một tách trà nóng, sau đó hắn nhanh chóng đi ra phía sau căn phòng giành cho khách, tìm một góc ngồi lại với những suy tưởng. </p> 
+ <p> Khi hắn đến thì Tâm vẫn chưa có mặt, nhưng chỉ ít phút sau cô ấy đã xuất hiện với một bộ dạng bắt mắt. Lần này Tâm mặc trên mình chiếc áo sơ mi cách điệu, chiếc áo len màu trắng sữa mặc bên ngoài, quần đen bó sát đùi với đôi giày trắng thắt dây rất hợp thời trang. Cũng không lạ gì việc Nhật xuất hiện cùng Tâm. Trên danh nghĩa là người yêu chính thức, việc cậu chàng đưa đón Tâm là điều hiển nhiên. </p> 
+ <p> Sau khi chào hỏi mọi người xong. Tâm đi đến nhà bếp, điều gì đã khiến cho cô nàng chững lại? Tâm liếc mắt nhìn xuống dưới phòng khách thì vô tình bắt gặp ánh mắt của Minh Quân đang nhìn cô với vẻ khiêu khích. Minh Quân cúi gầm mặt, thi thoảng lại ngước ngước nhìn lên trần nhà với thái độ rất ngạo nghễ, hắn ngồi với tư thế của một tay lãng tử, bất cần đời. Đôi tay hắn không ngừng mân mê tách trà, cách uống trà của hắn cũng điệu bộ không kém gì phong cách “bad guy” của hắn. Trông thấy hắn, cô nàng gật đầu chào, về phần hắn, đáp lại lời chào của cô nàng cũng chỉ cái gật đầu không hơn, không kém. </p> 
+ <p> Mọi thứ vẫn diễn ra như thường lệ. Sau khi đã ăn sáng và bắt tay vào công việc rửa dọn ly tách, chén bát xong; Tâm cùng mọi người tham gia đổ cá ngựa. Những tiếng cười tiếng nói phát ra mang không khí của những buổi hội hè đình đám. </p> 
+ <p> Mẫn cũng vừa đến, liền tham gia trò vui cùng mọi người. Cậu chàng này, kể từ khi có sự hiện diện của hai cô gái thì không hôm nào vắng mặt cậu ta. Trong mỗi cuộc nói chuyện, Mẫn cũng có những chiêu trò khá thú vị, với biệt tài pha trò vô tội vạ, cậu chàng sẵn sàng nói bất cứ điều gì, làm bất cứ thứ gì mặc kệ cảm xúc của người đối diện. Nhớ lần cậu chàng rủ được một cô nàng tên Vân, là sinh viên năm hai trường đại học Yersin đến quán chơi, cô nàng này dễ thương, năng động, tính nết lại hòa đồng, là một cô gái hấp dẫn, luôn đổi mới, khiến mọi người ai cũng yêu mến. Từ chú cho đến mọi người ai ai cũng giữ phép lịch sự tối thiểu khi nói chuyện với Vân, nhưng với cậu chàng thì sự việc hoàn toàn khác. Khi nói đến thành tích học tập của cô nàng, với những bằng cấp tiếng Anh mà ai cũng mơ ước, ai cũng khen ngợi động viên, thì cậu chàng bắt ngay cơ hội phán liền một câu: “Ừ! Đúng rồi, nhìn cái đầu hói là biết rồi”. Thế là ai cũng lăn ra cười bò, còn ánh mắt cô nàng thì bắt đầu có cái gì đó là lạ. Cũng phải nói thêm, Vân là một cô gái cực kỳ khôn ngoan và thông minh trong cách ứng xử, thí dụ mỗi lần anh em tiệc tùng, chè chén xong, mọi thứ vứt vung vãi ra đấy, Vân đều xắn tay vào việc dọn dẹp hiện trường, Vân làm mà không hề ta thán, dường như cô ấy tự nguyện và thích thú với việc đem lại niềm vui, hạnh phúc cho mọi người. Ấy vậy mà có lần, Vân phải về sớm có việc, cô nàng đứng lên xin phép mọi người như mọi khi; cũng lại cậu chàng, bắt ngay được cơ hội phán tiếp câu: “Rửa chén rồi về”. Lần này, ánh mắt Vân không còn là lạ nữa mà chuyển sang một trạng thái tức giận thực sự, tức giận ra mặt. Cô nàng không nói gì, cứ thế bỏ đi. </p> 
+ <p> Những câu nói như vậy, tiếp sau đó diễn ra như cơm bữa. Nghiêm trọng hơn, lần nọ, cậu chàng vào lúc hăng máu, dưới sự thách thức của Vân đã có một hành động ngoài sức tưởng tượng, nước bọt là thứ bẩn thỉu, và việc cậu chàng nhổ nước bọt thẳng vào mặt một cô gái, đều khiến ai cũng bất bình. Hành động này như giọt nước làm tràn ly. Ngày đầu tiên khi đến quán, trước đó Vân và Mẫn đã quen nhau đâu bốn tháng rồi, họ rất tình tứ; Thi thoảng Vân còn tựa đầu vào vai Mẫn ngủ vùi, ấy vậy mà giờ đây, Vân chẳng còn coi cậu chàng ra gì nữa, buồn phiền Vân theo luôn cậu bạn của Mẫn là Được, chàng trai này có vẻ ngoài hiền lành, chất phát, dễ yêu và dễ cung phụng… Đây không phải là mẫu hình lý tưởng cho nhiều phụ nữ nhưng suy cho cùng việc chọn lựa giữa hai kẻ trên, thì kẻ thứ hai dù sao còn dễ chấp nhận hơn kẻ thứ nhất. Với việc Vân quay gót theo Được, người vẫn lặng lẽ đưa đi đón về cô nàng, lại tỏ chiều quan tâm, yêu thương, chiều chuộng… cô nàng mau chóng nhận ra tấm chân tình và ngã vào lòng Được, khiến anh em trong quán Danh Nhân không ít người phải tiếc nuối. Mới hay câu “tính già hóa non”, đôi khi hiền lành vô hại, biết quan tâm đúng lúc lại có được tình cảm của người con gái, thay vì bộ mặt cáo già, lắm chiêu trò. Khỏi cần phải nói thời điểm đó, Mẫn sống trong một trạng thái kì lạ, hàng đêm say xỉn, khi gặp Được và Vân nắm tay, thân mật với nhau Mẫn tỏ ra phớt đời cứ như không, thậm chí còn có ý tác hợp cho hai người. Không hiểu do cái tôi hay điều gì đó khác, Mẫn không chịu được cảnh người ta nhìn mình với con mắt nhìn một kẻ thất bại, không biết những chiêu trò trong tình ái của Mẫn là gì chỉ biết có lần Mẫn nói với Minh Quân: </p> 
+ <ul> 
+  <li> Thằng Được với con Vân hợp nhau đấy! Hai đứa nó nhận tớ làm anh. Chuẩn bị cúng gà rồi. </li> 
+  <li> Nhưng tại sao cậu đối xử với em Vân như vậy? – Minh Quân hỏi lại </li> 
+  <li> Không làm vậy thì sao nó đến với thằng Được. Cậu nghĩ sao vậy? Cậu yên tâm đi, rồi em ấy sẽ hiểu, và nhận ra thôi… - Minh Quân ra hiệu bằng mắt, tỏ ý mình đang nói bóng gió </li> 
+  <li> Ha ha! Đúng là không ai hiểu tớ ngoài cậu </li> 
+ </ul> 
+ <li> Thằng Được với con Vân hợp nhau đấy! Hai đứa nó nhận tớ làm anh. Chuẩn bị cúng gà rồi. </li> 
+ <li> Nhưng tại sao cậu đối xử với em Vân như vậy? – Minh Quân hỏi lại </li> 
+ <li> Không làm vậy thì sao nó đến với thằng Được. Cậu nghĩ sao vậy? Cậu yên tâm đi, rồi em ấy sẽ hiểu, và nhận ra thôi… - Minh Quân ra hiệu bằng mắt, tỏ ý mình đang nói bóng gió </li> 
+ <li> Ha ha! Đúng là không ai hiểu tớ ngoài cậu </li>
+ <p> Nhưng sau đó là những lần say xỉn, mà khi say con người ta thường bộc lộ bản chất thật của mình. Men rượu đã nói hộ Mẫn: </p> 
+ <ul> 
+  <li> Con bé Vân, cậu nghĩ sao? Nó là một nhà sưu tập, thằng Được là một trong những nạn nhân của nó thôi, nhưng nó muốn đưa tôi vào bộ sưu tập thì nó quên chuyện đó đi. Ánh mắt của nó đã nói tất cả, nó đang ra vẻ để chọc tức tôi, thằng Được chỉ là công cụ, là món đồ trang sức của nó. </li> 
+  <li> Tôi cũng nghĩ vậy! – Minh Quân trả lời – Tôi không tin một cô gái như Vân lại chọn Được, một người nhu nhược, cung phụng, một người không ra dáng đàn ông, là một tên “nice guy” chính hiệu, khó hiểu quá </li> 
+ </ul> 
+ <li> Con bé Vân, cậu nghĩ sao? Nó là một nhà sưu tập, thằng Được là một trong những nạn nhân của nó thôi, nhưng nó muốn đưa tôi vào bộ sưu tập thì nó quên chuyện đó đi. Ánh mắt của nó đã nói tất cả, nó đang ra vẻ để chọc tức tôi, thằng Được chỉ là công cụ, là món đồ trang sức của nó. </li> 
+ <li> Tôi cũng nghĩ vậy! – Minh Quân trả lời – Tôi không tin một cô gái như Vân lại chọn Được, một người nhu nhược, cung phụng, một người không ra dáng đàn ông, là một tên “nice guy” chính hiệu, khó hiểu quá </li>
+ <p> Mặc dù nói vậy nhưng trong ánh mắt của Minh Quân có điều gì đó hối lỗi. Minh Quân ngập ngừng trong lời nói như một người hoài nghi. Vậy là câu chuyện tình cảm đó kết thúc bằng một “chuyện phim buồn”. Còn gì cay đắng hơn việc người con gái mình yêu đi yêu chính bạn thân của mình. Bây giờ Vân và Được đang hạnh phúc bên nhau, Mẫn thì vẫn tỏ vẻ không gì lưu luyến, bởi suy cho cùng cũng hợp lý như câu nói: “Vô duyên tàn khứ biệt, hữu duyên ắt tương phùng”. Trong khi mọi người đang huyên náo thì dưới gian phòng khách, tiếng đàn của Minh Quân vang vang đầy ma lực, khiêu gợi. “Cây đàn là người tình chung thủy nhất của tôi”. Nhiều lần hắn đã thốt lên câu nói đó. Quả vậy! Không hiểu cuộc sống của Minh Quân sẽ ra sao nếu thiếu đi niềm đam mê dành cho âm nhạc. Có đôi lúc hắn sắp rơi xuống một vực thẳm cheo leo, có những lúc hắn sắp chết đuối, những khi tâm hồn hắn sắp bị thiêu rụi thì những lúc đó vị cứu tinh đã xuất hiện, đó là âm nhạc. Âm nhạc đã cân bằng lại trạng thái tinh thần của con người, nhờ có âm nhạc mà con người biết yêu thương, biết chia sẽ và đồng cảm. Giọng hát trầm trầm của hắn xướng lên: </p> 
+ <p> “ Chiều chủ nhật buồn </p> 
+ <p> Nằm trong căn gác&nbsp;đìu hiu </p> 
+ <p> Ôi! Tiếng hát xanh xao của một buổi chiều </p> 
+ <p> Trời mưa, trời mưa không dứt! Bơ vơ còn đến bao giờ?” </p> 
+ <p> Những tiếng giòn tan của mọi người đã không làm tâm trạng Minh Quân khá hơn. Thay vào đó là nỗi sầu muộn, cứ như trên đời này chẳng ai thèm quan tâm tới hắn. Hắn như tảng đá trơ trọi lạc giữa một rừng cây. Không biết nỗi buồn ngấm như thế nào mà hắn như người say, hắn nằm xuống chiếc ghế đệm, cởi áo khoác ngoài đắp lên mình, nằm co ro như con thú bị thương. Mọi người đã đổ cá ngựa xong, ai đi lo việc người nấy. Chỉ còn lại hắn với giấc ngủ miên man. Không biết trong lòng Tâm nghĩ gì khi thấy cảnh tượng co cụm của hắn, chỉ biết ánh mắt Tâm có liếc nhìn thoáng qua con thú tội nghiệp đang vùi sâu trong giấc ngủ. </p> 
+ <ul> 
+  <li> Anh vào ăn cơm – Tâm nói khi hắn đã tỉnh giấc, tóc còn đang rối bù </li> 
+  <li> Thôi! Mọi người ăn đi, anh không ăn đâu </li> 
+ </ul> 
+ <li> Anh vào ăn cơm – Tâm nói khi hắn đã tỉnh giấc, tóc còn đang rối bù </li> 
+ <li> Thôi! Mọi người ăn đi, anh không ăn đâu </li>
+ <p> Không nói gì nữa, Tâm lẳng lặng bỏ đi. Buổi chiều, những cơn mưa đã nguôi bớt. Những tia nắng ấm áp bắt đầu sưởi ấm cơ thể thành phố sau những ngày tàn tạ. Cẩn đang ngồi đọc truyện, Minh Quân đến gần hơn, cất tiếng: </p> 
+ <ul> 
+  <li> Đánh ván cờ cho đỡ buồn đi cậu </li> 
+  <li> Ừ! – Cẩn đồng ý, gấp cuốn truyện lại, đi lấy bàn cờ </li> 
+ </ul> 
+ <li> Đánh ván cờ cho đỡ buồn đi cậu </li> 
+ <li> Ừ! – Cẩn đồng ý, gấp cuốn truyện lại, đi lấy bàn cờ </li>
+ <p> Bàn cờ đã được bày ra, Minh Quân chơi cờ đỏ, bên Cẩn chơi cờ xanh. Với khai cuộc quen thuộc của Minh Quân là thế pháo đầu. Còn Cẩn đối lại bằng phản cung mã. Cuộc so tài giữa hai đối thủ diễn ra trong im ắng, với sự tập trung cao độ. Nước cờ uyển chuyển mềm mại, đôi khi còn nghe tiếng “loẹt xoẹt” tạo ra do quân cờ được miết trên bàn với sự dứt khoát. Tổng số trận đấu là ba ván, cả ba ván Minh Quân đều thắng. </p> 
+ <p> Lúc này Mẫn nói chen vào: </p> 
+ <ul> 
+  <li> Bữa nay, hết ai đánh cờ lại Minh Quân rồi, thôi để từ nay cậu này đại diện cho quán Danh Nhân tiếp cờ các cao thủ đi </li> 
+  <li> Thôi nghỉ đi cậu, tớ đi pha tách trà – Minh Quân nói </li> 
+  <li> Ừ cậu! </li> 
+ </ul> 
+ <li> Bữa nay, hết ai đánh cờ lại Minh Quân rồi, thôi để từ nay cậu này đại diện cho quán Danh Nhân tiếp cờ các cao thủ đi </li> 
+ <li> Thôi nghỉ đi cậu, tớ đi pha tách trà – Minh Quân nói </li> 
+ <li> Ừ cậu! </li>
+ <p> Cẩn đứng lên đi ra bếp, nhưng chỉ một thoáng cậu chàng đã quay lại chỗ Minh Quân, lên tiếng nói: </p> 
+ <ul> 
+  <li> Tớ tưởng khoảng thời gian gần đây cậu ở nhà tiến bộ lên nhiều, không ngờ cậu vẫn còn kém quá! </li> 
+ </ul> 
+ <li> Tớ tưởng khoảng thời gian gần đây cậu ở nhà tiến bộ lên nhiều, không ngờ cậu vẫn còn kém quá! </li>
+ <p> Minh Quân vẫn không trả lời. Cẩn lại tiếp tục: </p> 
+ <ul> 
+  <li> Vừa rồi tớ biết cậu muốn thử cờ tớ, tại vì cậu thấy gần đây lúc nào tớ cũng đánh cờ trên mạng, còn cậu thì chẳng bao giờ đánh, cậu muốn cho tớ biết là cậu sẽ đánh bại tớ mặc cho tớ có tập luyện nhiều cách mấy đi nữa. Vì biết vậy cho nên tớ đánh không sát nước, nhưng nước cờ của cậu còn yếu lắm! </li> 
+ </ul> 
+ <li> Vừa rồi tớ biết cậu muốn thử cờ tớ, tại vì cậu thấy gần đây lúc nào tớ cũng đánh cờ trên mạng, còn cậu thì chẳng bao giờ đánh, cậu muốn cho tớ biết là cậu sẽ đánh bại tớ mặc cho tớ có tập luyện nhiều cách mấy đi nữa. Vì biết vậy cho nên tớ đánh không sát nước, nhưng nước cờ của cậu còn yếu lắm! </li>
+ <p> Mẫn lại chen vào: </p> 
+ <ul> 
+  <li> Có tập thì có khác, dạo này cờ hai cậu lên nhanh quá! </li> 
+  <li> Ý tớ không phải là chuyện trình độ cờ - Cẩn biện hộ - Tớ nhớ một mẫu chuyện thời Tam Quốc, nhân vật Tào Phi. Có tài nhưng đừng có lộ tài… </li> 
+ </ul> 
+ <li> Có tập thì có khác, dạo này cờ hai cậu lên nhanh quá! </li> 
+ <li> Ý tớ không phải là chuyện trình độ cờ - Cẩn biện hộ - Tớ nhớ một mẫu chuyện thời Tam Quốc, nhân vật Tào Phi. Có tài nhưng đừng có lộ tài… </li>
+ <p> Minh Quân không nói gì, chỉ nhếch mép cười. Hắn lại tìm một góc riêng tư ngồi nhâm nhi những ý tưởng. Lại thêm một chuyện khiến hắn càng tin chắc hơn hắn là một con sói cô độc. Ngay cả chú, mọi người đang dần dần tách ra khỏi quỹ đạo của hắn. Hắn ngửa mặt nhìn lên trần và đột nhiên trong đầu hắn lóe lên một ý nghĩ thô thiển. “Ta mặc kệ, vấn đề ở đây là ta sinh ra để làm việc lớn, mà làm việc đại sự thì cần phải có một cái mặt dày, một cái tâm đen, bọn người kia có là gì với ta mà ta phải bận tâm quyến luyến, còn lợi dụng được ngày nào tốt ngày đó, đến khi cần đi sẽ đi. Hiện tại ở đây ta có rượu ngon, gái đẹp, ta cứ tận hưởng đi, yêu đời lên, lạc quan lên, mặc kệ mọi người xem ta như thế nào, thích ta cũng được, ghét ta cũng được”. </p> 
+</div>

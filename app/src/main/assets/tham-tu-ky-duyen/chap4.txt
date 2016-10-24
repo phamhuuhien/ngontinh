@@ -1,0 +1,231 @@
+<div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
+ <strong> Chương 4 </strong>
+ <p> Vừa xảy ra một trận động đất 9 độ richter? </p> 
+ <p> Tiếng động lớn khủng khiếp là tiếng của một tòa cao ốc sụp đổ? </p> 
+ <p> Mọi người hoảng loạn, vừa chạy lánh nạn vừa la hét inh ỏi? </p> 
+ <p> Không. Tất cả đều không phải. </p> 
+ <p> Nguyên nhân: Có một vụ nổ lớn xảy ra tại nhà máy sản xuất trà atiso Tinh Khiết (nhà máy nằm đối diện khu chung cư Thạch Anh, nơi Khôi Nguyên đặt văn phòng thám tử), may mắn không có thiệt hại về người, nhưng một phen gây chấn động cư dân sống trong vùng lân cận. </p> 
+ <p> - Bây giờ tôi mới thấm thía câu nói: “Thần thánh cũng mắc sai lầm”. Em cố tình chọc Khôi Nguyên, để xem lần này anh ấy có còn kiêu ngạo được nữa không. </p> 
+ <p> - Cô xem tôi là thánh thần sao? - Anh ấy bình tĩnh phản công lại. </p> 
+ <p> - Hi hi, coi vậy mà anh cũng “nhạy cảm” nhỉ? - Em phải trêu anh ấy đến cùng, để xem anh ấy giỏi đóng mặt lạnh được bao lâu. </p> 
+ <p> - Thà, quyết đoán mà sai lầm, còn hơn sai lầm do thiếu quyết đoán. - Khôi Nguyên vẫn bình tĩnh đáp. </p> 
+ <p> - Tôi đùa đấy, anh đừng giận tôi nhé! </p> 
+ <p> - Cô Ngọc Diệp à! Thay vì thử thách tôi, hãy để thời gian quý báu mà giải quyết vấn đề cô đang gặp phải. </p> 
+ <p> Chạm trán bức tường băng Khôi Nguyên, em đành bó tay; không thể xuyên thủng được lớp vỏ bao bọc cảm xúc của anh ấy. </p> 
+ <p> - Anh muốn đến đó ngay đêm nay sao? </p> 
+ <p> - Đúng vậy. Cô và tôi sẽ cùng đi. </p> 
+ <p> - Hả? Tôi nữa ư? - Em thốt lên. </p> 
+ <p> - Hay là cô muốn ở lại căn nhà này một mình? Tôi phải công nhận căn nhà đẹp một kiểu rất ma quái. - Khôi Nguyên ngước mặt nhìn lên trần nhà, chắc anh ấy thích thú lắm vì mới dọa được em. </p> 
+ <p> - Không. Anh đã hứa với tôi rồi, ban đêm anh không được đi đâu cả, đừng quên anh có trách nhiệm phải bảo vệ tôi đó. - Em sốt vó khi nghe anh ấy nói sẽ bỏ em lại căn nhà ma quái, còn anh thì đi điều tra một mình. </p> 
+ <p> Khôi Nguyên nhìn em suốt từ đầu đến chân. </p> 
+ <p> Em chợt nhận ra mình đang bấu víu cánh tay anh ấy. </p> 
+ <p> Em vội buông tay ra. </p> 
+ <p> - Xin lỗi anh! - Em cúi mặt giấu đi sự ngượng ngùng. </p> 
+ <p> - Lát nữa tôi sẽ đi xem xét lại căn nhà này. Cô có đi đâu cũng phải về trước lúc trời tối đấy. </p> 
+ <p> - Căn nhà này có gì mà phải xem xét? - Em tò mò hỏi anh ấy. </p> 
+ <p> - Trực giác nghề nghiệp mách bảo cho tôi biết, tôi có một linh cảm rất đáng sợ khi ở đây. Tạm thời tôi chưa biết có điều gì ẩn khuất đằng sau cảm giác đó, nhưng chắc chắn tôi sẽ tìm ra. </p> 
+ <p> - Ừm, hy vọng mọi chuyện sẽ tốt đẹp. </p> 
+ <p> - Cô không muốn đi đâu sao? - Anh ấy quay sang hỏi em. </p> 
+ <p> - Có, tôi muốn qua nhà trọ đem mớ hành lý về, tiện thể ghé vào chợ mua thứ gì đó về nấu bữa tối cho anh. </p> 
+ <p> - Cho cô nữa chứ! </p> 
+ <p> - Ờ thì...anh đúng là thích bắt bẻ người khác mà. - Em bực mình nói. </p> 
+ <p> - Bệnh nghề nghiệp thôi cô đừng để bụng. - Nét mặt con người băng giá đó vẫn trơ trơ như đá. Không biểu hiện một chút cảm xúc gì. </p> 
+ <p> - Nói đi, anh thích ăn gì? - Em hỏi khô khốc, đã đến lúc phải lấy độc trị độc rồi. </p> 
+ <p> - Rau luộc chấm nước mắm. </p> 
+ <p> - Hả? Chỉ vậy thôi sao? </p> 
+ <p> - Có gì đâu mà cô phải ngạc nhiên vậy? </p> 
+ <p> - Anh là tín đồ Phật giáo? </p> 
+ <p> - Tôi là tín đồ Satan giáo. </p> 
+ <p> - Có không đó anh? Thế sao anh ăn chay? </p> 
+ <p> - Tôi ăn chay hồi nào? </p> 
+ <p> - Rau luộc chấm nước mắm thôi, không phải sao? </p> 
+ <p> - Nước mắm là đồ chay đó hả? </p> 
+ <p> Em nhận ra mình thật ngớ ngẩn, để lấp đi sự xấu hổ em cố tình đánh trống lãng: </p> 
+ <p> - Anh ăn uống đơn giản vậy hèn gì ốm là phải. </p> 
+ <p> - Cô không cần phải quan tâm đến tôi như vậy đâu. Tôi dễ nuôi lắm! </p> 
+ <p> - Nhưng tôi thì không. Ăn uống phải đảm bảo đầy đủ chất dinh dưỡng mới tốt cho sức khỏe. </p> 
+ <p> - Cô thích gì thì tùy cô. Nói tóm lại, cô nấu gì tôi ăn đó. </p> 
+ <p> - A, hay là anh sợ... - Em nhìn anh ấy tinh quái. </p> 
+ <p> - Sợ gì cơ? </p> 
+ <p> - Sợ tôi đòi tiền nhà và tiền ăn chứ gì? - Em nói vui. </p> 
+ <p> - Sau khi kết thúc vụ án này, nhận được tiền thù lao từ cô chủ xinh đẹp, tôi sẽ trả đủ cho cô. </p> 
+ <p> Anh ta vừa nói em là cô chủ xinh đẹp. Ồ! Coi bộ anh ấy cũng không “khô khan” lắm đâu. </p> 
+ <p> - Tôi nói đùa thôi anh đừng tưởng thật nhé! Tôi không đến mức tính toán vậy đâu. - Em giải bày với anh ấy, sợ anh ấy nghĩ không tốt về em. </p> 
+ <p> - Tôi biết. </p> 
+ <p> - Hành lý của anh để ngoài kia tôi sẽ đem vào phòng cho anh. </p> 
+ <p> - Cám ơn cô! Nhưng cứ để đó tôi tự lo lấy. Cô cứ làm việc của mình đi. </p> 
+ <p> - Anh thấy căn phòng này thế nào? Buổi tối anh sẽ ngủ ở đây. </p> 
+ <p> - Nó sát vách với phòng của cô đúng không? </p> 
+ <p> - Vâng. </p> 
+ <p> - Ừ, như thế sẽ tiện hơn. </p> 
+ <p> - Còn một phòng nữa cũng ở lầu hai, và sát vách với phòng của tôi; nếu muốn anh có thể ở đó. Nhưng trước hết phải dọn dẹp lại đã, vì phòng đó đã lâu rồi không có ai ở. </p> 
+ <p> - Vậy thì tốn công quá! Tôi sẽ ở phòng này. </p> 
+ <p> - Ok, thống nhất vậy nha. Bây giờ tôi đi chợ, còn anh cứ làm công việc của mình. </p> 
+ <p> - Nhớ về trước khi trời tối đấy! </p> 
+ <p> - Tôi có phải trẻ con đâu mà anh nhắc hoài. </p> 
+ <p> - Cô có bệnh đãng trí nên đừng trách tôi chứ. </p> 
+ <p> - Ơ, anh... - Em bị chọc tức nghẹn cả họng. - Hừ, được lắm! Tôi không thèm nói chuyện với anh nữa. </p> 
+ <p> Em bỏ đi cho khuất mắt anh ấy, con người đáng ghét, kiểu gì cũng nói được. </p> 
+ <p> <em> 7h tối, </em> </p> 
+ <em> 7h tối, </em>
+ <p> Đêm đó, em “đãi” anh ấy món cà ri. Để nấu được một nồi cà ri đậm đà cần những nguyên liệu phổ biến như: khoai tây, khoai môn, cà rốt, thịt nạt...Nấu làm sao nước phải ngon ngọt, không quá béo nhưng cũng không được nhạt nhẽo. Cần một vài bí quyết nho nhỏ, và đó là sở trường của em. </p> 
+ <p> Tô cà ri thơm phức được bưng lên, cà ri sẽ được ăn kèm với bánh mì nóng giòn. </p> 
+ <p> Trên bàn còn có món rau cải luộc ưa thích của “anh chàng lập dị”, một chén nhỏ nước mắm hảo hạng với những lát ớt thái mỏng, để anh ấy chấm với thịt luộc rau sống. </p> 
+ <p> Em bưng lên một tô cơm với những hạt trắng, dẻo, thơm lừng; và một nồi canh khổ qua độn thịt nạc xay; nước ngọt mặn mà, bảo đảm "húp" vô là ghiền. </p> 
+ <p> Cà ri được múc ra chén, sau đó đưa sang cho anh ấy. </p> 
+ <p> - Anh thử đi, đây là “tác phẩm” được đầu tư rất bài bản và công phu đấy. </p> 
+ <p> Khôi Nguyên nhận lấy chén cà ri, anh ấy nhìn sang em nói: </p> 
+ <p> - Cô không ăn đi? </p> 
+ <p> - Thì anh ăn trước đi đã, tôi muốn xem anh thưởng thức tay nghề nấu nướng của tôi. - Em chống tay lên cằm, nhìn anh ấy. </p> 
+ <p> - Cô cứ nhìn chằm chằm thế sao tôi ăn được. - Anh ấy đặt đôi đũa xuống bàn. </p> 
+ <p> - Được rồi, anh cứ tự nhiên đi, tôi ăn trước nhé! Tôi mời anh rồi đó. </p> 
+ <p> Em ăn trước làm gương để anh ấy học theo. </p> 
+ <p> - Ưm, ngon quá! - Em chấm mẫu bánh mì nóng giòn vào chén cà ri thơm phức rồi cho vào miệng nhai. Nếm thử nước sốt, rồi đến khoai môn vừa dẻo vừa bở. </p> 
+ <p> - Cô ăn thế sẽ béo ngậy lên đấy! </p> 
+ <p> Em vừa vén tóc dài bên tai, vừa chấm bánh mì ăn với cà ri làm Khôi Nguyên để ý. Đúng là nuốt không trôi khi mình ăn mà có người cứ nhìn mình chằm chằm. </p> 
+ <p> - Ơ, nãy giờ anh chưa ăn sao? - Mặt em đỏ bừng lên, chắc chắn trong đầu anh ấy nghĩ em là đồ tham ăn rồi. </p> 
+ <p> - Cô vừa ăn vừa nhai rau ráu thế sao tôi nuốt nổi. </p> 
+ <p> - Nè, đừng có ở đó mà bày đặt kiểu cách, anh không ăn thì để tôi ăn, tôi sẽ ăn cho bằng hết. - Em tức quá, dù gì cũng lỡ rồi, cùi không sợ hủi nữa. </p> 
+ <p> - Tôi đùa mà cô cũng tưởng là thật à? Tôi dại gì mà không ăn. Để xem tài nghệ của cô như thế nào đã. </p> 
+ <p> Thái độ của anh ấy thật phách lối. Em chỉ mong cho anh ấy bị sặc một trận, xem ảnh có còn lên mặt được nữa không. </p> 
+ <p> Khôi Nguyên bắt chước em, múc nước sốt nếm thử, rồi gắp khoai tây cho vào miệng. </p> 
+ <p> - Anh ăn sai rồi, phải chấm bánh mì vào nước sốt thưởng thức trước, thế mới đúng bài bản. </p> 
+ <p> - Cô làm như tôi lần đầu ăn cà ri không bằng. - Khôi Nguyên nhếch mép. </p> 
+ <p> - Còn nói nữa, rõ ràng là không biết ăn. Sao anh không chấm bánh mì đi? </p> 
+ <p> - Bánh mì nguội ngắt rồi, cô bảo tôi làm sao ăn đây. </p> 
+ <p> - Vậy mà hồi chiều ai đó đã nói là: “Tôi dễ nuôi lắm đấy!” </p> 
+ <p> Em bỉu môi, nhưng cũng đứng lên mang bánh mì đi nướng lại. </p> 
+ <p> --- </p> 
+ <p> Dùng bữa tối xong, em đứng xem Khôi Nguyên làm việc. </p> 
+ <p> Anh ấy đang lắp đặt một “hệ thống báo động”. </p> 
+ <p> Khôi Nguyên đứng trên chiếc ghế gỗ cao, tuốt lại sợi dây thừng vừa được kéo từ đầu giường ngủ phòng em qua đầu giường ngủ phòng anh ấy. </p> 
+ <p> - Cô mở vali đồ của tôi tìm lấy cái chuông đưa giúp tôi. </p> 
+ <p> Em mở vali của anh ấy ra, mọi thứ thật là bừa bộn, áo quần đồ nghề tác nghiệp chồng chất lên nhau. </p> 
+ <p> Em lục lọi để tìm cái chuông mà anh ấy nói, vô tình vớ phải mớ đồ lót của ảnh, khỏi phải nói lúc đó em quê độ như thế nào, mặt tự dưng đỏ bừng như gất. </p> 
+ <p> - Làm gì có cái chuông nào? - Em nói. </p> 
+ <p> - Cô tìm kỹ lại đi. </p> 
+ <p> Em tiếp tục tìm kiếm, lục thấy một bao thuốc lá, một chai rượu ngoại, và một máy nghe nhạc mini, đặc biệt được chủ nhân ưu ái gói gém chung một chỗ. </p> 
+ <p> - Anh uống rượu à? - Em hỏi. </p> 
+ <p> - Tôi bảo cô tìm cái chuông chứ có bảo cô tìm chai rượu đâu. </p> 
+ <p> - Tôi không tìm thấy. </p> 
+ <p> Khôi Nguyên nhảy xuống ghế, đến lục tìm cả buổi cũng không thấy cái chuông đâu. </p> 
+ <p> - Có khi nào anh bỏ quên ở văn phòng rồi không? </p> 
+ <p> - Không thể, rõ ràng lúc nãy tôi còn thấy mà. </p> 
+ <p> - Anh xem lại đi, coi có bỏ chỗ nào không. </p> 
+ <p> Khôi Nguyên lục tìm trong túi áo mình. Cử chỉ của anh ấy khiến em nghi ngờ: </p> 
+ <p> - Này, có phải nó ở trong túi anh không? </p> 
+ <p> - Làm gì có. </p> 
+ <p> - Thôi, đừng có xạo nữa, để tôi xem thử nào. - Em định kiểm tra túi ảnh. </p> 
+ <p> - Tôi đùa với cô chút thôi mà, nó đây rồi. - Khôi Nguyên lôi từ trong túi ra cái chuông đồng nhỏ xinh. </p> 
+ <p> Em buồn cười chịu không nổi, cười muốn ngất luôn. </p> 
+ <p> - Hi hi hi, anh đúng là thiên tài. - He he, lâu lâu mới có cơ hội cho anh ấy một bài học, cái tội dám chê em đãng trí. </p> 
+ <p> - Cô có vẻ sung sướng quá nhỉ? - Gương mặt anh chàng vẫn lãnh khốc. </p> 
+ <p> - Sao lại có thể bỏ qua một dịp sung sướng như vậy được kia chứ... hí hí hí hí... - Em ôm bụng, ngã lăn xuống giường cười. </p> 
+ <p> Khôi Nguyên lắc đầu nói: </p> 
+ <p> - Con người của cô đúng là hết thuốc chữa. </p> 
+ <p> - Cám ơn anh! </p> 
+ <p> - Vì chuyện gì? </p> 
+ <p> - Đã cho tôi mấy chục thang thuốc bổ. </p> 
+ <p> - Bó tay. </p> 
+ <p> - Nè, </p> 
+ <p> - Lại gì nữa đây? </p> 
+ <p> - Anh đã có vợ chưa? </p> 
+ <p> - Cô điều tra tôi đấy à? </p> 
+ <p> - Không, ai thèm điều tra anh kia chứ. </p> 
+ <p> - Thế sao hỏi? </p> 
+ <p> - Ờ, thì do tôi không thích sự im lặng thôi. Anh không muốn trả lời thì thôi. </p> 
+ <p> - Chưa. </p> 
+ <p> - “Bị ế rồi đây” - Em lầm bầm trong miệng. </p> 
+ <p> - Cô vừa nói gì thế? </p> 
+ <p> - Không nói gì cả. </p> 
+ <p> - Bức ảnh đầu giường ngủ là đại gia đình của cô đó hả? - Anh ấy vừa buột cái chuông đồng vào sợi dây thừng, vừa hỏi em. </p> 
+ <p> - Ừm. Ba mẹ và anh hai tôi đấy. </p> 
+ <p> - Cô xa nhà lập nghiệp đúng không? Chắc cô nhớ ba mẹ lắm! </p> 
+ <p> Khi anh ấy nhắc đến ba mẹ, bỗng dưng lòng em chạnh lại. Ánh mắt không giấu được nỗi buồn, em đáp lời ảnh: </p> 
+ <p> - Ba mẹ tôi mất trong một tai nạn, khi tôi vừa tròn 7 tuổi. </p> 
+ <p> - Xin lỗi cô! </p> 
+ <p> - Anh có lỗi gì đâu, tại tôi quá thương ba mẹ đó thôi. - Mắt em rơm rớm. </p> 
+ <p> Khôi Nguyên khi quan sát biểu hiện của em, ảnh bất ngờ đặt tay lên vai em an ủi: </p> 
+ <p> - Thôi mà, chuyện xảy ra cũng đã lâu rồi. Việc bây giờ cô cần làm là hãy sống cho thật tốt, để ba mẹ cô được yên lòng. </p> 
+ <p> - Cám ơn anh! </p> 
+ <p> --- </p> 
+ <p> - Xong rồi đấy! - Khôi Nguyên lấy khăn mù xoa lau tay. </p> 
+ <p> - Có chắc là khi gặp sự cố gì, tôi chỉ việc rung chuông là anh sẽ có mặt? </p> 
+ <p> - Chắc. </p> 
+ <p> - Vậy thì tôi yên tâm rồi. </p> 
+ <p> --- </p> 
+ <p> <em> 12h đêm, </em> </p> 
+ <em> 12h đêm, </em>
+ <p> - Có nhất thiết phải như vậy không? - Em hỏi lại anh ấy. </p> 
+ <p> - Phải. - Anh ấy đáp gọn lỏn. </p> 
+ <p> - Tôi vẫn còn băn khoăn khó hiểu, tại sao cứ phải đi vào cái “giờ linh thiêng” này? </p> 
+ <p> - Câu trả lời nằm trong câu hỏi của cô rồi đấy! Chỉ hai chữ thôi: “linh thiêng”. </p> 
+ <p> Em kinh ngạc nhìn anh ấy. </p> 
+ <p> - Cô vẫn chưa hiểu sao? </p> 
+ <p> -Không lẽ nào(?) chắc chắn là không như vậy đâu. Không! </p> 
+ <p> - Cô đang nghĩ điều quái quỉ gì trong đầu thế? </p> 
+ <p> - Có phải anh muốn đập cái am đó? </p> 
+ <p> Khôi Nguyên cốc nhẹ lên đầu em: </p> 
+ <p> - Ai nói cô là tôi sẽ làm cái điều ngu ngốc đó hả? Tôi không muốn bị bóp cổ lúc nửa đêm đâu. </p> 
+ <p> - Cũng phải ha, nhưng mà... </p> 
+ <p> - Tôi chẳng muốn bí mật với cô làm gì Ngọc Diệp à! Nhưng cô làm ơn lần sau đừng có hỏi tôi, hãy cứ mặc kệ tôi đi, khi nào tôi thấy có trách nhiệm phải nói với cô điều gì tôi sẽ nói. Được chứ! </p> 
+ <p> - Vâng, lần sau tôi sẽ không hỏi nữa. </p> 
+ <p> Em vừa buồn, vừa tức anh ấy; anh hai thử nghĩ coi em có gì sai đâu. Việc lần này liên quan tới em, em có quyền được biết chứ! Anh ấy cứ làm giống như em là đồ ngu ngốc không bằng, đúng là con người kiêu ngạo, chảnh chọe mà. </p> 
+ <p> - Cô đang giận đấy à? </p> 
+ <p> - Có đâu. </p> 
+ <p> - Thôi đừng nói nhiều nữa, chúng ta đi thôi! </p> 
+ <p> Khôi Nguyên mang theo một cái bọc vải màu đen, em rất tò mò muốn biết bên trong đó đựng những gì. Nhưng vì mới hứa với anh ấy là sẽ không hỏi, nên thôi, im luôn. Em tự thuyết phục mình, trước sau gì cũng biết thôi thì cứ kiên nhẫn chờ đợi. </p> 
+ <p> Đêm đó không trăng, con đường mòn tối đen như mực, cảnh vật rất im ắng... </p> 
+ <p> Em bước theo lưng Khôi Nguyên, mặc dù có anh ấy nhưng em vẫn thấy sợ, vì không gian quá phẳng lặng - điều này rất khác thường. </p> 
+ <p> Cảm giác có luồng khí đang bám theo tụi em, em chú ý quan sát xung quanh, một cơn gió lớn từ đâu ập đến thổi rất mạnh vào những bông trà kèm theo tiếng rít rất đáng sợ. Có mùi gì đó hăng hắc xộc vào cánh mũi. </p> 
+ <p> - Anh Nguyên! - Em bất ngờ nắm lấy cánh tay của anh ấy làm rơi cái đèn pin trên tay anh. </p> 
+ <p> Khôi Nguyên cúi xuống nhặt cái đèn pin, xong quay lại nói với em: </p> 
+ <p> - Cô bị làm sao vậy? </p> 
+ <p> - Tôi thấy sợ lắm! </p> 
+ <p> - Có tôi còn sợ gì. </p> 
+ <p> - Anh đừng để tôi đi sau. - Em năn nỉ anh ấy. </p> 
+ <p> - Thôi được rồi, đưa tay đây! </p> 
+ <p> Khôi Nguyên nắm lấy tay em, bàn tay của anh ấy thật ấm áp. </p> 
+ <p> Sương khuya lắng xuống rất đậm, trước mặt tụi em là một dải sương mù dày đặc. Ánh đèn pin nhập nhoạng, yếu dần...yếu dần...rồi... </p> 
+ <p> "Phụt" -&nbsp;Tắt ngúm. </p> 
+ <p> Xung quanh tụi em lúc này là một màu đen đặc quánh. </p> 
+ <p> Sợ quá, em ôm cứng lấy cánh tay của Khôi Nguyên. </p> 
+ <p> - Cô bình tĩnh lại đi! Đây chỉ là sự cố hết pin thôi, đừng có quýnh lên thế. Đưa cô đi theo đúng là phiền toái. - Hình như anh ấy đang bực mình. </p> 
+ <p> - Chúng ta về thôi! - Em đề nghị. </p> 
+ <p> - Hừ, nếu muốn thì cô về trước đi. - Anh ấy thừa biết em không dám mà còn nói vậy. </p> 
+ <p> - Nhưng không có đèn thì đi bằng cách nào? </p> 
+ <p> - Nếu cô nghĩ với sự cố đơn giản như thế này mà tôi đành bó tay chịu chết, thì cô đánh giá tôi hơi thấp rồi đấy! - Anh ấy bắt đầu kiêu ngạo. </p> 
+ <p> Khôi Nguyên lục lọi một lúc, </p> 
+ <p> - “Bật” - Ánh sáng lóe lên, đó là từ quẹt zippo. </p> 
+ <p> - Hả? Chúng ta sẽ đi bằng thứ chết tiệt này sao? - Em thốt lên! </p> 
+ <p> Anh ấy không trả lời em, mà châm điếu xì gà hút. </p> 
+ <p> Em bực mình muốn điên lên luôn, trong khi em sợ gần chết thì anh ấy cứ làm như không có chuyện gì xảy ra. </p> 
+ <p> - Anh có vẻ bình tĩnh quá nhỉ? </p> 
+ <p> - Có gì đâu mà phải cuống lên, cô nên nhớ trong bất kì cuộc chiến nào cũng vậy, nếu cô run sợ cô sẽ bị kẻ thù đánh bại. </p> 
+ <p> Nói xong anh ấy rít vào một hơi thuốc rồi thong thả phả ra làn khói trắng, mùi xì gà thơm phức vuốt ve khứu giác. </p> 
+ <p> - Anh nói thì hay lắm! Bây giờ hãy nói thử xem: chúng ta sẽ đi bằng thứ gì đây? </p> 
+ <p> - “Bật” - Ánh sáng lại lóe lên, nhưng lần này là từ một cái đèn pin. </p> 
+ <p> - A, anh dám gạt tôi. Thật quá thể mà. </p> 
+ <p> - Ồ, thế ra cô có thể tự đi một mình rồi đấy! </p> 
+ <p> Nói thật, lúc đó em chỉ muốn đấm cho anh ấy một đấm. Nhưng không còn cách nào khác, em đành phải xuống nước để được anh ấy nắm tay dắt đi. </p> 
+ <p> - Lần sau không được gạt tôi nữa nghe chưa! </p> 
+ <p> - Tôi đâu có gạt cô. </p> 
+ <p> - Hừ, anh còn nói vậy! </p> 
+ <p> - Đây, cô xem đi. - Khôi Nguyên nói rồi, đưa cho em cái đèn pin lúc nãy. </p> 
+ <p> Thì ra ảnh đã thủ theo một cái khác, vậy mà không cho em biết sớm, đúng là đồ quỷ quái. (Thật xui xẻo cho em gặp phải người như anh ấy.) </p> 
+ <p> Trong màn đêm lạnh lẽo, tụi em bước đi, thách thức tất cả mọi nguy hiểm đến từ bóng tối. Rắn rết... và kể cả ma quỷ. </p> 
+ <p> - Sắp đến nơi rồi. - Em cảnh báo cho Khôi Nguyên biết. </p> 
+ <p> - Là khúc quanh này, ban ngày tôi đã chú ý đến. - Anh ấy rọi đèn pin đúng vào vị trí cái am thờ cách chúng em gần chục mét. </p> 
+ <p> Đi với anh ấy đúng là an tâm rất nhiều, nỗi sợ trong em tan biến đi đâu hết. </p> 
+ <p> Đến nơi, anh ấy bắt đầu làm việc của mình. Lấy từ trong bọc vải ra đủ các loại giấy tiền vàng bạc, có cả những lá bùa màu vàng với những dòng chữ đỏ ngoằn nghoèo. </p> 
+ <p> - Anh định làm gì? - Em ngạc nhiên hỏi. </p> 
+ <p> - Còn làm gì nữa ngoài việc cúng bái. </p> 
+ <p> - Cúng bái á! - Em ngơ ngác. </p> 
+ <p> - Đúng vậy. Tiên lễ hậu binh. Tôi là một trong những người tin vào thế giới tâm linh, vụ này xem ra không đơn giản chút nào. Nếu tôi đoán không nhầm thì ở cái am này có oan hồn trú ngụ, người đó muốn báo mộng cho cô; và nữ khách hàng xấu số trước đây của tôi. Tôi cúng bái, để oan hồn không đến quấy giấc ngủ của cô nữa. Và xin chút ít manh mối để điều tra, rửa cái oan cho hồn thiêng. </p> 
+ <p> - Ồ, đơn giản vậy mà tôi không nghĩ ra - Em vui sướng reo lên vì tin rằng từ đây mình sẽ không gặp thêm cơn ác mộng nào nữa. </p> 
+ <p> Khôi Nguyên và em dọn chè đông sương, đốt nến rồi đến đốt giấy tiền vàng bạc. Sau đó chắp tay cầu nguyện. </p> 
+ <p> Em thấy anh Nguyên lẩm bẩm gì đó, không biết anh đang đọc thần chú hay đang cầu oan hồn phù hộ cho công tác điều tra của anh sẽ chính thức bắt đầu vào sáng mai. Riêng em thì cầu xin: oan hồn đừng đến dọa em trong giấc ngủ nữa. </p> 
+ <p> - Xong rồi. Chúng ta về thôi! - Khôi Nguyên nắm lấy tay em. </p> 
+ <p> Đi chưa được vài bước thì: </p> 
+ <p> - Á.... á... á... á... - Em kinh hoàng hét lên. </p> 
+</div>

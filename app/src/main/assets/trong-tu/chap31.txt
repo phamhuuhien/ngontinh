@@ -1,0 +1,195 @@
+<div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
+ <p> Bình minh lên ánh trăng dần hạ xuống, xuân qua thu tới, mười năm tựa như một giấc mộng, trong nháy mắt tất cả mọi thứ dường như đã là biển rộng hóa nương dâu. Cái gọi là thế sự khó lường, cũng giống như gió mây ở phía chân trời vẫn luôn luôn thay đổi, Tiên-Ma đối đầu mãi không ngừng nghỉ. Tiên môn ngày càng vững mạnh, Ma tộc cũng cứ lặng lẽ mà lớn mạnh thêm, khiến con đường trọng yếu nối liền và thông nhau giữa lục giới là nhân gian phải gánh chịu thảm họa. Hai năm trước, yêu hồ lẻn vào hoàng cung hai nước, khơi dậy chiến tranh, làm cho xác chết đầy đường, núi sông ảm đạm, mấy vạn người phải trôi dạt khắp nơi, lúc trước nhân gian khó khăn lắm mới có thể khôi phục được sức sống, nay lại gần như không còn.</p>
+ <p>Mọi người không chịu nổi cực khổ giày vò như thế, nên đều dốc sức hướng tới những nơi có sức mạnh to lớn để tìm sự bảo vệ, nên Tiên môn đã đạt tới địa vị chưa từng có từ trước tới nay, trong đó vang danh nhất phải kể đến Nam Hoa. Mấy năm nay Ma tộc làm loạn khắp nơi, may nhờ có Trọng Hoa Tôn giả dẫn đầu đệ tử Tiên môn hợp lực truy sát, mới có thể đem khí thế của Ma cung Cửu U áp chế bớt.</p>
+ <p>Với thần tiên mà nói thời gian là vô hạn, điều thần tiên muốn bảo vệ đó chính là sự sống của nhân gian. </p>
+ <p>Đối với bọn họ mà nói, trăm năm trôi qua chỉ trong nháy mắt, chuyện về cô bé ăn mày hai mươi năm trước bái nhập Nam Hoa đã không còn ai nhắc tới nữa. Tất cả chuyện xưa của nàng, dường như đã hoá thành mây bay gió thổi nơi Tử Trúc Phong lạnh lùng phiêu đãng cô độc ấy rồi.</p>
+ <p>Nếu không có tội danh phản bội sư môn, nếu không có vị sư phụ thân phận đặc biệt kia, nàng có lẽ ngay cả trong ký ức cũng như chưa bao giờ xuất hiện.</p>
+ <p>Một nửa là do năm tháng mài mòn mà thổi bay đi mất, nửa kia là do cố ý lãng quên.</p>
+ <p>Lại sắp đến ngày Nam Hoa thu nhận đồ đệ, các khách điếm ở những trấn nhỏ lân cận, khách đã ở kín hết các phòng, rất nhiều người không ngại cực khổ, dắt theo con nhỏ, lưng đeo hành lý, từ bốn phương tám hướng tới nơi này chờ đợi cánh cửa Tiên giới mở ra.</p>
+ <p>Ánh nắng chiều chiếu rọi, ánh hoàng hôn nghiêng nghiêng chiếu xuống khiến hai bóng người đổ xuống thật dài trên mặt đất.</p>
+ <p>Người thanh niên kia trông thật trẻ, bộ dáng tao nhã, cử chỉ lộ ra vẻ trầm ổn của một người đã trưởng thành. Người con gái đi bên cạnh còn trẻ hơn, dung mạo rất xinh đẹp, mặc một bộ y phục màu xanh đen rất tầm thường, sắc mặt có chút tái nhợt.</p>
+ <p>“Sao tinh thần lại kém như vậy, nàng có mệt lắm không?” Giọng nói lộ vẻ đau lòng.</p>
+ <p>“Ta không mệt, không sao đâu.”</p>
+ <p>Người thanh niên đưa tay lên, chần chừ hạ xuống, cuối cùng vuốt lại những sợi tóc trên trán người con gái ấy, giọng nói dịu dàng, như là đang nói với tình nhân, nhưng lại càng có vẻ giống một vị trưởng bối, có chút cưng chiều và thân thiết: “Không nên ỷ mình mạnh khỏe, sinh lão bệnh tử cũng không hề gì, không nên tiếp tục vì ta mà tiêu hao pháp lực.”</p>
+ <p>Người con gái kia cụp mắt xuống, khóe môi vẽ lên một đường cong xinh đẹp, thân thể gầy yếu không tự chủ mà hướng vào lòng y gần hơn một chút: “Chỉ là mấy viên đan dược thôi, sao có thể tiêu hao pháp lực của ta được.”</p>
+ <p>“Thủy Tiên, tiên - phàm khác nhau, mọi việc trên đời này không nên quá cưỡng cầu, nàng là người tu Tiên lẽ nào lại không hiểu?”</p>
+ <p>“Vậy thì sao?” Người con gái có chút cảnh giác.</p>
+ <p>“Tuổi thọ con người là do trời định, nàng dùng Tiên lực kéo dài mạng sống cho ta, đó là nghịch lại ý trời, chỉ sợ…”</p>
+ <p>Người con gái kia bỗng nhiên kích động, đẩy y ra, bước đi: “Ý trời là cái gì! Ta đối với chàng như vậy, còn không tốt bằng ý trời hay sao? Chàng đi mà thuận theo ý trời đi, đừng theo quản ta nữa.”</p>
+ <p>Người thanh niên giữ chặt nàng lại: “Ta chẳng qua chỉ là nói vậy thôi, tại sao nàng lại tức giận vậy chứ.”</p>
+ <p>Người con gái quật cường nhìn thẳng vào mắt của người thanh niên: “Ta chính là không cho chàng già đi, không cho chàng chuyển thế, chàng chuyển kiếp rồi sẽ quên mất ta thì sao?”</p>
+ <p>Người thanh niên nhìn ánh mắt quật cường của nàng, chỉ trầm mặc, cuối cùng cười ảm đạm.</p>
+ <p>Người con gái cắn môi cười, lại nép vào lòng y lần nữa, đồng thời bàn tay phải lặng lẽ ở sau lưng tác pháp.</p>
+ <p>“Sư tỷ!”</p>
+ <p>“Sư đệ? Đệ tới đây làm gì?”</p>
+ <p>“Sư phụ dặn đệ làm một việc, nên đi ngang qua đây, nghe nói sắp tới ngày phái Nam Hoa thu nhận đồ đệ mới, cho nên thuận đường đến xem sao.”</p>
+ <p>Người con gái kia gật đầu.</p>
+ <p>Từ khoảng đất trống bỗng nhiên xuất hiện một thiếu niên mới nói hai câu đã vội vàng bỏ đi, người thanh niên bên cạnh không nhận ra đó chỉ là ảo giác, nhìn theo hướng người thiếu niên đi xa, hỏi: “Đó là sư đệ của nàng sao?”</p>
+ <p>Người con gái kia ôm lấy cánh tay y: “Chàng vẫn cứ hoài nghi ta lừa chàng, hiện tại chàng đã rõ rồi chứ.”</p>
+ <p>Người thanh niên nhíu mày: “Không phải là ta hoài nghi nàng, chẳng qua nàng hay làm việc rất tùy hứng, thường xuyên chẳng thấy bóng dáng nàng đâu, gặp chuyện gì khó khăn cũng không chịu nói với ta, nên ta có chút lo lắng.”</p>
+ <p>“Ta đã lớn như vậy rồi, chàng có gì mà phải lo lắng chứ.”</p>
+ <p>“Nàng luôn ra ngoài một mình, ta thấy không ổn, hay là ta đi tu Tiên để giúp nàng nhé?”</p>
+ <p>“Chàng tới Nam Hoa lần này, không phải là muốn tiến nhập Tiên môn chứ?” Người con gái không có vẻ vui sướng, ngược lại có chút căng thẳng, liếc mắt nói: “Có đan dược của ta rồi, còn đi tu Tiên làm gì nữa? Hơn nữa bọn họ chỉ nhận trẻ nhỏ, lão già như chàng chẳng lẽ là trẻ con sao?”</p>
+ <p>Người thanh niên nhìn nàng một lúc lâu, sau đó mỉm cười: “Chúng ta đi thôi, đi xem sao, có lẽ sẽ gặp thêm được một số đệ tử Tiên môn khác.”</p>
+ <p>Người con gái gật đầu, bước đi được hai bước rồi bỗng nhiên ôm trán lảo đảo.</p>
+ <p>Người thanh niên đỡ lấy nàng: “Nàng làm sao vậy?”</p>
+ <p>“Ta không sao, có lẽ mệt mỏi chút thôi.”</p>
+ <p>“Vậy chúng ta quay về khách điếm nghỉ ngơi đi.”</p>
+ <p>Hai người bước đi, theo đường cũ mà về, hai thân ảnh xinh đẹp biến mất trong ánh nắng chiều tàn dịu dàng mà đẹp đẽ.</p>
+ <p>………</p>
+ <p>Cách đó khoảng hơn một trăm dặm, một già một trẻ, khắp người nhuốm đẫm bụi đường, đang vội vàng chạy đi.</p>
+ <p>Cô bé con ăn mặc đơn giản, có lẽ chỉ khoảng mười một, mười hai tuổi, còn chưa trưởng thành, nhưng khuôn mặt nhỏ nhắn lại cực kỳ xinh đẹp, mái tóc đen nhánh, da thịt trắng như tuyết, có thể nhìn thấy được tương lai sẽ là một mỹ nhân. Giờ phút này trên khuôn mặt cô bé đầy vẻ lo lắng, nhưng bước chân và dáng vẻ vẫn thong thả có quy cũ, rõ ràng là được dạy dỗ vô cùng tốt. Cô bé đi không chậm, nhưng đáng tiếc bạn đồng hành cùng cô bé là một ông lão râu tóc bạc phơ đang thở hồng hộc, thỉnh thoảng cô bé phải đứng lại chờ.</p>
+ <p>“Aizzz, đều là do bộ xương già này của ta làm liên lụy tiểu thư.”</p>
+ <p>“Bá bá đừng gấp, cứ nghỉ ngơi một chút trước đi, đến thị trấn phía trước có lẽ chúng ta có thể mướn được xe.”</p>
+ <p>Lão gia trong nhà bệnh tình trở nặng, tiểu thư kiên trì ở lại chăm sóc phụ thân không chịu đi, chờ đến khi tang sự xong xuôi đã chậm trễ rất nhiều thời gian, đã vậy trên đường đi xe ngựa lại gặp chuyện không may. Vốn hai người định sẽ mướn một chiếc xe ngựa khác, cũng không ngờ được trên đường tới Nam Hoa, bất luận là xe trâu hay xe ngựa ở ven đường đều bị người ta mướn hết cả rồi, vì vậy hai người càng thêm vội vã. </p>
+ <p>Ông lão thở dài: “Ngày hôm nay thật xui xẻo quá, nơi này phía trước không có thôn xóm, phía sau lại không có khách điếm, con mau đi trước đi, bá bá đi theo sau vậy.”</p>
+ <p>Cô bé an ủi: “Không sao đâu, ánh trăng đêm nay thật đẹp, chúng ta cứ từ từ mà đi vậy.”</p>
+ <p>Tuy nói như vậy, nhưng trong lòng cô bé rất sốt ruột, cha bé đã dặn dò trước khi mất, việc đi Nam Hoa bái sư nhất định phải làm được, nếu bỏ lỡ lúc này, sẽ phải đợi thêm năm năm nữa, khi đó cô bé đã hơn mười bốn tuổi, Tiên môn nhất định sẽ không thu nhận.</p>
+ <p>Vầng trăng sáng mới lên, trên bầu trời đen thăm thẳm có vài đám mây mỏng manh đang lững lờ trôi.</p>
+ <p>Núi hoang đường lại nhỏ, cỏ dại mọc rậm rạp, côn trùng đêm kêu râm ran, một luồng khí đen nồng đậm yên lặng bay tới.</p>
+ <p>Cô bé đỡ ông lão, thật cẩn thận đi về phía trước.</p>
+ <p>Ông lão phát hiện hình như không khí xung quanh có gì đó không ổn, cảnh giác nhìn rừng cây phía bên đường: “Dường như có cái gì đó đang đi theo chúng ta.”</p>
+ <p>Cô bé hoảng sợ: “Bá bá đừng dọa con.”</p>
+ <p>Không phải là dã thú hay sơn tặc chứ? Ông lão hồi hộp, dừng bước chân lại xem xét cẩn thận, đúng lúc này, ở phía trước đột nhiên nổi lên một trận yêu phong, ở giữa luồng khí hỗn loạn đó hiện ra một luồng khí màu đen, từ từ hợp thành hình người, giương nanh múa vuốt hướng về phía hai người mà tấn công.</p>
+ <p>Cô bé bị dọa chết khiếp “A” một tiếng: “Đây là cái gì!”</p>
+ <p>Ông lão rốt cuộc vẫn hiểu biết rộng rãi hơn cô bé, run giọng nói: “Yêu quái! Là yêu ma! Chạy mau!”</p>
+ <p>Con người nhỏ bé dù có muốn trốn nhưng làm sao mà thoát khỏi được bàn tay yêu ma chứ? Yêu ma trong chớp mắt liền nhào đến trước mặt, cười lớn một cách man rợ, đồng thời xộc vào mũi hai người là mùi máu tươi nồng nặc.</p>
+ <p>Ông lão lập tức đưa cánh tay đẩy cô bé ra sau lưng che chở: “Tiểu thư đi mau đi!”</p>
+ <p>“Bá bá.”</p>
+ <p>“Bá bá không sợ, con mau đi đi!”</p>
+ <p>Chưa bao giờ trải qua tình cảnh thế này cô bé sợ đến run lên, nhưng cô bé cũng biết rằng lúc này không nên bỏ chạy thoát thân một mình, cô bé nhìn thấy yêu ma đang vung những móng vuốt sắc nhọn của nó về phía ông lão, trong lòng tuyệt vọng vô cùng, bỗng nhiên có một luồng sáng xanh từ sau lưng cô bé thoáng hiện lên.</p>
+ <p>Ánh sáng màu xanh vô cùng đẹp đẽ, trong trẻo nhưng lạnh lùng, mờ ảo, so với bầu trời sau cơn mưa còn trong sáng hơn.</p>
+ <p>Có tiếng kêu thảm thiết vang lên, luồng khí đen dần dần tan đi, dưới đất chỉ còn lại một vũng máu đen.</p>
+ <p>Cô bé kinh ngạc, xoay người lại nhìn.</p>
+ <p>Dịu dàng, tinh khôi như quầng sáng bao quanh mặt trăng, hiện ra giữa không trung trên con đường lớn trước mặt là một người thanh niên áo trắng đang ngự kiếm bay đến, giống như một vị Tiên nhân hạ phàm vào đêm trăng rằm.</p>
+ <p>Đôi mày dài như kiếm, đôi mắt trong sáng như làn nước hồ thu, khuôn mặt lạnh lùng dưới ánh sáng xanh trong suốt của thanh kiếm chiếu rọi hiện lên nét khôi ngô oai hùng. Người đó đáp xuống mặt đất không hề gây ra một chút tiếng động, giọng nói có chút trầm thấp, rất thu hút: “Nơi đây sao lại xuất hiện Huyết ma làm loạn thế này?”</p>
+ <p>Ông lão là người hoàn hồn trước, kéo cô bé quỳ xuống, nói lời tạ ơn.</p>
+ <p>Người thanh niên áo trắng đưa một tay ra, đỡ ông lão đứng lên: “Đi tiếp hai dặm có một thôn nhỏ, hai người có thể tìm chỗ trọ ở đó.”</p>
+ <p>Khi người đó và bá bá nói chuyện, cô bé im lặng đứng ở một bên âm thầm đánh giá y, trong lòng thầm nghĩ: ‘pháp thuật cao minh như vậy, không nghỉ ngờ gì nữa, đây chắc chắn là người trong Tiên môn rồi’. </p>
+ <p>Thường ngày cô bé ít đi ra ngoài, chỉ thường nghe cha bé kể lại những chuyện về tiên nhân, cứ ngỡ rằng Tiên thì ai cũng già cả rồi, quả là kiến thức quá hạn hẹp.</p>
+ <p>Tầm mắt cô bé rơi xuống thanh kiếm, cô bé càng thêm giật mình.</p>
+ <p>Tua kiếm ba màu?</p>
+ <p>Người thanh niên áo trắng dường như đã nhận ta cô bé nhìn mình, y nghiêng mặt đưa mắt sang nhìn cô bé.</p>
+ <p>Không thể tưởng tượng được y lại thận trọng như vậy, cô bé cuống quít thu hồi tầm mắt, cúi đầu xuống.</p>
+ <p>“Nơi này Ma tộc thường hay lui tới, ban đêm không nên đi lung tung.”</p>
+ <p>“Không dối gạt gì Tiên trưởng, lão bộc vâng theo di mệnh (*) lão gia đưa tiểu thư nhà lão lên Nam Hoa tiên sơn bái sư, nhưng không mướn được xe, không còn cách nào nên mới phải chạy đi suốt đêm, làm sao nghĩ tới sẽ gặp phải yêu ma ở đây.” Ông lão lau nước mắt “May mắn có Tiên trưởng cứu mạng, bằng không lão có chết, cũng không có mặt mũi nào gặp lại lão gia.”</p>
+ <p><i>* Di mệnh: lời dặn dò, trăn trối của người ta trước lúc mất. </i></p>
+ <p>Người thanh niên áo trắng nhíu mày: “Đến Nam Hoa sao?”</p>
+ <p>Tua kiếm ba màu, nghe nói đó là dấu hiệu đệ tử thân truyền của chưởng môn, cô bé vốn đang hoài nghi, thấy y như vậy, trong lòng càng xác định chắc chắn, bèn thi lễ hỏi thử: “Không biết đại danh của Tiên trưởng là gì, tôn sư của Tiên trưởng phải chăng là chưởng giáo?”</p>
+ <p>Tuổi còn nhỏ mà lại nói chuyện khôn khéo như người trưởng thành, nữ tử con nhà quyền quý xưa nay đều vậy, không có gì lạ cả. Nhưng không thể nghĩ tới cô bé này lại tỉ mỉ đến vậy, người thanh niên áo trắng có chút bất ngờ: “Tần Kha ở Nam Hoa, là đệ tử của chưởng giáo ở Ngọc Thần Phong.”</p>
+ <p>“Thì ra là Tần Tiên trưởng!” Cô bé vừa mừng vừa sợ.</p>
+ <p>Vị Tiên trưởng Tần Kha này vốn là Thế tử của Yến vương, sau này bái nhập Tiên môn, trở thành đệ tử quan môn (*) của Ngu chưởng giáo, là đệ tử nổi danh nhất Tiên môn. Hai năm trước vâng mệnh tiến vào Hoàng cung diệt trừ yêu hồ đang gây họa nhân gian, có công lớn với xã tắc, vì thế Hoàng Thượng còn phải tự mình đến Nam Hoa cảm ơn và ban thưởng cho y, việc này càng làm cho danh tiếng của y vang xa khắp nhân gian, không ai không biết tới!</p>
+ <p>Cô bé vẫn còn đang kinh ngạc và vui mừng, Tần Kha lại thản nhiên nói: “Từ đây tới Nam Hoa còn hơn trăm dặm nữa, phía trước còn có thể gặp phải yêu ma, nguy hiểm vô cùng, hai người nên trở về đi.”</p>
+ <p>Ông lão bắt đầu có ý do dự.</p>
+ <p>Cô bé lắc đầu nói: “Đa tạ ý tốt của Tần Tiên trưởng, nhưng dù lần sau có gặp nguy hiểm nữa, con cũng nhất định phải tới Nam Hoa.”</p>
+ <p>Tần Kha vốn chỉ là buột miệng khuyên cô bé, nghe cô bé nói vậy vẻ mặt có chút tán thưởng, từ tua kiếm ba màu y rút ra một sợi tua đưa cho cô bé: “Người đến Nam Hoa bái sư mà phải mất mạng, nếu Tiên môn biết được lại càng thêm hổ thẹn. Lão bộc tuổi đã già không thể nào chạy gấp trên đường được, e rằng lúc đến Nam Hoa không còn kịp nữa rồi. Ta còn có chuyện quan trọng phải làm, con còn nhỏ mà lại có lòng can đảm như vậy, nếu con không ngại thì hãy đi trước đi, con hãy giữ sợi tua này trên người, chắc chắn là có thể bình an.”</p>
+ <p>Ông lão mừng rỡ: “Mau đa tạ Tiên trưởng đi!”</p>
+ <p>Cô bé chần chờ: “Bá bá, sao con có thể bỏ người lại được?”</p>
+ <p>Ông lão cười nói: “Bá bá đã già như vậy rồi còn sợ gì chứ, lão đã sớm có ý này, chỉ là lo lắng con còn nhỏ, đi một mình sợ sẽ xảy ra chuyện, nay đã được Tiên trưởng đưa bùa hộ mệnh, con cứ an tâm.”</p>
+ <p>Cuối cùng thì di mệnh của cha mẹ quan trọng hơn, cô bé tiếp nhận sợi tua kiếm, nhỏ giọng nói cám ơn.</p>
+ <p>Tần Kha cũng không gì thêm nữa, ngự kiếm rời đi.</p>
+ <p>Nhìn theo bóng y biến mất, cô bé ngơ ngác nhìn hồi lâu, cúi đầu: “Bá bá, nếu như các vị Tiên trưởng Nam Hoa không chịu thu nhận con, con phải đi đâu đây?”</p>
+ <p>Gia sản nhà cô bé đều bị thúc bá chiếm mất, ông lão cũng thấy bi thương, an ủi cô bé: “Tiểu thư ngày thường thông minh, hay đọc sách lại biết chữ, hiểu biết lễ nghĩa, làm sao lại không được chọn kia chứ, hay là chúng ta cứ đi trước đã, đến thôn đằng trước rồi nói sau.”</p>
+ <p>…………</p>
+ <p>Việc trọng đại năm năm một lần cuối cùng đã tới, kết giới được thu hồi, ngọn núi tiên Nam Hoa vươn cao thẳng đứng giữa những đám mây, nguy nga đồ sộ. Trên đỉnh núi cao nhất có một vầng mặt trời đỏ bao quanh, sáng cả vạn trượng, cùng với tiếng chuông ngân nga, dù cách xa ngàn dặm cũng có thể nghe thấy.</p>
+ <p>Bên ngoài cửa thông vào Tiên giới, trên đường xe ngựa vô cùng đông đúc, khiến cho đường sá bị tắc nghẽn, vô số người đôi chân dù đã bị phồng rộp lên cũng cố mà chạy đến đây, ít nhiều cũng lộ ra vẻ khẩn trương lo lắng, bên cạnh còn có một người thợ rèn giản dị đang bày hàng, âm thanh của chiếc búa gõ vào thanh sắt vang lên “keng keng”, bên ngoài giá treo mấy thanh kiếm sắt thô ráp đơn sơ đã hoàn thành.</p>
+ <p>Một chiếc xe ngựa đẹp đẽ, quý giá, thu hút ánh mắt của mọi người, hơn cả trăm người lẫn ngựa hộ tống theo xe, thị vệ đi đầu vênh váo tự đắc, thỉnh thoảng hét to xua đuổi những người đến gần.</p>
+ <p>“Thật sự là Cửu công chúa sao?”</p>
+ <p>“Thánh chỉ có nói, muốn Cửu công chúa bái nhập Tiên môn, xem khí thế như thế này, không phải là công chúa thì còn là ai nữa.”</p>
+ <p>“Thật à?”</p>
+ <p>Hoàng thất không ai có thể đắc tội, mọi người tự giác lui ra xa, len lén bàn luận. Thì ra từ lúc xảy ra chuyện yêu hồ làm loạn tại hoàng cung, triều đình bắt đầu coi trọng việc này vô cùng, đối với Tiên môn càng thêm tôn sùng mà đến, đương kim Hoàng thượng còn đưa vị công chúa yêu quý nhất của mình tới Nam Hoa bái sư.”</p>
+ <p>“Dù nhìn thấy hay nghe thấy bất cứ điều gì cũng đều là giả hết, là Tiên trưởng khảo nghiệm các con thôi, nhớ kỹ chưa?”</p>
+ <p>“Dạ biết rồi ạ.”</p>
+ <p>Dù sao người tới đây lần này rất nhiều, muốn bái được sư phụ danh tiếng thật không phải là chuyện dễ, những người lớn người nhà của mấy những đứa trẻ cứ dặn đi dặn lại, nhưng bọn nhóc nghe được thì cứ bĩu môi.</p>
+ <p>Giờ đã đến, mặt đất rung chuyển, cửa đá biến mất, ở trước mặt hiện ra một khu rừng bí mật sâu thăm thẳm.Cách nơi đó khoảng mười dặm, một cô bé con ôm một cái chén bể đang hớt hải chạy đi, trên khuôn mặt nhỏ nhắn lộ ra đầy bụi đường và mồ hôi, cả khuôn mặt lem luốc chỗ đen chỗ trắng, ngay cả ngũ quan cũng khó có thể nhìn ra. Bởi vì ngay ngày đầu tiên lên đường cô bé đã gặp bọn cướp làm khó dễ, may mắn có tua kiếm của Tần Kha hộ thân, vì muốn tránh việc bị người khác chú ý, cô bé mới nghĩ ra biện pháp này, giả làm đứa bé ăn mày, vì không có ai lại ngốc tới nỗi có ý định nhắm vào một kẻ ăn mày cả.</p>
+ <p>Đáng lẽ là không muộn, nhưng không biết vì sao, mấy ngày nay vận khí của cô bé hình như không được tốt lắm, trên đường đi bị người khác lừa gạt cố tình trêu chọc mấy lần, rõ ràng là phải đi hướng đông, khi hỏi đường lại bị người ta chỉ đi hướng tây, làm cô bé chạy mất mấy quãng đường oan uổng.</p>
+ <p>Hôm nay là ngày Tiên môn Nam Hoa mở rộng, không thể bỏ qua, nếu không thì công sức vội vàng chạy đi mấy ngày nay đều uổng phí mất.</p>
+ <p>Ở con đường phía trước có một người đang đứng.</p>
+ <p>Đó là một nam nhân, dáng người cao ráo, khoác một chiếc áo choàng đen rộng thùng thình, vạt áo kéo dài trên mặt đất, nhưng không phải là người mập mạp, ngược lại dáng người thon thả đẹp mắt.</p>
+ <p>Không phải là nông phu trong thôn, sao y lại một mình đứng ở nơi hoang vắng này, cũng không thấy xe ngựa? Cô bé cảnh giác, theo bản năng muốn tránh xa ra, nhưng xung quanh không hề thấy người nào nữa để hỏi đường, cô bé đành bưng chiếc chén bể đến gần hỏi thử: “Lão Tiên sinh?”</p>
+ <p>Người đó xoay người lại.</p>
+ <p>Cô bé không nhịn được lùi lại từng bước.</p>
+ <p>Người này nhìn còn rất trẻ, nhưng trang phục thì thật sự là… không giống như người thường, cả người y đều bị che phủ bởi áo choàng đen, hơn nửa khuôn mặt bị che khuất, chỉ lộ ra một chiếc cằm nhọn tao nhã, đường cong vô cùng đẹp, như được tạc từ ngọc, sắc da tái nhợt như là đã lâu không thấy ánh mặt trời, lộ ra một hương vị âm u tà khí.</p>
+ <p>Chiếc mũ che kéo xuống rất thấp, không thể nhìn được ánh mắt của y, nhưng cô bé có một loại cảm giác mãnh liệt như mình đang bị nhìn chằm chằm, làm cho cô bé cảm thấy không thoải mái, muốn nhanh chóng chấm dứt cuộc trò chuyện này, vì thế kiên trì nói: “Công tử…”</p>
+ <p>“Ta không có tiền.” Con người cổ quái, đến cả giọng nói cũng cổ quái.</p>
+ <p>Cô bé liền phản ứng lại, xấu hổ vứt cái chén bể xuống: “Ta không hỏi cái này.”</p>
+ <p>Y tựa hồ như cũng nhẹ nhàng thở ra: “Thì ra không phải ngươi tới xin tiền?”</p>
+ <p>Qua việc hiểu lầm này, cô bé ngược lại không còn sợ y nữa, cố nén cười: “Công tử có biết đường lên Nam Hoa đi thế nào không?”</p>
+ <p>“Biết.” Y nâng cằm lên, chỉ chỉ về phía hai con đường ở trước mặt, trên người y có một loại khí chất vương giả rất đặc biệt: “Bên trái là Nam Hoa, bên phải là Sơn Dương.”</p>
+ <p>Cô bé nói lời cảm ơn theo quy củ, xoay người liền đi về phía bên phải, người thanh niên kia cũng không hỏi gì cả.</p>
+ <p>Ước chừng nửa canh giờ sau, cô bé lại hổn hển theo đường cũ mà trở lại. Thì ra vì nhiều lần trước bị người khác trêu chọc, nên lần này cô bé đặc biệt rút kinh nghiệm, thông minh hơn, cố ý đi theo hướng ngược lại mà người kia chỉ, ai dè người kia lại không lừa bé, bên phải quả nhiên là đi đến Sơn Dương, có thể nói cô bé lần này là khéo quá hóa vụng.</p>
+ <p>Người thanh niên mặc áo choàng đen vẫn còn đứng tại chỗ cũ, không hề nhúc nhích, giống như một tảng đá vậy. Nếu không phải bây giờ đang là ban ngày, chỉ sợ người qua đường sẽ tưởng y là một tảng đá lớn mất thôi.</p>
+ <p>Y hình như có chút nghi ngờ: “Ta nhớ rõ, hình như ngươi muốn đi Nam Hoa mà?”</p>
+ <p>Thông minh lại bị thông minh hại, cô bé xấu hổ, đỏ mặt chống chế: “Mới vừa rồi là ta nghe lầm.”</p>
+ <p>Y không hoài nghi gì: “Đi tới Nam Hoa bái sư sao?”</p>
+ <p>“Dạ.” </p>
+ <p>“Ta cũng tiện đường đi tới Nam Hoa.”</p>
+ <p>Cô bé “Vâng” một tiếng, không hề nhiều lời, bước nhanh về phía trước.</p>
+ <p>Người thanh niên kia cũng không nói nhiều, thậm chí cũng chả buồn hỏi tên hay lai lịch của cô bé. Bất luận bé đi nhanh hay chậm, y trước sau vẫn luôn đi bên cạnh cô bé, dáng đi nhàn nhã như đang du sơn ngoạn thủy.</p>
+ <p>Cô bé vụng trộm nhìn y vài lần, cuối cùng tầm mắt dừng lại nơi chiếc nhẫn được làm bằng một viên ngọc trong suốt màu tím cực lớn trên tay y, nhất thời trong lòng rung động, đầu óc bắt đầu hoảng hốt, nhẫn ngọc trong suốt tỏa ra ánh sáng lung linh mê hoặc lòng người, giống như một hang động tối tăm rộng lớn, ý chí của cô bé như bị hút hết vào trong đó.</p>
+ <p>Cho đến khi cánh tay tái nhợt kia rút vào trong áo choàng, cô bé mới lấy lại được tinh thần, trong lòng biết là đã bị y phát hiện, nên ngượng ngùng tìm chuyện để nói: “Cho hỏi cao danh quý tánh của công tử là gì?”</p>
+ <p>“Vong Nguyệt.”</p>
+ <p>“Hả?”</p>
+ <p>Người thanh niên kia còn thật thà giải thích: “Vong trong tử vong, nguyệt là ánh trăng.”</p>
+ <p>Cái tên này thật kỳ quái, cô bé dối lòng nói: “Tên của công tử…thật dễ nghe”</p>
+ <p>“Đa tạ bé con đã khích lệ” Vong Nguyệt cười nói: “Đã nghĩ tới bái ai làm sư phụ chưa?”</p>
+ <p>Cô bé lặng lẽ nắm chặt sợi tua kiếm, ngại ngùng cất lời: “Các vị Tiên trưởng Nam Hoa có thu nhận ta hay không, ta còn chưa biết, làm sao dám vọng tưởng này nọ, chỉ sợ là bây giờ đến thì đã muộn rồi.”</p>
+ <p>Vong Nguyệt “Ừ” một tiếng thật dài: “Tới muộn mới tốt, ngươi sẽ tìm được một vị sư phụ tốt thôi.”</p>
+ <p>Cô bé thấy y an ủi mình như thế, hé miệng cười.</p>
+ <p>Từ đó hai người không nói gì, chỉ yên lặng bước đi, đi tới phía trước khoảng một canh giờ thì mặt trời đã lên cao, ngày đã sang trưa, bóng dáng của Nam Hoa tiên sơn đang thấp thoáng sau những đám mây xa xa.</p>
+ <p>Thật sự là tiên sơn, cô bé mừng rỡ: “Ta đến được đây rồi!”</p>
+ <p>Xoay mặt nhìn lại, chẳng biết từ khi nào bên cạnh đã trống không, không một bóng người.</p>
+ <p>…………</p>
+ <p>Bọn nhóc xuất phát đã lâu, trên đường lớn dưới chân núi xe ngựa xe lừa đã giảm mất gần một nửa. Nam Hoa tuyển chọn đồ đệ rất nghiêm khắc, ven đường đã thiết lập rất nhiều cửa ải khó khăn để khảo nghiệm, rất nhiều đứa trẻ nhát gan đi được nửa đường đều sợ hãi quay về, những người lớn không còn cách nào khác đành phải lục tục mang theo chúng quay trở về, chạy đến Thanh Hoa tiếp tục tìm chỗ chờ đợi. Còn những người khác thì vẻ mặt có chút hồi hộp lẫn đắc ý, ngẫu nhiên có một hai đứa nhóc trở về, lập tức lại vang lên những tiếng thở dài và trách mắng.</p>
+ <p>Từ rất xa, một cô bé con từ trên đường lớn chạy tới, vì cúi đầu nên không thể thấy rõ mặt, lại lặng yên và vội vã tiến đến, nên mọi người không ai chú ý tới cô bé.</p>
+ <p>Mới vừa rồi ở ven suối cô bé đã rửa sơ qua cả người rồi, trên tay trên mặt đều đã sạch sẽ, cô bé cố sức len lỏi vào trong đám người, thở hổn hển. May mắn là mình đã đuổi tới nơi kịp lúc, đồng thời trong lòng cũng âm thầm tính toán.</p>
+ <p>Các vị Tiên tôn này pháp lực vô biên, lại có tâm khảo nghiệm, nhất cử nhất động đều không tránh khỏi mắt bọn họ, phải thật cẩn thận từng bước mới được.</p>
+ <p>Không biết Tần Tiên trưởng có trở về không, người có thu nhận đồ đệ không?</p>
+ <p>Bất luận là ai, cũng hy vọng bái được một vị sư phụ có danh có tiếng, cô bé cũng không ngoại lệ, đã có sự chuẩn bị trong lòng. Cô bé đã sớm hỏi thăm qua bốn vị Tiên tôn, vị Tiên tôn ở Tử Trúc Phong nổi danh nhất, nhưng người không thu nhận đồ đệ, cô bé không dám vọng tưởng gì nữa; đệ tử của Ngu Chưởng giáo rất có tiền đồ, nhưng mà từ sau khi thu nhận Tần Kha, người liền không nhận ai nữa; Thiên Cơ Tôn giả dễ nói chuyện nhất, bái nhập làm môn hạ của người là dễ dàng nhất, nhưng đáng tiếc thời buổi loạn lạc, kĩ thuật chiêm tinh, tiên đoán cũng không có tác dụng gì lớn, huống chi nghe nói người đối đãi với đệ tử tùy hứng, thật không phải là chuyện tốt.</p>
+ <p>Nghĩ mãi, chỉ còn duy nhất một người là Đốc giáo nổi tiếng nghiêm khắc Mẫn Tiên tôn, các đệ tử trong môn hạ của Đốc giáo có rất nhiều người nổi danh, như thủ tọa đệ tử Mộ Ngọc Tiên trưởng. Người ta thường nói nghiêm sư xuất cao đồ (*), nếu có thể bái người làm thầy, như vậy cha mẹ ở nơi Cửu Tuyền cũng có thể mỉm cười.</p>
+ <p><i>* Nghiêm sư xuất cao đồ: sư phụ nghiêm khắc mới có được đệ tử giỏi giang. </i></p>
+ <p>Vị Tiên tôn này thân là Đốc giáo, chấp chưởng các quy định, hình phạt của môn phái, cho nên nhất định tính tình rất nghiêm khắc, rất chú trọng đến phẩm hạnh, chắc chắn sẽ thích người khiêm tốn chững chạc. Để lần này có thể lọt vào mắt người, tất nhiên cô bé càng phải thêm quy củ lễ nghĩa nhiều hơn so với người khác, vì thế không thể liều lĩnh hồ đồ được.</p>
+ <p>Cô bé nhìn sợi tua kiếm trong tay, trong lòng cũng không dám hy vọng nhiều.</p>
+ <p>Có lẽ Tần Tiên trưởng đã trở về, nếu người lúc trước đã chủ động ra tay giúp đỡ, có thể thấy được ấn tượng của người với bản thân mình cũng không tệ, nếu Mẫn Tiên tôn lẫn các vị tiên tôn khác đều không chịu thu nhận mình, người có chịu thu mình làm đồ đệ không?</p>
+ <p>Cô bé sửa lại quần áo, cũng điều chỉnh suy nghĩ của mình lại cho thật tốt, cất bước ra khỏi đám người, dưới vô số ánh mắt nhìn chăm chú vào mình, cô bé không nhanh không chậm bước về phía khu rừng ở phía trước.</p>
+ <p>Cách đó không xa, có một bóng đen đứng ở bên cạnh một tảng đá lớn, dường như tất cả mọi người xung quanh không ai nhìn thấy y.</p>
+ <p>Áo choàng đen hạ xuống, khóe môi cong lên thành một nụ cười.</p>
+ <p>“Đã trở lại rồi.”</p>
+ <p>……………</p>
+ <p>Nam Hoa là ngọn núi cao nhất, mấy ngàn đệ tử tay cầm pháp khí đứng thẳng ở hai bên con đường lớn, cảnh tượng hùng vĩ, không khí trang nghiêm. Trong Lục Hợp điện, trên thềm ngọc cao cao, ba vị Tiên tôn sóng vai mà ngồi, đó là Chưởng giáo Ngu Độ, Đốc giáo Mẫn Vân Trung, Thiên cơ Tôn giả Hành Huyền. Dưới thềm ngọc là mấy chục đại đệ tử danh tiếng nghiêm nghị đứng thẳng ở hai bên, không gian lặng ngắt như tờ.</p>
+ <p>Hành Huyền Tôn giả tay cầm sách Thiên Cơ, đảo mắt nhìn xung quanh, hỏi: “Thằng bé Tần Kha sao không có ở đây?”</p>
+ <p>Ngu Độ nói: “Hôm trước có tin Khốc Sát Yêu của Cửu U Ma cung ở Trần Châu làm loạn, ta đã sai nó đi điều tra rõ ràng chuyện này rồi.”</p>
+ <p>Hành Huyền nói: “Thằng bé đó có thể thu nhận đệ tử được rồi.”</p>
+ <p>Ngu Độ cười nói: “Nó thật sự rất ngang bướng, ý của nó là vẫn còn muốn bình tâm tu hành thêm vài năm nữa.” Đồ đệ nhập môn mới hai mươi năm vẫn còn nhiều thời gian, dốc lòng hết sức tu hành là chuyện tốt.</p>
+ <p>Hành Huyền giận dữ: “Từ khi Chưởng giáo sư huynh thu được đệ tử quan môn, mấy năm nay không có người cùng với sư thúc và ta tranh đồ đệ, ngược lại ta cảm thấy mất đi rất nhiều điều thú vị.”</p>
+ <p>Lời này nói ra, đến cả Mẫn Vân Trung cũng không nhịn được mà cong khóe miệng, sau đó lại nhìn vị trí chiếc ghế trống không bên cạnh, nhíu mày: “Thuật pháp dù cao tới đâu, không có đệ tử truyền lại cũng chỉ vô ích mà thôi, Âm Phàm lại đi ra ngoài rồi sao?”</p>
+ <p>Ngu Độ nói: “Đệ ấy đã đi Thanh Hoa, chỉ sợ sẽ không trở về.”</p>
+ <p>Từ khi Lạc Âm Phàm thành danh, thuật pháp tại Tử Trúc Phong liền được Tiên môn công nhận là thuật pháp tuyệt diệu nhất, hai người khó tránh khỏi lo lắng việc không có đệ tử nối nghiệp của hắn, thế nhưng Lạc Âm Phàm không hề nhắc tới chuyện này, nên ai cũng không tiện mở miệng.</p>
+ <p>Kỳ thật không chỉ có mình bọn họ lo lắng, trên dưới Nam Hoa dường như đều đã nhận ra, mấy năm nay, Trọng Hoa Tôn giả ngoài việc giải quyết chính sự thì rất ít khi mở miệng nói chuyện, hoặc là bế quan tu luyện, hoặc là thường xuyên đi ra ngoài, hành tung bất định, rất ít khi ở lại Tử Trúc Phong. Hắn lại lạnh lùng như trước kia, nhưng ít nhất ngày xưa còn có chút hơi ấm của con người, hiện tại thì hoàn toàn không có, vô cùng lạnh lùng, giống như một vị thần cao cao tại thượng, vô tâm vô tình, không ai có thể tới gần.</p>
+ <p>Mẫn Vân Trung: “Con là sư huynh, những điều nên khuyên thì nhất định phải khuyên, không thể cứ để mặc nó tiếp tục như vậy được.”</p>
+ <p>Ngu Độ cười khổ: “Sư thúc cũng đã biết rồi đó, lẽ nào con lại không muốn khuyên bảo hắn sao?”</p>
+ <p>Mẫn Vân Trung không nói gì thêm, Hành Huyền ngồi bên cạnh vuốt vuốt chòm râu, đôi mắt chăm chú nhìn vào sách Thiên cơ, dường như lão muốn nói gì, nhưng lại thôi.</p>
+ <p>Mộ Ngọc tiến vào bẩm báo: “Các tân đệ tử đã đến đông đủ cả rồi ạ!”</p>
+ <p>“Gọi bọn trẻ vào đi.” Ngu Độ dừng đề tài đang nói: “Lúc này trong số các tân đệ tử, có một đứa rất đặc biệt, tư chất tốt vô cùng, chỉ là tính tình có chút khó bảo, cần phải được giáo huấn nhiều hơn nữa.”</p>
+ <p>…………</p>
+ <p>Không đề cập đến bên trong các vị Tiên tôn đang bàn bạc thảo luận, bên này cô bé cũng bước từng bước thật cẩn thận vượt qua biển mây, Răn khổng lồ ở phía sau vừa biến mất, trước mặt lại có vách núi cản đường, ngọn núi cao đến vạn trượng hiểm trở vô cùng bỗng nhiên từ mặt đất mọc lên, giống như chặn kín con đường phía trước che mất ánh sáng mặt trời làm người ta sợ hãi, có vô số loài dây leo buông xuống từ vách đá, ngẩng mặt nhìn lên phía đầu sợi dây, chính là đỉnh núi của ngọn tiên sơn hùng vĩ này.</p>
+ <p>Đã đi đến tận đây, tuy rằng cô bé đã sớm biết các Tiên tôn thiết lập cửa ải rất khó khăn, nhưng tận mắt nhìn thấy thế này, cô bé cũng không khỏi hồi hộp lẫn khiếp đảm.</p>
+ <p>Vách núi đen này cao như vậy, có thể đủ sức leo lên tới đỉnh không? Nếu ngã xuống dưới, chắc chắn sẽ thịt nát xương tan!</p>
+ <p>Cô bé nghiêm lại khuôn mặt trắng bệch nhìn một hồi lâu, rốt cuộc cũng vượt qua nỗi sợ hãi, cắn răng, nắm lấy sợi dây leo trông có vẻ cứng cáp nhất mà leo lên trên. Nhưng vách núi đen này có chút kì lạ, càng leo lên cao lại càng dễ dàng, hơn nữa bé lại phát hiện ra trong lòng sợ hãi càng giảm thì sức lực càng nhiều, tốc độ lại càng nhanh, đến cuối cùng hình như sợi dây có sự sống, cuốn luôn cô bé lên trên.</p>
+ <p>Quả nhiên là thiết kế của các Tiên tôn! Cô bé đang vui sướng vô cùng, bỗng nhiên sợi dây bên hông đứt ra!</p>
+ <p>Thân thể nhỏ bé, rơi thẳng xuống vách núi.</p>
+ <p>Nhất định sẽ ngã chết thôi! Sao lại xảy ra chuyện bất ngờ thế này! Cô bé hoảng hốt la lớn.</p>
+ <p>Thì ra là chiếu theo quy củ, nếu qua được khảo nghiệm mà lên được Tiên sơn thì tất cả các Tân đệ tử đều có thể ở lại. Qua mấy ngày thì Tiên môn sẽ phái đệ tử truyền tin cho gia đình, tường thuật tỉ mỉ lại đứa trẻ nào đã bái nhập làm môn hạ của ai. Vì thế Ngu Độ thấy bọn nhóc đã đến đủ rồi, bèn thu hồi thuật pháp, làm sao có thể nghĩ được vẫn còn lại một đứa bé lạc ở phía sau.</p>
+ <p>Ở phía sau này, cô bé không bị ngã chết, cũng không có sự đau đớn như trong tưởng tượng, cô bé ngạc nhiên, sợ hãi đứng lên thì thấy, không hề có vách núi đen nào cả, chẳng qua chỉ đơn giản là một tảng đá lớn cao khoảng một trượng.</p>
+ <p>Ở phía sau biển mây mờ mịt đã hoàn toàn biến mất, xung quanh hiện ra bóng dáng của cây cối, thì ra nãy giờ cô bé vẫn ở trong khu rừng này.</p>
+ <p>Cô bé vội vàng ngước mặt nhìn lên, quả nhiên là không còn nhìn thấy Tiên sơn đâu nữa.</p>
+ <p>Là do lúc trước đi lầm đường, nên đã tới chậm rồi sao?</p>
+ <p>Mơ hồ đoán biết được lý do, cô bé gấp gáp đến độ quỳ hai gối xuống.</p>
+ <p>Người ta thường nói chỉ cần có lòng thành cầu xin thì sẽ linh ứng, cô bé đáng thương ngửa mặt lên trời cầu xin, để cho Tiên tôn Chưởng giáo có thể nhìn thấy, bé không thể cứ thế này mà trở về, hơn nữa cô bé cũng đã không còn chỗ nào để đi. Bá bá chịu nhiều khổ sở như vậy không thể để người phải phí công vô ích, còn cha mẹ bé ở dưới suối vàng cũng sẽ thất vọng lắm đây. Cho dù cô bé đợi được năm năm nữa, lúc đó tuổi cũng đã lớn, các vị Tiên trưởng kia nhất định sẽ không thu nhận mình, không thể hoàn thành di mệnh của phụ thân, không phải là bất hiếu rồi sao?</p>
+ <p>Đã qua buổi trưa, xung quanh cũng không hề có tiếng động nào, cô bé càng sốt ruột hơn, không thể tưởng tượng được thuật pháp lại biến mất như vậy, cô bé lo lắng đến mức rơi nước mắt.</p>
+ <p>Núi rừng yên tĩnh, chỉ còn lại tiếng chim hót.</p>
+ <p>Thình lình cô bé chợt thấy có cảm giác quen thuộc, khiến lòng người không yên, tâm không hiểu vì sao lại run run, không thể nói rõ được. Từ lúc sinh ra tới giờ, chưa bao giờ bé lại có loại cảm giác thế này, là thích, nhưng lại có chút sợ hãi.</p>
+ <p>Là ai? Cô bé dần dần ngừng khóc, chậm rãi ngẩng mặt lên.</p>
+ <p>Ở phía trước, cách chỗ cô bé khoảng hai trượng, dưới tán một cây cổ tùng uốn lượn, một vị thần tiên rất trẻ đứng yên nơi đó, không hề nhúc nhích, như đã đứng ở đó từ rất lâu rồi.</p>
+ <p> </p> 
+</div>

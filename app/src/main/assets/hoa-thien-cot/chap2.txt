@@ -1,0 +1,389 @@
+<div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
+ <p> Hai kẻ gà mờ đi quanh khu rừng mấy lần nhưng vẫn không thể ra được. Mặt trời đã khuất núi, khắp nơi đều yên tĩnh.</p>
+ <p>Hoa Thiên Cốt bối rối: “Ngươi đừng để ý tới ta nữa! Tự mình tìm đường đi, cứ thẳng hướng Bắc là có thể ra khỏi rừng. Ở cạnh ta, có đi thêm mấy vòng nữa cũng không ra được.”</p>
+ <p>Nàng nghĩ mình lại bị quỷ ám, nếu Hiên Viên Lãng đi một mình có lẽ sẽ ra ngoài được.</p>
+ <p>“Ngươi thật ngốc, đây không phải ma quỷ mà là Thất Tinh mê trận do con rùa chết tiệt kia bố trí, bên ngoài không thể vào, mà bên trong cũng không thể ra. Đồ khốn khiếp đó muốn giam ta tới lúc chết đói, làm sư phụ không thể tìm thấy. Ta đã đánh nó bị thương, lại có long khí hộ thể nên con rùa đó chỉ có thể nghĩ cách khiến ta phải khổ sở. Ngươi cứ xem ta mà bắt được nó thì sẽ trả đũa thế nào!”</p>
+ <p>“Có cách gì phá trận pháp đó không?”</p>
+ <p>“Ta cũng không biết cách phá, trận pháp này có lẽ đồ khốn kia đã để mai rùa ở bên ngoài, trên đấy là các loại trận pháp của ngũ hành bát quái, biến hóa hàng ngàn hàng vạn kiểu. Thật ra nó cũng không có gì lợi hại, chỉ dựa vào mấy trận đồ quấy phá khắp nơi ấy mà. Nhưng sao ngươi lại vào được đây?”</p>
+ <p>“Ta nghe thấy tiếng kêu thảm thiết của ngươi nên xông vào.”</p>
+ <p>“Thảm thiết cái con khỉ!” Hiên Viên Lãng tức điên, đánh bốp một cái vào đầu Hoa Thiên Cốt, “Ta chỉ kêu thử một chút để xem sư phụ có nghe thấy không thôi.”</p>
+ <p>Hoa Thiên Cốt vô tội sờ cái đầu rối tung rối bù của mình, dáng vẻ bẩn bẩn này của nàng có lẽ thật sự cũng giống ăn mày đầu đường xó chợ.</p>
+ <p>“Người tên Dị Hủ Quân đưa cho ta một thứ, ngươi xem có phải nó mang ta vào không?” Hoa Thiên Cốt đưa Thiên Thủy Tích cho hắn xem.</p>
+ <p>Hiên Viên Lãng đặt Thiên Thủy Tích trong lòng bàn tay, giống như đang cầm một giọt lệ lạnh lẽo. Tơ máu bên trong từ từ xoay tròn, uốn lượn, phát ra ánh sáng như một vật thể sống.</p>
+ <p>“Mặc dù có pháp lực rất mạnh bên trong, nhưng sao ta chỉ cảm thấy nó là yêu vật nhỉ? Ngươi đi tìm Dị Hủ Quân làm gì? Truyền thuyết nói hắn chuyên ăn lưỡi người đã chết, tính tình giả dối, kỳ quặc lại thất thường, là quái vật không hơn không kém.”</p>
+ <p>“Không phải! Tuy ông ta có chút đáng sợ, nhưng kỳ thật rất tốt, luôn đối xử bình đẳng với những người gặp khó khăn cần giúp đỡ hay muốn biết chân tướng chuyện gì đấy. Ngươi trả thứ này lại cho ta để ta lên núi!”</p>
+ <p>“Mẹ kiếp! Nói như ngươi thì lão ta lấy việc giúp người làm niềm vui à?” Hiên Viên Lãng bất lực. Đã nhiều năm rồi, đối với hoàng cung đại nội mà nói, Dị Hủ các chính là một thế lực phản động còn khủng khiếp hơn cả yêu ma quỷ quái.</p>
+ <p>Bao án oan hành thích vua, bao tranh đấu lục đục, bao lần đổi trắng thay đen, ngay cả lịch sử cũng có thể bị sửa đổi, sự thật gì thiên tử cũng có thể một tay che trời. Nhưng Dị Hủ các, bởi vì có sự tồn tại của nó, không gì có thể hoàn toàn biến mất. Cho nên từ quan lại đến phi tần, từ thái giám tới cung nữ, chỉ biết ít nhiều chuyện quan trọng, lúc hạ táng đều bị phụ hoàng cho người tới cắt lưỡi.</p>
+ <p>Khi hắn còn bé, lúc kéo chân không cho phụ hoàng đến gần di thể của mẫu thân, người chỉ nói: “Bí mật sở dĩ gọi là bí mật, bởi vì không thể để cho người thứ ba biết. Lãng, đến lúc con đăng cơ, phụ hoàng đã chết đi rồi, cũng phải nhớ cắt lưỡi thiêu thành tro. Đây là gia huấn tổ tông đời đời truyền lại, đừng nên hỏi vì sao.”</p>
+ <p>Hắn không hiểu lắm, nhưng từ ngày ấy đã quyết định, đời này nhất định phải trở thành một nam nhi đầu đội trời chân đạp đất, tấm lòng trong sạch. Không có gì phải che giấu hay tránh né, sau khi chết cũng chẳng phải sợ kẻ nào tới cắt lưỡi mình.</p>
+ <p>Đã là bí mật, nhất định không phải chuyện gì tốt, cho nên hắn không cần!</p>
+ <p>Hoa Thiên Cốt hoàn toàn không để ý tới suy nghĩ rối rắm của hắn, chỉ lấy lại Thiên Thủy Tích rồi đeo lên cổ, lẩm bẩm: “Chẳng sao cả, cảm giác mách bảo ta ông ấy không phải là người xấu, sẽ không hại ta, bằng không ông ấy việc gì phải giúp ta.”</p>
+ <p>“Ngươi đã đưa gì cho ông ta?”</p>
+ <p>“Hả?”</p>
+ <p>“Ta hỏi ngươi đã đưa gì cho ông ta? Ông ta là loại người chỉ thích trục lợi.”</p>
+ <p>“Không gì cả, chỉ nói cho ông ấy biết tên và bát tự thôi.”</p>
+ <p>Hiên Viên Lãng chau mày, càng cảm thấy không ổn: “Sau này không được nói bát tự cho người khác, nếu gặp phải kẻ có tà thuật cao siêu, sẽ giết hoặc khống chế ngươi rất dễ dàng.”</p>
+ <p>“Ừm, ta biết rồi.” Hoa Thiên Cốt sờ bụng, đói quá, đi không nổi.</p>
+ <p>“Cho dù thế nào, ngươi lên được Mao Sơn thì hãy ném ngay thứ này đi, không nên mang theo, hiểu không?”</p>
+ <p>“Được, được, được…” Hoa Thiên Cốt bất đắc dĩ gật đầu, người này đúng là quen ra lệnh cho người khác.</p>
+ <p>“Dù sao cũng không ra được, hay là chúng ta nghỉ tạm ở nơi này một đêm đi, ta đói rồi.”</p>
+ <p>“Được, nhóm lửa trước đã, ngươi qua bên kia kiếm ít củi về đây. Ta đi xem có thỏ hoang hay gà rừng gì đó ăn được không.”</p>
+ <p>“Nhưng bên kia tối lắm, nhỡ có quỷ thì sẽ bị ăn thịt đấy…” Hoa Thiên Cốt do dự, nàng sợ bóng tối nhất, đêm đến không bao giờ dám chạy lung tung.</p>
+ <p>“Nói hươu nói vượn, quỷ chứ có phải là yêu quái đâu, ăn thịt ngươi làm gì?! Đứng thẳng lên, nhìn cái dáng vẻ run như cầy sấy của ngươi thật chẳng giống nam nhân gì cả!”</p>
+ <p>“Ta vốn dĩ có phải nam nhân đâu…” Hoa Thiên Cốt nhỏ giọng nói thầm, nhưng cũng lười giải thích. Trương đại phu dặn một mình ra ngoài phải chú ý đề phòng, giả nam tử sẽ an toàn hơn một chút. Ông còn đặc biệt nhấn mạnh rằng nam hay nữ cũng giống nhau, không phải vì mình là con gái mà cần người khác chăm sóc nhiều hơn.</p>
+ <p>Hoa Thiên Cốt có chút giận, nhưng chốc lát sau đã thấy Hiên Viên Lãng bắt được mấy con gà rừng.</p>
+ <p>Bởi vì hai năm nay màn trời chiếu đất đi theo Hà Đông, Hiên Viên Lãng từ lâu đã không còn tính kiêu căng nữa.</p>
+ <p>“Cho ngươi nếm thử món tủ của ta.” Hắn nhanh nhẹn vặt sạch lông, cho gia vị và hương liệu vào bụng gà, sau đó bọc lá cây, vùi xuống đống lửa.</p>
+ <p>Hoa Thiên Cốt đứng một bên thèm rỏ dãi, hai tháng nay nàng ăn gió nằm sương, không được nếm thứ gì ngon lành.</p>
+ <p>Đêm ở Mao Sơn đẹp và tĩnh mịch, bên cạnh có người nên nàng không phải lo lắng hay sợ hãi như trước. Hoa Thiên Cốt vốn không quen nhiều người, sau khi cha mất lại càng thêm cô độc, nhưng mãi cũng thành quen. Từ nhỏ nàng không có bạn bè, lũ trẻ cùng thôn vâng lời cha mẹ không dám đến gần Hoa Thiên Cốt vì sợ gặp phải điềm xấu. Lớn lên trong sự cô độc như thế, nàng không biết cách ở bên cạnh ngươi khác, chỉ cần người tốt với ta, ta tốt lại với người là được, nhưng không nên quá thân cận vì có thể làm hại đối phương, hơn nữa sẽ khiến bản thân trở nên yếu đuối, vướng bận. Dù sau cuối cùng số kiếp nàng vẫn chỉ gắn liền với hai chữ cô đơn mà thôi.</p>
+ <p>Thế nhưng nhìn thiếu niên tính khí trẻ con này, không biết tại sao Hoa Thiên Cốt lại vô cùng an tâm, cảm giác tin cậy một người như vậy nàng chưa từng biết tới.</p>
+ <p>“Con yêu tinh kia có khi nào lại trốn ở đâu đó quanh đây định hại ngươi không?”</p>
+ <p>“Nó chưa đủ khả năng, thậm chí còn không đủ tư cách chạm tới một sợi lông của ta. Sở dĩ bẫy ta ở đây là muốn sư phụ phải đi khắp nơi tìm ta, nó sẽ có cơ hội trốn xa hơn, để ta có ra được ngoài thì cũng không thể nào đuổi theo kịp, bởi vậy giữ chân ta được ngày nào hay ngày ấy.”</p>
+ <p>“Lúc nào cũng phải tiếp xúc với mấy thứ này, còn phải giết chúng nó, ngươi không sợ sao?” Hoa Thiên Cốt chẳng hề biết nếu làm đạo sĩ sẽ phải trừ yêu diệt ma như thế, nàng chỉ mong có một cái phòng nho nhỏ để hàng đêm không có tiểu quỷ đến làm phiền, được yên giấc là tốt lắm rồi. Tuy không có nghĩa khí, nhưng nàng ước mơ đơn giản vậy thôi.</p>
+ <p>“Nói thật, lúc đầu đương nhiên sẽ sợ. Từ nhỏ tới lớn ta đều có người bảo vệ, chẳng cần quan tâm đến bất cứ điều gì, vì vậy lúc gặp nguy hiểm hoảng đến nỗi không biết phải làm sao. Khi ấy ta không hiểu nỗi khổ tâm của cha, ông đuổi ta ra khỏi nhà hơn nữa hai năm chẳng thèm đoái hoài, lẽ nào ông không sợ ta chết ở bên ngoài sao? Nhưng sau đó dần dần ta hiểu ra, có lẽ nơi đó mới là chỗ nguy hiểm nhất. Ông ấy hy vọng khi ta trở về đã đủ mạnh, không còn gì phải sợ nữa.”</p>
+ <p>Hoa Thiên Cốt nhìn đôi mắt lấp lánh như sao của hắn, gương mặt như ẩn hiện sự cao quý và khí phách. Khi đó nàng vẫn chưa biết cái gọi là khí chất vương giả, nhưng rất nhiều năm sau, khi nàng nhìn lại đôi mắt kia, bằng cảm giác rung động và thần phục không nói nên lời, nàng biết hắn hoàn toàn có thể dựa vào thực lực bản thân nắm giữ cả một thiên hạ. Càng đáng quý và khiến nàng nể phục chính là sự kiên định không đổi cùng tấm lòng sắt son của hắn.</p>
+ <p>“Ừm, ta lên Mao Sơn cũng là hy vọng có một ngày không nhát gan như vậy nữa. Cha ta nói làm người phải không sợ thứ gì, phải tôn trọng người khác. Ngươi cố gắng trừ yêu diệt ma, tự rèn luyện bản thân như vậy, sau này nhất định sẽ trở thành một nam tử hán đầu đội trời chân đạp đất.”</p>
+ <p>“Phải không sợ thứ gì, phải tôn trọng người khác sao?” Hiên Viên Lãng thì thào tự nói, gắng sức gật đầu, nhìn Hoa Thiên Cốt kiên định nói: “Đến lúc đó ta sẽ tới Mao Sơn tìm ngươi.”</p>
+ <p>“Ha ha, được, nói không chừng khi đó ta rất lợi hại rồi đó!” Hoa Thiên Cốt nhìn lên trời cao, không hề biết thế gian này mọi sự khó lường.</p>
+ <p>“Trăng thật đẹp! Mao Sơn cao lắm à? Sao trăng lại to được như vậy nhỉ? Ta đói lắm rồi, không biết đã ăn được chưa?”</p>
+ <p>“Chắc là được rồi.” Hiên Viên Lãng lấy gà nướng từ trong đống lửa ra, mùi thơm tỏa khắp nơi.</p>
+ <p>Nước miếng Hoa Thiên Cốt chảy ròng ròng: “Có mấy miếng bánh mì, cùng nướng ăn đi.”</p>
+ <p>Hai người vừa ăn ngấu nghiến vừa kể cho nhau nghe những lần mình gặp quỷ, cười đến sái quai hàm.</p>
+ <p>“Thật không ngờ lại có người dễ bị quỷ ám như ngươi, ha ha ha.”</p>
+ <p>“Đúng thế, lần đó con quỷ đói ám trên người ta ba ngày ba đêm, có làm thế nào cũng không chịu bỏ đi. Gần như trong nhà có gì ta đều ăn sạch, cả một vại cơm lớn đấy, suýt chút nữa bị chết vì bội thực. Sau đó cha ta cầm sáu bảy vò rượu tới cho ta uống, uống xong say bất tỉnh nhân sự, hòa thượng mới tới đuổi con quỷ đó đi. Hại ta tăng vài cân liền, từ đó ta có một tật xấu, uống rượu sẽ say, ăn no xong là buồn ngủ.”</p>
+ <p>Hoa Thiên Cốt ngáp một cái: “Cho nên khi ăn cơm ta chỉ ăn gần no, không dám ăn cố, nhưng hôm nay gà ngươi nướng thật sự quá ngon…”</p>
+ <p>Nói xong lảo đà lảo đảo ngã sấp xuống, nàng ngủ khì, trong tay vẫn cầm cánh gà, miếng thịt vừa cắn còn chưa kịp nuốt xuống, thò một nửa ra ngoài.</p>
+ <p>Hiên Viên Lãng cười đau cả bụng, ngồi xổm xuống nhìn cái miệng bóng nhẫy của nàng, vẻ mặt sung sướng hạnh phúc vì được ăn no, nơi ấm áp nào đó trong lòng như tan ra.</p>
+ <p>Lấy thịt gà từ trong miệng ra, hắn không chút ngại ngần dùng tay áo mình lau miệng và mặt cho nàng, một gương mặt búp bê trắng nõn hiện ra.</p>
+ <p>“Thật giống một tiểu cô nương.” Hiên Viên Lãng nhìn bộ dạng giả nam, lại thấy nàng một lòng muốn lên Mao Sơn tu đạo, liền nhận định đây hẳn là một cậu nhóc.</p>
+ <p>Lấy cánh gà trong tay nàng ra tiếp tục gặm, lưng tựa vào gốc cây, sợ Hoa Thiên Cốt ngủ không thoải mái, hắn đặt đầu nàng gối lên chân mình. Nhìn phía cuối trời xa xôi dưới ánh trăng vằng vặc, Hiên Viên Lãng từ từ đi vào giấc ngủ.</p>
+ <p>Sáng sớm hôm sau, đang nửa mê nửa tỉnh, hắn bị đá một cú ngã thẳng xuống đất.</p>
+ <p>“Đừng làm ồn, để ta ngủ tiếp…” Hiên Viên Lãng quay cuồng trên đất hai vòng rưỡi, sau đó ôm lấy vật thể mềm mại bên người tiếp tục ngủ.</p>
+ <p>Sau lưng lại bị đá thêm cái nữa, còn có một tiếng gầm như sét đánh.</p>
+ <p>“Tên nhóc chết tiệt, sao ngươi có thể ngủ ngon như thế hả? Mau đứng lên cho ta!”</p>
+ <p>Hiên Viên Lãng miễn cưỡng mở mắt, phát hiện mình không biết từ khi nào đã ôm Hoa Thiên Cốt vào trong lòng, sợ tới mức giật bắn mình, xoay người lại chợt nhìn thấy vị sư phụ mình nhớ mong điên cuồng hai ngày nay.</p>
+ <p>“A! Hà Đông! Cuối cùng ngươi cũng tìm thấy ta rồi!” Tên kia kích động nước mắt ầng ậng.</p>
+ <p>Nam tử hán tóc vàng trước mặt lại phi lên, linh hoạt né sang một bên.</p>
+ <p>“Ta đã nói bao nhiêu lần phải gọi là sư phụ rồi cơ mà! Có hiểu thế nào là tôn sư trọng đạo không hả? Ta thật không hiểu Lạc Hà Đông ta sao có thể dạy dỗ ra được một đệ tử không chịu thua kém ai như ngươi, thế nên mới bị một con yêu tinh vớ vẩn lừa cho. Chuyện này mà truyền ra ngoài xem như mặt mũi ta mất hết!”</p>
+ <p>Đột nhiên lão thấy có gì đó không đúng, bèn đá đá vật thể dưới chân.</p>
+ <p>“Này, đây là cái gì thế?”</p>
+ <p>Hiên Viên Lãng vội vàng bảo vệ Hoa Thiên Cốt, “Cậu ta không phải là ta, ngươi đừng tùy tiện như vậy, nhỡ đá hỏng luôn người ta thì sao. Aiz, sao tên này ngủ như lợn vậy, bị đạp thế còn không tỉnh!”</p>
+ <p>Cơ thể khổng lồ của Hà Đông ngồi xổm xuống, lão cao gấp đôi Hiên Viên Lãng, hệt như một ngọn núi nhỏ.</p>
+ <p>Vạch mí mắt của Hoa Thiên Cốt lên xem, lão bắt mạch: “Không sao đâu, chẳng qua là mất chút tinh khí, hơi suy nhược.”</p>
+ <p>Hiên Viên Lãng sợ hãi: “Làm sao có thể! Ta ở bên cậu ta cả đêm, không thấy có yêu nghiệt nào quấy phá.”</p>
+ <p>“Không phải yêu nghiệt, là sợi dây chuyền trên cổ cậu ta.” Lạc Hà Đông chỉ vào Thiên Thủy Tích.</p>
+ <p>“Ta biết cái này không phải là thứ gì tốt mà, lại còn hút máu người nữa!” Hiên Viên Lãng hổn hà hổn hển vận công định phá nát Thiên Thủy Tích.</p>
+ <p>“Đừng, đừng, đừng!” Lạc Hà Đông vội vàng kéo tay hắn, “Nhất định không được phá hủy, đây là thứ tốt, chỉ hút chút tinh khí mà thôi, không chết đâu. Này này, tỉnh đi!”</p>
+ <p>Hoa Thiên Cốt cảm thấy một bàn tay lớn đang vỗ mặt mình, bèn mơ màng mở mắt ra. Thật thoải mái, lâu lắm rồi mới có một đêm ngủ ngon như vậy.</p>
+ <p>A, ai đang ở trước mặt thế này? Chẳng nhẽ lại là quỷ?</p>
+ <p>Hoa Thiên Cốt nhìn gương mặt hung thần ác sát kia mà sợ hãi lui lại hai bước, người run bần bật. Lạc Hà Đông tóc màu vàng, còn để râu quai nón, lông mày lưỡi mác, mắt như chuông đồng, mở miệng ra giống như sư tử đang gầm, quả thật khiến người ta vô cùng sợ hãi. Cho nên rất nhiều yêu ma quỷ quái bình thường nghe thấy tiếng, nhìn thấy bóng lão đều sợ tới mức tè ra quần.</p>
+ <p>“Đừng sợ, đây là sư phụ của ta.” Hiên Viên Lãng ôm nàng vào trong lòng. Hoa Thiên Cốt gầy như vậy, đột nhiên hắn rất muốn giữ nàng bên cạnh để bảo vệ.</p>
+ <p>“Sư phụ, người cũng biết dáng vẻ Thần Chung Quỳ[1] của mình là thế nào mà, đừng đến gần dọa người khác được không? Cậu ấy chính là người đã cứu ta hôm qua, bằng không ta còn bị con yêu tinh đáng chém ngàn lần kia treo trên cây! Hừ, đợi đấy, xem ta có tìm thấy cái đồ rùa rụt cổ nhà hắn không!”</p>
+ <p>[1] Thần Chung Quỳ: Là một môn thần có hình dáng rất dữ tợn trong truyền thuyết dân gia Trung Quốc. Nghe nói ông có thể trảm yêu trừ ma, do đó người dân đều thích treo tranh vẽ ông ngay cửa, để đuổi quỷ trừ tà.</p>
+ <p>Lạc Hà Đông ném bộp một vật xuống dưới đất.</p>
+ <p>“Chờ đến khi ông nội ngươi ra được thì không biết hắn đã chạy tới nơi nào trên biển Đông hưởng phúc rồi!”</p>
+ <p>“Oa, mai rùa!” Hiên Viên Lãng nhặt thứ như cái vung từ dưới đất lên, vuốt ve từng chút, từng chút một kinh văn cùng trận đồ bát quái trên bề mặt.</p>
+ <p>“Ngươi bắt được nó sao?”</p>
+ <p>“Ta mà không tóm nó thì sao tìm thấy ngươi được. Tiểu tử ngươi sau này nếu lại lỗ mãng như vậy thì cứ để yêu quái ăn thịt cho xong, đừng nói là đồ đệ của ta, mất mặt lắm. Mấy năm nay coi như công cốc dạy ngươi!”</p>
+ <p>“Ta vốn định tự tay bắt nó báo thù! Xem như con yêu quái kia may mắn!” Hiên Viên Lãng cầm cái mai kia gõ đông gõ tây.</p>
+ <p>Lạc Hà Đông lại bay lên đá một phát vào mông hắn: “Tiểu tử chết tiệt! Cái tốt không học, học toàn cái xấu! Nhất là miệng lưỡi thô tục, bộ dáng không coi ai ra gì, ngươi nói ta mang ngươi về báo cáo kết quả công tác với ông già nhà ngươi như thế nào đây?” Lạc Hà Đông bất lực hỏi trời xanh, không biết do cách dạy của mình có vấn đề hay đồ đệ này không ra gì, tại sao chỉ trong hai năm ngắn ngủi từ một thái tử cao quý sống nội tâm lại trở thành một thằng nhóc nhà quê hiếu thắng? Lúc về không bị ông già nhà nó giết hơi phí.</p>
+ <p>©STENT: http://www.luv-ebook.com</p>
+ <p>“Ôi dào, sau này ta sẽ chú ý là được. Đúng rồi, sư phụ, tên cậu ta là Hoa Thiên Cổ, muốn tới Mao Sơn bái sư. Người viết cho cậu ta một bức thư giới thiệu đi, để Thanh Hư đạo trưởng nhận cậu ta làm đồ đệ!”</p>
+ <p>“Phải, phải.” Hoa Thiên Cốt đứng bên cạnh răm rắp gật đầu, cảm kích nhìn lão.</p>
+ <p>“Mẹ kiếp, ngươi là heo à? Ngoài vẽ bùa ra ngươi có thấy sư phụ ngươi viết chữ bao giờ chưa? Ngay cả tên mình ta còn không biết viết, giới thiệu cái con khỉ!”</p>
+ <p>Hiên Viên Lãng và Hoa Thiên Cốt nhìn nhau, không biết nói gì hơn.</p>
+ <p>“Vậy làm sao bây giờ?”</p>
+ <p>“Có cách khác, cậu ta đã cứu ngươi một mạng, ta cũng giúp một chút vậy.” Sau đó lão lấy một vỏ ốc bươu từ trong ngực ra, gõ hai cái, hét lớn.</p>
+ <p>“Thanh Hư đạo trưởng, Lạc Hà Đông ta muốn gửi một đồ nhi cho ngươi! Ngươi không muốn nhận cũng phải nhận! Gần đây bận bịu, lần sau tới tìm ngươi uống rượu!”</p>
+ <p>Hoa Thiên Cốt và Hiên Viên Lãng bỏ tay bịt tai xuống, vẻ mặt bất đắc dĩ.</p>
+ <p>“Đây là ốc truyền âm, ngươi đưa cho Thanh Hư đạo trưởng là ông ta sẽ biết.”</p>
+ <p>“Sư phụ, này, này…”</p>
+ <p>“Mẹ kiếp, sao cả ngươi cũng giả vờ nũng nịu ngại ngùng thế hả, có rắm thì mau thả đi!”</p>
+ <p>Hiên Viên Lãng nhìn Hoa Thiên Cốt đang sung sướng cầm ốc truyền âm: “Chúng ta đã đến đây rồi thì tiện đường đưa cậu ta lên Mao Sơn luôn đi.” Không biết vì sao đột nhiên hắn cảm thấy rất luyến tiếc.</p>
+ <p>“Không được!” Lạc Hà Đông nhíu màu. “Ông già ngươi hôm qua gửi thư khẩn tới, bảo chúng ta mau mau quay về. Gần đây thiên hạ xảy ra nhiều chuyện lạ, không biết trong cung có phải cũng xảy ra chuyện gì không! Chúng ta phải khởi hành ngay lập tức!”</p>
+ <p>Hai năm ông ấy không hề hỏi thăm gì, hôm nay lại vội vã như thế, chắc chắn đã xảy ra chuyện lớn gì đó.</p>
+ <p>Hiên Viên Lãng cầm tay Hoa Thiên Cốt nói: “Ta và sư phụ phải quay về gấp, không thể đưa ngươi lên núi, ngươi phải cẩn thận một chút. Nếu xảy ra chuyện gì, cứ mang mảnh ngọc kia đến gặp quan phủ, hoặc là bảo họ gửi thư nói muốn tìm ta, hiểu không?”</p>
+ <p>“Được.” Hoa Thiên Cốt vô cùng cảm kích nhìn hắn, “Ngươi yên tâm, từ trước tới nay đều là ta tự đi, sẽ không xảy ra chuyện gì đâu!”</p>
+ <p>“Đáng tiếc ngươi lại là nam…” Hiên Viên Lãng cúi đầu thì thào.</p>
+ <p>“Thật ra ta là…”</p>
+ <p>“Bằng không ta sẽ lấy ngươi làm vợ.” Hiên Viên Lãng chòng ghẹo nói.</p>
+ <p>Hoa Thiên Cốt sợ tới mức nửa câu sau nghẹn ứ trong cổ họng, không dám nói tiếp.</p>
+ <p>“Ngươi bái ta làm huynh đi.” Hắn chưa bao giờ thử qua cảm giác vừa gặp đã như thân quen thế này, cố gắng muốn dùng thứ gì đó duy trì sự ràng buộc giữa hai người.</p>
+ <p>“Được! Lãng ca ca!” Hoa Thiên Cốt không tức giận nữa, vui vẻ cười. Không kiềm được mà cầm chặt tay Hiên Viên Lãng, cuối cùng nàng cũng có được một người thân rồi ư?</p>
+ <p>Lạc Hà Đông đứng bên cạnh khẽ nhíu mày nhưng không nói gì, chỉ lên tiếng thúc giục.</p>
+ <p>“Được rồi, cáo biệt xong thì đi thôi!”</p>
+ <p>“Ừ, Thiên Cổ, sau này gặp lại.”</p>
+ <p>“Sau này gặp lại.”</p>
+ <p>Hoa Thiên Cốt trợn tròn mắt nhìn Lạc Hà Đông lấy hồ lô bên người xuống rồi biến nó ra thật lớn, lơ lửng giữa không trung, kéo Hiên Viên Lãng ngồi lên rồi sau đó hai thầy trò bay đi mất.</p>
+ <p>Hiên Viên Lãng nhìn chiếc bóng càng lúc càng nhỏ vẫn đang cố gắng vẫy tay với mình, trong lòng lại thấy xót xa. Mặc dù mới quen biết một ngày, nhưng không hiểu tại sao hắn lại cảm thấy cậu nhóc đó rất quan trọng.</p>
+ <p>“Chờ ta xong chuyện sẽ tới Mao Sơn tìm ngươi! Ngươi đợi ta đấy!” Hiên Viên Lãng hét to.</p>
+ <p>“Được!” Hoa Thiên Cốt trông hắn càng lúc càng xa khuất tầng mây. Nàng buồn bã nhìn ốc truyền tin trong tay, sau đó chuẩn bị tiếp tục hành trình của mình. Ha ha, Mao Sơn ở ngay trước mắt rồi! Nàng sắp thành đạo sĩ rồi! Sau này cũng có thể bay giống Lãng ca ca và sư phụ hắn!</p>
+ <p>“Tiểu tử, đừng dính líu nhiều với nàng, sẽ rất bất lợi cho ngươi!” Lạc Hà Đông đã sớm nhận ra Hoa Thiên Cốt là một cô nương, nhưng không nói gì.</p>
+ <p>“Tại sao?”</p>
+ <p>“Nàng sinh ra đã mang điềm xấu trong người, tốt nhất sau này không gặp lại!”</p>
+ <p>Hiên Viên Lãng nhìn mây bay trên trời, lạnh nhạt nói: “Ta không quan tâm, thiên hạ nằm trong tay ta, còn sợ không dịch chuyển được cái Càn Khôn nhỏ bé này?”</p>
+ <p>Lạc Hà Đông giật mình, quay đầu nhìn Hiên Viên Lãng, vui mừng khôn xiết. Hiên Viên Thương à, xem ra ngươi không phí công giao con trai mình cho ta rồi!</p>
+ <p>Đường lên núi vô cùng thuận lợi, tới mức khiến Hoa Thiên Cốt sợ hãi. Nàng chưa từng thấy ngọn núi nào như vậy, chẳng những yên tĩnh tuyệt đối, trong không khí còn mang theo áp lực nặng nề khó lòng chịu nổi.</p>
+ <p>Đừng nói người, ngay cả một bóng chim cũng không thấy.</p>
+ <p>Điều khác lạ giữa một vùng cỏ cây đó là màu xanh biếc phản chiếu từ đỉnh Mao Sơn kia đậm như thể mực trong tranh bị rơi xuống, khiến người ta cảm thấy gượng gạo.</p>
+ <p>Không biết tại sao, Hoa Thiên Cốt luôn loáng thoáng trong mình một dự cảm bất thường, nhưng lại không giống cảm giác gặp quỷ trước kia.</p>
+ <p>Thềm đá lên đỉnh núi uốn lượn quanh co, nhìn xuống sâu hun hút, vươn tay là có thể chạm tới mây bay bên người.</p>
+ <p>Càng đi lâu Hoa Thiên Cốt càng sợ hãi, bởi nàng nhận ra ngọn núi này là một ngọn núi chết, dường như không có lấy một sinh linh tồn tại.</p>
+ <p>Sao lại như vậy? Chẳng lẽ tiên cảnh trong truyền thuyết đều thế này ư?</p>
+ <p>Cuối cùng cũng tới trước đại điện của Cửu Tiêu Vạn Phúc cung, khắp nơi đều yên lặng tới mức tiếng thở cũng trở nên rõ ràng.</p>
+ <p>“Có ai không? Đệ tử tới Mao Sơn cầu đạo! Xin hỏi có ai không?” Trả lời nàng chỉ có vài tiếng vọng đứt quãng trong không khí.</p>
+ <p>Kiên trì đi vào trong đại điện, lại phát hiện bên trong nguy nga lộng lẫy, khói lửa chưa tàn nhưng không có lấy một bóng người.</p>
+ <p>Nghe nói Mao Sơn có rất nhiều đệ tử tục gia, phần đông cũng tự đi khắp nơi rèn luyện, ít khi tu hành trong núi, hẳn số người ở lại cũng không nhiều. Nhưng tuyệt không thể ngay cả một người gác cổng cũng chẳng có! Rốt cuộc đã xảy ra chuyện gì? Chẳng lẽ tất cả đều xuống núi trảm yêu trừ ma?</p>
+ <p>Hoa Thiên Cốt bắt đầu nôn nóng, càng lúc càng cảm thấy Mao Sơn âm u đáng sợ.</p>
+ <p>“Có người không? Có ai ở đây không?”</p>
+ <p>Hu hu hu, đừng mà, nàng vất cả lên núi như thế, lẽ nào lại không gặp được ai?</p>
+ <p>Bước vào trong, Hoa Thiên Cốt không nhịn được mà thưởng thức kiến trúc hùng vĩ nơi đây, nàng vừa đi vừa nhìn ngang ngó dọc, chốc lát đã tới quảng trường của Vạn Phúc cung. Ở giữa khu đất rộng rãi có một hố cực lớn, giống như Vạn Phúc cung hùng vĩ đã bị thiên thạch tàn phá vậy.</p>
+ <p>Không có một chút gió, Hoa Thiên Cốt căng thẳng đến mức nóng rần người. Nàng lau mồ hôi trên trán, hơi thở hỗn loạn không hiểu vì sao, mùi máu tanh thông qua mũi khếch tán đến từng tế bào cơ thể.</p>
+ <p>Nàng không dám bước thêm, linh cảm có chuyện không hay đã xảy ra, nhưng cuối cùng vẫn không kiềm được từ từ tiến tới trước hố đó.</p>
+ <p>Mùi máu tanh nồng nặc còn mang theo hơi nóng nháy mắt bao phủ nàng, Hoa Thiên Cốt hét lớn một tiếng chói tai, sợ hãi cực độ, sau đó ôm mặt quỳ trên đất.</p>
+ <p>…</p>
+ <p>Địa ngục trần gian!</p>
+ <p>Những cảnh tượng tanh tưởi nàng từng thấy đều không đáng sợ như nơi này.</p>
+ <p>Vô số thi thể bị nhồi thành từng lớp trong hố, tất cả đều mặc áo đạo sĩ, già trẻ lớn bé mấy trăm người. Hơn nữa trong đống xác ấy, đại đa số đã cụt chân cụt tay, bị ngâm trong máu. Ruột, mắt, ngón tay, chỗ nào cũng có… Thật thê thảm!</p>
+ <p>Nhưng bốn phía đều không có dấu vết quần ẩu, những người này có lẽ đều bị một chiêu đoạt mạng.</p>
+ <p>Hoa Thiên Cốt vừa nôn vừa dịch người tránh xa. Loáng thoáng có tiếng gì đó, tuy nhỏ nhưng rất rõ ràng. Chẳng lẽ vẫn còn người sống sót?</p>
+ <p>Cố gắng quay đầu lại, nàng nhìn thấy một ông lão râu tóc bạc phơ nằm trên đống thi thể. Cánh tay ông đã mất, giữa ngực có một lỗ hổng lớn, tim phổi đều bị moi ra, thế nhưng vẫn còn tiếng rên rỉ yếu ớt.</p>
+ <p>Hoa Thiên Cốt bất chấp là lăn hay trèo, gắng sức trượt xuống cái hố, gian nan leo lên đống xác. Tay vừa chạm đến máu và dịch thể nhớp nháp, nàng liền nôn ra cả mật, nhưng vẫn liều mạng tới trước ông lão kia.</p>
+ <p>“Ông… ông ơi… ông có sao không?” Hoa Thiên Cốt chưa từng thấy ai bi thảm như vậy, nghẹn ngào sắp khóc đến nơi.</p>
+ <p>Nàng cố gắng kiềm nén, rồi ngồi ngay ngắn không dám động vào, sợ chỉ động một cái ông ấy sẽ gục xuống ngay lập tức.</p>
+ <p>Làm gì bây giờ? Phải làm sao đây? Ai nói cho nàng biết nàng phải làm gì đi!</p>
+ <p>Hai mắt ông lão nhắm chặt, trên mặt còn có dòng huyết lệ, dường như đôi mắt cũng đã bị lấy đi, nhưng gương mặt vẫn mỉm cười không có lấy một chút đau đớn.</p>
+ <p>“Vị thiếu chủ này là?”</p>
+ <p>Hoa Thiên Cốt không ngừng run rẩy: “Con… con là Hoa Thiên Cốt, bởi vì bát tự không tốt, từ nhỏ đã bị quỷ theo, con vốn… vốn muốn lên Mao Sơn bái Thanh Hư đạo trưởng học đạo. Nơi này… rốt cuộc đã xảy ra chuyện gì?”</p>
+ <p>“Ta chính là Thanh Hư, đều tại bần đạo vô năng, khiến cả Mao Sơn bị tàn sát… Bây giờ, bây giờ sợ không thể giúp thí chủ được…”</p>
+ <p>“Thanh Hư đạo trưởng, ngài đừng nói như vậy, tại sao nơi này lại trở nên như thế? Là môn phái phân tranh? Hay yêu nghiệt quấy phá? Sao có thể tàn nhẫn sát hại nhiều người như vậy! Con… con có thể làm gì không? Thương thế của ngài phải làm thế nào đây?”</p>
+ <p>“Nội đan của bần lão đã bị phá, mất hết nguyên khí, không thể cầm cự được lâu nữa. Chỉ tại bần đạo có mắt như mù, không nhận ra đại đệ tử Vân Ế đã sớm nhập ma! Hắn muốn cướp đoạt thần khí từ thời thượng cổ, xích Thuyên Thiên, nội ứng ngoại hợp với yêu ma, khiến ngàn năm cơ nghiệp của Mao Sơn sụp đổ chỉ trong chốc lát. Thí chủ, xin hỏi người năm nay bao nhiêu rồi?”</p>
+ <p>“Tuổi mụ là mười hai ạ.”</p>
+ <p>“Thí chủ lên núi bằng cách nào? Tên nghiệt chướng kia đã tạo phù chú xung quanh đây, pháp thuật bình thường không phá giải được. Bần đạo đã tập trung tụ nguyên khí một ngày một đêm, cuối cùng vẫn không thể truyền tin tức ra bên ngoài.”</p>
+ <p>“Ban đầu con cũng không lên được, sau đó đi tìm Dị Hủ Quân, ông ấy cho con Thiên Thủy Tích, sau đó trên đường lên Mao Sơn lại gặp được một người tên là Hiên Viên Lãng và sư phụ Lạc Hà Đông của huynh ấy. Lạc lão tiền bối đưa một con ốc truyền tin, bảo con chuyển cho ngài, ngài sẽ nhận con làm đồ đệ.”</p>
+ <p>Thanh Hư đạo trưởng sắc mặt tái nhợt, cười: “Thì ra đã gặp lão già kia! Thí chủ gõ hai lần lên cái vân thứ ba của nó xem.”</p>
+ <p>Hoa Thiên Cốt gõ cạch cạch hai cái, đột nhiên trong ốc truyền ra tiếng thét như sư tử của Lạc Hà Đông.</p>
+ <p>“Thanh Hư đạo trưởng, Lạc Hà Đông ta muốn gửi một đồ nhi cho ngươi! Ngươi không muốn nhận cũng phải nhận! Gần đây bận bịu, lần sau tới tìm ngươi uống rượu!”</p>
+ <p>Lão đạo trưởng run run nở nụ cười: “Thật là tốt, trước khi chết còn có thể nghe thấy giọng cố nhân, tiếc là không còn cơ hội cùng nhau uống rượu.”</p>
+ <p>“Thanh Hư đạo trưởng…” Mũi Hoa Thiên Cốt cay cay, “Chỉ tại ông ấy đột nhiên có chuyện gấp phải quay về, nếu không đã lên núi rồi!”</p>
+ <p>“Gần đây thiên hạ đại loạn, ông ta trở về chắc cũng vì chuyện phong ấn. Tiểu thí chủ, có thể nhờ ngươi làm giúp một việc vô cùng gấp không?”</p>
+ <p>“Xin ngài cứ nói, con nhất định sẽ làm được!”</p>
+ <p>“Mười ba tháng sau, xin thí chủ hãy giúp ta tham gia Quần Tiên yến ở Côn Luân, báo cho chúng tiên nhân chuyện Mao Sơn bị đệ tử bản môn cướp xích Thuyên Thiên. Hiện giờ ma giới, yêu giới đều hỗn loạn, nhiều nơi phong ấn đã bị phá giải, yêu ma thoát ra. Mong rằng chúng tiên nhân sẽ bảo vệ thật tốt mười lăm món thần khí thượng cổ khác, nếu không ngộ nhỡ Yêu Thần xuất thế, sợ rằng không có cách khống chế, trăm họ lầm than.”</p>
+ <p>Hoa Thiên Cốt hoang mang gật đầu.</p>
+ <p>“Tuy rằng đệ tử bản môn chết thảm, nhưng Mao Sơn vẫn chưa bị diệt. Thí chủ, ta tạm truyền chức chưởng môn cho ngươi, khi tham gia Quần Tiên yến hãy dùng Mao Sơn lệnh, tập hợp tất cả đệ tử bên ngoài quay về núi, chấn chỉnh bổn môn, đoạt lại xích Thuyên Thiên.”</p>
+ <p>“Con? Con…”</p>
+ <p>“Không sao, nếu lúc đó tiểu thí chủ không thích thì giao lại chức chưởng môn cho người trong phái, tiểu đệ tử Vân Ẩn của ta là người có thể tin cậy.”</p>
+ <p>Hoa Thiên Cốt gật đầu: “Con sẽ nói cho Vân Ẩn, để huynh ấy đoạt lại xích Thuyên Thiên, chấn chỉnh môn phái.”</p>
+ <p>Thanh Hư lão đạo gật đầu, một tay kết ấn điểm lên mi tâm Hoa Thiên Cốt, ấn ký của chưởng môn chợt lóe lên rồi biến mất. Nàng cảm thấy một luồng nguyên khí và nội lực mãnh liệt chảy ào ào vào người mình.</p>
+ <p>“Thanh Hư đạo trưởng…”</p>
+ <p>“Bần đạo truyền tất cả đạo hạnh còn lại vào người thí chủ, coi như tỏ chút lòng cảm tạ.”</p>
+ <p>“Sư, sư phụ…” Hoa Thiên Cốt quỳ xuống chuẩn bị dập đầu, ý của ông ấy là muốn nhận nàng làm đồ đệ sao?</p>
+ <p>“Thí chủ mau đứng dậy, ta là người sắp chết, không thể dạy con thứ gì, hãy tới chỗ khác tìm thầy đi. Thiên hạ rộng lớn, chẳng thà chọn Trường Lưu trên thiên giới. Nếu con có thể được Tử Họa đích thân dạy dỗ, coi như là đại phúc, cũng không uổng phí duyên phận của ta và con nơi đây.”</p>
+ <p>“Bái một sư phụ khác?”</p>
+ <p>“Phải, Trường Lưu thượng tiên, Phong Sương Nhất Kiếm Bạch Tử Họa, người có đạo hạnh cao nhất tiên giới hiện nay. Đưa ốc truyền âm đây, ta sẽ giao con cho hắn, nhưng tính hắn vô cùng nghiêm túc, không biết có chịu nể mặt bần đạo không. Hơn nữa cũng thông báo một chuyện quan trọng khác, nhờ hắn xử lý tàn cục giúp bần đạo.”</p>
+ <p>Nói xong, Hoa Thiên Cốt thấy Thanh Hư đạo trưởng lẩm bẩm, âm phù từ miệng bay ra, chui vào ốc truyền tin, cũng không biết là nói gì.</p>
+ <p>Xong xuôi đâu vào đó, đuôi ốc hơi đỏ lên.</p>
+ <p>“Con có thấy cung vũ bên hông ta không?”</p>
+ <p>Hoa Thiên Cốt lúc này mới thấy một sợi lông chim trắng thuần không dính chút máu, nhưng vừa nãy rõ ràng đâu có. Hay tại bây giờ nàng có chút pháp lực rồi?</p>
+ <p>“Thấy ạ.”</p>
+ <p>“Con lấy nó xuống, bảo quản cẩn thận. Đây là tín vật của chưởng môn. Ngoài ra dưới lư hương trong đại điện có hai bản bí tịch, một là “Tinh túy đạo pháp” Mao Sơn truyền lại cho chưởng môn đời sau, một là “Lục giới toàn thư” do ta biên soạn, con giữ lấy, có chuyện không hiểu thì cứ tra là được. Việc sau này đều nhờ con, cuối cùng bần đạo cũng có thể nhắm mắt rồi.”</p>
+ <p>“Thanh Hư đạo trưởng!”</p>
+ <p>“Con đi đi, Côn Luân, Quần Tiên yến, tìm Bạch Tử Họa!”</p>
+ <p>Lúc này Hoa Thiên Cốt mới từ từ bò ra khỏi chiếc hố, sau đó có một đốm lửa bùng lên từ người Thanh Hư đạo trưởng, nhưng lại không nóng chút nào.</p>
+ <p>Tất cả mọi thứ trong hố dần hóa tro, vô số những vật hình cầu phát quang chầm chậm bay lên trời.</p>
+ <p>Đó là nguyên đan của kẻ tu hành ư? Đạo hạnh cao, nguyên đan chưa bị tổn hại hẳn có thể sống lại, thấp thì chắc cũng được đầu thai chuyển thế. Không biết Thanh Hư đạo trưởng ra sao?</p>
+ <p>Hoa Thiên Cốt quỳ trước hố lạy hai lạy. Trời đột nhiên đổ mưa xuống, rửa sạch máu đọng trên người nàng. Không khí vẫn nặng nề như trước, nhưng Hoa Thiên Cốt lại cảm thấy dễ chịu hơn rất nhiều, sức khỏe cũng trở nên vô cùng dồi dào.</p>
+ <p>Chưa báo sư, cũng không phải đệ tử Mao Sơn, nhưng đột nhiên lại trở thành Mao Sơn chưởng môn, thật khiến người khác phải khiếp đảm. Hoa Thiên Cốt gói kĩ hai quyển bí tịch kia cất vào trong ngực rồi bắt đầu xuống núi.</p>
+ <p>Mục tiêu kế tiếp rất rõ ràng, đến Côn Luân tham dự Quần Tiên yến, thông báo việc Mao Sơn bị phản đồ cướp mất xích Thuyên Thiên, truyền chức chưởng môn cho tiểu đồ đệ Vân Ẩn của Thanh Hư đạo trưởng, sau đó cầu xin Bạch Tử Họa – Bạch lão tiền bối nhận nàng làm đồ đệ, cuối cùng theo về Trường Lưu Sơn chăm chỉ rèn luyện…</p>
+ <p>Có mục tiêu là có động lực! Hoa Thiên Cốt xuống Mao Sơn, hỏi đường tới Côn Luân, đi hai ngày thẳng về hướng Tây. Điều đáng kinh ngạc là tối đến chẳng có ma quỷ nào tới gần nàng, không biết do tác dụng từ Thiên Thủy Tích của Dị Hủ Quân hay là câu ngọc Hiên Viên Lãng tặng nữa. Nhưng đường đi ngày càng gặp nhiều tiểu quái, ngay cả những nơi đông đúc như trong thành đôi khi cũng có một, hai kẻ hình dạng kỳ lạ đi tới đi lui.</p>
+ <p>Những người bình thường không thể nhìn thấy, Hoa Thiên Cốt cũng học được cách tảng lờ chúng đi. Nhưng thỉnh thoảng có vài con rất thích mùi của nàng, nhảy lên vai khiến Hoa Thiên Cốt sởn cả da gà, đành làm bộ lơ đãng gạt đi.</p>
+ <p>Thấy người quá bẩn, khi qua rừng lại phát hiện một con suối nhỏ, Hoa Thiên Cốt liền vui vẻ nhảy vào. Dòng suối chảy qua tảng đá nhẵn bóng rồi đổ về hồ nước xanh biếc.</p>
+ <p>Hoa Thiên Cốt cởi quần áo, vui vẻ bơi qua bơi lại như con cá nhỏ, gội đầu tắm táp. Nàng cảm thấy Thiên Thủy Tích trước ngực hơi nóng lên. Gần đây nó hay phát sáng và tỏa nhiệt khiến nàng thấy rất kỳ lạ, nhưng cũng chẳng có gì không ổn nên vẫn đeo trên người.</p>
+ <p>Mình trần chạy ra khỏi nước, Hoa Thiên Cốt thoải mái ngồi phơi nắng dưới mặt trời. Đang chuẩn bị thay bộ quần áo sạch sẽ, đột nhiên có một tiếng “A!” truyền đến.</p>
+ <p>Chết cha, có người! Nàng còn tưởng nơi rừng thiêng nước độc này…</p>
+ <p>Hoa Thiên Cốt vội vàng ôm quần áo che đi cơ thể nhỏ nhắn. Bên cạnh dòng suối, một người dáng vẻ thư sinh đưa lưng về phía nàng, có lẽ lúc lấy nước lỡ nhìn thấy.</p>
+ <p>“Xin lỗi, thành thật xin lỗi…” Người nọ liên tục giải thích, ngữ khí kích động, “Ta không ngờ ở đây lại có người…”</p>
+ <p>Hoa Thiên Cốt không nói gì vội vàng mặc quần áo vào. Tuy nàng giả nam trang nhưng chỉ cần nhìn mái tóc rối tung, gương mặt đỏ rực cũng có thể biết được đây là một cô gái.</p>
+ <p>Hoa Thiên Cốt thu dọn đồ chuẩn bị rời đi, không ngờ thư sinh khoác trên vai một cái giỏ kia cũng vội vàng chạy đến.</p>
+ <p>“Khổng Tử dạy: Phi lễ chớ nhìn, phi lễ chớ nghe. Ta, ta quả thực không cố ý…”</p>
+ <p>Hoa Thiên Cốt chưa từng thấy giọng nói nào dịu dàng và hay đến thế, không nhịn được quay đầu nhìn hắn một cái. Dáng vẻ bình thường nhưng lại có khí chất bất phàm, đôi mắt phượng trong trẻo mang theo ý cười, đem đến cảm giác thân thiết khó tả.</p>
+ <p>Hiên hiên thiều cử</p>
+ <p>Trác trác lãng lãng</p>
+ <p>Như kiến bạch lộ vị hi.[2]</p>
+ <p>[2] Dịch nghĩa: Thanh tao hơn người, tỏa sáng rực rỡ, như thể sương sớm ban mai.</p>
+ <p>Bình ổn tao nhã, chỉ cần nhìn một cái đã khiến người ta thật thoải mái, hoàn toàn cam lòng phục tùng.</p>
+ <p>“Không sao…” Hoa Thiên Cốt ngẩn ngơ, rất lâu sau mới giật mình tỉnh lại, tiếp tục cắm cổ chạy.</p>
+ <p>Người nọ lại đuổi theo sau, bước chân lảo đảo, dáng vẻ có chút ngốc nghếch.</p>
+ <p>“Sao lại không sao? Cơ thể cô nương đều đã bị ta nhìn thấy hết, nếu không chịu trách nhiệm, há chẳng phải uổng công đọc sách thánh hiền? Cô nương quý danh là gì, ngụ ở nơi đâu? Chờ ta đỗ tiến sĩ rồi sẽ thành thân với nàng!”</p>
+ <p>Đầu Hoa Thiên Cốt chảy mấy vạch đen dài. Nàng mới mười hai tuổi, còn chưa dậy thì, ngực không ra ngực mông chẳng ra mông, phẳng lì thế này, dù bị hắn nhìn thấy thì sao chứ? Mồ hôi nàng chảy ròng ròng…</p>
+ <p>“Không sao, không sao. Công tử cứ làm như không thấy là được. Xin lỗi, nhưng ta đang vội.”</p>
+ <p>“Biết nói là biết, không biết nói là không biết, ta rõ ràng thấy hết từ đầu đến chân, từ trước đến sau, sao có thể làm như không thấy được? Như thế há chẳng phải lừa mình dối người sao? Cô nương đừng lo lắng, ta nói lời giữ lời, nhất định sẽ lấy nàng!”</p>
+ <p>Hoa Thiên Cốt nghiến răng trèo trẹo, vừa ra khỏi rừng vừa phải nghe tên thư sinh cổ hủ nói quang quác không nghỉ. Lại còn một loạt những trích dẫn kinh điển, khen ngợi nhân lễ nghĩa trí tín[3] rồi đạo đức nữ tử này nọ, khiến nàng rầu thối ruột. Người ta đã không thèm để ý, hắn còn ồn ào cái gì? Hóa ra lúc đầu giọng nói bùi tai và vẻ ngoài kia đều là lừa gạt!</p>
+ <p>[3] Nhân, lễ, nghĩ, trí, tín: Năm đức tính của người quân tử.</p>
+ <p>Đi tới lối rẽ, Hoa Thiên Cốt thật sự không thể chịu nổi nữa: “Không phải huynh lên kinh đi thi sao? Chúng ta mỗi người một ngả nên nói lời từ biệt thôi, sau này gặp lại!”</p>
+ <p>“Không được, đi thi chỉ là chuyện nhỏ. Cô nương còn nhỏ tuổi đã phải đi một mình, lỡ gặp dã thú hay cướp thì biết làm sao? Dù nàng không phải vị hôn thê mà chỉ là người qua đường tình cờ gặp gỡ, ta cũng không thể thấy chết mà không cứu! Ta quyết định sẽ đưa nàng đến nơi nàng muốn rồi mới lên kinh! Thi đỗ liền đến nhà nàng cầu hôn, cưới hỏi đàng hoàng đưa nàng về dinh!”</p>
+ <p>Ông trời ơi! Từ khi nào nàng trở thành vị hôn thê của hắn thế? Điên mất, điên mất, hắn có để cho nàng yên không?</p>
+ <p>“Đừng đi theo ta! Ta xin huynh đấy! Trời sinh ta mệnh xấu, đi đâu khắc đó, huynh theo ta chẳng những gặp phải phiền toái lớn, còn có thể bị quỷ ám nữa!” Đến cả Mao Sơn cũng còn gặp phải chuyện này, Thanh Hư đạo trưởng và những người đó chẳng phải bị nàng ám sao?</p>
+ <p>Thư sinh kia nghiêm mặt nói: “Tục ngữ nói ban ngày không làm chuyện xấu, nửa đêm chẳng sợ quỷ thăm. Đông Phương Úc Khanh ta đi thẳng ngồi ngay, còn ngại yêu ma quỷ quái sao?”</p>
+ <p>Hoa Thiên Cốt đi đến đâu hắn theo đến đấy, không thể thoát được. Thật sự bị bám rồi nàng cũng không biết phải làm sao, đêm đến cố dằn lửa giận, ngồi ăn bánh mỳ không thèm để ý đến nữa, hắn hỏi gì cũng khỏi trả lời. Ài, thật nhớ gà nướng Lãng ca ca làm quá!</p>
+ <p>“Ăn không?” Đông Phương Úc Khanh đưa một miếng bánh ngọt qua, Hoa Thiên Cốt nhìn nụ cười ấm áp của hắn, ma xui quỷ khiến lại nhận lấy. Không thể phủ nhận nụ cười kia rất có tác dụng an ủi và chữa vết thương lòng cho người khác, nếu hắn mà câm thì đúng là hoàn mỹ, than ôi…</p>
+ <p>“Cô nương tên gì?”</p>
+ <p>“Hoa Thiên Cốt…” Nàng vừa đút miếng bánh ngọt mềm mềm vào miệng vừa bất mãn lẩm bẩm. Đúng là mật ngọt chết ruồi mà!</p>
+ <p>“Bao nhiêu tuổi?”</p>
+ <p>“Mười hai.”</p>
+ <p>“Có hôn ước chưa?”</p>
+ <p>“Chưa.”</p>
+ <p>“Cha mẹ nàng đâu?”</p>
+ <p>“…Chỉ còn mình ta.”</p>
+ <p>Hoa Thiên Cốt đột nhiên cảm thấy trống vắng. Nàng vốn tưởng lần này bái sư được thì về sau sẽ có chỗ nương thân, không ngờ sóng chưa yên, bão lại tới.</p>
+ <p>“Mình nàng?” Đông Phương Úc Khanh nhíu mày, “Vậy nàng một mình đi đâu? Tìm người thân nương tựa sao?”</p>
+ <p>“Không phải, ta không có người thân. Ta vốn đi Mao Sơn cầu đạo, nhưng không thành. Giờ phải đi Côn Luân một chuyến.”</p>
+ <p>“Côn Luân? Đi xa như thế làm gì? Rất nguy hiểm!”</p>
+ <p>“Ta phải tham gia Quần Tiên yến.” Hoa Thiên Cốt nói xong vội che miệng lại, kể những điều này với một thư sinh sắp lên kinh dự thi làm gì chứ?</p>
+ <p>“Quần Tiên yến? Nàng bảo lên Mao Sơn cầu đạo nhưng không được, tại sao? Đã xảy ra chuyện gì à?”</p>
+ <p>“Cả Mao Sơn bị giết, Thanh Hư đạo trưởng trước khi mất phó thác ta đến Quần Tiên yến truyền tin.” Hoa Thiên Cốt kinh ngạc nhìn Đông Phương Úc Khanh, phát hiện không phải tại mình nhanh nhảu, mà dù hắn hỏi gì, miệng nàng đều như mất tự chủ mà nói hết ra. Trời ạ, là vì giọng hắn rất bùi tai sao?</p>
+ <p>“Mao Sơn bị tàn sát? Đã bắt đầu rồi sao?” Đông Phương Úc Khanh nhíu mày thì thào, “Thanh Hư đạo trưởng trước lúc mất còn nói gì không?”</p>
+ <p>Hoa Thiên Cốt che miệng lại lắc đầu, nàng sẽ không nói nhiều với một người xa lạ như vậy đâu!</p>
+ <p>Đông Phương Úc Khanh càng lúc càng tiến tới gần, sốt ruột cầm lấy bàn tay nhỏ còn lại của nàng.</p>
+ <p>“Sau đó thế nào, pháp khí trấn môn của Mao Sơn – xích Thuyên Thiên có giữ được không?”</p>
+ <p>Hoa Thiên Cốt sửng sốt buông tay ra, trợn tròn mắt nhìn hắn: “Sao huynh lại biết?” Hắn không phải là một thư sinh lên kinh dự thi bình thường sao?</p>
+ <p>“Đương nhiên biết rồi. Ta đã đọc đủ loại sác, chuyện lục giới cũng nắm rõ trong lòng bàn tay. Nàng tưởng ta chỉ là con mọt sách thuộc vẹt tứ thư ngũ kinh sao?”</p>
+ <p>“Huynh cũng tu tiên?”</p>
+ <p>“Không phải, nhưng ta cũng có người thân đạo hạnh rất cao, từ nhỏ cũng hơi hứng thú với việc này nên đọc rất nhiều sách cổ. Vậy xích Thuyên Thiên cuối cùng thế nào?”</p>
+ <p>“Bị cướp đi rồi…” Hoa Thiên Cốt cúi đầu, rốt cuộc đó là gì mà cần nhiều mạng người bảo vệ đến thế?</p>
+ <p>“Chuyện lớn không hay rồi.” Đông Phương Úc Khanh bất đắc dĩ lắc đầu, chuyến đi này xem ra công cốc.</p>
+ <p>“Thiên Cốt, tuy tạm thời chưa có ai chú ý, dọc đường chắc không có gì nguy hiểm, nhưng thể chất nàng đặc thù, vẫn nên cẩn thận hơn. Ta có việc nên phải quay về gấp, xem ra không thể đưa nàng tới Côn Luân.”</p>
+ <p>“Ai thèm huynh đưa! Không phải huynh còn lên kinh sao?” Hoa Thiên Cốt khó hiểu nghiêng đầu nhìn Đông Phương Úc Khanh, làm sao hắn biết thể chất nàng đặc thù nhỉ? Hơn nữa vội vã trở về làm gì, chẳng lẽ nhà hắn cũng có thần khí thượng cổ, sợ yêu quái đến cướp sao?</p>
+ <p>“…Cái đó không vội, ta xử lý xong mọi chuyện sẽ đi.”</p>
+ <p>“Làm mất vật kia có hậu quả gì không? Sao mọi người ai cũng lo lắng như vậy?”</p>
+ <p>“Thanh Hư đạo trưởng không nói cho nàng sao?”</p>
+ <p>“Không đủ thời gian, ông ấy chỉ nói qua một chút, sau đó giao quyển ‘Lục giới toàn thư’, bảo ta tự tìm hiểu.”</p>
+ <p>“Thiên Cốt, nàng biết lục giới trên thế gian này gồm những giới nào không?”</p>
+ <p>Hoa Thiên Cốt nhìn mà ngẩn ngơ, người này khi cười sao lại đẹp và ấm áp đến thế, thật khiến nàng buồn ngủ!</p>
+ <p>“À… thế giới của người, thế giới của yêu quái, của ma quỷ, cả của thần? Còn gì nữa nhỉ?” Nàng xòe tay ra đếm, hình như vẫn chưa đủ.</p>
+ <p>“Mấy cái này đều đúng, Nhân giới, Minh giới, Yêu giới, Ma giới, Tiên giới và Thần giới.”</p>
+ <p>“Oa, phân loại kĩ thật… Vậy Minh giới, Yêu giới, Ma giới đại diện cho cái ác, còn Nhân giới, Tiên giới, Thần giới đại diện cho cái thiện đúng không? Hai bên khống chế lẫn nhau? Thanh Hư đạo trưởng nói Yêu Thần chuẩn bị xuất thế, có phải ý là quái vật lợi hại nhất Yêu giới sắp ra mặt rồi không? Thảo nào gần đây ban ngày ta thấy nhiều yêu quái như thế.”</p>
+ <p>“Vấn đề thiện ác ở Lục giới không đơn giản như vậy. Người chết hóa quỷ thì gia nhập Minh giới, nếu thành tiên có thể đứng trong hàng tiên ban. Mà Yêu giới lại phức tạp hơn, tất cả đều là kết quả của quá trình tự nhiên hóa. Động vật, thực vật, thậm chí cả đồ vật do yếu tố nội lực hay ngoại lực tác động đều có thể thành tinh, hình thái mỗi loài một vẻ. Về phần Ma giới, dù là người cũng được, yêu cũng được, tiên cũng được, chỉ cần có ác ý, chấp niệm, thiên kiếp hay luyện công tẩu hỏa nhập mà thì đều có thể vào Ma đạo.”</p>
+ <p>“Còn Thần thì sao? Mọi người thường nói thần tiên, ta vẫn nghĩ thần và tiên giống nhau.”</p>
+ <p>“Chúng thần thượng cổ sinh cùng trời đất, mà tiên bình thường đều do tu luyện mà thành, mặc dù đều có pháp lực nhưng không giống nhau. Chỉ là mọi người thích đặt cạnh nhau, cũng giống như yêu và ma vậy thôi, hợp lại với nhau gọi là yêu ma. Phục Hi tạo bát quái, Nữ Oa tạo con người, hội bàn đào của Tây Vương Mẫu, Cộng Công húc đổ Bất Chu Sơ, Tinh Vệ lấp biển, Thương Hiệt sáng tạo ra chữ viết, Hoàng Đế đại chiến Xi Vưu, những truyền thuyết đó hẳn nàng đã từng được nghe. Thần tiên yêu ma tuy rằng qua tu luyện có thể trường sinh bất lão nhưng đều không có tấm thân bất tử. Họ có thể đến Minh giới luân hồi chuyển kiếp, nhưng đại đa số đều tịnh độ ở cõi niết bàn.”</p>
+ <p>“Nói đi nói lại làm người vẫn là khổ nhất.”</p>
+ <p>“Cũng không hẳn, thế gian này Nhân giới đứng đầu về số lượng, những tộc khác chỉ chiếm một phần rất nhỏ. Nhân giới nhìn qua thì yếu đuối, thật ra lại mạnh nhất, là căn nguyên của Lục giới, là nguồn gốc của vạn vật.”</p>
+ <p>“Nhưng làm người mạnh ở đâu, tốt ở đâu?”</p>
+ <p>“Sức mạnh của lòng người là sức mạnh to lớn nhất, sau này nàng sẽ hiểu. Mà cảnh giới cao nhất của việc làm người không nhất định là thành tiên. Cho nên nàng không cần cố chấp chuyện tu tiên làm gì. Cho dù là thần tiên hay yêu ma đều có nỗi buồn phiền riêng. Nói không chừng làm người còn thoải mái, vui vẻ hơn.”</p>
+ <p>Hoa Thiên Cốt cảm thấy rất có lý, gật đầu.</p>
+ <p>“Vậy những người như Thanh Hư đạo trưởng thì là người hay tiên? Khi ông ấy nhờ tham gia Quần Tiên yến ta đã không nghĩ ra, một người bình thường như mình làm sao đi được.”</p>
+ <p>“Nàng không đọc ‘Lục giới toàn thư’ mà ông ấy đưa sao? Bên trong hẳn viết phần phân loại và cấp bậc vô cùng rõ ràng.”</p>
+ <p>“Đã xem đâu. Mười ba tháng sau đã là Quần Tiên yến, đường đi Côn Luân lại xa như vậy, ta sợ không đến kịp, mấy ngày nay đều chạy hết sức, tối đến vừa nằm đã ngủ, quên khuấy chuyện cuốn sách kia.”</p>
+ <p>“Cấp bậc của tiên dựa theo sự khác biệt trong pháp lực và địa vị mà chia làm chín bậc: Đứng đầu là Thượng tiên, thứ hai là Tiên, thứ ba là Thái thượng chân nhân, thứ tư là Phi thiên chân nhân, thứ năm là Linh tiên, thứ sáu là Chân nhân, thứ bảy là Linh nhân, thứ tám là Phi tiên, thứ chín là Tiên nhân. Cách để thành tiên cũng có rất nhiều, giống như Thiên tiên, Địa tiên và Thi giải tiên là phải chết trước rồi mới thành tiên. Đương nhiên có thể trực tiếp phi thăng là tốt nhất.”</p>
+ <p>“À, thì ra Trường Lưu đại tiên lợi hại như vậy.”</p>
+ <p>“Cái gì?” Đông Phương Úc Khanh nheo mắt lại.</p>
+ <p>“Thanh Hư đạo trưởng bảo ta đi bái Trường Lưu đại tiên Bạch Tử Họa làm thầy.”</p>
+ <p>Đông Phương Úc Khanh hừ lạnh một tiếng, ánh mắt ấm áp quen thuộc trở nên có chút kiêu căng. Không biết tại sao Hoa Thiên Cốt cảm thấy hắn có điểm gì đấy rất thân thuộc.</p>
+ <p>“Bọn họ đều đã thành tiên, còn có thể trông nom chuyện thế tục hay nhận đồ đệ sao?” Trước kia nàng luôn cho rằng tiên nhân đều xa tít mù khơi, rất khó gặp.</p>
+ <p>“Tình hình hiện nay, yêu ma xuất hiện dày đặc, ranh giới giữa tiên giả đắc đạo và kẻ tu hành đã không còn quá lớn. Ngoài Thiên Đình trên chín tầng mây ra, những tiên giả khác cho dù có chức vị hay là Tán tiên thảnh thơi, phần lớn đều ở sơn dã đào nguyên hay động tiên, tiên đảo xa bờ, người trần cũng có thể gặp tiên cầu duyên. Nói thẳng ra tiên nhân không xa xôi, khó mạo phạm như trong tưởng tượng của mọi người. Chẳng qua là nhiều pháp lực, ít sắc dục hơn người thường mà thôi. Hơn nữa, so với người, tiên càng dễ sa đọa nhập ma.”</p>
+ <p>Hoa Thiên Cốt thấy lời hắn mang theo sự khinh thường đối với tiên nhân, nhất thời không biết nói sao cho phải. Sư phụ tương lai của nàng không biết là người như thế nào đây?</p>
+ <p>“Thanh Hư đạo trưởng cũng là Thượng tiên đúng không?”</p>
+ <p>“Ông ta? Là Chân nhân thì có, cùng lắm là Linh tiên. Nàng tưởng rằng thành tiên dễ như vậy sao? Cả thiên giới bây giờ, cấp bậc Thượng tiên cũng chỉ có bốn người.”</p>
+ <p>“Oa! Lợi hại như vậy sao? Ta cứ tưởng rằng thành tiên nhất định phải đến mấy nơi như Tây Phương cực lạc.”</p>
+ <p>“Phần lớn họ đều không muốn ở lại Thiên Đình chịu sự quản chế của thiên pháp, đầu tiên là phi tiên, sau đó hoặc là du tiên hoặc là quay về nơi ở trước kia, tiếp tục bồi dưỡng đệ tử phi tiên. Nên nói thế nào nhỉ, lần này Yêu Thần xuất thế sau vạn năm luân hồi quả thực là không thể tránh khỏi. Tiên giới thật ra đã sớm chuẩn bị, rất nhiều năm trước đã gắng sức mở rộng lượng người tu đạo để đối phó với yêu ma xuất hiện khắp nơi. Cho nên các tiên đều cố gắng làm môn phái mình lớn mạnh hơn bằng cách tuyển đồ đệ, Mao Sơn chính là một trong số đó. Ngoài ra còn có Vương Ốc Sơn, Lao Sơn, Thái Bạch, Bồng Lai, vân vân… nhiều không kể xiết, chỉ cần có chút tiên tư đều bị đưa đi.”</p>
+ <p>“Con gái cũng được sao?”</p>
+ <p>“Phần lớn các phái đều nhận nữ đệ tử, đạo pháp có cả một phương pháp tu luyện là nam nữ song tu. Số ít còn lại vì bổn môn tiên thuật chỉ thích hợp với nam tử. Ngay cả Mao Sơn trước nay cũng được mấy nữ đồ.”</p>
+ <p>“A, vậy thì tốt quá! Trường Lưu Sơn chắc sẽ nhận ta đúng không? Tỉ lệ bái sư của ta lại lớn hơn mấy phần rồi!”</p>
+ <p>Đông Phương Úc Khanh nhìn dáng vẻ phấn khích của nàng, không kiềm được nở nụ cười.</p>
+ <p>“Trường Lưu Sơn là nơi tu đạo lớn nhất, tốt nhất trong tất cả các phái, cũng là nơi có nhiều môn hạ đệ tử nhất. Hơn nữa những đệ tử xuất sắc của phái khác cũng sẽ định kì ghé tới luyện tập. Một phần ba số tiên giả đắc đạo hiện nay đi ra từ đó. Trường Lưu Sơn bao gồm tất cả sở trường của các môn phái, tiên thuật đạo pháp đủ cả, số lượng tiên nhân pháp thuật cao cũng nhiều nhất. Dường như cả Tiên giới đều trông về nơi này.”</p>
+ <p>Ngừng một lát, hắn lại nói: “Nhưng đương nhiên điều quan trọng nhất là vì đến Ngọc Đế cũng không dám đắc tội với chưởng môn Trường Lưu Thượng tiên Bạch Tử Họa.”</p>
+ <p>Hoa Thiên Cốt vừa nghe lại thêm lo lắng.</p>
+ <p>“Ông ấy rất lợi hại, rất khó tính sao?”</p>
+ <p>“Chắc chắn là cực kỳ lợi hại. Trên Tiên giới những người có thực tài không nhiều lắm, nếu phải đối đầu, hắn chắc chắn là kẻ đáng sợ nhất. Còn nói khó tính thì lời đồn chưa hẳn đáng tin, nàng tự đi sẽ biết. Tuy ta không thích hắn, nhưng nếu nàng có thể bái hắn làm thầy thì đúng là phúc mấy đời.”</p>
+ <p>Hoa Thiên Cốt ngày càng bội phục Đông Phương Úc Khanh. Sao tên này cái gì cũng biết thế? Hắn thật sự chỉ là một thư sinh bình thường thôi sao?</p>
+ <p>“Nghe huynh nói cứ như đã từng gặp ông ấy rồi vậy.”</p>
+ <p>“Đương nhiên là chưa, ta nào có bản lĩnh ấy. Khả năng lớn nhất của Đông Phương Úc Khanh này là tri thức cùng lý luận. Ta có thói quen nhìn mọi chuyện một cách thấu đáo và đa chiều nhất, nàng không biết gì đều có thể tới hỏi.”</p>
+ <p>“Vậy huynh thử nói xem nếu Trường Lưu thượng tiên không chịu thu nhận ta thì có cách nào làm ông ấy đổi ý không?”</p>
+ <p>“Lòng người khó đoán, nàng tự cầu phúc đi.”</p>
+ <p>“Nhưng… ta thực sự rất lo lắng. À đúng rồi, huynh vẫn chưa nói cho ta biết Yêu Thần là cái gì, sao lại khiến Tiên giới loạn lên như thế?”</p>
+ <p>“Cụ thể thì không ai có thể nói rõ được, sở dĩ gọi là Yêu Thần là bởi nó vừa có khả năng phi phàm giống như thần, vừa có sức phá hoại vô cùng khủng khiếp. Chẳng những hấp thụ được tinh hoa nhật nguyệt mấy vạn năm, nó còn dung hợp được tất cả tà ác, hận thù, chiến tranh, tư dục và những thứ xấu xa, sau đó chuyển thế thành yêu. Song song với việc Yêu Thần xuất thế, cửa động ở Minh giới, Ma giới, Yêu giới sẽ bị mở ra, nhân gian binh phạt không ngừng, dân chúng lầm than, tất cả sẽ bị hủy diệt.”</p>
+ <p>“Không có cách nào chặn nó sao? Thần tiên mạnh như vậy cơ mà!”</p>
+ <p>“Lần trước đã ngăn rồi, dùng mười sáu thần khí thời thượng cổ, chia ra các nơi phong ấn Yêu Thần. Nhưng chỉ cần lòng còn ác niệm thì vĩnh viễn không thể diệt trừ tận gốc, tích lũy đến một thời điểm nhất định, nó sẽ giáng xuống nhân gian tàn phá tất cả.</p>
+ <p>“Trời ạ, thảo nào xích Thuyên Thiên kia quan trọng như vậy. Nếu như mất hết thần khí chẳng phải Yêu Thần sẽ sống lại sao?”</p>
+ <p>“Đúng vậy.”</p>
+ <p>“Những món kia đâu rồi?”</p>
+ <p>“Ở các môn phái, thần khí được coi là bảo vật trấn môn, nhưng luôn có yêu ma bụng dạ khó lường muốn cướp đi, để Yêu Thần xuất thế.”</p>
+ <p>“Trường Lưu Sơn cũng có?”</p>
+ <p>“Đương nhiên.”</p>
+ <p>“Nhưng hẳn sẽ không sao đâu, dù gì vẫn còn mười lăm món, khó có thể tập hợp đủ được. Chúng tiên nhân lợi hại như vậy, dù Yêu Thần thật sự xuất thế, bao nhiêu thần tiên ở đấy chẳng lẽ lại không áp chế được ư? Phong ấn nó như lần trước là được rồi.”</p>
+ <p>Đông Phương Úc Khanh nhìn nàng cười, nhưng nụ cười vốn dĩ thoải mái vui vẻ không biết tại sao giờ phút này lại có vẻ kỳ dị khó hiểu.</p>
+ <p>“Thiên Cốt, thế gian này đã không còn Thần nữa rồi!”</p>
+ <p>Hoa Thiên Cốt đờ người, gì mà thế gian này đã không còn Thần nữa rồi, hắn có ý gì?</p>
+ <p>Không có thế giới của Thần…</p>
+ <p>“Các thần tộc thượng cổ thường tranh đấu với nhau, rất ít tộc còn tồn tại được. Cuối cùng Yêu Thần xuất thế, vì tiêu diệt yêu ma khắp nơi cộng thêm việc phong ấn Yêu Thần, Thần giới chỉ còn một vị. Vị thần cuối cùng dùng máu thịt của mình bồi đắp lại thế giới do chiến tranh mà chỉ còn là một đống hoang tàn, sau đó cũng mất đi.”</p>
+ <p>“Thiên Cốt, nàng cũng biết lòng người đáng sợ thế nào, yêu ma cứ thế sinh sôi nảy nở, đến thần tiên cũng không thể áp chế. Tại sao sự trở về của Yêu Thần lại gây hoang mang như vậy, là bởi dù Nhân giới và Tiên giới liên thủ cũng không thể mạnh bằng Thần giới. Cho nên Yêu Thần trở lại chẳng khác nào tận thế. Chúng ta không cách nào tránh khỏi, chỉ có thể kéo dài từng ngày, cố gắng đẩy lùi ngày đó lại, nghĩ biện pháp khắc chế hoặc phong ấn nó, mà mười sáu món thần khí thượng cổ kia, chính là mấu chốt của mấu chốt.”</p>
+ <p>Hoa Thiên Cốt ngẩng đầu nhìn hắn, có rất nhiều điều nàng không hiểu, nhưng đột nhiên người lại nổi da gà, chỉ vì Yêu Thần mà cả Thần giới bị diệt ư? Nghĩ là hiện giờ Lục giới chỉ còn lại Ngũ giới, cái gì mà thần tiên thần tiên, trên đời này căn bản không có kẻ vừa sinh ra đã là thần, chỉ có người tu luyện thành tiên…</p>
+ <p>“Vậy, chẳng phải là lúc nào cũng có thể xảy ra chiến tranh sao?”</p>
+ <p>“Phải, nhanh thì tháng sau, chậm thì mấy chục năm sau. Cái này phụ thuộc vào sự bảo vệ thần khí của các tiên giả. Nhưng thiên mệnh không thể tránh… Yêu Thần sớm hay muộn cũng sẽ xuất thế.”</p>
+ <p>“Thật đáng sợ…”</p>
+ <p>“Dù thế nhưng cũng không thể để yên như vậy. Ngày mai ta phải về gấp, không thể đưa nàng đi được. Nếu nàng cứ đi thế này nhất định không tới kịp Quần Tiên yến, hay cưỡi ngựa đi!”</p>
+ <p>“Hả? Nhưng ta không biết cưỡi ngựa…”</p>
+ <p>“Mai ta sẽ dạy nàng.”</p>
+ <p>“Huynh dường như cái gì cũng biết ấy.” Hoa Thiên Cốt ngưỡng mộ nhìn hắn.</p>
+ <p>“Ha ha, nàng còn gì không biết, có thể hỏi ta.”</p>
+ <p>“Đúng rồi, này.” Hoa Thiên Cốt đột nhiên nghĩ ra, đưa sợi dây chuyền cho hắn xem, “Đây là vật có thể phá bùa chú Dị Hủ Quân đưa cho ta, gần đây luôn nóng lên, đôi khi tối đến còn phát sáng nữa, sao lại thế? Lãng ca ca bảo ta đừng đeo, nói không phải là vật tốt. Ta cũng không biết, huynh xem xem…”</p>
+ <p>“Thiên Thủy Tích sao? Nóng lên?” Đông Phương Úc Khanh vừa cầm xem vừa nhếch miệng.</p>
+ <p>“Nàng có thấy cái hồng hồng trong đấy không?”</p>
+ <p>“Có thấy…”</p>
+ <p>“Đây là linh trùng dùng bí thuật của Dị Hủ các cấy vào.”</p>
+ <p>“A? Trùng? Giống như kiểu hạ cổ sao?”</p>
+ <p>“Không phải, trùng này và cổ trùng khác nhau, nó có rất nhiều tác dụng, cũng có rất nhiều loại. Dị Hủ các đôi khi sẽ cấy nó vào đối tượng để thám thính tin tức, hoặc là để giết người.”</p>
+ <p>“Thật khủng khiếp…” Hoa Thiên Cốt sợ hãi lui lại hai bước. Không ngờ mình vẫn mang nó trên người lâu như vậy.</p>
+ <p>“Không sao, đây chỉ là linh trùng bình thường, nó hút máu nàng để thành hình và sẽ chỉ nghe lời nàng, có một ít pháp lực, nhưng không thể nói là lợi hại. Nàng đi một mình, trên đường có sủng vật làm bạn cũng không tồi. Có đao không?”</p>
+ <p>“A? Hả? Có liềm.” Hoa Thiên Cốt lấy liềm giắt bên hông xuống.</p>
+ <p>Đông Phương Úc Khanh mỉm cười, cắt một đường trên tay Hoa Thiên Cốt.</p>
+ <p>“Đau…”</p>
+ <p>Hắn nhỏ máu xuống Thiên Thủy Tích, máu bị hút vào rất nhanh.</p>
+ <p>“Làm thế này sâu mới có thể phá kén chui ra.”</p>
+ <p>Hoa Thiên Cốt nhìn không chớp mắt, thật sự có thể nở thành trùng ư?</p>
+ <p>Một lát sau, Thiên Thủy Tích đỏ bừng rồi bắt đầu xuất hiện vết nứt y như quả trứng đang nở, một con sâu trong suốt nhỏ hơn ngón út đang cố sức chui ra, trên thân còn vài sợi tơ máu, vừa giãy giụa vừa bò lổm ngổm.</p>
+ <p>“A! Ra rồi! Trời ơi!” Hoa Thiên Cốt kinh ngạc nhìn con sâu nhỏ, kích động hoa chân múa tay. Đây là con sâu của nàng sao?! Nàng có thú cưng của riêng mình rồi!</p>
+ <p>Con sâu nằm trên tảng đá vừa thở vừa nghỉ ngơi, cả người mềm nhũn núc ních toàn thịt, thật khiến người ta muốn bóp thử xem sao. Thân nó trong suốt, cực kì đẹp. Một lát sao, sâu nhỏ cố sức ngẩng đầu lên, mở hai mắt tin hin ra, chớp chớp nhìn hai người trước mặt rồi đột nhiên mở miệng gọi: “Cha, mẹ…”</p>
+ <p>“A!” Hoa Thiên Cốt thét lên kinh hoàng, lùi ra sau hai bước, ngã phịch xuống đất. Có lầm không trời?! Nó nói chuyện kìa!</p>
+ <p>Đông Phương Úc Khanh cười ngặt nghẽo, đưa một ngón tay trắng như bạch ngọc ra sờ đầu chú sâu bé bỏng, thật là đứa bé ngoan, tinh mắt lắm!</p>
+ <p>“Tại sao… tại sao sâu lại biết nói?” Hoa Thiên Cốt vẫn chưa hoàn hồn nhìn cảnh tượng hãi hùng này.</p>
+ <p>“Nó là yêu tinh, đương nhiên nói được.”</p>
+ <p>“Nhưng… nhưng sao lại gọi ta là mẹ? Ta nào phải sâu, cũng đâu có sinh ra nó?!”</p>
+ <p>“Nàng ấp ra nó, nói cho cùng nó cũng là máu thịt của nàng còn gì nữa.”</p>
+ <p>Nhìn vẻ mặt không thốt nên lời của Hoa Thiên Cốt, Đông Phương Úc Khanh cười đến sái quai hàm.</p>
+ <p>“Ta, ta là mẹ của sâu…” Hoa Thiên Cốt lắp bắp bước tới gần, mở to mắt nhìn chú sâu nhỏ trên tảng đá, mũi suýt chút nữa đụng vào người nó.</p>
+ <p>Chú sâu duỗi người, ngáp một cái, đáng yêu cực kì. Nó chu miệng, sau đó ôm lấy mũi Hoa Thiên Cốt rồi trèo lên.</p>
+ <p>“Mẹ, con đói bụng!”</p>
+ <p>“A…!” Hoa Thiên Cốt đứng hình, không ngừng nhìn Đông Phương Úc Khanh cầu cứu, nó bò lên mũi nàng rồi, bây giờ phải làm sao, làm sao hả?</p>
+ <p>Đông Phương Úc Khanh cười ngặt nghẽo tóm bé sâu xuống.</p>
+ <p>“Cha?” Sâu nhỏ vô tội ngẩng đầu nhìn hắn.</p>
+ <p>“Đồ ngốc này, làm mẹ con sợ rồi đấy!” Đông Phương Úc Khanh yêu thương đặt nó lên lòng bàn tay mình.</p>
+ <p>“Hu hu hu, nó đói bụng thì ta phải làm sao? Không phải cho nó bú đấy chứ? Hu hu hu, ta không có đâu…” Hoa Thiên Cốt ôm ngực, mồ hôi tuôn ào ào như thác Lư Sơn.</p>
+ <p>Đông Phương Úc Khanh cố nhịn cười, suýt chút nữa không chịu nổi.</p>
+ <p>“Nếu nàng ngại máu mình nhiều như thế mà không có chỗ dùng, có thể mỗi ngày hoặc mỗi tháng cho nó ăn một giọt, giúp linh lực của nó tăng lên. Nếu không thì cho nó ăn mấy thứ như lá cây hay hoa cỏ đều được.”</p>
+ <p>“Nó có ăn bánh mì không?” Hoa Thiên Cốt cẩn thận nhận chú sâu từ tay Đông Phương Úc Khanh.</p>
+ <p>“Có thể sẽ ăn, tùy theo khẩu vị của nó.”</p>
+ <p>Sâu nhỏ bò tới gần bánh mì cắn một miếng. Ọe ọe ọe, cứng quá!</p>
+ <p>Khỉ gió, còn kén chọn. Nàng không biết nói gì hơn, đành đi hái một nhành cỏ non đưa tới trước mặt chú sâu. Sâu ta vui vẻ ôm lấy nhấm nháp, chỉ chốc lát sau trên lá đã có thêm một hàng răng cưa.</p>
+ <p>“Ha ha, thật đáng yêu.” Hoa Thiên Cốt mềm lòng, ánh mắt tràn đầy yêu thương. Đột nhiên nhớ tới miếng bánh vừa ăn liền mang ra đút cho bé sâu, sâu ta sung sướng đớp sạch.</p>
+ <p>“Ừ, sau này nó có thể ở bên nàng.”</p>
+ <p>“Nhưng nhỡ bị ta đè chết thì sao? Nó nhỏ như thế!” Hoa Thiên Cốt đánh bạo đưa đầu ngón tay ra sờ nó, bé sâu vô cùng thân thiết cọ cọ vào.</p>
+ <p>“Nó là yêu tinh, sao có thể bị đè chết được. Nàng đặt cho nó một cái tên đi.”</p>
+ <p>“Hả? Đặt tên? Ta chưa đặt tên bao giờ. Ừm… Nó vừa nhỏ vừa đáng yêu như vậy, hay gọi là Đường Bảo đi.”</p>
+ <p>“Đường Bảo?”</p>
+ <p>“Đường Bảo! Đường Bảo! Đường Bảo Bối!” Hoa Thiên Cốt đặt Đường Bảo vào lòng bàn tay chu miệng thơm một cái.</p>
+ <p>“Tên của ngươi sau này là Đường Bảo!”</p>
+ <p>Đường Bảo cười rộ lên, giọng giống như một đứa trẻ, thoáng có nét tinh ranh.</p>
+ <p>“Tên con là Đường Bảo. Cha, mẹ!”</p>
+ <p>“Ta là mẹ của ngươi, nhưng kia không phải cha ngươi đâu!” Nàng vội vã dạy lại trẻ nhỏ.</p>
+ <p>“Cha, cha!” Đường Bảo nhìn Đông Phương Úc Khanh cười.</p>
+ <p>“Sao ta lại không phải là cha nó, chờ ta làm xong việc quan trọng, đến lúc đó ta sẽ đi tìm nàng, lấy nàng làm vợ. Ta sẽ chịu trách nhiệm với nàng đến cùng.”</p>
+ <p>Thật là, sao tên này cứ nhì nhèo mãi thế!</p>
+ <p>Hoa Thiên Cốt vui đùa ầm ĩ với Đường Bảo cả một đêm. Hôm sau Đông Phương Úc Khanh ra chợ mua hai con ngựa tốt, không biết hắn thầm thì bên tai ngựa điều gì mà con vật hung dữ vừa nãy bỗng trở nên hiền lành lạ thường.</p>
+ <p>Nàng học rất nhanh, vui vẻ cưỡi ngựa chạy lòng vòng. Đi với tốc độ này sẽ nhanh hơn nhiều, lại còn ít xóc.</p>
+ <p>“Đường Bảo, phải giúp cha chăm sóc tốt cho mẹ con đấy!”</p>
+ <p>“Dạ!” Đường Bảo ngồi trong lỗ tai Hoa Thiên Cốt, một chi còn túm lấy sợi tóc của nàng đưa qua đưa lại, mắt ươn ướt tạm biệt Đông Phương Úc Khanh.</p>
+ <p>Hắn đưa tay ra vuốt đầu nàng, vẻ mặt dịu dàng như thế, nụ cười thanh nhã như thế, khiến Hoa Thiên Cốt ngây người.</p>
+ <p>“Bảo trọng, nhớ bái sư học nghệ cho tốt, cho đến lúc đó ta sẽ đi tìm nàng, cưới nàng về nhà.” Nói rồi đeo Thiên Thủy Tích đã sửa xong lên cổ Hoa Thiên Cốt.</p>
+ <p>Tuy rằng đã nghe hắn lải nhải những lời này rất nhiều lần đến mức vô cảm, nhưng không hiểu sao lúc này mặt nàng lại đỏ bừng, không đồng ý cũng không phản bác thúc ngựa đi. </p> 
+</div>

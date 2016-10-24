@@ -1,0 +1,107 @@
+<div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
+ <strong> Chương 06 phần 3 </strong>
+ <p> <br> </p> 
+ <br> 
+ <p> Lúc Ma Nghiêm đẩy cửa ra, Bạch Tử Họa đang ngồi trước án đọc sách, không buồn ngẩng đầu lên. </p> 
+ <p> “U Nhược nói đệ nhập ma?” Mặt Ma Nghiêm xanh mét, có vài lời phải hỏi cho rõ. </p> 
+ <p> Bạch Tử Họa uống một ngụm trà, lạnh lùng đáp: “Không sao, con bé lo nhiều quá rồi, cần gì phải gọi huynh tới.” </p> 
+ <p> Ma Nghiêm nắm chặt tay, cau mày: “Con nhóc kia, đêm qua đã đến đây đúng không?” </p> 
+ <p> Bạch Tử Họa không đáp. </p> 
+ <p> “Vết thương của đệ là do nó chữa? Tử Họa, đệ quả đã thu được một đồ đệ tốt!” </p> 
+ <p> Bạch Tử Họa buông sách nhìn Ma Nghiêm: “Sư huynh, có chuyện thì nói thẳng đi.” </p> 
+ <p> Ma Nghiêm nổi gân xanh, đập mạnh lên bàn: “Đệ biết rõ nó mới là Yêu Thần, sao có thể vì tình riêng mà bao che? Đệ định giải thích với thiên hạ thế nào?” </p> 
+ <p> “Ta không cần giải thích với bất kì ai. Sức mạnh Yêu Thần kia cũng không phải nàng muốn, tất cả đều nằm ngoài dự đoán.” </p> 
+ <p> “Sư đệ còn không hiểu sao? Con nhóc đó là yêu nghiệt, từng bước lấy được thần khí rồi từng bước chiếm được sức mạnh Yêu Thần, tất cả đều đã định trước, đó là số phận của nó.” </p> 
+ <p> “Số phận thì sao? Cho dù là Yêu Thần cũng là đồ đệ của Bạch Tử Họa này. Chỉ cần một ngày ta vẫn là sư phụ của nàng thì ta sẽ chịu trách nhiệm với nàng, với tất cả những gì nàng đã gây ra.” </p> 
+ <p> “Đệ chịu được sao?” </p> 
+ <p> “Ta sẽ dốc hết sức mình.” </p> 
+ <p> “Đáng ư?” </p> 
+ <p> “Chỉ có nên hay không nên, không có đáng hay không đáng.” </p> 
+ <p> Ma Nghiêm nhắm mắt thở dài: “Nếu sai thì sao? Chung quy vẫn là tai họa của muôn dân?” </p> 
+ <p> “Không phiền sư huynh lo lắng, tới lúc đó tự ta sẽ xử lí môn đồ của mình. Có điều nàng vẫn là đồ đệ của Bạch Tử Họa này thì xin sư huynh đừng tự tiện xen vào! Đệ tử của ta ta sẽ tự dạy dỗ!” Bạch Tử Họa đáp lạnh lùng. </p> 
+ <p> Ma Nghiêm bất đắc dĩ cười gằn: “Thì ra chuyện hôm qua đệ cũng biết.” </p> 
+ <p> Bạch Tử Họa xoay lưng lại. </p> 
+ <p> Vẻ mặt Ma Nghiêm đanh tới rợn người: “Ta không thấy mình sai, chỉ hận lúc ấy bất cẩn để con nhóc đó chạy thoát. Nếu còn gặp lại, ta vẫn sẽ tìm cách giết nó.” </p> 
+ <p> Bạch Tử Họa khẽ nhíu mày. </p> 
+ <p> “Nếu không đệ cho là còn cách nào khác sao? Dù bây giờ đệ đã khôi phục tiên lực thì vẫn không thể chịu nổi một đòn của Yêu Thần. Nếu lúc đó nó điên lên, đệ định ngăn thế nào?” </p> 
+ <p> “Nàng là đệ tử của ta, ta đương nhiên hiểu tính nàng. Mặc dù có sức mạnh Yêu Thần, nhưng khi vẫn còn lí trí sẽ không làm hại thế gian… Nàng chỉ muốn cứu Nam Vô Nguyệt.” </p> 
+ <p> U Nhược bưng bát thuốc đẩy cửa vào: “Nếu Tiểu Nguyệt đã không phải là Yêu Thần thì vì sao Tôn thượng không chịu thả thằng bé?” </p> 
+ <p> Thấy Bạch Tử Họa không nói, con bé mong ngóng nhìn Ma Nghiêm. </p> 
+ <p> Ma Nghiêm rất thân với Hiên Võ Đại Đế, hơn ba mươi năm trước đã từng gặp U Nhược, cũng quý con bé nên nhẫn nại giải thích: “Không phải Trường Lưu muốn lạm sát người vô tội. Yêu nghiệt kia xảo quyệt, chỉ muốn mượn việc sức mạnh Yêu Thần đã dời đi để tránh một kiếp, nhưng chỉ cần chân thân Yêu Thần một ngày chưa diệt thì chúng ta không thể phong ấn và ngăn cản yêu lực.” </p> 
+ <p> Bỗng nhớ tới điều gì, Ma Nghiêm giật mình nhìn Bạch Tử Họa: “Hay đệ cho rằng sau khi diệt được chân thân của Yêu Thần thì chỉ cần Hoa Thiên Cốt nghe lời là có thể nghĩ cách tách sức mạnh Yêu Thần ra khỏi cơ thể nó rồi phong ấn lại?” </p> 
+ <p> Bạch Tử Họa khẽ nhíu mày. </p> 
+ <p> Ma Nghiêm lạnh lùng nói: “Sư đệ, đệ chắc biết sau khi chân thân của Yêu Thần tan biến thì cách duy nhất để dịch chuyển sức mạnh là dùng thuật âm dương giao hợp. Chẳng lẽ đệ còn muốn vì muôn dân bá tánh mà…” </p> 
+ <p> Bạch Tử Họa phẩy tay áo khẽ mắng: “Sư huynh, huynh càng nói càng quá rồi.” </p> 
+ <p> Ma Nghiêm lạnh lùng đáp: “Dẫu đệ chưa từng nghĩ tới, nhưng còn những người khác thì sao? Đông Phương Úc Khanh gì đó, Sát Thiên Mạch tà ma ngoại đạo thì sao? Con nhóc kia không biết tự trọng như thế, lằng nhằng mờ ám với bao nhiêu người, ngộ nhỡ có kẻ bụng dạ đen tối muốn lấy sức mạnh Yêu Thần trên người nó thì sợ muốn ngăn cũng không được!” </p> 
+ <p> “Đủ rồi!” Rốt cuộc Bạch Tử Họa cũng nổi giận, “Mời sư huynh về cho!” </p> 
+ <p> Ma Nghiêm hậm hực phẩy tay áo bỏ đi. U Nhược biết bí mật tày trời, vội vàng chuồn ra ngoài, phải mau nghĩ cách báo cho sư phụ biết. </p> 
+ <p> Bạch Tử Họa lạnh lùng nhìn lên giường. </p> 
+ <p> Bất kể hắn cố nhớ thế nào cũng chỉ nhìn thấy vài hình ảnh vụn vặt lúc ở trên đó với Tiểu Cốt. </p> 
+ <p> Khi ấy nàng bị thương nặng mà vẫn muốn tới chữa thương cho hắn. Hắn lại nhập ma, muốn uống rất nhiều máu. Không ngờ, lại giống lần trước, làm việc gì vô lễ với nàng… </p> 
+ <p> Chết tiệt! </p> 
+ <p> Hắn không thể nhớ rõ chuyện gì cả! </p> 
+ <p> Nếu không phải hắn đã phục hồi tiên lực thì chẳng phải chuyện gì cũng quên sạch trơn, thậm chí còn không biết ai đã đến sao? </p> 
+ <p> Tay dần nắm thành đấm, Bạch Tử Họa thoáng tức giận. </p> 
+ <p> Được, được lắm, dám xóa trí nhớ của hắn lần nữa. Nha đầu kia quả là càng ngày càng to gan! Đúng là đồ đệ giỏi Bạch Tử Họa hắn dạy dỗ! </p> 
+ <p> Bạch Tử Họa dùng mực đỏ viết một ít kinh văn mà U Nhược không hiểu gì lên một tảng đá giống ngọc mà không phải ngọc đặt trên bàn. Con bé vừa thấp thỏm mài mực đỏ vừa áu huyền điểu vào theo lời dặn, muốn nói lại thôi. </p> 
+ <p> Bạch Tử Họa không ngẩng đầu lên: “Có gì cứ nói thẳng.” </p> 
+ <p> Từ sáng sớm con bé đã lén nhìn hắn bằng ánh mắt kì quặc này, tựa như chưa từng biết hắn vậy. </p> 
+ <p> U Nhược nhếch miệng cười khúc khích: “Sao Tôn thượng không hỏi con ngày hôm qua đã xảy ra những chuyện gì?” </p> 
+ <p> Bạch Tử Họa ngừng bút một lát. Hắn hỏi có tác dụng gì sao? Con bé ngay từ đầu tới Trường Lưu cũng chỉ vì Hoa Thiên Cốt, chắc chắn sau buổi gặp hôm qua hai người đã thông đồng với nhau. Tiểu Cốt có ý xóa trí nhớ của hắn, U Nhược sao chịu nói ra, chẳng lẽ hắn phải bức cung con bé? </p> 
+ <p> Thấy Bạch Tử Họa không nói gì, lại mang vẻ cao cao tại thượng khác hẳn đêm qua, mắt U Nhược hiện lên ý trêu chọc, cố tình cúi đầu đỏ mặt ngại ngùng nói: “Thật, thật không ngờ thì ra Tôn thượng cũng có mặt cuồng nhiệt như vậy…” </p> 
+ <p> Trà trong miệng Bạch Tử Họa suýt phụt ra, lại uống hai ngụm, cố gắng trấn định tâm thần. Hắn biết chân thân của mình chưa mất, không ma tính đến nỗi làm chuyện bất chính với Tiểu Cốt, nhưng cũng không biết rốt cuộc mình đã đi quá giới hạn tới mức nào. Giờ bị đồ tôn U Nhược nói thế, không khỏi càng thêm nghi ngờ, bực mình và xấu hổ. </p> 
+ <p> Hắn luôn cực kì tin tưởng bản thân, nhưng sau lần thất thố đợt trúng độc trước, còn phải để Tiểu Cốt dùng nhiếp hồn thuật giấu giếm, khó tránh khỏi việc bất an vì những điều đã quên và hoàn toàn không nằm trong tầm kiểm soát. </p> 
+ <p> Coi như khi đó mình nhập ma, mất lí trí, không phải cố ý làm thế, nhưng chung quy sai vẫn là sai. </p> 
+ <p> U Nhược thấy ánh mắt Bạch Tử Họa bỗng ủ ê, áy náy và tự trách, nó bèn hỏi: “Tôn thượng, khi nào sư phụ mới có thể về Tuyệt Tình điện?” </p> 
+ <p> Tuy không nói nhưng rõ ràng Tôn thượng quan tâm sư phụ, hi vọng sư phụ về hơn bất kì ai khác. Vì sao lại luôn tuyệt tình như thế? Nó không hiểu. </p> 
+ <p> Bạch Tử Họa nghiêm túc nhìn nó: “U Nhược, con biết thân phận hiện giờ của sư phụ con là gì không?” </p> 
+ <p> U Nhược cúi đầu: “Yêu Thần…” </p> 
+ <p> “Vậy con thấy rằng nàng có thể quay về Trường Lưu nữa không?” </p> 
+ <p> “Nhưng Tôn thượng, người…” </p> 
+ <p> “Con nghĩ ta không trục xuất nàng khỏi sư môn là chừa một đường lui cho nàng sau này quay về?” </p> 
+ <p> U Nhược tha thiết nhìn Bạch Tử Họa, ra sức gật đầu: “Hơn nữa không phải bao lâu nay Tôn thượng luôn vất vả nghĩ cách tách sức mạnh Yêu Thần ra mà không tổn hại đến sư phụ sao?” </p> 
+ <p> Bạch Tử Họa buông bút đỏ xuống, vẻ mặt thản nhiên. </p> 
+ <p> “Đầu tiên, ta không trục xuất nàng khỏi sư môn, không phải vì niệm tình thầy trò gì gì đó, mà để giữ cho nàng chút hi vọng, một đường lui, một ngọn đèn, như thế sau này nàng làm gì ít nhất cũng bận tâm, bận tâm Trường Lưu và bận tâm tới chúng sinh. U Nhược con phải nhớ, dù có là người lương thiện tới đâu cũng không thể chịu nổi quá nhiều khổ sở và oan ức. Chuyện gì cũng phải có chừng mực, trách phạt cũng vậy. Đuổi cùng giết tận sẽ ép một người vốn có thể hối cải trở thành một kẻ tàn nhẫn điên cuồng. Vật cực tất phản, đá nát ngọc tan. Tuyệt vọng là thứ vô cùng đáng sợ, một khi khiến sư phụ con cảm thấy mình bị cả thiên hạ vứt bỏ thì chỉ càng khiến nàng bước nhanh trên con đường trở thành Yêu Thần. Vậy nên không cần nghĩ ta nhân từ, ta chỉ suy tính cho đại cục thôi. </p> 
+ <p> Tiếp theo, cho dù là vì đại cục, nhưng trước khi sư phụ con thực sự trở thành Yêu Thần, ngay cả nàng cũng chưa đánh mất mình mà chúng ta lại muốn vứt bỏ nàng, giết nàng cũng là sai. Đại nghĩa thật sự, điều kiện tiên quyết không phải là hi sinh bản thân. Nhưng sư phụ con phạm sai lầm lớn, bản thân cũng phải chịu trách nhiệm, có thể nói là chết vẫn không đủ. Vậy nên tới lúc không thể cứu vãn nổi, ta chắc chắn sẽ không do dự, tự tay giết nàng.” </p> 
+ <p> U Nhược giật mình, trán ứa đầy mồ hôi lạnh. Trước kia nó luôn thấy Tôn thượng quá xa, không dễ lại gần, lần đầu tiên nhận ra lòng người sâu như biển, ngôn hành cử chỉ đều bao hàm quá nhiều thâm ý, thật đáng sợ. </p> 
+ <p> Nàng hiểu rõ tính cách của sư phụ, chỉ cần biết mình còn chút hi vọng có thể quay lại Trường Lưu, trở về bên Tôn thượng, người sẽ liều mạng cố gắng. Sẽ không buông thả, không chịu thua, không từ bỏ, lại càng không dễ bị sức mạnh của Yêu Thần chi phối. Tôn thượng đã sớm nhận ra tình cảm sâu đậm mà sư phụ dành cho người, vậy nên mới dùng cách này để dẫn dắt người, ràng buộc người ư? </p> 
+ <p> Từ đêm qua, nó vất vả lắm mới đoán được có lẽ Tôn thượng cũng hơi thích sư phụ chứ không đơn thuần là tình cảm thầy trò, bây giờ thì hết hẳn. </p> 
+ <p> Thế sự khó dò, tuy rằng không phải chuyện gì xảy ra cũng nằm trong tay Tôn thượng, nhưng Tôn thượng lại hiểu sư phụ quá rõ, dù sư phụ có làm thế nào cũng không vượt qua nổi năm ngón tay của người. Có điều một khi không thể nào nắm trong tay nữa, Tôn thượng sẽ không chút lưu tình, bóp chết sư phụ như bóp chết một con kiến. </p> 
+ <p> “Sư phụ vẫn còn lí trí, chưa bị yêu lực khống chế, một lòng muốn quay về, chẳng lẽ không thể khoan dung ạ?” </p> 
+ <p> Bạch Tử Họa lắc đầu: “U Nhược, con không hiểu sư phụ con. Tiên giới nhất định phải trừ Nam Vô Nguyệt, trước kia rõ ràng sư phụ con có cơ hội diệt nó trong lỗ đen mà mãi không ra tay được, ngược lại ngày càng có tình cảm với thằng bé. Con cho là dựa vào khả năng bây giờ của Tiểu Cốt mà thúc thủ chịu trói, ngoan ngoãn quay về Trường Lưu nhận phạt, trơ mắt nhìn Nam Vô Nguyệt chết sao?” </p> 
+ <p> U Nhược nhìn Bạch Tử Họa, bỗng rùng mình, hoảng sợ trợn mắt: “Thì ra Tôn thượng đã sớm quyết định…” </p> 
+ <p> Bạch Tử Họa không nói gì, nếu Tiểu Cốt có sức mạnh Yêu Thần thì chỉ có ba kết cục, hoặc là tách sức mạnh Yêu Thần ra, hoặc là bị nhốt, hoặc là chết. Mà từ thời thượng cổ đến nay sức mạnh Yêu Thần đã qua vài phen tranh đoạt, tất cả đều nhân lúc chân thân của Yêu Thần chưa thành hình giết rồi cướp đi, sau đó muốn tách ra thì phải dùng thuật âm dương giao hợp. Vậy nên chắc chắn không thể tách sức mạnh ra được, hắn cũng không đồng ý, từ một Yêu Thần này đổi thành một Yêu Thần khác chỉ trừ được ngọn mà không trị tận gốc. Đày nàng tới man hoang còn tốt hơn phải nhốt nàng, mà ngay từ giây phút nàng quay về Lục giới, chắc chắn chỉ còn một đường chết. </p> 
+ <p> *** </p> 
+ <p> Trở lại Mao Sơn, Đông Phương Úc Khanh cho Hoa Thiên Cốt uống ít thuốc bí chế, hơn nữa nhờ sức mạnh Yêu Thần mà vết thương bắt đầu khép miệng nhanh hơn, nhưng sẹo và nỗi đau vẫn không vơi đi chút nào. Nghe tiếng xương chuyển động lách cách như một cỗ máy hỏng, nàng vốn quen chịu cơn đau vượt qua sức chịu đựng của người thường mặt cũng trắng bệch, cắn chặt môi dưới không lên tiếng, đầu ứa đầy mồ hôi lạnh. </p> 
+ <p> Dù sao Hoa Thiên Cốt cũng không phải là mình đồng da sắt, đau ngất đi rồi lại tỉnh hết lần này tới lần khác, như búp bê đất vỡ được nặn lại, giày vò cả buổi chiều mới khép miệng bảy tám phần. Nàng mê man ngủ trên giường không biết qua mấy canh giờ, bỗng thấy Đông Phương Úc Khanh cúi người khẽ nói bên tai: “Khinh Thủy, Lạc Thập Nhất và Hiên Viên Lãng tới.” </p> 
+ <p> Hoa Thiên Cốt nháy mắt đã tỉnh táo hơn nửa, mở mắt đấu tranh ngồi dậy. Đông Phương Úc Khanh vội vã đỡ nàng: “Đừng vội, ta nói nàng đang ngủ, họ vẫn còn chờ bên ngoài.” </p> 
+ <p> Hoa Thiên Cốt hốt hoảng nhìn xung quanh, trong lòng có chút lo lắng. Đông Phương Úc Khanh biết băn khoăn của nàng, lấy một chiếc mặt nạ như cánh ve ra: “Muốn không?” </p> 
+ <p> Hoa Thiên Cốt trầm tư một lát, nghĩ Hiên Viên Lãng cũng tới, khẽ lắc đầu: “Không cần đâu, cứ để thế đi.” </p> 
+ <p> Đông Phương Úc Khanh mở cửa cho bọn Khinh Thủy vào. Lạc Thập Nhất vội vã bước tới, mới đi được mấy bước đã có thứ gì đó xanh biếc mềm nhũn dính lên mặt hắn. Hắn xách Đường Bảo xuống, dịu dàng cười yêu chiều. Hắn đi tới bên giường Hoa Thiên Cốt, đúng là cơ hội hiếm có, đang vui sướng gặp lại, vừa ngẩng đầu lên nhìn thấy gương mặt đã thay đổi hoàn toàn của nàng, nhất thời sợ ngây người, nụ cười đông cứng lại. </p> 
+ <p> Mà Khinh Thủy và Hiên Viên Lãng theo sau hắn cũng lảo đảo lui lại phía sau, dường như đứng không vững. </p> 
+ <p> Lạc Thập Nhất vừa nhìn đã hiểu hết, là nước ao Tuyệt Tình, trước kia Hoa Thiên Cốt mới lên Trường Lưu Sơn, hắn chính là người đưa nàng tới ao Tam Sinh. Không ngờ Hoa Thiên cốt vô tham vô dục vô tình lúc ấy nay lại vì nước ao Tuyệt Tình mà thối thịt mòn xương, rơi vào kết cục thế này. </p> 
+ <p> Lạc Thập Nhất đau lòng quay đi, nhớ tới khuôn mặt ngây thơ của nàng khi nói chuyện với mình lúc mới gặp, suýt nghẹn thở. </p> 
+ <p> Khinh Thủy nức nở, chạy lên ôm Hoa Thiên Cốt khóc không thành tiếng. </p> 
+ <p> Hiên Viên Lãng không biết nước ao Tuyệt Tình là thứ gì, chỉ biết dung mạo của Hoa Thiên Cốt bị hủy. Hắn sửng sốt đứng đó, bao lời muốn nói đều nghẹn ở cổ họng, không thốt nổi một câu. </p> 
+ <p> Hoa Thiên Cốt gắng nhếch miệng, sợ mọi người không thấy nàng đang cười. Nàng vỗ nhẹ lưng Khinh Thủy khẽ an ủi, đã là người tu đạo, cần gì phải so đo xác thịt. Khinh Thủy không ngừng khóc được, nước mắt thấm ướt hết vạt áo Hoa Thiên Cốt, tay dừng lại giữa chừng không dám chạm vào mặt nàng. </p> 
+ <p> “Đừng khóc nữa, cậu muốn nhấn chìm cả Vạn Phúc cung hả? Khó khăn lắm mới gặp lại, phải vui vẻ chứ!” </p> 
+ <p> Hoa Thiên Cốt bất đắc dĩ ôm chặt lấy Khinh Thủy, Lạc Thập Nhất đau lòng vuốt đầu nàng, đột nhiên không biết nói gì cho phải. </p> 
+ <p> Hoa Thiên Cốt nhìn Hiên Viên Lãng vẫn kinh ngạc đứng đó, không nhịn được đùa cợt: “Sao thế, Lãng ca ca, không phải huynh đã nói, dù Thiên Cốt là nam hay nữ, bộ dạng giống người hay đầu heo cũng sẽ không ghét bỏ ư? Chẳng lẽ giờ không nhận ra muội nữa rồi?” </p> 
+ <p> Hiên Viên Lãng nhói lòng, suýt bật khóc. Hắn nghĩ tới những nỗi khổ nàng đã phải chịu suốt một năm nay, áy náy và tự trách tuôn ra ào ạt. Rõ ràng hắn đã hứa sẽ bảo vệ nàng an toàn! Cuối cùng lại không làm được gì… </p> 
+ <p> Thân thể trĩu nặng như bị dội thủy ngân, hắn đi từng bước tới trước mặt, nắm chặt tay nàng. Hoa Thiên Cốt cảm nhận được Hiên Viên Lãng đang run rẩy, rõ ràng không đành lòng nhưng vẫn nhìn chằm chằm mặt mình, tựa như muốn tạc thứ gì đó vào đáy lòng. </p> 
+ <p> Mọi người đều nói tình hình một năm nay của mình, Hoa Thiên Cốt cũng kể chi tiết những chuyện đã xảy ra ở man hoang ọi người nghe. Khi ăn xong thì trời đã tối, tới lúc ba người họ phải đi. </p> 
+ <p> “Lãng ca ca, muội có vài lời muốn nói với huynh.” </p> 
+ <p> Tất cả mọi người đều đi ra ngoài, để hai người bọn họ trong phòng. </p> 
+ <p> Hiên Viên Lãng muốn ôm nàng như trước, nhưng lại cảm thấy mình không đủ tư cách. Hắn luôn kiêu căng tự phụ, lại chưa từng làm gì cho nàng, ngay cả việc ở bên cũng không. Cảm giác bất lực này so với bất kì sự thất bại nào đều khiến người ta xấu hổ hơn. </p> 
+ <p> Hoa Thiên Cốt mặc dù không thể hiểu hết nỗi khổ tâm và phẫn nộ của hắn, nhưng cũng thoáng cảm nhận thấy hắn đang tự trách. Nàng chỉ biết vỗ nhẹ vai hắn, cười trấn an. </p> 
+ <p> “Lãng ca ca, chuyện gì cũng có nhân quả báo ứng, đây là hình phạt dành uội, muội không buồn đâu. Tuy đã thoát khỏi man hoang nhưng mấy ngày nay muội vẫn bất an, luôn có dự cảm xấu. Tiểu Nguyệt là muội tự tay nuôi lớn, nó giống như con của muội vậy. Thằng bé không hề làm sai chuyện gì, dù có chết muội cũng nhất định phải cứu nó, cho nên sau này không thể không thành kẻ địch của Lục giới. Muội vốn là tội nhân, sống hay chết đều không sao, nhưng còn quá nhiều điều vướng bận. Sau này Đông Phương có thể chăm sóc Tiểu Nguyệt giùm muội, Đường Bảo cũng có Lạc Thập Nhất, còn Khinh Thủy muội chỉ có thể nhờ huynh. Cậu ấy rất thích huynh…” </p> 
+ <p> Hiên Viên Lãng chặn lời nàng, cau mày: “Thiên Cốt, muội đang trăn trối đó hả? Hay là sau khi cứu được Tiểu Nguyệt muội muốn dùng cái chết để tạ tội?” </p> 
+ <p> “Không, con người một khi có quá nhiều nhớ mong và vướng bận thì sẽ rất sợ chết, ví như muội, dù biết rõ mình là tai họa, lí ra nên ngoan ngoãn ở lại man hoang, nhưng vẫn không nhịn được muốn trở về thăm mọi người. Có điều tương lại lành ít dữ nhiều, muốn cứu Tiểu Nguyệt thì sẽ trở thành kẻ địch của Lục giới, muội không tin mình có thể an toàn trở ra. Nếu muội có mệnh hệ gì, Khinh Thủy cũng chỉ có thể nhờ huynh chăm sóc, muội sẽ không còn vướng bận gì nữa.” </p> 
+ <p> Hiên Viên Lãng bình tĩnh nhìn Hoa Thiên Cốt: “Huynh sẽ dốc toàn lực để bảo vệ nàng ấy, nhưng Thiên Cốt, muội phải nhớ, người huynh thích là muội.” </p> 
+ <p> Hoa Thiên Cốt thản nhiên lắc đầu: “Lãng ca ca, người huynh thích không phải là muội. Bao năm qua chúng ta chẳng mấy khi ở gần nhau, cũng không hiểu nhau. Rung động không phải là yêu, huynh chỉ đang bị cảm giác thời trẻ mê hoặc đến nỗi không nhìn thấy gì khác mà thôi. Hai chúng ta đều là những kẻ vô cùng cố chấp. Huynh vốn hiếu thắng, cũng kiên trì, nên đối với huynh mà nói, muội không phải là người huynh thích mà là một đức tin, một nơi kí thác thì đúng hơn. Lãng ca ca, so với việc sống với những mộng mơ ngày nhỏ, làm tổn thương hạnh phúc và tình yêu để tiếp tục cố chấp không buông những điều không thực, chi bằng tỉnh táo lại đi, nghĩ kĩ xem thứ mình muốn rốt cuộc là gì.” </p> 
+ <p> Hiên Viên Lãng ngây người, như bị người khác nên mạnh một cú vào đầu. Nhưng hắn vẫn cố chấp lùi lại: “Thiên Cốt, muội không phải huynh, muội không hiểu cảm giác của huynh. Huynh chưa làm được gì, cũng không hi vọng báo đáp, huynh chỉ muốn muội hiểu được lòng mình. Giờ muội không tin cũng không sao, một ngày nào đó muội sẽ hiểu. Bảo trọng…” </p> 
+ <p> “Lãng ca ca!” </p> 
+ <p> Hoa Thiên Cốt giơ tay ra lại không thể nắm được tay áo tuyệt đẹp của Hiên Viên Lãng cũng không quay đầu lại đi ra ngoài. Dưới tàng mai cách đó không xa, Khinh Thủy lặng lẽ đứng chờ huynh ấy. </p> 
+ <p> “Thiên Cốt không sao chứ?” </p> 
+ <p> “Không sao.” </p> 
+</div>

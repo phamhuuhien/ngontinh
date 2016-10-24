@@ -1,0 +1,134 @@
+<div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
+ <p> Mặt biển rộng mênh mông, bát ngát, trên không trung điểm vô số chấm đen, chính là những con chim hải âu từ ngoài khơi đang chao lượn. Ráng chiều bao phủ đầy trời, một bóng người khoanh tay đứng trên tảng đá bên cạnh bờ biển dưới ánh trời chiều, cả người như được viền quanh bởi một vòng tròn bằng vàng thật hoa lệ.</p>
+ <p>Một cô gái ngự kiếm bay đến, từ xa xa cô gái nhìn thấy hắn mà sững sờ cả người. </p>
+ <p>Hắn xoay người lại phát hiện sự có mặt của cô gái, khẽ kêu lên, "Thủy Tiên" ?</p>
+ <p>Một nụ cười nhẹ nở ra trên đôi môi của hắn còn dịu dàng hơn cả thứ ánh sáng mờ nhạt đang chiếu rọi kia, khuôn mặt của cô gái bị ánh trời chiều đỏ rực chiếu lên khiến cho khuôn mặt nàng còn kiều diễm hơn so với cánh hoa đào mới nở, nàng chậm rãi bước lên phía trước, hé miệng nở nụ cười tươi tắn, thần sắc không được tự nhiên lắm, "Sư phụ."</p>
+ <p>Vị tiên nhân áo trắng kia thấy nàng, liền đưa một bàn tay lên vén những sợi tóc bị gió thổi rối tun trước mặt thay cho nàng, giọng nói nhẹ nhàng pha lẫn chút trách cứ, "Mấy ngày nay Thủy Tiên đã đi đâu, khiến cho sư phụ đợi ở nhà sốt ruột vô cùng!"</p>
+ <p>Nàng thuận thế ôm lấy cánh tay hắn, không trả lời mà chỉ khẽ hỏi lại, "Không phải sư phụ nói phải tháng sau mới trở về sao?"</p>
+ <p>"Sư phụ nói tháng sau mới trở về là Thủy Tiên có thể chạy đi lung tung khắp nơi như vậy sao?"</p>
+ <p>"Sư phụ ở nhà đợi Thủy Tiên bao lâu rồi?"</p>
+ <p>"Ba ngày."</p>
+ <p>"Sư phụ luôn đứng ở đây chờ Thủy Tiên sao?"</p>
+ <p>"Thủy Tiên nói thử xem?"</p>
+ <p>Sư phụ đã đứng ở đây ba ngày liền để chờ nàng ư? Nàng vừa cảm thấy vui sướng lại vừa áy náy, liền nhỏ giọng nói: "Thủy tiên sẽ không bao giờ ... chạy đi lung tung nữa."</p>
+ <p>Vị tiên nhân áo trắng bình thản, mặt không đổi sắc bất hỏi: "Mấy ngày gần đây, người chơi đùa cùng với Thủy Tiên là ai?"</p>
+ <p>Sư phụ làm sao lại biết chuyện này chứ? Nàng sửng sốt nhưng cũng thành thật đáp: "Đó là Thiếu cốc chủ của Diệu Âm cốc, tên là Trúc Đinh, mấy ngày trước con gặp được huynh ấy, huynh ấy muốn đưa Thủy Tiên đi Diệu Âm cốc chơi mấy ngày."</p>
+ <p>Nhìn thấy nàng rất thành thật, không dám nói dối để gạt mình, sắc mặt của vị tiên nhân áo trắng có vẻ tốt hơn nhiều, "Sư phụ đã dặn nhiều lần rồi, không được tùy ý kết bạn với người ngoài."</p>
+ <p>"Huynh ấy cũng không phải là người xấu mà sư phụ," nàng nói nhỏ giọng hệt như thì thầm, vội kéo hắn lại nói, "Sư phụ mà biết cũng sẽ đi gặp huynh ấy với Thủy Tiên cho coi, huynh ấy thú vị lắm."</p>
+ <p>"Ngày mai, chúng ta sẽ rời khỏi nơi này ."</p>
+ <p>"Nhanh như vậy đã đi rồi sao sư phụ! Nhưng con đã đồng ý với huynh ấy rồi, huynh ấy còn nói muốn tặng cho con một cây đàn thật đẹp nữa!"</p>
+ <p>Vị tiên nhân áo trắng chợt nhíu mày, "Không chịu nghe lời sao?"</p>
+ <p>Mỗi lần nàng kết bạn với những người bạn mới, đều bị sư phụ lấy đủ các loại lý do để mang nàng lập tức rời khỏi nơi đó, tuy rằng nàng không muốn đi nhưng nàng biết sư phụ đang tức giận nên đành phải ấm ức đáp lại: "Dạ" .</p>
+ <p>"Trời sắp tối rồi, chúng ta nên quay về trên thuyền đi thôi, " vị tiên nhân áo trắng nhẹ giọng an ủi nàng, "Ngoan nào, Thủy Tiên phải biết nghe lời, sau này sư phụ sẽ cho Thủy Tiên một cây đàn tốt nhất."</p>
+ <p>Nàng im lặng không lên tiếng, để mặc cho hắn kéo tay hướng bước lên thuyền.</p>
+ <p>Từ nhỏ đến lớn, những đồ vật sư phụ đưa cho nàng đều là những thứ tốt nhất, nàng biết sư phụ thương yêu nàng rất nhiều, nhưng người không hiểu thứ nàng thực sự muốn không phải là đàn mà.</p>
+ <p>Lời nói của Trúc Đinh vẫn vang vọng bên tai, bỗng nhiên nàng cảm thấy bàn tay đang bị hắn nắm lấy kia thực sự rất nóng.</p>
+ <p>Sáng sớm ngày hôm sau, hai thầy trò tiếp tục dong thuyền xuôi theo dòng nước, tiếp tục hành trình cuộc hành trình không mục đích của mình, mấy tháng sau hai người đã đến vùng biển phía Bắc. Lúc này trời đã vào đông, trên mặt biển Bắc nổi lên đầy những khối băng thật dày, lơ lửng, chìm nổi trên mặt nước, đến lúc chạng vạng, hai thầy trò ngồi trên những tảng băng nhìn những con báo biển săn mồi.</p>
+ <p>"Thủy Tiên không thích nơi này sao?"</p>
+ <p>"Không phải."</p>
+ <p>Mấy tháng nay, lúc nào nàng cũng buồn bã và ỉu xìu, thực sự là rất khác ngày xưa. Vị tiên nhân áo trắng trầm mặc một lát rồi kéo nàng ôm vào trong lòng, khẽ hỏi: "Làm sao mà lại rầu rĩ không vui mãi như thế, vẫn còn giận dỗi sư phụ vì chuyện của Trúc Thiếu cốc chủ sao?"</p>
+ <p>Đã lâu thật lâu rồi không được hắn ôm như vậy, nên tâm tình của nàng chợt tốt hẳn lên, rốt cục nàng cũng mở miệng: "Vì sao sư phụ không cho Thủy Tiên tiếp xúc với những người khác?"</p>
+ <p>"Có sư phụ ở cùng với Thủy Tiên, như vậy không tốt sao?"</p>
+ <p>"Tốt . . . Chỉ là những lúc sư phụ không có ở đây, Thủy Tiên chỉ có một mình thật sự rất buồn, không có gì thú vị để làm cả."</p>
+ <p>"Sau này sư phụ đi đâu cũng sẽ mang Thủy Tiên đi cùng."</p>
+ <p>"Thật sao?"</p>
+ <p>"Thật."</p>
+ <p>Nàng cũng không tỏ ra quá vui mừng, chần chờ một lúc lâu sau đó dường như đã thu hết dũng khí bỗng nhiên nói: "Sư phụ muốn giữ Thủy Tiên ở lại bên mình cả đời như vậy sao?"</p>
+ <p>Vị tiên nhân áo trắng chợt sửng sốt.</p>
+ <p>Mười mấy năm nay, nàng lúc nào cũng vui vẻ và hứng thú làm bạn ở bên cạnh hắn, chẳng lẽ bây giờ nàng đã có suy nghĩ gì khác sao?</p>
+ <p>"Thủy Tiên không muốn ở bên cạnh sư phụ nữa sao?"</p>
+ <p>"Con không phải!" Nàng vội vàng lắc đầu, khuôn mặt dần dần đỏ lên, muốn giải thích, muốn nói gì đó nhưng lại không nói ra được, nàng ngập ngừng: "Thủy Tiên. . . . . . Thủy Tiên chỉ muốn . . . . ."</p>
+ <p>Hắn mỉm cười ngăn lời nàng lại, khẽ hỏi, "Thủy Tiên có đồng ý làm giúp sư phụ một chuyện hay không?"</p>
+ <p>Đã nhiều năm như vậy sư phụ lúc nào cũng yêu thương, chiều chuộng nàng, vì nàng mà làm rất nhiều thứ, còn nàng thật đúng là chưa từng làm chuyện gì cho sư phụ cả, nàng lập tức đứng dậy nói, "Đương nhiên rồi, sư phụ muốn Thủy Tiên làm gì?"</p>
+ <p>"Trong vùng biển băng giá ở phía Bắc có rất nhiều cỏ linh chi, sư phụ muốn có một đóa đã lâu rồi."</p>
+ <p>"Chỉ là việc nhỏ như vậy sao sư phụ không nói sớm!" Nàng nhanh chóng đứng lên, dùng Tị Thủy Quyết (*) trên người mình rồi hướng về phía hắn nở một nụ cười thật thản nhiên, dùng một tư thế rất xinh đẹp nhảy vào trong nước.</p>
+ <p><i>* Thuật pháp rẽ nước </i></p>
+ <p>Sau khi xác nhận nàng đã thực sự biến mất trong làn nước, vị tiên nhân áo trắng kia cũng chậm rãi đứng lên, "Trúc Đinh?" </p>
+ <p>Kết giới được tháo bỏ, một thanh niên khoảng hai mươi mấy tuổi niên đang vận khinh công đứng ở bên ngoài cung kính thi lễ với hắn, "Bái kiến Tuyết tiên tôn, vãn bối Trúc Đinh của Diệu Âm Cốc hân hạnh được gặp tiên tôn."</p>
+ <p>Vị tiên nhân áo trắng thản nhiên nói: "Vì sao ngươi luôn đi theo hai thầy trò ta suốt quãng đường vừa qua?"</p>
+ <p>Biết là đã bị hắn phát hiện ra, Trúc Đinh cảm thấy hơi xấu hổ, nhưng giọng nói cũng thật trấn tĩnh đáp lại, "Vãn bối đi theo đến tận đây, là muốn gặp mặt Thủy Tiên sư muội."</p>
+ <p>"Thủy Tiên không có ở đây."</p>
+ <p>"Vãn bối đối với Thủy Tiên sư muội là tình cảm chân thành, cầu xin tiên tôn tác thành cho vãn bối và sư muội."</p>
+ <p>Tình cảm chân thành sao? Vì mấy chữ này mà dường như ánh mắt của vị tiên nhân áo trắng kia chợt trở nên lạnh lẽo đến thấu xương.</p>
+ <p>Khuôn mặt của Trúc Đinh càng ngày càng nóng lên, y lại tiếp tục nói với giọng đầy lễ phép, "Vãn bối biết, tiên tôn lo lắng sư muội sẽ bị ức hiếp, nhưng vãn bối cam đoan. . . . . ."</p>
+ <p>"Ta nể mặt Trúc cốc chủ, hôm nay không so đo với ngươi chuyện này," vị tiên nhân áo trắng lập tức ngắt lời y, "Nếu ta phát hiện ra ngươi lại muốn bám riết với Thủy Tiên thì đừng trách ta không lưu tình."</p>
+ <p>Bởi vì bận tâm thân phận của hắn cho nên Trúc Đinh đã cố gắng hết sức hạ thấp giọng của mình sao cho thật ôn hòa, nhưng không thể tưởng được vẫn bị hắn cự tuyệt mạnh mẽ như vậy, y vốn còn trẻ tuổi cho nên cuối cùng cũng nhịn không được, lên tiếng phản bác lại ngay: "Sư muội chỉ là đồ đệ của tiên tôn, tiên tôn lại quá quan tâm không chịu thông tình đạt lý như thế không khỏi quá không đúng chừng mực."</p>
+ <p>"Làm càn!"</p>
+ <p>"Vãn bối cả gan nói thẳng, sư muội cũng không phải là vị Thủy Tiên sư tỷ trước kia. . . .."</p>
+ <p>Lời nói còn chưa dứt khỏi miệng, đã thấy một sức mạnh cực lớn ập tới trước mặt đánh thẳng vào người y, mặc dù Trúc Đinh đã sớm có sự phòng bị, nhưng khi chuyện xảy tới trước mắt vẫn không né tránh kịp, bị sức mạnh kia đánh trúng, bay ra xa mấy trượng, cuối cùng cả người y rơi xuống biển.</p>
+ <p>"Trúc sư huynh!" Một bóng trắng từ trong nước nhảy lên, bay qua phía đó đỡ y lên.</p>
+ <p>Vốn bị thương cũng không nặng, giờ lại được giai nhân bảo vệ vì thế trong lòng Trúc Đinh không khỏi mừng thầm, y đang muốn mở miệng nói chuyện với nàng thì bỗng nhiên lại cảm giác thấy thân thể nhẹ nhàng, tiếp theo sau đó chỉ nghe ùm một tiếng rồi lại rơi xuống biển một lần nữa.</p>
+ <p>"Thủy Tiên cũng không có sư huynh." Trong giọng nói vô cùng thản nhiên, kết giới lại một lần nữa được dựng lên, ngăn cách con thuyền với mọi thứ xung quanh.</p>
+ <p>Bị hắn dùng sức mạnh mẽ bắt quay trở về thuyền, đôi mắt nàng trở nên đỏ hoe, nàng dậm chân nói, "Vì sao sư phụ phải làm như vậy?</p>
+ <p>"Nó vốn không có ý tốt."</p>
+ <p>"Huynh ấy chỉ là thích Thủy Tiên thôi mà!"</p>
+ <p>"Vô liêm sỉ!" Vị tiên nhân áo trắng kia dường như nghe những lời này của nàng mà trở nên giận dữ hơn, lên tiếng quát mắng nàng, "Không biết liêm sỉ, còn không mau quay về trên thuyền cho ta?"</p>
+ <p>Lần đầu tiên bị sư phụ mắng nặng nề như vậy, nàng sửng sốt, sau một lúc lâu nàng khóc lên ấm ức, chạy ra khỏi khoang thuyền.</p>
+ <p>Dưới bóng đêm đen thẳm, những cơn gió thổi qua mang theo vô số những luồng khí lạnh như băng, nàng vẫn ngồi ôm gối ở đầu thuyền, không chịu nói lấy một lời.</p>
+ <p>Vị tiên nhân áo trắng đứng ở cửa khoang thuyền nhìn nàng, không khỏi cảm thấy bất đắc dĩ.</p>
+ <p>Thôi quên đi, cho dù hắn lo lắng, đề phòng lẫn bảo vệ, bao bọc. . . . Nàng đã trải qua tất cả những chuyện này, bây giờ cũng muốn cho hắn phải tự mình trải qua, tự mình chịu đựng tất cả những nỗi đau mà nàng đã phải chịu đựng, đây chính là sự trừng phạt mà ông trời dành cho hắn.</p>
+ <p>Nàng nhất định không thể tu lại tiên cốt một lần nữa, tất cả đã có hắn dùng pháp lực kéo dài sinh mệnh thay cho nàng, giống hệt như kiếp trước nàng vì hắn đã làm y như vậy. Hiện nay, hắn dong thuyền lênh đênh trên biển đi khắp mọi nơi chủ yếu là để tìm thuốc giữ gìn nhan sắc và tuổi thanh xuân cho nàng, bởi vì hắn biết những suy nghĩ trong lòng của nàng, nàng tuyệt đối sẽ không đồng ý lấy một bộ mặt già nua, xấu xí làm bạn bên cạnh hắn mãi mãi.</p>
+ <p>Chỉ là hiện tại, nàng lại thừa dịp hắn không có mặt ở đây, lui tới, kết bạn với tên Trúc Đinh kia, hắn đã tách nàng ra mấy tháng trời rồi mà vẫn còn nhớ mãi không quên, chẳng lẽ nàng thực sự thích Trúc Đinh sao?</p>
+ <p>Ánh mắt chợt trở nên lạnh lùng, trái tim như bị giận dữ bao trùm lên, hắn trực tiếp kéo nàng quay về bên trong khoang thuyền.Nàng thấy hắn như thế thì kinh hoảng trong giây lát rồi lập tức hoàn hồn lại, vẫn giận dỗi cắn môi muốn đi ra ngoài, đáng tiếc cánh cửa đã sớm bị hắn thiết đặt kết giới, cho nên dù cho nàng có đi như thế nào thì cũng phí công, nàng cảm thấy tức giận vô cùng, đến lớn tiếng phản đối lại hắn, "Sư phụ giam giữ Thủy Tiên như vậy, không bằng để Thủy Tiên chết đi còn tốt hơn!"</p>
+ <p>Chết? Nàng dám dùng đến cái chết để uy hiếp hắn! Hắn lạnh lùng nói: "Hiện tại muốn đi lắm rồi phải không?"</p>
+ <p>Nàng nhíu mày nói, "Đúng, Trúc Đinh thích con."</p>
+ <p>Hắn nghẹn cả người, tức giận nói: "Nếu đi ra khỏi cánh cửa này thì đừng trở về nữa!"</p>
+ <p>Nàng hờn dỗi đáp lại ngay, "Con nhất định sẽ không trở về nữa!"</p>
+ <p>Những lời này của nàng khiến cho hắn thật sự giật mình.</p>
+ <p>Không trở về nữa, nàng nói không trở về nữa sao? Vì sao sau khi hắn làm nhiều việc như vậy, nàng vẫn không chịu thích hắn một lần nữa, phải chăng nàng nàng thật sự muốn bỏ hắn mà đi sao?</p>
+ <p>Khuôn mặt tuấn tú của hắn phút chốc trở nên trắng bệch, đôi mắt thất thần, cả người như mất hồn, chưa từng nhìn thấy qua bộ dạng của sư phụ như vậy, nàng vừa sợ hãi lại vừa áy náy, nhưng không hiểu sao trong lòng lại có một sự vui sướng dâng lên, nàng vội bước lên muốn an ủi hắn, "Sư phụ. . . . . ."</p>
+ <p>Bất thình lình người nọ bỗng nhiên đưa tay ra, hung hăng ôm lấy nàng kéo vào trong lòng rồi lập tức cúi đầu xuống hôn trên cánh môi nàng.</p>
+ <p>Sư phụ đang làm gì vậy? Trong đầu nàng mọi thứ lập tức trở nên hỗn loạn, không thể bình tĩnh mà suy nghĩ được nữa, nàng mở to hai mắt, cả người theo bản năng giãy dụa chống cự, nàng muốn nói lại muốn hỏi, nhưng bởi vì môi của nàng bị đôi môi nóng rực, ướt át kia chặn kín lại cho nên chỉ có thể phát ra những tiếng um um không rõ ràng.</p>
+ <p>Chuyện này thật sự rất kỳ quái, cả người nàng bắt đầu mềm oặt xuống, dường như không còn một chút sức lực nào, môi nàng và môi hắn áp chặt lấy nhau, quyện chặt lại, dây dưa, triền miên không dứt, cảm giác này giống như nàng đã từng trải qua từ rất lâu rồi thì phải. Trong lòng cũng như trong suy nghĩ không hề muốn kháng cự lại mà ngược lại cái cảm giác này thật sự khiến kẻ khác say mê, muốn chìm đắm trong nó mãi mà không muốn tỉnh lại, chỉ thấy càng chờ mong hơn, càng muốn nhiều hơn nữa. . . . . .</p>
+ <p>Hai cánh tay của nàng không kìm chế được nữa liền vòng lên ôm qua cổ hắn, môi nàng khẽ cuốn lấy môi hắn chủ động đáp lại nụ hôn cuồng nhiệt kia.</p>
+ <p>Sư phụ! Người là sư phụ của nàng mà! Suy nghĩ này chợt nảy sinh ra trong đầu nàng giống như đánh một đòn cảnh cáo thật mạnh, nàng như bừng tỉnh, lại cảm thấy có chút kinh hoảng, hơi hơi dùng sức cắn nát môi hắn đang quyện lấy môi nàng</p>
+ <p>Đau, cảm giác đau đớn trên môi cuối cùng cũng khiến cho hắn tìm về với lý trí của mình, hắn nâng mặt lên quyến luyến rời khỏi môi nàng.</p>
+ <p>"Sư. . . Sư phụ." Nàng đỏ bừng hết cả mặt, không biết nên nói gì cho phải.</p>
+ <p>Hắn cũng không nói gì cũng không dám nhìn nàng, chỉ nhìn chằm chằm xuống mặt đất, một lúc lâu sau mới ngước mặt lên nhìn nàng, khuôn mặt trở nên trắng bệch. Hắn chậm rãi lui về phía sau vài bước, sau đó vội vàng xoay người, giống như chạy trốn ra khỏi cửa.</p>
+ <p>Ngón tay nàng khẽ vuốt ve trên đôi môi đỏ mọng như cánh hoa của mình, nàng cảm nhận thấy rõ trên môi mình vẫn còn lưu lại hương vị thực sự của hắn, thoáng chốc hai má nàng đỏ ửng và nóng bừng lên hệt như bị lửa thiêu.</p>
+ <p>Nàng không hề tức giận, là nàng cố ý làm như vậy, thật ra nàng cũng không phải không nhận ra những cảm xúc kìm nén ở sư phụ, nhưng người lại cứ đè nén trước mặt nàng, vẫn tỏ vẻ không bận tâm đến chuyện này một chút nào. Những lời thổ lộ thật lòng của Trúc Đinh đã gợi lên những nỗi chờ mong chân thực trong trái tim nàng, chẳng qua là nàng vẫn không rõ bản thân mình rốt cuộc đang chờ mong cái gì, nàng sợ lại làm ra việc gì đó sai lầm, bởi vì người là sư phụ của nàng, nàng sợ hãi, sợ hãi những việc mình làm sẽ làm cho người tức giận và người sẽ không cần nàng nữa.</p>
+ <p>Nhưng hiện tại tất cả những việc phát sinh trước mắt làm cho nàng kinh ngạc và vui mừng vô cùng.</p>
+ <p>Thì ra sư phụ. . . . . . Người nàng thích là sư phụ sao? Nàng chợt nghĩ tới sự cự tuyệt của nàng lúc nãy, có phải đã làm cho người hiểu lầm và khổ sở hay không?</p>
+ <p>Cuối cùng nàng cũng bừng tỉnh, cả người lập tức có phản ứng, vội vàng chạy ra ngoài cửa, nhưng nàng phát hiện ra trên thuyền trống trơn không một bóng người, sự trống vắng đó nhất thời làm cho nàng vô cùng sợ hãi.</p>
+ <p>"Sư phụ!"</p>
+ <p>"Sư phụ, người đi đâu vậy ?"</p>
+ <p>. . . . . .</p>
+ <p>Suốt ba ngày liền, không hề thấy bóng dáng của hắn.</p>
+ <p>Nhớ lại vẻ mặt của sư phụ khi đó, hoàn toàn không giống với dáng vẻ trấn định, thản nhiên ngày xưa, dường như người thực sự xấu hổ, thực sự thương tâm, chẳng lẽ vì nàng là đồ đệ của người hay sao? Mặc kệ, cho dù đó là sự thật thì đã sao, chỉ cần nàng thích người, yêu người, nàng sẽ chẳng thèm quan tâm người khác chê cười thế nào cả, chỉ cần người không giận thì nàng chẳng sợ bất cứ thứ gì nữa!</p>
+ <p>Nhưng mà lúc này người đang ở nơi nào rồi?</p>
+ <p>Nàng đột nhiên đứng lên, bước đến nằm xuống giường, khẽ nhắm mắt lại.</p>
+ <p>Chỉ trong giây lát, một bóng trắng nhanh chóng xông vào cửa, gọi thất thanh: "Thủy Tiên!"</p>
+ <p>Thật sự là người đã đến rồi, nàng nằm im khẽ cười trộm trong lòng.</p>
+ <p>"Thủy Tiên!" Hắn bước nhanh đến gần bên giường, nhưng ngay sau đó lập tức phát hiện ra chuyện này có gì đó không đúng – trên người nàng có tiên ấn của hắn, nhưng mới vừa rồi hắn phát hiện thần khí của nàng đột nhiên biến mất, làm cho hắn sợ tới mức vội vàng, gấp gáp chẳng cần bận tâm đến thứ gì nữa, vứt hết tất cả mọi chuyện đang làm quay trở về, chỉ là trước mắt. . . Đây không phải là Tử Linh Thuật sao?</p>
+ <p>"Sư phụ!" Còn chưa kịp phản ứng, cô gái đang nằm trên giường bật dậy nhanh chóng nhào vào người hắn, trong ánh mắt nàng tràn đầy vẻ đắc ý, quả nhiên là mỗi lần nàng gặp chuyện sư phụ luôn gấp gáp trở về đúng lúc, lần này nàng dùng cách này thật sự rất có hiệu quả!</p>
+ <p>"Không sao là tốt rồi, " hắn nhanh chóng đẩy nàng ra rồi lập tức bước ra phía bên ngoài khoang thuyền.</p>
+ <p>Nàng vội vàng đuổi theo gọi hắn, "Sư phụ! Sư phụ đừng đi!"</p>
+ <p>"Sư phụ không đi." Hắn làm sao có thể bỏ lại một mình nàng được, thật ra mấy ngày nay hắn căn bản không đi đâu cả.</p>
+ <p>"Sư phụ!" Nàng vẫn giữ chặt lấy tay hắn không buông.</p>
+ <p>Hắn dừng bước chân rồi quay người trở lại.</p>
+ <p>Khuôn mặt nàng đỏ bừng, một hồi lâu sau mới thấp giọng nói: "Thủy Tiên không giận, sư phụ có thể. . . . . ."</p>
+ <p>Có thể? Có thể làm gì đây ? Nàng căn bản là không hiểu rõ cảm giác này biểu hiện cho cái gì! Nàng không nhớ rõ bất cứ thứ gì từ kiếp trước nhưng bản thân hắn lại nhân cơ hội này làm ra những chuyện như vậy đối với nàng! Trên khuôn mặt tuấn tú của hắn càng ngày càng hiện rõ vẻ xấu hổ, hắn ho nhẹ một tiếng khẽ nói, "Trời cũng không còn sớm nữa, Thủy Tiên tạm đi nghỉ trước đi. . . ."</p>
+ <p>Lời của hắn còn chưa dứt đã chợt cảm thấy cần cổ nặng hẳn, hắn kìm lòng không được liền cúi mặt xuống.</p>
+ <p>Không chờ cho hắn kịp phản ứng, nàng nhanh chóng kiễng mũi chân nhón người lên hôn trên môi hắn.</p>
+ <p>Chỉ là một nụ hôn ngây ngô, không hề có kinh nghiệm, giống như đang cắn lung tung trên môi hắn, nhưng bờ môi mềm mại, đỏ mọng lại ấm áp đang lướt trên môi hắn kia đủ để phá hủy tất cả lý trí còn sót lại của hắn, tình cảm vốn bị đè nén thật lâu dưới đáy lòng chợt bùng lên, tựa như củi khô ngâm trong dầu lửa bị một ngọn lửa châm qua mà bùng cháy một cách tự nhiên, dứt bỏ tất cả mọi điều kiêng kỵ và khúc mắc trong lòng, cuối cùng vòng tay của hắn hoàn toàn ôm chặt trên thắt lưng của nàng, một tay giữ chặt phía sau gáy nàng, biến bị động thành chủ động.</p>
+ <p>. . . . . .</p>
+ <p>Hơi thở nhẹ nhàng, hổn hển, hai bờ môi quyến luyến tách ra mà không muốn rời khỏi nhau, nàng yếu đuối nằm trong lòng hắn, khuôn mặt nhỏ nhắn đỏ ửng lên hệt như đám mây nhỏ, sóng mắt mê ly lay động lòng người.</p>
+ <p>"Sư phụ." Muốn càng nhiều hơn nữa nhưng nàng lại không biết nên nói thế nào cho người hiểu.</p>
+ <p>Hắn chỉ ôm chặt lấy nàng, "Sau này, liệu Thủy Tiên có hối hận không? Có thể sẽ có rất nhiều người . . . chê cười Thủy Tiên."</p>
+ <p>"Sư phụ có sợ không?"</p>
+ <p>"Không."</p>
+ <p>"Vậy Thủy Tiên cũng không sợ," nàng xấu hổ vùi mặt mình vào trong lồng ngực của hắn nhỏ giọng nói, "Thủy Tiên. . . . . . Yêu sư phụ như vậy. . . . . ."</p>
+ <p>"Nếu trước đây sư phụ đã từng làm chuyện có lỗi với Thủy Tiên thì sao?"</p>
+ <p>"Sẽ không bao giờ có chuyện sư phụ không tốt với Thủy Tiên cả."</p>
+ <p>"Lỡ như đã từng có thì sao?"</p>
+ <p>" Sau này sư phụ có đối xử với Thủy Tiên thật tốt không?"</p>
+ <p>"Tất nhiên."</p>
+ <p>"Như vậy thì Thủy Tiên sẽ không trách sư phụ nữa."</p>
+ <p>"Thật sao?"</p>
+ <p>"Thật!"</p>
+ <p>"Hãy nhớ kỹ những lời của Thủy Tiên đã nói, " hắn cười yếu ớt cúi đầu xuống hôn lên đôi môi anh đào của nàng rồi khẽ ngước mặt lên, không để ý đến vẻ mặt thất thần xen lẫn chút thất vọng của nàng, khẽ đẩy nàng ra nói, "Không còn sớm nữa, nàng hãy đi nghỉ ngơi trước đi."</p>
+ <p>Không thể để mọi chuyện tiếp tục như được vậy, ít nhất thì bây giờ chưa phải là thời điểm thích hợp nên hắn chưa làm được, nhưng nếu cứ để như vậy thì rất không công bằng đối với nàng, ba ngày nay hắn đã suy nghĩ rất rõ ràng, hiện tại việc hàng đầu hắn phải làm chính là tìm kiếm thuốc hay thần y, làm cho nàng biến trở về thành Thủy Tiên thực sự của hắn.</p>
+ <p>Nhưng mà liệu đến khi nàng nhớ lại nàng có hận hắn không?</p>
+ <p>Dẫu có cũng chẳng sao cả, hắn nhất định sẽ đối xử với nàng thật tốt, nhất định sẽ là tốt nhất, cho dù nàng hận hắn, hắn cũng quyết không bao giờ rời xa nàng, không bao giờ lại một lần nữa. </p>
+ <p> </p> 
+</div>

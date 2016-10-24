@@ -1,0 +1,67 @@
+<div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
+ <p> Năm tháng dần trôi qua, thời gian dài vô tận, biển rộng lại hóa nương dâu.</p>
+ <p>Trên một dòng sông rộng lớn trải dài, quanh co uốn lượn, có một con thuyền trông nhẹ tênh như một chiếc lá đang lững lờ trôi xuôi theo dòng nước. Dọc theo hai bên bờ là rừng hoa đào tuyệt đẹp, những đóa hoa đào khoe sắc in bóng mình dưới làn nước trong xanh, từng cơn gió thổi qua lại mang theo những cánh hoa màu hồng phấn lả tả rơi đầy dòng nước bên dưới. Làn sương sớm vẫn còn đọng lại giăng khắp nơi đây. Con đường phía trước mây nước giăng giăng mờ mịt, không biết sẽ dẫn đến nơi nào.</p>
+ <p>Một vị tiên nhân áo trắng ngồi ở đầu thuyền, đứng bên cạnh có một tiểu cô nương khoảng mười tuổi, y phục và chiếc thắt lưng của cô bé cũng là một màu trắng tinh khôi như vị tiên nhân kia, dáng vẻ cô bé dịu dàng, ung dung đến mức làm rung động lòng người.</p>
+ <p>"Sư phụ, chúng ta đang đi đến nơi nào đây ạ?"</p>
+ <p>"Chúng ta cùng đi đến chân trời, về phía cuối trời đó."</p>
+ <p>"Chỗ đó rất xa mà."</p>
+ <p>Vị tiên nhân áo trắng chấn động cả người quay mặt sang nhìn cô bé : "Thủy Tiên... không muốn đi cùng sư phụ sao?"</p>
+ <p>"Có chứ ạ." Bất chợt nhìn thấy rõ nỗi thương tâm ẩn chứa trong đáy mắt vị tiên nhân kia, cô bé cuống quít lắc đầu, hai bàn tay nhỏ bé vội vàng túm chặt bàn tay của vị tiên nhân mà nói: "Sư phụ muốn đến nơi nào, Thủy Tiên sẽ đi cùng người đến nơi đó!"</p>
+ <p>"Thật sao?" Vị tiên nhân áo trắng nghe cô bé nói vậy thì chỉ nở một nụ cười nhợt nhạt.</p>
+ <p>"Thật mà."</p>
+ <p>…</p>
+ <p>Chẳng biết chân trời ở nơi nào, cũng chẳng hay thời thế sẽ thay đổi ra sao, chỉ biết rằng chiếc thuyền nhỏ này từ nay về sau sẽ mãi mãi trôi lênh đênh trên những con sóng mang hai người tiến về phía cuối chân trời.</p>
+ <p>Kiếp trước, nàng vì ta mà phải nhập ma.</p>
+ <p>Kiếp này, ta vì nàng lại trở thành tiên.</p>
+ <p>…………….</p>
+ <p>Trên ngọn núi tuyết mờ mịt, những đám mây lạnh lẽo bao phủ xung quanh sườn núi, đem ngọn núi vây kín vào trong, ngay cả đỉnh núi cũng không nhìn tới được, bên dưới chân núi có hai đứa bé đang ngẩng đầu nhìn lên, đó là một cậu bé và một cô bé.</p>
+ <p>"Ngọn núi này thật là cao, muội đến đây để làm gì chứ?"</p>
+ <p>"Muội muốn đi tìm các vị thần tiên, muội muốn làm đệ tử tiên môn."</p>
+ <p>"Thần tiên ở nơi nào chứ?"</p>
+ <p>"Ở trên núi đó, trên núi có rất nhiều thần tiên." Cô bé khẳng định một cách kiên quyết: "Những vị thần tiên đó mỗi buổi tối đều xuống núi, chúng ta đến bên cái hồ lớn ở phía trước kia xem thử đi."</p>
+ <p>Cậu bé lập tức phản bác lại, muốn vạch trần lời nói của cô bé : "Muội nói bậy! Chu Nhị thúc nói thúc ấy đã từng đi lên ngọn núi tuyết đó săn bắn nhưng không hề thấy bóng dáng người nào trên núi cả, đến cả một gian nhà cũng không có!"</p>
+ <p>"Bọn họ không phải ở trong nhà mà!"</p>
+ <p>"Vậy bọn họ ở chỗ nào được chứ?"</p>
+ <p>"Bọn họ a, bọn họ ở trong một thanh kiếm."</p>
+ <p>"Thật sao?" Cậu bé kinh ngạc hỏi lại, nét mặt dường như không tin nổi.</p>
+ <p>Còn cô bé thì ngược lại trên khuôn mặt lại tràn đầy sự tin tưởng: "Thật đó, muội đã từng nhìn thấy họ rồi nhé."</p>
+ <p>Cậu bé vẫn không tin : "Hình dáng của họ thế nào?"</p>
+ <p>Cô bé liền bước lên một tảng đá rồi ngồi xuống, ôm lấy khuôn mặt trầm ngâm của mình, vừa ngồi vừa nhớ lại: "Diện mạo của hai người họ rất đẹp, ca ca gọi tỷ tỷ là Trùng nhi, chắc là tỷ tỷ là do con sâu nhỏ biến thành rồi. Nhưng mà tỷ tỷ lại không hề nói gì, cũng không hề động đậy gì cả, và càng không cười với ca ca."</p>
+ <p>"Tỷ tỷ không chịu nói lời nào thì phải làm sao?"</p>
+ <p>"Ca ca liền ôm tỷ tỷ vào lòng, hai người cùng ngồi ngắm sao."</p>
+ <p>"Sau đó thì sao?"</p>
+ <p>"Sau đó thì không còn thấy gì nữa."</p>
+ <p>"Làm sao mà không thấy được chứ?"</p>
+ <p>"Vì ca ca ôm tỷ tỷ bước vào trong thanh kiếm mất rồi!"</p>
+ <p>"Muội gạt người mà!"</p>
+ <p>………………</p>
+ <p>Thời gian trôi qua chỉ trong chớp mắt, giờ đây một đêm mùa hạ nữa lại đến. Bầu trời mênh mông trải dài đến vạn dặm, dải ngân hà phát ra đốm sáng lấp lánh như ngọc, cậu bé và cô bé kia lại ngồi sóng vai nhau trên tảng đá ở ven hồ, cả hai cùng nhìn về phía ngọn núi tuyết ở xa thật xa kia.</p>
+ <p>Cô bé bỗng nhiên nói một cách thần bí: "Tối hôm qua, muội lại thấy họ đi ra ngoài ."</p>
+ <p>"Họ là ai?"</p>
+ <p>"Chính là các vị thần tiên a!"</p>
+ <p>Cậu bé kia nửa tin nửa ngờ hỏi lại: "Bọn họ lại làm sao rồi?"</p>
+ <p>"Tỷ tỷ đã chịu nói chuyện với ca ca rồi, ca ca nở nụ cười thật tươi a, muội thấy ca ca cười rộ lên thật là đẹp." Cô bé nói xong trên khuôn mặt lộ ra sự si mê không hề che giấu.</p>
+ <p>"Tỷ tỷ nói gì vậy?"</p>
+ <p>"Được."</p>
+ <p>"Được cái gì mới được chứ?" Cậu bé kia cũng không hiểu được liền hỏi lại.</p>
+ <p>"Tỷ tỷ đâu có nói gì nữa đâu." Cô bé quay sang liếc cậu bé một cái.</p>
+ <p>"Nhưng mà được cái gì mới được kia chứ?"</p>
+ <p>"Được thì chính là được!"</p>
+ <p>……………</p>
+ <p>"Mau nhìn kìa!" Cậu bé ngước đôi mắt sắc, đưa ngón tay chỉ về phía xa xa, có một luồng sáng trắng bất ngờ xuất hiện bay ngang trên đỉnh núi tuyết rồi xẹt qua bầu trời đêm hệt như một ngôi sao băng bay về phía dòng sông dài.</p>
+ <p>Cô bé kia vừa nhìn thấy liền mừng rỡ kêu lên: "Ca ca và tỷ tỷ đúng là thần tiên a!"</p>
+ <p>Cậu bé phản bác lại, cố ý nói: "Không phải đâu, bọn họ là yêu ma!"</p>
+ <p>"Huynh nói bậy, bọn họ là thần tiên!"</p>
+ <p>"Bọn họ là yêu ma!"</p>
+ <p>Trong lúc hai đứa bé tranh cãi với nhau không ngớt, một ông lão râu bạc bỗng nhiên xuất hiện phía sau bọn chúng, khuôn mặt hiền lành, dễ gần, thân thiện, ông lão vỗ vỗ bả vai nhỏ nhắn của hai đứa bé: "Hai tiểu quỷ này, lại chạy đến đây nữa rồi!"</p>
+ <p>"Hành Huyền gia gia!" Hai đứa bé kia nghe gọi liền nhảy lên, vừa đưa tay kéo vị trưởng lão kia lại vừa nói cười tíu tít.</p>
+ <p>Ông lão vuốt râu, vẻ mặt thật ôn hoà nói: "Các con lại tranh cãi cái gì nữa đây?"</p>
+ <p>Cô bé kia liền giành trước, kể lại mọi chuyện một lần nữa.</p>
+ <p>Ông lão nghe xong liền gật đầu: "Các con nói đúng, bọn họ tạm thời ở trong thanh kiếm đó, tuy bây giờ bọn họ vẫn chưa phải là người, nhưng chắc chắn một ngày nào đó bọn họ nhất định sẽ trở về."</p>
+ <p>Cậu bé vội hỏi: "Thế bọn họ là tiên hay là ma vậy, gia gia?"</p>
+ <p>Ông lão cũng ngồi xuống bên cạnh hai đứa bé: "Thực ra, trên đời này vốn không thể phân biệt rõ đâu là tiên đâu là ma, nếu trong tâm tồn tại thiện niệm, ma cũng tức là tiên, nhưng nếu trong tâm nảy sinh ác niệm, thì tiên cũng có thể biến thành ma."</p>
+ <p>Cô bé nghe thế liền nghi hoặc nói: "Ma làm sao là tiên và tiên làm sao lại là ma được chứ, con nghe mà không hiểu gì cả, gia gia."</p>
+ <p>Ông lão nhẹ nhàng đưa tay lên xoa xoa đầu cô bé, kiên nhẫn giải thích: "Bọn họ cũng giống như chúng ta, trên người có thiện niệm của thần tiên và cũng có ác niệm của ma quỷ, chỉ cần con tin bọn họ là tiên thì bọn họ sẽ thật sự biến thành tiên. Bởi vậy, con nhất định phải nhớ rằng không nên vì định kiến của bản thân nghĩ rằng bọn họ là ma thì liền xem bọn họ như yêu ma, nếu con làm như vậy thì chẳng những bọn họ sẽ thực sự trở thành ma mà ngay cả bản thân con cũng sẽ biến thành ma ."</p>
+ <p>Cậu bé kia vẫn cảm thấy rất khó hiểu liền hỏi : "Vậy đến tột cùng chúng ta là tiên hay là ma vậy, gia gia?"</p>
+ <p>Ông lão cười to, đưa tay gõ một cái thật mạnh lên đầu cậu bé kia rồi nói: "Tiểu tử ngốc! Ngay cả chuyện này mà con cũng quên sao, chúng ta là người!" </p> 
+</div>

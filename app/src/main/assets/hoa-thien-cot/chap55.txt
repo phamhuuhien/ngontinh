@@ -1,0 +1,118 @@
+<div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
+ <p> <br> </p> 
+ <br> 
+ <p> “Thế vì sao nàng để mặc Trúc Nhiễm tàn sát Lục giới, ngay cả Trường Lưu cũng không thèm quan tâm, lại chỉ muốn bảo vệ phái Mao Sơn? Bây giờ tất cả mọi người đều trốn về phía Mao Sơn, đó dường như đã trở thành đại bản doanh của những kẻ muốn chống lại nàng rồi.” </p> 
+ <p> Hoa Thiên Cốt khẽ thở dài thườn thượt: “Kể cho ngươi nghe một câu chuyện, ta từng có một người bạn, hắn và sư huynh tình như anh em, lớn lên bên nhau, sư huynh chăm sóc hắn, chiều chuộng hắn, vì hắn mà ra sống vào chết bao lần. Nhưng đến một ngày hắn vắng mặt, vị sư huynh đó đột nhiên thông đồng với yêu ma giết sư phụ và tất cả sư huynh sư đệ của bọn họ, suýt diệt cả môn phái. Hắn vẫn không chịu tin, muốn tìm sư huynh hỏi cho ra lẽ. Nhưng tới ngày gặp lại, khuôn mặt dưới lớp mặt nạ của vị sư huynh kia lại giống hắn như đúc, thì ra người đó với hắn chính là anh em trai sinh đôi, là người cả đời chỉ có thể làm cái bóng của hắn mà tồn tại. Thì ra sư huynh hận hắn thấu xương, tất cả sự yêu thương và bảo vệ đều chỉ xuất phát từ bản năng bắt buộc. Thì ra sư huynh lừa thầy diệt phái, chỉ bởi vì không thể trực tiếp làm hại hắn, nên phải đi đường vòng trả thù. Thì ra sư huynh hắn luôn sống trong đau khổ nhiều năm như thế, mà hắn lại không hay biết gì.” </p> 
+ <p> “Người nàng nói có phải là chưởng môn tiền nhiệm của phái Mao Sơn, Vân Ẩn?” </p> 
+ <p> Hoa Thiên Cốt gật đầu, vẻ mặt trở nên đau thương, lại có phần chế giễu: “Vân Ẩn đã biết tất cả, những năm sau đó luôn nghĩ cách làm thế nào để hóa giải loại ràng buộc máu mủ cấm kị, cuối cùng hắn cũng tìm ra cách duy nhất để Vân Ế có được tự do thật sự, đó là hi sinh mạng sống của mình. Sau khi hắn chết Vân Ế mới có thể chân chính nắm giữ tính mạng của bản thân, vì thế…” </p> 
+ <p> “Vì thế hắn chết…” </p> 
+ <p> Hoa Thiên Cốt gật đầu: “Vân Ẩn làm thế ta không hề ngạc nhiên. Đối với hắn mà nói, Vân Ế chính là người quan trọng nhất, làm sao hắn nỡ nhìn y đau đớn, làm sao có thể chấp nhận để y hận mình. Nhưng… Rõ ràng ràng buộc đã được giải trừ, vậy mà vì sao Vân Ế vẫn chạy theo hắn? Trúc Nhiễm nói y tới Mao Sơn cướp thi thể của Vân Ẩn, điên cuồng chạy suốt bảy ngày bảy đêm, sau đó tự sát trên dốc Tư Quá của Mao Sơn, lúc chết vẫn ôm chặt Vân Ẩn đã qua đời từ lâu, thi thể bị y cắn tới máu me bê bết, lộ cả xương trắng, thần trí y không rõ ràng, chỉ biết lặp đi lặp lại ba chữ - ta hận ngươi.” </p> 
+ <p> Hoa Thiên Cốt mở to mắt, dường như có thể tưởng tượng thấy cảnh tượng tàn khốc đáng sợ đó. </p> 
+ <p> “Mười sáu năm sau, lúc ta thoát khỏi đáy biển Trường Lưu thì đã không còn thấy bọn họ nữa rồi. Ta luôn nghĩ, nếu Vân Ẩn đợi thêm một chút, chờ thêm một chút nữa thôi là tốt rồi, nếu như khi đó ta có sức mạnh giúp bọn họ thì bọn họ đã không phải chết. Trước nay ta chưa từng gánh trách nhiệm gì cho Mao Sơn, cũng chưa từng làm gì cho hắn. Nhưng ta vẫn không hiểu, không phải Vân Ế muốn giải thoát, muốn tự do ư? Vậy sao khi thực sự có rồi y lại dễ dàng từ bỏ đến vậy. Vân Ẩn hi sinh nhiều như thế chính là vì không muốn y tiếp tục hận mình nữa, tại sao đến cuối cùng y vẫn còn hận hắn ta…” </p> 
+ <p> Mặc Băng tiên không khỏi xót xa, trầm mặc một lúc lâu: “Có lẽ đối với Vân Ế mà nói, y sống vì Vân Ẩn, Vân Ẩn là tất cả niềm tin trong cuộc đời y, còn quan trọng hơn cả tự do. Nhưng trước kia y không hiểu, Vân Ẩn cũng không hiểu, tới khi nhận ra thì đã muộn mất rồi, chỉ còn lại tiếc nuối và oán hận. Khi coi yêu thành thói quen, thành chấp niệm thì thật sự rất đáng sợ.” </p> 
+ <p> “Đúng vậy, tình yêu vốn rất đáng sợ. Ngươi cho rằng ngươi chỉ yêu một người, không ngờ rằng tình yêu đó lại gây thương tổn cho người ấy, thậm chí cho cả Lục giới.” </p> 
+ <p> Hoa Thiên Cốt lại buồn bã thở dài: “Hi vọng dưới suối vàng, hai người bọn họ có thể xóa bỏ hiềm khích trước kia.” </p> 
+ <p> Nàng từ từ nhắm mắt, nhớ lại lần đầu tiên gặp Vân Ẩn ở Trường Lưu. Chấp niệm cũng được, dã tâm cũng được, yêu cũng được, cuối cùng không còn lại gì hết. Người bước đã bước, người đi đã đi, tại sao nàng phải ở lại chốn này? </p> 
+ <p> Đã hơn một tháng Hoa Thiên Cốt không tới Vô Vọng điện, chuyện đổi nam sủng mới hầu như cả thiên hạ đều biết, phái Thục Sơn từ trên xuống dưới đều được đặc biệt ưu ái, ngay cả yêu ma cũng không dám tùy tiện đắc tội. </p> 
+ <p> Đám tiên tì ngày ngày nhàn rỗi, lời ong tiếng ve càng lúc càng nhiều, bỗng từ tẩm điện của Thần tôn bị đày thành lãnh cung, trong lòng họ khó tránh khỏi có chút mất mát và bất bình. Chủ tử nhà họ là ai nào, một Mặc Băng tiên vô danh sao sánh được. Thấy vẻ dửng dưng của Bạch Tử Họa, cả đám âu sầu rầu rĩ, dò hỏi khắp nơi, sau khi thấy dung mạo của Mặc Băng tiên, lại lo cho chủ tử nhà mình hơn. </p> 
+ <p> Bạch Tử Họa sao không biết hằng ngày bọn họ líu rít nói những gì sau lưng mình. Chuyện xuân dược lúc ấy hắn tức tới hồ đồ, sau khi dược hiệu qua đi, không cần nghĩ cũng biết là do Trúc Nhiễm. Nếu Tiểu Cốt muốn làm nhục hắn thì còn nhiều cách, sao có thể dùng xuân dược. Tuy hắn vẫn làm bộ không thấy tình cảm của nàng, nhưng rõ ràng liều thuốc kia đã phá vỡ mối quan hệ giữa bọn họ. </p> 
+ <p> Đừng tiếp tục lừa mình dối người nữa, người rõ ràng biết nàng muốn mình, tuy không bỉ ổi tới mức dùng xuân dược, nhưng suy nghĩ mà mục đích cũng như thế, chẳng qua vẫn chưa đê hèn mà thôi. </p> 
+ <p> Đó là lời Trúc Nhiễm muốn nói. </p> 
+ <p> Dùng xuân dược không phải để hắn khuất phục, mà chính là để sỉ nhục hắn, bắt hắn phải nhìn thẳng vào sự thật, không được trốn tránh. Trừ phi hắn thực sự coi mình là nam sủng của nàng, bằng không hai người bọn họ không thể nằm cùng giường, làm vậy chẳng khác nào ngầm đồng ý dục vọng của nàng đối với hắn. </p> 
+ <p> Tự tay hắn tổn thương nàng, nhưng điều khiến nàng càng đau đớn hơn chính là sự ghét bỏ trong mắt hắn. Bạch Tử Họa nhớ lại ánh mắt vô tội và nụ cười đau đớn của nàng khi vệt máu chảy xuống trán, lòng liền quặn thắt. Nàng có thể thản nhiên nói xin lỗi hắn dẫu người sai không phải là mình, vậy tại sao hắn không làm được? </p> 
+ <p> Nhưng khi nghĩ đến việc nàng bảo Tử Huân Thiển Hạ đưa thuốc tới vào lúc đó, cảm giác áy náy lại biến thành lửa giận ngút trời. </p> 
+ <p> Giằng co một ngày lại một ngày, hắn không quên mong muốn cứu vãn lại tất cả như lúc đầu, bây giờ khó khăn lắm mới có một ít tiến triển, Tiểu Cốt khôi phục chút tính người, hắn nào có thể buông tha. Nhưng khi hắn đang nghĩ cách làm dịu đi quan hệ giữa hai người thì lại nghe đồn nàng nạp rất nhiều nam sủng mới, đêm đêm mở hội hát ca, hành vi phóng đãng thối nát, còn say đắm Mặc Băng tiên, vì để Mặc Băng tiên vui mà tìm đủ tranh và các loại trò chơi cổ quái, Bạch Tử Họa khó tránh lại tức giận. </p> 
+ <p> Hắn biết Tiểu Cốt ngây thơ cố chấp, biết nàng không thể bị sắc đẹp mê hoặc hay hành động theo cảm tính mà làm ra chuyện gì hoang đường. Có điều hắn không ngờ người đó lại là Mặc Băng tiên, lập tức mất hết tự tin. </p> 
+ <p> Nghe tiếng đàn hợp tấu vọng tới từ Bàn Nhược điện xa xa, nhìn bọn họ hết lần này tới lần khác nắm tay nhau bay về phía chân trời, lòng hắn đầy lo sợ. </p> 
+ <p> Hắn bỗng nhận ra mình chẳng làm được gì, mỗi ngày đều như phi tử thất sủng ngồi trong lãnh cung chờ hoàng đế tới lâm hạnh, thật quá nực cười. </p> 
+ <p> Cho nên hắn nhân lúc Hoa Thiên Cốt bế quan đi tới Bàn Nhược điện. </p> 
+ <p> Mặc Băng tiên đang ngồi ở đình nghỉ, cổ cầm đặt lên chiếc án bên cạnh, trên chiếc bàn bạch ngọc có tập sách, hoa quả, trà và một ván cờ chưa biết kết cục. Lúc hắn đến, Mặc Băng tiên vẫn không hề nhúc nhích, tựa vào chiếc ghế gỗ Tử Đàn chạm trổ tinh xảo, một lúc lâu sau mới chậm rãi mở mắt ra. </p> 
+ <p> Bạch Tử Họa nhìn chiếc áo lông cáo màu tím khoác trên người hắn, chắc là lúc đi Hoa Thiên Cốt tiện tay đắp lên, tâm trạng đột nhiên cực kì căng thẳng. Tuy biết rõ Tiểu Cốt không thể xảy ra chuyện gì với con người này, cũng chưa thể làm gì, nhưng vừa nghĩ tới việc nàng hằng đêm ngủ trên giường cùng một người đàn ông khác, lửa giận khó có thể kìm nén liền xộc thẳng ra ngoài. </p> 
+ <p> Mặc Băng tiên cực kì hứng thú nhìn vẻ mặt biến đổi của Bạch Tử Họa, như thể có điều suy nghĩ. Mới đầu hắn tưởng Hoa Thiên Cốt si mê Bạch Tử Họa, cho nên không từ thủ đoạn giữ hắn bên mình, vì vậy Ma Nghiêm mới tới cầu xin hắn. Bây giờ xem ra không phải như thế. </p> 
+ <p> “Thượng tiên, đã lâu không gặp.” Mặc Băng tiên chậm rãi ngồi thẳng dậy, châm trà cho Bạch Tử Họa. </p> 
+ <p> “Sư huynh bảo ngài tới?” </p> 
+ <p> Mặc Băng tiên gật đầu. </p> 
+ <p> “Ta đã nói mình có thể giải quyết, mời ngài về cho.” </p> 
+ <p> “Giải quyết? Giải quyết thế nào? Bây giờ nàng là Yêu Thần bất bại, cho dù có là người nàng yêu cũng không thể thay đổi gì.” </p> 
+ <p> “Ta sẽ không bỏ rơi nàng.” Hắn là sư phụ, là người thân duy nhất của nàng trên đời, là kẻ đầu sỏ gây nên tình trạng hiện nay. Nếu ngay cả hắn cũng rời bỏ nàng, thì Tiểu Cốt sẽ vĩnh viễn không có ngày trở về. </p> 
+ <p> “Ta không biết trước kia đã xảy ra chuyện gì, nhưng hiện giờ nàng đã làm nhiều điều ác, giết bao nhiêu người. Ngươi luôn lấy đại nghĩa thiên hạ làm trọng, đương nhiên biết nên làm gì và không nên làm gì. Tiên giới ngầm chuẩn bị lâu như thế, mọi chuyện đã sẵn sàng, chỉ còn chờ cơ hội, chẳng mấy chốc chiến tranh sẽ nổ khắp Lục giới. Ta chắc chắn Tiên giới giành chiến thắng, hơn nữa chẳng qua giờ ngươi chỉ là một kẻ phàm trần, không giúp được gì, ở lại đây quá nguy hiểm, ngươi nên đi mới phải.” </p> 
+ <p> Bạch Tử Họa đương nhiên biết chiến thắng mà hắn nói chính là dùng giao hợp để cướp sức mạnh Yêu Thần. Những người khác có lẽ không làm được, nhưng nếu là Mặc Băng tiên thì Tiểu Cốt chết chắc. </p> 
+ <p> “Không được đụng vào nàng!” </p> 
+ <p> Giọng hắn vẫn lạnh lẽo như xưa nhưng lại đầy uy hiếp. Mặc Băng tiên nhíu mày, đặt mạnh chén trà xuống: “Ngươi tưởng ta muốn à? Ta không phải là người có thể hi sinh vì điều gì đó. Việc này vốn là lỗi của ngươi, đáng lẽ phải là ngươi giải quyết. Ngươi tự ình thanh cao không chịu xả thân cũng không muốn bù đắp thì thôi đi, có tư cách gì cản ta?” </p> 
+ <p> Bạch Tử Họa tức giận: “Đường đường là Mặc Băng tiên, sao có thể dùng thủ đoạn hèn hạ này?” </p> 
+ <p> Mặc Băng tiên cười sằng sặc: “Khó khăn lắm mới có người phụ nữ chịu được sự vuốt ve của ta, tất nhiên là ta vui lòng hưởng thụ rồi, hơn nữa vị của nàng cũng không tồi.” Hắn nheo mắt, tựa như đang nhớ lại giấc triền miên giữa đêm của hai người. </p> 
+ <p> Bạch Tử Họa ra sức kìm nén bản thân, nhưng vẫn không nhịn được giận dữ phất tay áo bỏ đi. Chiếc cổ cầm rơi khỏi án, đập mạnh xuống sàn. Mặc Băng tiên nhặt lên, đờ đẫn, có chút kinh ngạc nhìn theo bóng Bạch Tử Họa bỏ đi. Người đó thực sự là Bạch Tử Họa trước kia hắn quen ư? Vì Hoa Thiên Cốt mà lại thành thế này? Rốt cuộc giữa họ đã xảy ra chuyện gì? </p> 
+ <p> Bạch Tử Họa vừa đi không lâu, Trúc Nhiễm đã tới, dường như có điều suy nghĩ. </p> 
+ <p> “Ta biết ngài đang tò mò điều gì, có điều ta khuyên ngài, đừng nhìn trộm kí ức của Thần tôn. Biết chuyện đó không có lợi với ngài.” </p> 
+ <p> Mặc Băng tiên chẳng những có thể triệt tiêu được pháp lực của đối phương, mà còn có thể nhìn thấu nội tâm, vô cùng dễ dàng tìm được nhược điểm của đối thủ, cho nên mọi việc luôn suôn sẻ. </p> 
+ <p> “Thật không thể hiểu nổi hai người, rõ ràng thoạt nhìn quan hệ căng thẳng như thế mà trong lòng luôn suy nghĩ cho đối phương.” </p> 
+ <p> Trúc Nhiễm hừ lạnh: “Ta không hiểu ngài đang nói gì.” </p> 
+ <p> Mặc Băng tiên cười nhạo: “Nàng nói ngươi luôn sát cánh bên nàng mỗi khi khổ sở nhất, đối với nàng mà nói, cả Lục giới này đều không quan trọng bằng ngươi.” </p> 
+ <p> Trúc Nhiễm giật mình đờ đẫn, gã không ngờ… Ngượng ngùng gượng cười, cả mặt gã phủ đầy sẹo, tất cả sắc thái nhìn qua đều vô cùng giả dối, nhưng Mặc Băng tiên biết vẻ đau thương trong mắt gã là thật. </p> 
+ <p> “Hai chúng ta rất giống nhau, nàng còn đáng thương hơn cả ta. Ta tìm ngài đến đây là muốn có người ở bên nàng, Bạch Tử Họa không làm được, có lẽ chỉ có ngài mới có thể. Dùng hết khả năng của ngài khiến nàng vui đi, nàng không còn nhiều thời gian nữa.” </p> 
+ <p> Trúc Nhiễm xoay người bỏ đi, không có ai thấy vết sẹo tượng trưng cho dã tâm ở trên người Trúc Nhiễm mà không sợ hãi. Tham vọng của gã quá lớn, đương nhiên sẽ không cam chịu luồn cúi trước người khác. Bây giờ cả Lục giới đã ở trong tay, nhưng gã vẫn chưa thỏa mãn. Gã muốn mượn tay hắn và Tiên giới diệt trừ Hoa Thiên Cốt sao? Hắn phải truyền tin về bảo Ma Nghiêm tăng cường đề phòng con người này mới được. Nếu không cốc mò cò xơi, ai mà biết cuối cùng có lọt vào tay gã hay không? </p> 
+ <p> Tuy rằng gã đã cảnh cáo hắn đừng nảy sinh bất kì hứng thú gì với Hoa Thiên Cốt, nhưng ở chung lâu như thế, hắn dường như bị nàng hấp dẫn, luôn bất giác muốn hiểu nàng nhiều hơn. </p> 
+ <p> Đêm khuya khi Hoa Thiên Cốt trở về, chỉ thấy Mặc Băng tiên im lặng ôm đàn ngồi trong phòng. Bạch Tử Họa mặc dù luôn đơn độc, từ xa nhìn trông, lại chưa từng có cảm giác lẻ loi như hắn. </p> 
+ <p> “Sao thế?” Trong không khí thoang thoảng mùi của Bạch Tử Họa, hắn đã tới đây sao? Hoa Thiên Cốt lập tức căng thẳng. </p> 
+ <p> “Không sao.” Mặc Băng tiên tiện tay gảy đàn. </p> 
+ <p> “Sao nó lại tróc cả một mảng thế này, ngày mai ta sẽ tìm một cái mới cho ngươi.” </p> 
+ <p> “Không cần, ta thích cây đàn này, hồi xưa được một người bạn tặng.” </p> 
+ <p> “Nàng ấy thích nghe ta gảy đàn. Lúc nàng ấy sắp chết ta muốn gặp nàng ấy, gảy đàn cho nàng ấy nghe, nhưng nàng ấy lại không chịu gặp ta.” </p> 
+ <p> “Nàng ấy mất rồi?” </p> 
+ <p> “Người đã già, đương nhiên phải chết.” </p> 
+ <p> “Nàng ấy là người phàm?” </p> 
+ <p> Mặc Băng tiên gật đầu. </p> 
+ <p> Hoa Thiên Cốt đã hiểu: “Sao ngươi không dạy nàng tu tiên?” Nếu thế không phải sẽ giữ được gương mặt sao? </p> 
+ <p> “Tu tiên thì sao chứ, ta vẫn không thể đến gần nàng. Hơn nữa nàng cũng có cuộc đời và lựa chọn của riêng mình, không đáng chỉ vì làm bạn tới ta mà thay đổi bản thân.” </p> 
+ <p> Hoa Thiên Cốt gật đầu, nhìn người mình yêu ngày một già đi rồi chết, muốn ôm vào lòng vỗ về cũng không được, cảm giác đó chắc chắn rất tuyệt vọng. </p> 
+ <p> Nàng nhớ tới lời mình nói với hắn trước kia, nàng khao khát cảm giác tự do thoải mái luôn ngự trị trong thần thái của hắn. </p> 
+ <p> Hắn chỉ thản nhiên cười đáp, người không có ràng buộc rất cô đơn, nàng không hiểu. </p> 
+ <p> Đang ngơ ngẩn, bỗng Mặc Băng tiên kéo nàng vào lòng, tay chạm lên ngực nàng. Hoa Thiên Cốt kinh hãi, hắn đã bỏ tay ra, lấy xuống thứ gì đó từ trong ngực nàng. </p> 
+ <p> “Nàng luôn cất tảng đá này trong ngực để làm gì?” Hắn tò mò tung lên tung xuống, thật có phần trẻ con. </p> 
+ <p> Ánh mắt mơ màng của Hoa Thiên Cốt trở nên sâu thăm thẳm, đang định mở miệng thì Mặc Băng tiên đã cười nói: “Nàng lại muốn kể chuyện xưa cho ta à?” </p> 
+ <p> Hoa Thiên Cốt cũng cười, đưa tay lấy lại tảng đá, đặt trong tay dịu dàng vuốt ve: “Tuy giờ nhìn qua nó chỉ là một tảng đá bình thường. Nhưng thực ra nó chính là khởi đầu của tất cả mọi chuyện – đá Nữ Oa.” </p> 
+ <p> “Đây là đá Nữ Oa?” Mặc Băng tiên nheo mắt, tại sao đá Nữ Oa lại có dấu vết được luyện hóa gần đây? Hoa Thiên Cốt muốn dùng nó làm gì? </p> 
+ <p> “Đúng vậy, đá Nữ Oa, một mảnh vụn của nó từng biến thành người, sau đó lại vì ta mà chết. Ta không cam lòng, muốn cứu cậu ấy. Có lúc ta nghe thấy cậu ấy gọi ta, an ủi ta. Ta biết cậu ấy vẫn ở trong tảng đá, luôn bên ta.” </p> 
+ <p> Lại là một chuyện cũ đau lòng? Mặc Băng tiên trầm mặc hồi lâu: “Ta biết một thuật từ xa xưa, có thể gom yêu hồn tạ thế đã tiêu tán lại, nhưng không biết có dùng được với đá Nữ Oa không. Hơn nữa, có gọi về được một phách, tu luyện vật hóa lần nữa, cũng không còn là người bạn trước kia, mà là một người khác.” </p> 
+ <p> Hoa Thiên Cốt mừng rỡ nhìn, đột nhiên nhào lên nắm chặt hai bàn tay hắn: “Thật không?” </p> 
+ <p> Mặc Băng tiên nhìn gương mặt bỗng cười tươi như hoa kia, có phần lóa mắt. Nàng trước kia chính là thế này ư, vui vẻ mà tràn đầy sức sống, tựa như ánh dương chiếu qua người hắn, khiến mỗi dòng máu trong cơ thể hắn đều rạo rực như một dòng suối trong trẻo reo vui. </p> 
+ <p> Không quen thấy mình rung động, hắn hơi ngượng ngùng quay mặt đi tránh nhìn nàng. </p> 
+ <p> “Có thể thử xem. Nhưng chỉ dùng mỗi nó chắc chắn sẽ không thành, nếu thêm sức mạnh Yêu Thần thì nói không chừng lại được.” </p> 
+ <p> “Được, khi nào thì có thể bắt đầu?” Hoa Thiên Cốt kích động nghẹn lời. Nếu, nếu còn cơ hội bù đắp, còn có cơ hội trả giá… </p> 
+ <p> “Lúc linh khí thiên địa càng thịnh thì xác suất thành công càng lớn, nhưng phải biết, cách này sẽ tốn rất nhiều yêu lực của nàng.” </p> 
+ <p> “Ta không quan tâm, chỉ cần có thể cứu được cậu ấy.” </p> 
+ <p> Mặc Băng tiên không ngờ nàng lại cả tin như thế, hay phải nói là nàng quá tự tin vào sức mạnh của mình. </p> 
+ <p> “Vậy, vậy Đường Bảo thì sao? Nó, nó là linh trùng của Dị Hủ các, đã tu luyện thành người, nhưng vì cứu ta mà hồn phi phách tán, có cách gì có thể cứu nó không? Có tốn nhiều yêu lực nữa cũng không sao!” Hoa Thiên Cốt kích động tới nỗi nói cũng không rõ ràng. </p> 
+ <p> Lại là vì cứu nàng? Mặc Băng tiên thầm giật mình. Đôi khi, mặc cảm tội lỗi có thể hủy hoại một người hơn cả những tổn thương trực tiếp. Rốt cuộc trong lòng nàng có biết bao nhiêu đau khổ, bao nhiêu hối hận? </p> 
+ <p> “Chuyện này ta cũng hết cách, nó là linh trùng của Dị Hủ các, sao nàng không hỏi Dị Hủ các chủ?” </p> 
+ <p> “Huynh ấy… huynh ấy cũng chết rồi.” </p> 
+ <p> Thoáng thấy sự tuyệt vọng trong đôi mắt mở to của nàng, tựa như đang nhớ lại chuyện gì đau đớn nhất, lòng hắn bất giác cũng như bị siết chặt. </p> 
+ <p> “Đừng từ bỏ, nàng phải biết thế gian trường tồn, vạn vật bất diệt. Nếu nàng thật sự yêu, thì nàng sẽ không để ý tới việc người kia đã không còn hình dáng ban đầu nữa. Cố gắng trông xem, thiên địa luân hồi, rồi sẽ có một ngày tất cả những thứ nàng cho rằng đã mất đi sẽ quay trở lại.” </p> 
+ <p> Lòng Hoa Thiên Cốt cực kì ấm áp, bỗng dưng muốn khóc. </p> 
+ <p> Đúng vậy, trở lại, nàng muốn tất cả đều quay trở lại, trở lại yên ổn. Dẫu ngày ấy nàng không thể chứng kiến. </p> 
+ <p> Mặc Băng tiên bỗng cúi người, ngắt một đóa hoa trong suốt lấp lánh đầy ánh sáng đưa cho nàng. Hoa Thiên Cốt quay đầu lại nhìn, nàng đi tới đâu hoa nở đầy tới đấy, đã rất lâu không thế này rồi. Trước kia sở dĩ đi tới đâu cũng để lại vết hoa là vì ban đầu yêu lực quá mạnh, không thể kìm hãm, tiết ra khắp nơi. Nhưng giờ… có lẽ là nàng không đủ sức khống chế. </p> 
+ <p> Mặc Băng tiên nhíu mày, tuy đêm nào hắn cũng động tay động chân nhưng sức mạnh của Hoa Thiên Cốt không thể tan nhanh như thế. Vì sao rõ ràng nàng đã trở thành Lục giới chí tôn mà lại luôn mang ánh mắt của người đã chết? </p> 
+ <p> Thấy Hoa Thiên Cốt cầm lấy đóa hoa mình đưa, hắn bèn ngẩn người nhìn chăm chú, gần đây hắn có chút say mê đôi mắt ngờ nghệch của nàng. Hắn không nhịn được, vươn tay ôm nàng vào lòng, đáy mắt ánh lên vẻ mâu thuẫn. Rõ ràng nàng mạnh như thế, sao hắn luôn cảm thấy nàng như một món đồ sứ, chạm nhẹ là sẽ vỡ tan? Rõ ràng là tai họa của Lục giới, yêu nghiệt tay nhuốm đầy máu, nhưng sao hắn lại vừa xem thường vừa đau lòng. Phải chăng bởi ánh mắt vô tội kia? Hắn nào có thể bị cám dỗ dễ dàng như thế được? </p> 
+ <p> Cuối cùng hắn vẫn quyết tâm, đặt tay sau gáy nàng, ép nàng vào lòng mình càng chặt. </p> 
+ <p> Hoa Thiên Cốt rùng mình một cái, sức mạnh của Mặc Băng tiên luôn vô cùng lợi hại. Càng tựa vào gần hắn, nàng lại càng khó chịu, sức mạnh như bị thứ gì đó xé rách, cuồn cuộn trào ra ngoài. Nhưng lòng nàng lại cực kì bình yên, lưu luyến hương vị của hắn, cho nên vẫn luôn kìm lòng không đặng muốn tới gần. Nhưng lần này… </p> 
+ <p> Nàng rất nhanh đã nhận thấy chuyện gì đang xảy ra, lập tức đẩy mạnh Mặc Băng tiên. </p> 
+ <p> “Đừng xem…” Đừng xem, những nỗi đau, những hổ thẹn đã qua của nàng. </p> 
+ <p> Mặc Băng tiên ngẩn người, há hốc miệng nhìn Hoa Thiên Cốt, gương mặt tràn ngập vẻ kinh ngạc. </p> 
+ <p> Đứa bé đó… đứa bé đó là nàng ư? Hoa Thiên Cốt trước kia sao? Sợ sệt trước quỷ, lẻ loi đi bái sư, vì Bạch Tử Họa mà nỗ lực, vui vẻ cười đùa với bạn bè, chòng ghẹo Đường Bảo, hết lần này tới lần khác đứt từng khúc ruột vì sư phụ mình. </p> 
+ <p> Cuối cùng hắn cũng hiểu, vì sao có khi ánh mắt nàng lại lạnh lẽo, có khi lại mênh mang, có lúc lại đau đớn. Vì sao ngay cả Trúc Nhiễm cũng thương nàng, vì sao Ma Nghiêm lại tới xin hắn, vì sao Bạch Tử Họa nguyện ở lại chịu sỉ nhục cũng không bỏ đi. </p> 
+ <p> Đoạn Niệm kiếm, đinh Tiêu Hồn, nước ao Tuyệt Tình… Lúc nhìn thấy nàng vừa câm vừa mù chịu biết bao khổ sở ở man hoang, lòng hắn quặn thắt. Trúc Nhiễm tuy mưu lợi, nhưng lúc đó vẫn chăm sóc nàng, một lần nữa cho nàng hi vọng, thảo nào nàng lại dung túng gã như thế. Mọi người chỉ biết phỉ báng nàng, lừa dối nàng, thì ra Yêu Thần này là do bao bước sai liên tiếp tạo thành. </p> 
+ <p> Mặc Băng tiên đặt tay lên ngực tự hỏi mình, hắn đã thấy đủ thói đời, mặc dù không đến mức oán trời trách đất, nhưng ít nhiều cũng có chút lạnh lùng với thế gian. Nếu phải chịu khổ như Hoa Thiên Cốt, hắn không biết mình sẽ trở thành thế nào nữa. </p> 
+ <p> Có điều, sao nàng cứ u mê không tỉnh như thế? Tất cả, tất cả mọi chuyện đều chỉ vì Bạch Tử Họa mà thôi ư? </p> 
+ <p> Nỗi cảm thông trong lòng bị lửa giận hoàn toàn chiếm chỗ, căm phẫn Bạch Tử Họa, căm phẫn Tiên giới, căm phẫn chính bản thân mình. </p> 
+ <p> Hoa Thiên Cốt nhìn vẻ mặt hắn, khẽ lắc đầu, mệt mỏi ngồi trên ghế. </p> 
+ <p> “Rất nực cười đúng không? Lục giới vì ta mà dậy sóng, muôn dân trăm họ vì ta mà khốn khổ lầm than, máu chảy thành sông, xác chất như núi. Nhưng người ta tự tay giết, lại chỉ có mình Lạc Thập Nhất.” </p> 
+ <p> “Ta…” Mặc Băng tiên vừa hoang mang lại thêm phần áy náy. Hắn vốn có thể khiến Hoa Thiên Cốt không cách nào phát hiện, nhưng khi xem kí ức của nàng đột nhiên bị đả kích và xúc động quá lớn, làm hắn lạc cả hồn phách. </p> 
+ <p> Bỗng hắn cực kì muốn giết Bạch Tử Họa. Rồi hắn chợt hận, hận mình tới muộn bao nhiêu năm. Hoa Thiên Cốt bây giờ đã không còn là đứa trẻ ngây thơ cười khanh khách trước kia nữa, mà là một cái xác xinh đẹp vô hồn. </p> 
+ <p> Còn hắn, lại muốn cùng những kẻ đã từng bước ép nàng đi tới ngày hôm nay, hủy nàng không còn mẩu xương nào. Thật tàn nhẫn biết bao… </p> 
+ <p> Hoa Thiên Cốt từ từ đứng dậy, nếu Mặc Băng tiên chưa biết gì, nàng còn có thể vui đùa với hắn, sưởi ấm cho nhau, an ủi nhau. Nhưng giờ, không thể nữa rồi. Nàng không muốn bị lột trần đứng trước mặt hắn. </p> 
+ <p> “Tiểu Cốt!” Mặc Băng tiên giữ chặt tay nàng. </p> 
+ <p> Hoa Thiên Cốt không ngờ hắn lại gọi nàng hệt như Bạch Tử Họa, bất giác ngẩn ngơ. </p> 
+ <p> “Lẽ nào tới nước này rồi, nàng vẫn không buông tay được ư?” </p> 
+ <p> Hoa Thiên Cốt ngỡ ngàng khẽ than: “Trong thế giới của ta, trước nay chưa một điều gì có thể so sánh với người.” Cuối cùng vẫn không quay đầu lại, rút tay chậm rãi đi ra khỏi cửa. </p> 
+ <p> Mặc Băng tiên ngập vẻ suy sụp. </p> 
+</div>
