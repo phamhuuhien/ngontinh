@@ -13,7 +13,7 @@
         android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
         app:title="Detail" />
 
-    <com.hstudio.doctruyen.utils.InteractiveScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    <com.hstudio.ngontinh.utils.InteractiveScrollView xmlns:android="http://schemas.android.com/apk/res/android"
         android:id="@+id/scrollView"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
@@ -94,6 +94,6 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
     </LinearLayout>
-    </com.hstudio.doctruyen.utils.InteractiveScrollView>
+    </com.hstudio.ngontinh.utils.InteractiveScrollView>
 
 </LinearLayout>
