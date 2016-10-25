@@ -1,5 +1,6 @@
 package com.hstudio.ngontinh.async;
 
+import android.content.res.AssetManager;
 import android.os.AsyncTask;
 
 import com.hstudio.ngontinh.NewsFragment;
@@ -28,16 +29,26 @@ public class LoadStories extends AsyncTask<String, Integer, List<Story>> {
         String url = urls[0];
         List<Story> result = new ArrayList<>();
         try {
-            Document doc = Jsoup.connect(url).get();
-            Elements news = doc.select("div[itemtype=\"http://schema.org/Book\"]");
-            for(Element element: news) {
+//            Document doc = Jsoup.connect(url).get();
+//            Elements news = doc.select("div[itemtype=\"http://schema.org/Book\"]");
+//            for(Element element: news) {
+//                Story story = new Story();
+//                Elements a = element.select("a[href]").not("[itemprop=\"genre\"]");
+//                Elements img = element.select("div[data-image]");
+//                story.setTitle(a.get(0).text());
+//                story.setImage(img.attr("data-image"));
+//                story.setUrl(a.get(0).attr("href"));
+//                story.setAuthor(element.select(".author").text());
+//                result.add(story);
+//            }
+            AssetManager am = mFragment.getActivity().getAssets();
+
+            String [] aplist = am.list("");
+            for(String s : aplist) {
                 Story story = new Story();
-                Elements a = element.select("a[href]").not("[itemprop=\"genre\"]");
-                Elements img = element.select("div[data-image]");
-                story.setTitle(a.get(0).text());
-                story.setImage(img.attr("data-image"));
-                story.setUrl(a.get(0).attr("href"));
-                story.setAuthor(element.select(".author").text());
+                story.setTitle(s);
+                story.setUrl(s);
+                story.setImage(s + "/cover_image.jpg");
                 result.add(story);
             }
         } catch (IOException e) {

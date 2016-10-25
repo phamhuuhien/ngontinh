@@ -29,18 +29,18 @@ public class LoadTypes extends AsyncTask<String, Integer, List<Type>> {
         String url = urls[0];
         JSONObject config = ConfigHelper.getJsonObject(mMainActivity);
         List<Type> types = new ArrayList<>();
-        try {
-            Document doc = Jsoup.connect(url).get();
-            Elements li = doc.select(config.getString("type"));
-            for(Element e : li) {
-                Type type = new Type();
-                type.setTitle(e.text());
-                type.setLink(e.attr("href"));
-                types.add(type);
-            }
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+//        try {
+//            Document doc = Jsoup.connect(url).get();
+//            Elements li = doc.select(config.getString("type"));
+//            for(Element e : li) {
+//                Type type = new Type();
+//                type.setTitle(e.text());
+//                type.setLink(e.attr("href"));
+//                types.add(type);
+//            }
+//        } catch (Exception e) {
+//            e.printStackTrace();
+//        }
 
         return types;
     }

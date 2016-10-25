@@ -1,5 +1,6 @@
 package com.hstudio.ngontinh;
 
+import android.content.res.AssetManager;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
@@ -16,6 +17,7 @@ import com.hstudio.ngontinh.async.LoadStories;
 import com.hstudio.ngontinh.object.Story;
 import com.hstudio.ngontinh.utils.EndlessRecyclerViewScrollListener;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -73,7 +75,8 @@ public class NewsFragment extends Fragment {
         mSwipeContainer.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
             @Override
             public void onRefresh() {
-                new LoadStories(NewsFragment.this).execute(mUrl);
+                //new LoadStories(NewsFragment.this).execute(mUrl);\
+                mSwipeContainer.setRefreshing(false);
             }
         });
         // Configure the refreshing colors
@@ -86,8 +89,8 @@ public class NewsFragment extends Fragment {
 
             @Override
             public void onLoadMore(int page, int totalItemsCount) {
-                page ++;
-                new LoadStories(NewsFragment.this).execute(mUrl + "trang-" + page);
+                //page ++;
+                //new LoadStories(NewsFragment.this).execute(mUrl + "trang-" + page);
             }
         });
 
