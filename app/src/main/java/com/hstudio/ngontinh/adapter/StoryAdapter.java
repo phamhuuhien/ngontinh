@@ -18,6 +18,7 @@ import com.hstudio.ngontinh.object.Story;
 import com.hstudio.ngontinh.utils.CircleTransform;
 import com.squareup.picasso.Picasso;
 
+import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.List;
@@ -58,19 +59,7 @@ public class StoryAdapter extends RecyclerView.Adapter<StoryAdapter.MyViewHolder
     public void onBindViewHolder(MyViewHolder holder, int position) {
         holder.title.setText(mStoryList.get(position).getTitle());
         if(!TextUtils.isEmpty(mStoryList.get(position).getImage())) {
-            //Picasso.with(mContext).load(mStoryList.get(position).getImage()).transform(new CircleTransform()).into(holder.image);
-            // get input stream
-            InputStream ims = null;
-            try {
-                ims = mContext.getAssets().open(mStoryList.get(position).getImage());
-                // load image as Drawable
-                Drawable d = Drawable.createFromStream(ims, null);
-                // set image to ImageView
-                holder.image.setImageDrawable(d);
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
-
+            Picasso.with(mContext).load("file:///android_asset/" + mStoryList.get(position).getImage()).transform(new CircleTransform()).into(holder.image);
         }
         holder.link = mStoryList.get(position).getUrl();
         holder.author.setText(mStoryList.get(position).getAuthor());

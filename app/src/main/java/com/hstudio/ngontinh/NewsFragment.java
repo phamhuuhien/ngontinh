@@ -45,11 +45,6 @@ public class NewsFragment extends Fragment {
         mRecyclerView = (RecyclerView) view.findViewById(R.id.recycler_view);
         mSwipeContainer = (SwipeRefreshLayout) view.findViewById(R.id.swipeContainer);
         initRecyclerView(view);
-        return view;
-    }
-
-    public void onStart () {
-        super.onStart();
         mSwipeContainer.post(new Runnable() {
             @Override
             public void run() {
@@ -57,6 +52,11 @@ public class NewsFragment extends Fragment {
                 new LoadStories(NewsFragment.this).execute(mUrl);
             }
         });
+        return view;
+    }
+
+    public void onStart () {
+        super.onStart();
     }
 
     private void initRecyclerView(View view) {

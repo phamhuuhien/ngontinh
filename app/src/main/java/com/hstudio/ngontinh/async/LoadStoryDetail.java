@@ -53,6 +53,7 @@ public class LoadStoryDetail extends AsyncTask<String, Integer, StoryDetail> {
 //            }
 //            storyDetail.setChaps(chaps);
             storyDetail.setImage(url + "/cover_image.jpg");
+            storyDetail.setTitle(url);
             String description = "";
             reader = new BufferedReader(
                     new InputStreamReader(mStoryActivity.getAssets().open(url + "/desc.txt")));
@@ -61,6 +62,7 @@ public class LoadStoryDetail extends AsyncTask<String, Integer, StoryDetail> {
             String mLine;
             while ((mLine = reader.readLine()) != null) {
                 description += mLine;
+                System.out.println("mLine="+ mLine);
             }
             storyDetail.setDescription(description);
             List<ChapItem> chaps = new ArrayList<>();
@@ -69,6 +71,7 @@ public class LoadStoryDetail extends AsyncTask<String, Integer, StoryDetail> {
             for(String file : files) {
                 ChapItem chapItem = new ChapItem();
                 chapItem.setTitle(file);
+                chapItem.setLink(url + "/" + file);
                 chaps.add(chapItem);
             }
             storyDetail.setChaps(chaps);

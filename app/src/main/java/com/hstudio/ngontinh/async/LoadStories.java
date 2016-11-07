@@ -45,11 +45,13 @@ public class LoadStories extends AsyncTask<String, Integer, List<Story>> {
 
             String [] aplist = am.list("");
             for(String s : aplist) {
-                Story story = new Story();
-                story.setTitle(s);
-                story.setUrl(s);
-                story.setImage(s + "/cover_image.jpg");
-                result.add(story);
+                if(!s.contains(".") && s.contains("-")) {
+                    Story story = new Story();
+                    story.setTitle(s);
+                    story.setUrl(s);
+                    story.setImage(s + "/cover_image.jpg");
+                    result.add(story);
+                }
             }
         } catch (IOException e) {
             e.printStackTrace();
