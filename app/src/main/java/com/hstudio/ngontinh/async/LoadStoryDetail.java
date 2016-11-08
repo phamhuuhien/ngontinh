@@ -35,29 +35,15 @@ public class LoadStoryDetail extends AsyncTask<String, Integer, StoryDetail> {
         StoryDetail storyDetail = new StoryDetail();
         BufferedReader reader = null;
         try {
-//            Document doc = Jsoup.connect(url).get();
-//            Elements img = doc.select("div.books img");
-//            storyDetail.setImage(img.attr("src"));
-//            Elements title = doc.select("h3.title");
-//            storyDetail.setTitle(title.text());
-//            Elements desc = doc.select("div.desc-text");
-//            storyDetail.setDescription(desc.toString());
-//            Elements els = doc.select("ul.list-chapter a[href]");
-//            List<ChapItem> chaps = new ArrayList<>();
-//            for(Element e : els) {
-//                ChapItem chapItem = new ChapItem();
-//                chapItem.setTitle(e.text().trim());
-//                System.out.println("e.text()="+e.text());
-//                chapItem.setLink(e.attr("href"));
-//                chaps.add(chapItem);
-//            }
-//            storyDetail.setChaps(chaps);
             storyDetail.setImage(url + "/cover_image.jpg");
-            storyDetail.setTitle(url);
+
             String description = "";
             reader = new BufferedReader(
                     new InputStreamReader(mStoryActivity.getAssets().open(url + "/desc.txt")));
-
+            String title = reader.readLine();
+            title = title.replace("Title:<h1>", "");
+            title = title.replace("</h1>", "");
+            storyDetail.setTitle(title);
             // do reading, usually loop until end of file reading
             String mLine;
             while ((mLine = reader.readLine()) != null) {
@@ -75,6 +61,7 @@ public class LoadStoryDetail extends AsyncTask<String, Integer, StoryDetail> {
                 chaps.add(chapItem);
             }
             storyDetail.setChaps(chaps);
+            reader.close();
         } catch (IOException e) {
             e.printStackTrace();
         }

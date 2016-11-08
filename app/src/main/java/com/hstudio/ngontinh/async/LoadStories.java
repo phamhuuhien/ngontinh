@@ -11,7 +11,9 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+import java.io.BufferedReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -28,29 +30,24 @@ public class LoadStories extends AsyncTask<String, Integer, List<Story>> {
     protected List<Story> doInBackground(String... urls) {
         String url = urls[0];
         List<Story> result = new ArrayList<>();
+        BufferedReader reader = null;
         try {
-//            Document doc = Jsoup.connect(url).get();
-//            Elements news = doc.select("div[itemtype=\"http://schema.org/Book\"]");
-//            for(Element element: news) {
-//                Story story = new Story();
-//                Elements a = element.select("a[href]").not("[itemprop=\"genre\"]");
-//                Elements img = element.select("div[data-image]");
-//                story.setTitle(a.get(0).text());
-//                story.setImage(img.attr("data-image"));
-//                story.setUrl(a.get(0).attr("href"));
-//                story.setAuthor(element.select(".author").text());
-//                result.add(story);
-//            }
             AssetManager am = mFragment.getActivity().getAssets();
 
             String [] aplist = am.list("");
             for(String s : aplist) {
                 if(!s.contains(".") && s.contains("-")) {
+                    reader = new BufferedReader(
+                            new InputStreamReader(mFragment.getActivity().getAssets().open(s + "/desc.txt")));
+                    String title = reader.readLine();
+                    title = title.replace("Title:<h1>", "");
+                    title = title.replace("</h1>", "");
                     Story story = new Story();
-                    story.setTitle(s);
+                    story.setTitle(title);
                     story.setUrl(s);
                     story.setImage(s + "/cover_image.jpg");
                     result.add(story);
+                    reader.close();
                 }
             }
         } catch (IOException e) {
