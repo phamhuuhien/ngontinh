@@ -1,3 +1,4 @@
+Chương 01 phần 3
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p> Ma Nghiêm đập mạnh lên bàn, tức đến nỗi môi run bần bật. Hắn sao không hiểu tính Bạch Tử Họa, chức chưởng môn chỉ là chuyện nhỏ, một thời gian sau trả lại cũng được, nhưng sáu mươi tư cây đinh Tiêu Hồn kia, dù có lấy tu vi thượng tiên cũng không thể bình an vô sự. Ngươi tưởng ngươi là thần sao? Hay là có tấm thân bất tử? </p> 
  <p> Có điều Bạch Tử Họa đã quyết, tự trói mình lại trên trụ Tru Tiên. Thủ tọa của Giới Luật các nhìn Ma Nghiêm, Ma Nghiêm bất đắc dĩ nhắm mắt lại, mệt mỏi vung tay lên. </p> 

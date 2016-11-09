@@ -1,3 +1,4 @@
+Chương 10
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p> Chị chủ nhà có 3 đứa con, đứa út mới hơn 2 tuổi. Những đứa trẻ vùng này lớn lên đều rất khỏe mạnh, hầu như ít có đau ốm gì đáng kể. Có lẽ là vì khí hậu và thiên nhiên ôn hòa nơi đây. Căn nhà bên trong khá nhỏ, chỉ có vách ngoài được làm bằng gạch, còn lại trần nhà và những vách ngăn đều làm bằng gỗ. Ba gian trong nhà sử dụng chung một bóng điện 35W. Chồng của chị chủ nhà tốt bụng đi làm ở Hà Nội, thi thoảng 3-4 tháng mới về nhà một lần. Cuộc sống thiếu vắng cha có vẻ không ảnh hưởng lắm tới sự vui tươi của những đứa trẻ. Chúng vẫn cười đùa gần như suốt ngày, trong khi mẹ chúng thì luôn miệng là rầy. </p> 
  <p> Bữa cơm tối chỉ có rau lang và bầu luộc chung cùng với một nồi cá kho khá lớn. </p> 

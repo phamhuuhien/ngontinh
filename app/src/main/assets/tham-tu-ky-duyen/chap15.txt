@@ -1,3 +1,4 @@
+Chương 15
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <strong> Chương 15 </strong>
  <p> - Đừng quýnh lên thế! Tôi chẳng bị làm sao cả. </p> 

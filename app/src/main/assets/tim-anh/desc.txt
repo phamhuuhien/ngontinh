@@ -1,3 +1,4 @@
+Title:<h1>Tìm Anh</h1>
 Description:<p>Khánh Nguyên trở về nhà với khuôn mặt cáu kỉnh. Cô lục tìm chìa khóa phía trong túi ba lô, bình thường nó rất dễ tìm, nhưng hôm nay không hiểu sao nó lại lọt tỏm xuống tận đáy túi. Cái chùm chìa khóa chết tiệt, cô quát lên, trong khi loay hoay chọn chìa cho đúng với cái ổ khóa mới thay.</p>
 <p>Căn nhà cô ở là một căn hộ cho thuê ở tầng 5 của một khu chung cư. 2 phòng riêng, có bếp sạch sẽ và chỗ để một bộ ghế sofa rời đối diện một chiếc TV đính tường. Không lớn lắm nhưng đủ để một gia đình sống thoải mái tại Sài Gòn đất chật người đông này, hơn nữa, cô sống có một mình...</p>
 <p>&nbsp;</p>
@@ -5,5 +6,5 @@ Description:<p>Khánh Nguyên trở về nhà với khuôn mặt cáu kỉnh. C�
 Tác Giả:  Tắc Kè Lang Thang
 Thể Loại:  Đô ThịNgôn TìnhTruyện Teen
 Loại Truyện:  Dịch
-Lượt Đọc:  808
+Lượt Đọc:  825
 Trạng Thái:  Hoàn Thành

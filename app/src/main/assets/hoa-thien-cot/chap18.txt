@@ -1,3 +1,4 @@
+Chương 01 phần 2
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p> Bọn Khinh Thủy, Vân Đoan và mấy người khác hít một hơi khí lạnh, tất cả đệ tử Trường Lưu quen biết Hoa Thiên Cốt đều quỳ rạp xuống Trường Lưu điện, thậm chí ngay cả đệ tử của Tam tôn như Thượng Thượng Phiêu, Lạc Thập Nhất, Hỏa Tịch, Vũ Thanh La cũng quỳ xuống, chỉ có Nghê Mạn Thiên mặt mày hả hê nhìn Hoa Thiên Cốt gặp họa. </p> 
  <p> Ma Nghiêm nheo mắt, quát lớn: “Cả lũ các ngươi phản hết rồi sao?” </p> 

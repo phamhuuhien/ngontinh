@@ -1,3 +1,4 @@
+Chương 7
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p> Sài Gòn chợt nắng lại chợt mưa, sự thất thường ấy cũng không làm cho cuộc sống vội vã của người dân xứ này chậm lại. Thỉnh thoảng người ta lại thấy những khuôn mặt lam lũ đội mưa đi dọc những con phố, hay những cặp đôi thích thú cùng trú mưa dưới một mái hiên chật hẹp, những hàng quán vỉa hè tất bật che mưa... Mưa, làm cho không khí mát mẻ hơn, dể thở hơn, xoa đi cái nóng, dịu đi cái bon chen nhưng mà cũng làm cho những con người quan tâm đến nó thêm ưu tư. </p> 
  <p> Thấy Khánh Nguyên đứng mãi dưới mái hiên công ty, mà trời thì chưa có dấu hiệu gì sẽ dứt mưa sớm, Đức Huy chạy đến hỏi: </p> 

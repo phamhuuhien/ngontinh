@@ -1,3 +1,4 @@
+Chương 44
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <strong> Chương 44 </strong>
  <p> --- </p> 

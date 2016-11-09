@@ -1,3 +1,4 @@
+Chương 07 phần 3
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p> <br> </p> 
  <br> 

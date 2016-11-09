@@ -1,3 +1,4 @@
+Chương 20
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p></p>“Hoàng nhi, con tới đúng lúc lắm, đền ngồi bên cạnh Mẫu hậu, vừa lúc mẹ có việc muốn cùng con thương lượng”.
  <p></p>Đàm Văn Hạo gật đầu, thong thả đi đến bên cạnh Thái hậu, “Mẫu hậu có chuyện gì?” thanh âm bình thản, lãnh đạm, không vội, không hoản.

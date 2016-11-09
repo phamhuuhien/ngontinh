@@ -1,3 +1,4 @@
+Chương 22
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p></p>Hiểu Nguyệt tựa vào thành giường, dựa vào ánh sáng của ngọn nến, chăm chú đọc gió trăng tiểu thuyết.
  <p></p>“Tiểu thư, người còn chưa nghỉ ngơi sao? Bây giờ đã là giờ Hơi hai khắc rồi đó”, Hồng Trù đang chuẩn bị ngủ, nhưng thấy phòng của Hiểu Nguyệt vẫn còn ánh nến, tưởng nàng ngủ quên không tắt nến.

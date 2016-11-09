@@ -1,3 +1,4 @@
+Chương 07 phần 2
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p> <br> “Nàng nghĩ rằng chỉ dựa vào một mình nàng mà có thể chống đỡ được cả Tiên giới và cứu Tiểu Nguyệt ra sao? Ta biết nàng thật sự muốn cứu thằng bé để nó được bình an vô sự, không thẹn với lòng. Nàng cũng biết, chúng ta dẫn quân đi không phải muốn giao chiến với bọn họ mà chỉ để uy hiếp thôi. Nếu không, chúng ta căn bản không có tư cách đòi Tiên giới trả người. Bọn họ cũng không phải kẻ ngốc, biết hai thế lực ngang bằng, sẽ không dễ dàng khai chiến để hai bên cùng chết, bá tánh lầm than. Mà những người ở man hoang cũng không vì nàng mới lên Côn Luân, bọn họ đi chẳng qua là để đấu tranh cho sự sống sau này của mình. Mỗi bên đều có mục đích, nàng không phải áy náy hoặc để tâm.” </p> 
  <br> 

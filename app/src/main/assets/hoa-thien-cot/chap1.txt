@@ -1,3 +1,4 @@
+Chương 1: Thủy Quỷ Chặn Đường
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p> Trời không sao cũng không trăng, tối đen như một vực sâu thăm thẳm, khiến người ta không phân biệt rõ đâu là trên đâu là dưới, giống như chỉ cần đi nhầm một bước thì sẽ rơi xuống đó.</p>
  <p>“Nam Mô A Di Đà Phật, Nam Mô A Di Đà Phật…” Một đứa bé khoảng mười hai, mười ba tuổi một mình đi nhanh trên đường, tay phải cầm một chuỗi tràng hạt lẩm bẩm niệm, tay trái cầm một chiếc đèn lồng làm bằng giấy dầu.</p>

@@ -1,3 +1,4 @@
+Chương 3
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <strong> Chương 3 </strong>
  <p> Lúc này, hai (anh trai) đang làm gì? </p> 

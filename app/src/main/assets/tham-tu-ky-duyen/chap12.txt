@@ -1,3 +1,4 @@
+Chương 12
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <strong> Chương 12 </strong>
  <p> Người đã gọi cho Khôi Nguyên là bà Hiền. </p> 

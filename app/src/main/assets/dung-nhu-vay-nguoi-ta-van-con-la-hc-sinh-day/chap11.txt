@@ -1,3 +1,4 @@
+Chương 11 : Xác định tình cảm tại thành phố B!
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p></p>Lúc tôi đón xe chạy tới sân bay, nhìn đồng hồ đeo tay một cái, nhìn chung vẫn còn dư thời gian. 
  <p></p> Trước tiên tôi vào phòng vệ sinh rửa mặt, sau đó liền bắt đầu tìm kiếm Đỗ Thăng. 

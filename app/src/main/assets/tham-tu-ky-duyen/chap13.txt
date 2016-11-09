@@ -1,3 +1,4 @@
+Chương 13
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <strong> Chương 13 </strong>
  <p> Âm thanh mà tụi mình nghe được là tiếng khóc của đứa trẻ sơ sinh. </p> 

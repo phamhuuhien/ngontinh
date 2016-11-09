@@ -1,3 +1,4 @@
+Chương 16
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <strong> Chương 16 </strong>
  <p> Trời lất phất mưa bay, mình và Khôi Nguyên cùng che chung một chiếc dù. </p> 

@@ -1,3 +1,4 @@
+Chương 3: Trọng Tử
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p> Chưa từng nghe qua giọng nói nào thư thái đến như vậy, đúng vậy, chính là thoải mái, cảm giác giống như mây trắng lơ lửng cuối chân trời, nhẹ nhàng, phiêu đãng, lượn lờ được cơn gió thổi tan ra, giọng nói ngoài điện ấy rất ý nhị, rất ngân nga, giống như thanh âm của một loại nhạc khí chốn thần tiên, cũng giống như giọng nói từ sâu trong ký ức của cô bé. Nhưng, giọng nói trong ký ức ấy so sánh với giọng nói này, dường như vẫn kém hơn một chút.</p>
  <p>Cô bé kinh ngạc, ngẩng đầu nhìn lại.</p>

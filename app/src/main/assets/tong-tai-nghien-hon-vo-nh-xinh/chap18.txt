@@ -1,3 +1,4 @@
+Chương 6 : Có muốn nhìn sau lớp quần áo này là gì không ?
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;">
   Chuyển Dịch : Dạ Huyên 
  <p></p> Edit : Lam Đình 

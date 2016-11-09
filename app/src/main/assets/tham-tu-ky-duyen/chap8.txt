@@ -1,3 +1,4 @@
+Chương 8
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <strong> Chương 8 </strong>
  <p> Tiếng chuông nokia vang lên cắt ngang câu chuyện bà Hiền đang kể. </p> 

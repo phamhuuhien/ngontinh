@@ -1,3 +1,4 @@
+Chương 4
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p> Khu chung cư Đại Khang được xây dựng năm 2011, với 8 tòa nhà cao tầng trong một khuôn viên rộng lớn. Ở giữa có một công viên với rất nhiều cây xanh và một hồ nước nhân tạo trong vắt. Dân ở đây rất biết cách chăm sóc nơi vui chơi của mình. Gần như không có rác thải trong khuôn viên, an ninh thì được đảm bảo, trẻ em được đùa vui thoải mái trong những ngày hè mà phụ huynh của chúng thì cũng bớt lo lắng hơn. </p> 
  <p> Căn nhà số 507, khu C thì vẫn luôn đóng kín trong ngày cuối tuần, một nhóm bạn 3 người tiến đến gõ cửa. Cô gái duy nhất trong số 3 người nói hướng vào cánh cửa. </p> 

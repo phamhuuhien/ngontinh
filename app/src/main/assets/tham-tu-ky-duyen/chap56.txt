@@ -1,3 +1,4 @@
+Chương 53
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <strong> Chương 53 </strong>
  <p> <strong> Thư gửi Sơ Bình. </strong> </p> 

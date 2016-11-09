@@ -1,3 +1,4 @@
+Chương 11
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <strong> Chương 11 </strong>
  <p> <em> Thư gửi Tâm Đan </em> </p> 

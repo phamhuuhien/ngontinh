@@ -1,3 +1,4 @@
+Chương 2
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p></p>“Nguyệt nhi, ôi, ủy khuất cho con”, nữ nhân bên cạnh gạt lệ nói, “mẹ biết con không muốn tiến cung, nhưng bây giờ đại cục đã định…”
  <p></p>“Tiến cung thì tiến cung, có sao đâu?” Tô Hiểu Nguyệt cười khẽ, không nóng, không lạnh nói, “bà là mẹ ta đúng không? Bà cho ta biết, tại sao ta lại ngã bệnh?”

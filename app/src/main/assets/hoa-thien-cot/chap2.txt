@@ -1,3 +1,4 @@
+Chương 2: Khi Còn Nhỏ
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p> Hai kẻ gà mờ đi quanh khu rừng mấy lần nhưng vẫn không thể ra được. Mặt trời đã khuất núi, khắp nơi đều yên tĩnh.</p>
  <p>Hoa Thiên Cốt bối rối: “Ngươi đừng để ý tới ta nữa! Tự mình tìm đường đi, cứ thẳng hướng Bắc là có thể ra khỏi rừng. Ở cạnh ta, có đi thêm mấy vòng nữa cũng không ra được.”</p>

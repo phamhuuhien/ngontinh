@@ -1,3 +1,4 @@
+Chương 31
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p></p>“Lạc hoàng tử, ngài cảm thấy Ngự hoa viên của Trẫm như thế nào?”, Đàm Văn Hạo thuận miệng hỏi Cách Lạc.
  <p></p>“Đẹp, Đẹp lắm”, Cách Lạc cười trả lời “Hoa cùng mỹ nhân đều rất đẹp – hoàng thượng thật là hồng phúc tề thiên”.

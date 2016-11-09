@@ -1,3 +1,4 @@
+Chương 2
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p> Đồng hồ báo thức kêu đúng 7:00 sáng. Khánh Nguyên lọ mọ để tìm cái điện thoại và cố tắt nó đi. Phải trượt tay đến ba lần lên màn hình thì cô mới chấm dứt được tiếng kêu réo khó chịu mà quen thuộc đó. Trông cô không được khỏe cho lắm. Ngày hôm qua đã có nhiều chuyện không mong muốn đã xảy ra. Cô uể oải đi đánh răng và làm vệ sinh buổi sáng. </p> 
  <p> Một lát thì có tiếng lạo xạo ở ngoài hành lang bên ngoài cửa nhà. Cô biết rằng người giao báo và sữa đang làm nhiệm vụ của anh ta. Anh chàng còn khá trẻ, trẻ hơn Khánh Nguyên vài tuổi và cũng khá dễ thương. Cô hay thắc mắc trong đầu là tại sao ngày nào anh ta cũng chỉ mặc mỗi một bộ đồ. </p> 

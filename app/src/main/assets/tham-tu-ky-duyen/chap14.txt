@@ -1,3 +1,4 @@
+Chương 14
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <strong> Chương 14 </strong>
  <p> Một người đàn ông cao lớn, nước da ngăm đang chỉa súng về phía tụi mình. </p> 

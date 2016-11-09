@@ -1,3 +1,4 @@
+Chương 29
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <strong> Chương 29 </strong>
  <p> --- </p> 

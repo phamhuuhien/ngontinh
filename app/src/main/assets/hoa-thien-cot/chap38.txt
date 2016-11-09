@@ -1,3 +1,4 @@
+Chương 06 phần 2
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <strong> Chương 06 phần 2 </strong>
  <p> <br> </p> 

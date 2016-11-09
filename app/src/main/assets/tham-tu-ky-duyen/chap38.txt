@@ -1,3 +1,4 @@
+Chương 38
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <strong> Chương 38 </strong>
  <p> --- </p> 

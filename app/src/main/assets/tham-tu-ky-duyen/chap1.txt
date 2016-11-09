@@ -1,3 +1,4 @@
+Chương 1
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <strong> Chương 1 </strong>
  <p> <em> Thư gửi anh trai </em> </p> 

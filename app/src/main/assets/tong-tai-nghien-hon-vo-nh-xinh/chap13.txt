@@ -1,3 +1,4 @@
+Chương 3.3 : Thì ra đại thúc là Phí Nặc Nam
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;">
   Thần kinh Sở Tiểu Kiều đang gặp một vấn đề rất lớn , cô cảm thấy hình như những người xung quanh dường như rất kính sợ cùng kiên dè người này. 
  <p></p> Tuy nhiên… Những người đó tại sao lại phải sợ ông chú này chứ ?? 

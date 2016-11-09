@@ -1,3 +1,4 @@
+Chương 36 : Gallery (Cửa hàng/Phòng bán Tranh)
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p></p> 
  <p></p>Đến Newyork đã hai tuần lễ, ngày chủ nhật thừa dịp không có lên lớp tôi một mình đi dạo quanh các con đường lớn. 

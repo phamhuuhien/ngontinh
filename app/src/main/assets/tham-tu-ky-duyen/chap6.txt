@@ -1,3 +1,4 @@
+Chương 6
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <strong> Chương 6 </strong>
  <p> Địa chỉ bà Thùy Dung ở bên kia đồi trà, nơi mà Khôi Nguyên đã từng nói với em, anh ấy cảm thấy kì lạ, trong khi, đồi trà nơi chúng em đang sống, không ai thèm bén mảng tới, còn phía bên kia đồi dân cư lại tập trung rất đông. </p> 

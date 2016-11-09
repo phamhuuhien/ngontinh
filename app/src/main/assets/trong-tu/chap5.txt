@@ -1,3 +1,4 @@
+Chương 5: Sớm Chiều Kề Cận
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p> Con người một khi nhàn rỗi sẽ cảm thấy thời gian trôi qua rất chậm. Trọng Tử cuối cùng cũng đã biết thế nào gọi là sống một ngày bằng một năm. Ngày ngày than thân trách phận vì mình quá rảnh rỗi. Lúc trước, khi còn làm một đứa trẻ ăn mày, ít nhất mỗi ngày đều phải phiền não vì miếng ăn. Bây giờ, ngay cả cơm ăn cũng bị lược mất, phương pháp hít thở sư phụ dạy cho giờ đã rất thành thạo, cả ngày hầu như không có việc gì để làm, ngoại trừ đi ngủ ra, cũng chẳng biết làm gì ngoài ngồi ngơ ngẩn cả người.</p>
  <p>Trải qua lần rắc rối vừa rồi, sư phụ cũng không trách phạt nặng gì Trọng Tử cho lắm, quả thật sư phụ đối xử với cô bé rất tốt. Bởi vậy, da mặt của Trọng Tử dù có dày đến cỡ nào đi chăng nữa cũng không thể lại nghịch ngợm để chọc cho người tức giận nữa.</p>

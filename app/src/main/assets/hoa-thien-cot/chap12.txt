@@ -1,3 +1,4 @@
+Chương 12: Kính Hoa Thủy Nguyệt
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p> “Sư phụ?” Hoa Thiên Cốt mơ màng mở mắt, nhìn bóng áo trắng mờ mờ dưới ánh nến.</p>
  <p>Bạch Tử Họa xoay người, đi đến bên giường, tay bưng một chén trà xanh.</p>

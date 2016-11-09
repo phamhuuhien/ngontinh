@@ -1,3 +1,4 @@
+Chương 7: Lấy người làm quà tặng (1)
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;">
   “Bốp!” Hôm nay không khí ở Geel quốc tế có vẻ cực kỳ không ổn định, tiếng đồ vật bị ném đổ cứ vang lên liên tiếp từ bên trong phòng làm việc của tổng giám đốc.
  <p></p>“Đáng chết, lại lui đơn nữa.”

@@ -1,3 +1,4 @@
+Chương 34
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <strong> Chương 34 </strong>
  <p> <strong> --- </strong> </p> 

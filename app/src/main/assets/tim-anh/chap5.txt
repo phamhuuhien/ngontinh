@@ -1,3 +1,4 @@
+Chương 5
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p> Đã gần đến nửa đêm, một anh chàng trần như nhộng chỉ mặc mỗi cái quần xịp màu đen đi qua đi lại trước cây piano. Lâu lâu anh lại ngồi vào đánh vài nốt, ghi ghi chép chép rồi lại tiếp tục đi qua đi lại. </p> 
  <p> Tiếng gõ cửa vang lên, ban đầu hơi nhẹ nên Minh Hải không để ý. Khi nó vang mạnh hơn đến hồi thứ 3 thì anh bực mình chạy ra mở mạnh cửa. Vừa thấy bộ dạng của anh hàng xóm, cô gái đỏ mặt quay người đi bước lên mấy bước. </p> 

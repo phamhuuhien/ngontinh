@@ -1,3 +1,4 @@
+Chương 4: Tình là gì?
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p> Còn chưa tới Mao Sơn, từ xa đã nghe thấy tiếng chuông ngân dài trong Vạn Phúc cung. Các đệ tử bày binh bố trận, dáng vẻ như gặp đại địch, không khí tiêu điều và vô cùng căng thẳng. </p> 
  <p> Còn kịp không? Mãi tới khi thấy bóng Vân Ẩn đứng hiên ngang giữa quảng trường, Hoa Thiên Cốt mới thở phào. </p> 

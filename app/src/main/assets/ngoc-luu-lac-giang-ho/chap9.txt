@@ -1,3 +1,4 @@
+Chương 9
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;">
   Diệp Linh Cẩm vốn là ngốc tử, không nên có bình luận hoặc là cảm tưởng gì cả.
  <p></p>Địch Tinh tựa hồ nghĩ tới hồi trước bị đuổi bắt, còn bây giờ vừa bị đuổi bắt lại mất nội lực, vừa bị kẻ lòng dạ khó lường tính toán uy hiếp, càng thêm buồn bực.

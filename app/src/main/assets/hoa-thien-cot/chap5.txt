@@ -1,3 +1,4 @@
+Chương 5: Chơi Xấu
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p> Chuông vang lên, đã đến giờ tan học…</p>
  <p>Nghê Mạn Thiên tức giận ném kiếm xuống rồi bỏ đi, mấy người hay bám theo nàng cũng đi theo. Lạc Thập Nhất vung tay, tất cả kiếm bay vào trong giá.</p>

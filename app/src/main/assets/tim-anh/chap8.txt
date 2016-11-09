@@ -1,3 +1,4 @@
+Chương 8
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p> Những ngày cuối tuần luôn là những ngày đặc biệt với tất cả mọi người. Họ làm lụng vất vả cả tuần để có 2 ngày nghỉ ngơi, vui chơi cùng những người mình yêu mến. Tuy nhiên, có những người đợi đến cuối tuần chỉ vì để bản thân được chìm đắm vào công việc yêu thích. </p> 
  <p> Không khí buổi sáng thứ bảy ở khu chung cư Đại Khang cũng thật thú vị. Khánh Nguyên cầm một tách cà phê nóng, tựa lưng vào tường cạnh của sổ, cô nhấm nháp từng ngụm vừa nhìn đám trẻ đang chơi đùa ở công viên bên dưới. Những đứa trẻ la hét, chỉ trỏ, chạy thục mạng đuổi theo một trái banh rồi té ngã khiến bố mẹ chúng ngồi cạnh đó không lúc nào được thả lỏng. </p> 

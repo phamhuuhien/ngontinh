@@ -1,3 +1,4 @@
+Chương 123: Một lời đã định
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p></p>Ngay cả ý định bác bỏ tin đồn cũng biến mất. . . . . . Diệp Linh Cẩm uống một ngụm nước, thở dài.
  <p></p>Nhan Nhiễm Y cười hỏi: "Làm sao vậy. . . . . ."

@@ -1,3 +1,4 @@
+Chương 10
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <strong> Chương 10 </strong>
  <p> Tụi em về đến đồi trà thì mưa đã nặng hạt. </p> 

@@ -1,3 +1,4 @@
+Chương I: Mười lăm đóa hồng
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <strong> Chương I </strong> 
  <strong> : Mười lăm đóa </strong> 

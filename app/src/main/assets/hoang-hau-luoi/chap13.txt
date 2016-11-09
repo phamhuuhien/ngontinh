@@ -1,3 +1,4 @@
+Chương 13
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p></p>Đáng tiếc, khi Hiểu Nguyệt về đến Chiêu Dương cung, lại đối mặt với một đám hậu cung phi tần.
  <p></p>“Tỷ tỷ đã trở về, muội muội thỉnh an tỷ tỷ”.

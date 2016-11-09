@@ -1,3 +1,4 @@
+Chương 11 phần 7
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p> <br> </p> 
  <br> 

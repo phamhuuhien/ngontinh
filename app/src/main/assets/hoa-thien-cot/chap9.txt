@@ -1,3 +1,4 @@
+Chương 9: Quỷ Môn Mở
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p> “Không ngủ mà mang hành lý, xuất quỷ nhập thần định đi đâu?” Sóc Phong đang ngồi trên cây chịu trách nhiệm canh gác, tức cười hỏi nàng.</p>
  <p>Hoa Thiên Cốt run lên, vội vàng lấp liếm: “Đừng nói từ kia!”</p>

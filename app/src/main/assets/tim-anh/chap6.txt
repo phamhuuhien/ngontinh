@@ -1,3 +1,4 @@
+Chương 6
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p> Cuộc sống đôi khi không phải lúc nào ta cũng được làm những thứ ta mong muốn. Tuy nhiên, nếu cứ mãi suy nghĩ cho hoàn cảnh thì sẽ được gì chứ. Khoan đã! Bạn đã bao giờ thử đếm hơi thở của mình chưa? Đã bao giờ bạn để ý đến thứ dường như chẳng cần suy nghĩ cũng tự nó diễn ra? Cuộc sống là những điều lặng lẽ mà đôi khi ta quên mất đi. Chỉ đến khi ta rung động bởi cảm xúc, ta mới như được đánh thức để đam mê trổi dậy. </p> 
  <p> Mùa hè nóng nực ở cái xứ nhiệt đới thì chỉ có buổi sáng mới cảm giác được cái thú được những làn gió đẫm sương lạnh tạt vào mặt. Và như thường lệ, Khánh Nguyên là người đến công ty sớm nhất. Cô không phải cố gắng tỏ ra siêng năng, đơn giản là cô "ghiền" cái cảm giác vắng lặng. Chỉ sau đó 30 phút nữa thôi thì những chiếc ghế, những ô bàn làm việc kia sẽ được lấp đầy bởi những nhân viên đến làm việc. </p> 

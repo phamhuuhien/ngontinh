@@ -1,3 +1,4 @@
+Chương 5
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <strong> Chương 5 </strong>
  <p> Chiếc lá lìa cành nhẹ nhàng đáp xuống mặt đất, </p> 

@@ -78,13 +78,13 @@ public class StoryActivity extends AppCompatActivity {
         InteractiveScrollView.OnBottomReachedListener listener = new InteractiveScrollView.OnBottomReachedListener() {
             @Override
             public void onBottomReached() {
-                if(!isStop) {
-                    page++;
-                    new LoadStoryDetail(StoryActivity.this).execute(link + "trang-" + page);
-                } else {
-                    Toast.makeText(StoryActivity.this, "Don't have any chaps", Toast.LENGTH_SHORT).show();
-                }
-                System.out.println("loading: " + link + "trang-" + page);
+//                if(!isStop) {
+//                    page++;
+//                    new LoadStoryDetail(StoryActivity.this).execute(link + "trang-" + page);
+//                } else {
+//                    Toast.makeText(StoryActivity.this, "Don't have any chaps", Toast.LENGTH_SHORT).show();
+//                }
+//                System.out.println("loading: " + link + "trang-" + page);
             }
         };
         scrollView.setOnBottomReachedListener(listener);

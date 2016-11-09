@@ -1,3 +1,4 @@
+Chương 9: Vân đỉnh thiên cung
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p> Loáng thoáng vang lên tiếng mở cửa. Là nàng? Là nàng tới đây ư? </p> 
  <p> Mắt hắn mơ màng không thấy rõ, khẽ mấp máy đôi môi khô khốc, từ từ ngẩng đầu lên, khi thấy một màu áo xanh bèn chậm rãi nhắm mắt lại. </p> 

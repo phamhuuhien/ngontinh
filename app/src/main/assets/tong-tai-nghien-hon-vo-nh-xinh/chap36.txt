@@ -1,3 +1,4 @@
+Chương 22.4 : Mau ngủ thôi , em mệt đến chết mất.
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;">
   Editor : Điệp Vũ Linh Linh
  <p></p>Beta : Lam Đình

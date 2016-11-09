@@ -1,3 +1,4 @@
+Chương 10
 <div class="text-truyen" id="id_noidung_chuong" style="margin:50px;"> 
  <p></p>Khi Hiểu Nguyệt trở về Chiêu Dương cung, phía sau có thêm ba phi tần.
  <p></p>“Tỷ tỷ”, Mã Tuyết Mạn vừa uống trà, vừa khó hiểu hỏi “tại sao Lý tỷ tỷ không đi thỉnh an Thái hậu?”
