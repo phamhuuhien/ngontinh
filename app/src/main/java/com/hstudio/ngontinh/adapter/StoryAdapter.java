@@ -2,9 +2,7 @@ package com.hstudio.ngontinh.adapter;
 
 import android.content.Context;
 import android.content.Intent;
-import android.graphics.drawable.Drawable;
 import android.support.v7.widget.RecyclerView;
-import android.text.Html;
 import android.text.TextUtils;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -19,9 +17,6 @@ import com.hstudio.ngontinh.object.Story;
 import com.hstudio.ngontinh.utils.CircleTransform;
 import com.squareup.picasso.Picasso;
 
-import java.io.File;
-import java.io.IOException;
-import java.io.InputStream;
 import java.util.List;
 
 /**
@@ -58,7 +53,7 @@ public class StoryAdapter extends RecyclerView.Adapter<StoryAdapter.MyViewHolder
 
     @Override
     public void onBindViewHolder(MyViewHolder holder, int position) {
-        holder.title.setText(mStoryList.get(position).getTitle());
+        holder.title.setText(mStoryList.get(position).getName());
         if(!TextUtils.isEmpty(mStoryList.get(position).getImage())) {
             Picasso.with(mContext).load("file:///android_asset/" + mStoryList.get(position).getImage()).transform(new CircleTransform()).into(holder.image);
         }

@@ -1,8 +1,12 @@
 package com.hstudio.ngontinh.async;
 
 import android.content.res.AssetManager;
+import android.net.Uri;
 import android.os.AsyncTask;
+import android.util.Log;
 
+import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
 import com.hstudio.ngontinh.NewsFragment;
 import com.hstudio.ngontinh.object.Story;
 
@@ -14,8 +18,15 @@ import org.jsoup.select.Elements;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
+
+import okhttp3.Call;
+import okhttp3.Callback;
+import okhttp3.OkHttpClient;
+import okhttp3.Request;
+import okhttp3.Response;
 
 /**
  * Created by phhien on 6/8/2016.
@@ -28,33 +39,30 @@ public class LoadStories extends AsyncTask<String, Integer, List<Story>> {
     }
     @Override
     protected List<Story> doInBackground(String... urls) {
-        String url = urls[0];
-        List<Story> result = new ArrayList<>();
-        BufferedReader reader = null;
-        try {
-            AssetManager am = mFragment.getActivity().getAssets();
+//        String url = urls[0];
 
-            String [] aplist = am.list("");
-            for(String s : aplist) {
-                if(!s.contains(".") && s.contains("-")) {
-                    reader = new BufferedReader(
-                            new InputStreamReader(mFragment.getActivity().getAssets().open(s + "/desc.txt")));
-                    String title = reader.readLine();
-                    title = title.replace("Title:<h1>", "");
-                    title = title.replace("</h1>", "");
-                    Story story = new Story();
-                    story.setTitle(title);
-                    story.setUrl(s);
-                    story.setImage(s + "/cover_image.jpg");
-                    result.add(story);
-                    reader.close();
-                }
+            Request request = new Request.Builder()
+                    .url("http://truyenserver.esy.es/index.php/story")
+                    .build();
+
+            OkHttpClient client = new OkHttpClient();
+
+        Response response = null;
+        try {
+            response = client.newCall(request).execute();
+
+            Gson gson = new Gson();
+            Type type = new TypeToken<List<Story>>(){}.getType();
+            List<Story> stories = gson.fromJson(response.body().string(), type);
+            for (Story story : stories){
+                Log.e("Story", story.getName() + "-" + story.getDes());
             }
         } catch (IOException e) {
             e.printStackTrace();
         }
 
-        return result;
+        return null;
+
     }
 
     protected void onProgressUpdate(Integer... progress) {

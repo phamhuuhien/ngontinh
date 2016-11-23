@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
             public boolean onQueryTextSubmit(String query) {
                 String text = searchView.getSearchText();
                 for(Story story : suggestionStories) {
-                    if(story.getTitle().equals(text)) {
+                    if(story.getName().equals(text)) {
                         Intent intent = new Intent(MainActivity.this, StoryActivity.class);
                         intent.putExtra("LINK", story.getUrl());
                         MainActivity.this.startActivity(intent);
@@ -151,7 +151,7 @@ public class MainActivity extends AppCompatActivity {
         suggestionStories = stories;
         ArrayList<String> test = new ArrayList<>();
         for(Story story : stories) {
-            test.add(story.getTitle());
+            test.add(story.getName());
         }
         String[] a = new String[stories.size()];
         test.toArray(a);

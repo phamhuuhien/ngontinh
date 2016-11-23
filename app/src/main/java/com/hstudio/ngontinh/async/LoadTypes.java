@@ -34,7 +34,7 @@ public class LoadTypes extends AsyncTask<String, Integer, List<Type>> {
 //            Elements li = doc.select(config.getString("type"));
 //            for(Element e : li) {
 //                Type type = new Type();
-//                type.setTitle(e.text());
+//                type.setName(e.text());
 //                type.setLink(e.attr("href"));
 //                types.add(type);
 //            }
