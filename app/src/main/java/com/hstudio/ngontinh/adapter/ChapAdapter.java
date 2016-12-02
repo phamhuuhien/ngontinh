@@ -45,8 +45,8 @@ public class ChapAdapter extends RecyclerView.Adapter<ChapAdapter.MyViewHolder> 
 
     @Override
     public void onBindViewHolder(ChapAdapter.MyViewHolder holder, int position) {
-        holder.title.setText(chaps.get(position).getTitle());
-        holder.link = chaps.get(position).getLink();
+        holder.title.setText(chaps.get(position).getName());
+        holder.id = chaps.get(position).getId();
     }
 
     @Override
@@ -56,7 +56,7 @@ public class ChapAdapter extends RecyclerView.Adapter<ChapAdapter.MyViewHolder> 
 
     public class MyViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
         public TextView title;
-        public String link;
+        public int id;
 
         public MyViewHolder(View view) {
             super(view);
@@ -66,9 +66,9 @@ public class ChapAdapter extends RecyclerView.Adapter<ChapAdapter.MyViewHolder> 
 
         @Override
         public void onClick(View view) {
-            Log.d("TAG", "onClick " + getPosition() + "link=" + link);
+            Log.d("TAG", "onClick " + getPosition() + "link=" + id);
             Intent intent = new Intent(mContext, ChapActivity.class);
-            intent.putExtra("LINK", link);
+            intent.putExtra("LINK", id);
             mContext.startActivity(intent);
         }
     }

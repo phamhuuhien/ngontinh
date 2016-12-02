@@ -54,11 +54,12 @@ public class StoryAdapter extends RecyclerView.Adapter<StoryAdapter.MyViewHolder
     @Override
     public void onBindViewHolder(MyViewHolder holder, int position) {
         holder.title.setText(mStoryList.get(position).getName());
-        if(!TextUtils.isEmpty(mStoryList.get(position).getImage())) {
-            Picasso.with(mContext).load("file:///android_asset/" + mStoryList.get(position).getImage()).transform(new CircleTransform()).into(holder.image);
-        }
-        holder.link = mStoryList.get(position).getUrl();
+//        if(!TextUtils.isEmpty(mStoryList.get(position).getImage())) {
+//            Picasso.with(mContext).load("file:///android_asset/" + mStoryList.get(position).getImage()).transform(new CircleTransform()).into(holder.image);
+//        }
+//        holder.link = mStoryList.get(position).getUrl();
         holder.author.setText(mStoryList.get(position).getAuthor());
+        holder.id = mStoryList.get(position).getId();
     }
 
     @Override
@@ -70,7 +71,7 @@ public class StoryAdapter extends RecyclerView.Adapter<StoryAdapter.MyViewHolder
         public TextView title;
         public ImageView image;
         public TextView author;
-        public String link;
+        public int id;
 
         public MyViewHolder(View view) {
             super(view);
@@ -82,9 +83,9 @@ public class StoryAdapter extends RecyclerView.Adapter<StoryAdapter.MyViewHolder
 
         @Override
         public void onClick(View view) {
-            Log.d("TAG", "onClick " + getPosition() + " " + link);
+            Log.d("TAG", "onClick " + getPosition() + " " + id);
             Intent intent = new Intent(mContext, StoryActivity.class);
-            intent.putExtra("LINK", link);
+            intent.putExtra("ID", id);
             mContext.startActivity(intent);
         }
     }

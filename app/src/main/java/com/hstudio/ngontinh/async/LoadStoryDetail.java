@@ -1,27 +1,26 @@
 package com.hstudio.ngontinh.async;
 
-import android.content.res.AssetManager;
 import android.os.AsyncTask;
+import android.util.Log;
 
+import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
 import com.hstudio.ngontinh.StoryActivity;
-import com.hstudio.ngontinh.object.ChapItem;
+import com.hstudio.ngontinh.object.Story;
 import com.hstudio.ngontinh.object.StoryDetail;
 
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
-
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.ArrayList;
+import java.lang.reflect.Type;
 import java.util.List;
+
+import okhttp3.OkHttpClient;
+import okhttp3.Request;
+import okhttp3.Response;
 
 /**
  * Created by phhien on 6/16/2016.
  */
-public class LoadStoryDetail extends AsyncTask<String, Integer, StoryDetail> {
+public class LoadStoryDetail extends AsyncTask<Integer, Integer, StoryDetail> {
 
     private StoryActivity mStoryActivity;
 
@@ -30,38 +29,23 @@ public class LoadStoryDetail extends AsyncTask<String, Integer, StoryDetail> {
     }
 
     @Override
-    protected StoryDetail doInBackground(String... strings) {
-        String url = strings[0];
+    protected StoryDetail doInBackground(Integer... ids) {
+        Integer id = ids[0];
         StoryDetail storyDetail = new StoryDetail();
-        BufferedReader reader = null;
-        try {
-            storyDetail.setImage(url + "/cover_image.jpg");
+        Request request = new Request.Builder()
+                .url("http://truyenserver.esy.es/story.php/" + id)
+                .build();
 
-            String description = "";
-            reader = new BufferedReader(
-                    new InputStreamReader(mStoryActivity.getAssets().open(url + "/desc.txt")));
-            String title = reader.readLine();
-            title = title.replace("Title:<h1>", "");
-            title = title.replace("</h1>", "");
-            storyDetail.setTitle(title);
-            // do reading, usually loop until end of file reading
-            String mLine;
-            while ((mLine = reader.readLine()) != null) {
-                description += mLine;
-                System.out.println("mLine="+ mLine);
-            }
-            storyDetail.setDescription(description);
-            List<ChapItem> chaps = new ArrayList<>();
-            AssetManager am = mStoryActivity.getAssets();
-            String [] files = am.list(url);
-            for(String file : files) {
-                ChapItem chapItem = new ChapItem();
-                chapItem.setTitle(file);
-                chapItem.setLink(url + "/" + file);
-                chaps.add(chapItem);
-            }
-            storyDetail.setChaps(chaps);
-            reader.close();
+        OkHttpClient client = new OkHttpClient();
+
+        Response response = null;
+        try {
+            response = client.newCall(request).execute();
+
+            Gson gson = new Gson();
+            Type type = new TypeToken<StoryDetail>(){}.getType();
+            storyDetail = gson.fromJson(response.body().string(), type);
+            return storyDetail;
         } catch (IOException e) {
             e.printStackTrace();
         }

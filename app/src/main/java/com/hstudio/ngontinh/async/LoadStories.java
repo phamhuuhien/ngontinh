@@ -41,11 +41,11 @@ public class LoadStories extends AsyncTask<String, Integer, List<Story>> {
     protected List<Story> doInBackground(String... urls) {
 //        String url = urls[0];
 
-            Request request = new Request.Builder()
-                    .url("http://truyenserver.esy.es/index.php/story")
-                    .build();
+        Request request = new Request.Builder()
+                .url("http://truyenserver.esy.es/stories.php")
+                .build();
 
-            OkHttpClient client = new OkHttpClient();
+        OkHttpClient client = new OkHttpClient();
 
         Response response = null;
         try {
@@ -57,6 +57,7 @@ public class LoadStories extends AsyncTask<String, Integer, List<Story>> {
             for (Story story : stories){
                 Log.e("Story", story.getName() + "-" + story.getDes());
             }
+            return stories;
         } catch (IOException e) {
             e.printStackTrace();
         }

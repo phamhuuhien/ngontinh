@@ -34,7 +34,7 @@ public class StoryActivity extends AppCompatActivity {
     private ImageView imageView;
     private RecyclerView listChap;
     private Toolbar toolbar;
-    private String link;
+    private int id;
     private ChapAdapter chapAdapter;
     private InteractiveScrollView scrollView;
     private int page = 1;
@@ -71,9 +71,9 @@ public class StoryActivity extends AppCompatActivity {
         chapAdapter = new ChapAdapter(this, chaps);
         listChap.setAdapter(chapAdapter);
 
-        link = getIntent().getStringExtra("LINK");
+        id = getIntent().getIntExtra("ID", -1);
 
-        new LoadStoryDetail(this).execute(link);
+        new LoadStoryDetail(this).execute(id);
 
         InteractiveScrollView.OnBottomReachedListener listener = new InteractiveScrollView.OnBottomReachedListener() {
             @Override
@@ -91,12 +91,12 @@ public class StoryActivity extends AppCompatActivity {
     }
 
     public void updateUI(StoryDetail storyDetail) {
-        toolbar.setTitle(storyDetail.getTitle());
-        title.setText(storyDetail.getTitle());
-        if(!TextUtils.isEmpty(storyDetail.getImage())) {
-            Picasso.with(this).load("file:///android_asset/" + storyDetail.getImage()).into(imageView);
-        }
-        description.setText(Html.fromHtml(storyDetail.getDescription()));
+        toolbar.setTitle(storyDetail.getStory().getName());
+        title.setText(storyDetail.getStory().getName());
+//        if(!TextUtils.isEmpty(storyDetail.getImage())) {
+//            Picasso.with(this).load("file:///android_asset/" + storyDetail.getImage()).into(imageView);
+//        }
+        description.setText(Html.fromHtml(storyDetail.getStory().getDes()));
         if(storyDetail.getChaps().size() < 50) {
             isStop = true;
         }
