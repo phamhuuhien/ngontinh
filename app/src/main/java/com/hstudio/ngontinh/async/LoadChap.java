@@ -1,9 +1,13 @@
 package com.hstudio.ngontinh.async;
 
 import android.os.AsyncTask;
+import android.util.Log;
 
+import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
 import com.hstudio.ngontinh.ChapActivity;
 import com.hstudio.ngontinh.object.Chap;
+import com.hstudio.ngontinh.object.Story;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -12,11 +16,17 @@ import org.jsoup.select.Elements;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.lang.reflect.Type;
+import java.util.List;
+
+import okhttp3.OkHttpClient;
+import okhttp3.Request;
+import okhttp3.Response;
 
 /**
  * Created by phhien on 6/16/2016.
  */
-public class LoadChap extends AsyncTask<String, Integer, Chap> {
+public class LoadChap extends AsyncTask<Integer, Integer, Chap> {
 
     ChapActivity mChapActivity;
     public LoadChap(ChapActivity chapActivity) {
@@ -24,24 +34,27 @@ public class LoadChap extends AsyncTask<String, Integer, Chap> {
     }
 
     @Override
-    protected Chap doInBackground(String... strings) {
-        String url = strings[0];
+    protected Chap doInBackground(Integer... ids) {
+        Integer id = ids[0];
         Chap chap = new Chap();
-        BufferedReader reader = null;
+        Request request = new Request.Builder()
+                .url("http://truyenserver.esy.es/chap.php/" + id)
+                .build();
+
+        OkHttpClient client = new OkHttpClient();
+
+        Response response = null;
         try {
-            reader = new BufferedReader(
-                    new InputStreamReader(mChapActivity.getAssets().open(url)));
-            chap.setTitle(reader.readLine());
-            String text = "";
-            String mLine;
-            while ((mLine = reader.readLine()) != null) {
-                text += mLine;
-            }
-            chap.setData(text);
+            response = client.newCall(request).execute();
+
+            Gson gson = new Gson();
+            Type type = new TypeToken<Chap>(){}.getType();
+            chap = gson.fromJson(response.body().string(), type);
+            return chap;
         } catch (IOException e) {
             e.printStackTrace();
         }
-        return chap;
+        return null;
     }
 
     protected void onPostExecute(final Chap result) {

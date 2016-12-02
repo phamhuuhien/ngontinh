@@ -68,7 +68,10 @@ public class ChapAdapter extends RecyclerView.Adapter<ChapAdapter.MyViewHolder> 
         public void onClick(View view) {
             Log.d("TAG", "onClick " + getPosition() + "link=" + id);
             Intent intent = new Intent(mContext, ChapActivity.class);
-            intent.putExtra("LINK", id);
+            ChapItem chap = chaps.get(0);
+            intent.putExtra("ID", id);
+            intent.putExtra("FIRST", chaps.get(0).getName());
+            intent.putExtra("LAST", chaps.get(chaps.size() - 1).getName());
             mContext.startActivity(intent);
         }
     }

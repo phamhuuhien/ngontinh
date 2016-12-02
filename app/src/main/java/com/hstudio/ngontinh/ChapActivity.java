@@ -21,6 +21,7 @@ public class ChapActivity extends AppCompatActivity {
     private Button previous, next;
     private Chap mChap;
     private Toolbar toolbar;
+    private String first, last;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -44,32 +45,34 @@ public class ChapActivity extends AppCompatActivity {
         previous.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                new LoadChap(ChapActivity.this).execute(mChap.getPrevious());
+                new LoadChap(ChapActivity.this).execute(mChap.getId() - 1);
             }
         });
         next.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                new LoadChap(ChapActivity.this).execute(mChap.getNext());
+                new LoadChap(ChapActivity.this).execute(mChap.getId() + 1);
             }
         });
 
-        String link = getIntent().getStringExtra("LINK");
-        new LoadChap(this).execute(link);
+        first = getIntent().getStringExtra("FIRST");
+        last = getIntent().getStringExtra("LAST");
+        Integer id = getIntent().getIntExtra("ID", -1);
+        new LoadChap(this).execute(id);
     }
 
     public void setData(Chap chap) {
         mChap = chap;
-        toolbar.setTitle(chap.getTitle());
-        title.setText(chap.getTitle());
-        data.setText(Html.fromHtml(chap.getData()));
-        if("javascript:void(0)".equals(chap.getPrevious())) {
+        toolbar.setTitle(chap.getName());
+        title.setText(chap.getName());
+        data.setText(Html.fromHtml(chap.getContent()));
+        if(first.equals(chap.getName())) {
             previous.setEnabled(false);
         } else {
             previous.setEnabled(true);
         }
 
-        if("javascript:void(0)".equals(chap.getNext())) {
+        if(last.equals(chap.getName())) {
             next.setEnabled(false);
         } else {
             next.setEnabled(true);

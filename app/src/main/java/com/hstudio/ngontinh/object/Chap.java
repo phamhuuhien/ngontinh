@@ -1,44 +1,16 @@
 package com.hstudio.ngontinh.object;
 
+import lombok.Getter;
+import lombok.Setter;
+
 /**
  * Created by phhien on 6/16/2016.
  */
+@Setter
+@Getter
 public class Chap {
 
-    private String title;
-    private String data;
-    private String previous;
-    private String next;
-
-    public String getTitle() {
-        return title;
-    }
-
-    public void setTitle(String title) {
-        this.title = title;
-    }
-
-    public String getData() {
-        return data;
-    }
-
-    public void setData(String data) {
-        this.data = data;
-    }
-
-    public String getPrevious() {
-        return previous;
-    }
-
-    public void setPrevious(String previous) {
-        this.previous = previous;
-    }
-
-    public String getNext() {
-        return next;
-    }
-
-    public void setNext(String next) {
-        this.next = next;
-    }
+    private int id;
+    private String name;
+    private String content;
 }
