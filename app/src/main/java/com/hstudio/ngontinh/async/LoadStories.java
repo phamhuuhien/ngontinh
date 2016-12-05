@@ -31,18 +31,18 @@ import okhttp3.Response;
 /**
  * Created by phhien on 6/8/2016.
  */
-public class LoadStories extends AsyncTask<String, Integer, List<Story>> {
+public class LoadStories extends AsyncTask<Integer, Integer, List<Story>> {
 
     private NewsFragment mFragment;
     public LoadStories(NewsFragment fragment) {
         mFragment = fragment;
     }
     @Override
-    protected List<Story> doInBackground(String... urls) {
-//        String url = urls[0];
+    protected List<Story> doInBackground(Integer... urls) {
+        Integer offset = urls[0];
 
         Request request = new Request.Builder()
-                .url("http://truyenserver.esy.es/stories.php")
+                .url("http://truyenserver.esy.es/stories.php/" + offset)
                 .build();
 
         OkHttpClient client = new OkHttpClient();

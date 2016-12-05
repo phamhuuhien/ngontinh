@@ -30,7 +30,6 @@ public class NewsFragment extends Fragment {
     private StoryAdapter mStoryAdapter;
     private SwipeRefreshLayout mSwipeContainer;
     private String mUrl;
-    private int page = 1;
 
     public Fragment setUrl(String url) {
         mUrl = url;
@@ -49,7 +48,7 @@ public class NewsFragment extends Fragment {
             @Override
             public void run() {
                 mSwipeContainer.setRefreshing(true);
-                new LoadStories(NewsFragment.this).execute(mUrl);
+                new LoadStories(NewsFragment.this).execute(0);
             }
         });
         return view;
@@ -75,7 +74,7 @@ public class NewsFragment extends Fragment {
         mSwipeContainer.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
             @Override
             public void onRefresh() {
-                //new LoadStories(NewsFragment.this).execute(mUrl);\
+//                new LoadStories(NewsFragment.this).execute(0);
                 mSwipeContainer.setRefreshing(false);
             }
         });
@@ -89,8 +88,7 @@ public class NewsFragment extends Fragment {
 
             @Override
             public void onLoadMore(int page, int totalItemsCount) {
-                //page ++;
-                //new LoadStories(NewsFragment.this).execute(mUrl + "trang-" + page);
+                new LoadStories(NewsFragment.this).execute((page - 1) * 10);
             }
         });
 
