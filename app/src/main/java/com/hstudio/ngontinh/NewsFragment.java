@@ -88,7 +88,7 @@ public class NewsFragment extends Fragment {
 
             @Override
             public void onLoadMore(int page, int totalItemsCount) {
-                new LoadStories(NewsFragment.this).execute((page - 1) * 10);
+                new LoadStories(NewsFragment.this).execute(totalItemsCount);
             }
         });
 
