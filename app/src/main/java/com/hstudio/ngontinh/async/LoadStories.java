@@ -55,7 +55,7 @@ public class LoadStories extends AsyncTask<Integer, Integer, List<Story>> {
             Type type = new TypeToken<List<Story>>(){}.getType();
             List<Story> stories = gson.fromJson(response.body().string(), type);
             for (Story story : stories){
-                Log.e("Story", story.getName() + "-" + story.getDes());
+                Log.e("Story", story.getName() + "-" + story.getDes() + "-" + story.getImage());
             }
             return stories;
         } catch (IOException e) {

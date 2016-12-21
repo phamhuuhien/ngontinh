@@ -54,10 +54,9 @@ public class StoryAdapter extends RecyclerView.Adapter<StoryAdapter.MyViewHolder
     @Override
     public void onBindViewHolder(MyViewHolder holder, int position) {
         holder.title.setText(mStoryList.get(position).getName());
-//        if(!TextUtils.isEmpty(mStoryList.get(position).getImage())) {
-//            Picasso.with(mContext).load("file:///android_asset/" + mStoryList.get(position).getImage()).transform(new CircleTransform()).into(holder.image);
-//        }
-//        holder.link = mStoryList.get(position).getUrl();
+        if(!TextUtils.isEmpty(mStoryList.get(position).getImage())) {
+            Picasso.with(mContext).load("http://truyenserver.esy.es" + mStoryList.get(position).getImage().substring(1)).transform(new CircleTransform()).into(holder.image);
+        }
         holder.author.setText(mStoryList.get(position).getAuthor());
         holder.id = mStoryList.get(position).getId();
     }

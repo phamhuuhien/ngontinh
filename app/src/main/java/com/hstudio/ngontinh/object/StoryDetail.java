@@ -14,6 +14,5 @@ public class StoryDetail {
 
     private Story story;
     private String type;
-    private String description;
     private List<ChapItem> chaps;
 }

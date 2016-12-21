@@ -93,9 +93,9 @@ public class StoryActivity extends AppCompatActivity {
     public void updateUI(StoryDetail storyDetail) {
         toolbar.setTitle(storyDetail.getStory().getName());
         title.setText(storyDetail.getStory().getName());
-//        if(!TextUtils.isEmpty(storyDetail.getImage())) {
-//            Picasso.with(this).load("file:///android_asset/" + storyDetail.getImage()).into(imageView);
-//        }
+        if(!TextUtils.isEmpty(storyDetail.getStory().getImage())) {
+            Picasso.with(this).load("http://truyenserver.esy.es" + storyDetail.getStory().getImage().substring(1)).into(imageView);
+        }
         description.setText(Html.fromHtml(storyDetail.getStory().getDes()));
         if(storyDetail.getChaps().size() < 50) {
             isStop = true;
